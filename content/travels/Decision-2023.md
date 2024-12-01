@@ -1,9 +1,9 @@
 ---
 title: "Decision 2023"
-date: 2024-09-01T12:53:27+07:00
-featured_image: "https://lh3.googleusercontent.com/pw/AM-JKLUE82FajhvtKiK10C3-ml5es-vZA6egq7vzssXe8JCfZn3aSpJwADo77IdogyEcqvSY4XZe_uReDxmjsI0yZtvxhl0qbkhhwWTHZwDI7EnxsVL1-FuN8NrVQPbsSdk8ZnRrhWndrf2pNVzOZzGLPhUCxg=w315-no?authuser=0"
+date: 2024-06-25T12:53:27+07:00
+featured_image: "https://photos.google.com/share/AF1QipPnIRnu2KIC57gotYwHUOX1Z-9wEmPmfSHiYOzfW_cOwFSBUQFzu9t3wbtrZd9wuQ/photo/AF1QipMEzxL_iVQX7-D1BU_bEKIjflCSRmmawLwJJwI8?key=a052a3R1amJLbVN6WFZyRVFwVmY2V2pLZ1lUcVNn"
 images:
-  - "https://lh3.googleusercontent.com/pw/AM-JKLUE82FajhvtKiK10C3-ml5es-vZA6egq7vzssXe8JCfZn3aSpJwADo77IdogyEcqvSY4XZe_uReDxmjsI0yZtvxhl0qbkhhwWTHZwDI7EnxsVL1-FuN8NrVQPbsSdk8ZnRrhWndrf2pNVzOZzGLPhUCxg=w315-no?authuser=0"
+  - "https://lh3.googleusercontent.com/pw/AP1GczO-LTwBg4RzOP2U6uu3AC4baJTheTNb1leJOsp2g9GruGHaPWl5UYzvKxBZ0tpQpSJvWtZRo6bQh6wNb_aYLzkglme1nRAWHaVbWkppyPHz54VW5FPQHpqPMzPuCd4FQQ3_iP4FKfzZfA67qiVq1QRlLQ=w1243-h932-s-no?authuser=0"
 draft: true
 author: "Helen"
 album: 

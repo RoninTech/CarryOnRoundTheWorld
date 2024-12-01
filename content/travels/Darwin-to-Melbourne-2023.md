@@ -1,15 +1,15 @@
 ---
 title: "Darwin to Melbourne 2023"
-date: 2024-09-01T12:53:27+07:00
-featured_image: "https://lh3.googleusercontent.com/pw/AM-JKLUE82FajhvtKiK10C3-ml5es-vZA6egq7vzssXe8JCfZn3aSpJwADo77IdogyEcqvSY4XZe_uReDxmjsI0yZtvxhl0qbkhhwWTHZwDI7EnxsVL1-FuN8NrVQPbsSdk8ZnRrhWndrf2pNVzOZzGLPhUCxg=w315-no?authuser=0"
+date: 2024-07-06T12:53:27+07:00
+featured_image: "https://photos.google.com/share/AF1QipPnIRnu2KIC57gotYwHUOX1Z-9wEmPmfSHiYOzfW_cOwFSBUQFzu9t3wbtrZd9wuQ/photo/AF1QipNDDaDI0Mkz464g1ub-tqPumPRPQDUrgzkCDd80?key=a052a3R1amJLbVN6WFZyRVFwVmY2V2pLZ1lUcVNn"
 images:
-  - "https://lh3.googleusercontent.com/pw/AM-JKLUE82FajhvtKiK10C3-ml5es-vZA6egq7vzssXe8JCfZn3aSpJwADo77IdogyEcqvSY4XZe_uReDxmjsI0yZtvxhl0qbkhhwWTHZwDI7EnxsVL1-FuN8NrVQPbsSdk8ZnRrhWndrf2pNVzOZzGLPhUCxg=w315-no?authuser=0"
+  - "https://lh3.googleusercontent.com/pw/AP1GczMFh0OUKC6_yB8MeHskL_nns1S2VHoxePWz6aoZ8R-JLkyPmNEK6C5P9wH79DijtQVKAPhZR5noZDcFWOaQjLAhYKFUttEGZVWdNwLCIU45rtHw1IyA6nGoi5uUTXex-efhWMMnRsRo5SPYo_6Yu1eXXA=w1243-h932-s-no?authuser=0"
 draft: true
 author: "Helen"
 album: https://photos.app.goo.gl/eHaWKXHjW2fL9WZBA
 omit_header_text: true
 ---
-Departure day arrived and we were ready… well we thought we were. Jen drove us to the airport and off we went. The original flight from CNX-SIN was okay, we were surprised when we were given a meal and we had a great chat with the lady in our row who was heading back to sail around Australia. The landing was a bit sketch, we skidded a bit, but made it to the terminal. We didn’t need to grab the duffle as it was checked through so just went and checked into the hotel. We were both fairly tired, but decided a walk through the terminal was the cure an allowed us to grab a quick dinner.
+Departure day arrived and we were ready… well we thought we were. Jen drove us to the airport and off we went. The original flight from CNX-SIN was okay, we were surprised when we were given a meal and we had a great chat with the lady in our row who was heading back to sail around Australia. The landing was a bit sketch, we skidded a bit, but made it to the terminal. We didn’t need to grab the duffle as it was checked through so just went and checked into the hotel. We were both fairly tired, but decided a walk through the terminal was the cure and allowed us to grab a quick dinner.
 
 Back in our hotel, we found an Australian news channel and saw there was a large fire by Tennant Creek, people were being warned to stay away. That was supposed to be one of our stops but it was a few days away so we decided not to worry too much. We were up early for breakies and caught our next flight to DRW. This flight we were treated to an exit row, which was a nice surprise. The flight was smooth and we landed with no skidding! 
 
@@ -30,7 +30,7 @@ We christened the van as Skippy… or Skippy OG… we felt this was a fitting na
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipPnIRnu2KIC57gotYwHUOX1Z-9wEmPmfSHiYOzfW_cOwFSBUQFzu9t3wbtrZd9wuQ/photo/AF1QipOyzpvZ6__WXE1PkjIXYagH-dy4g8cNM4EhYESo?key=a052a3R1amJLbVN6WFZyRVFwVmY2V2pLZ1lUcVNn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczOI4cKyJkJZjbG22Nmz2xI9jS9BBmXPO_m8k0H6Xw9DKQuuaZmX9t38tGj277q5sPOKioCl7guTh6yBgaEML6U_eRBwpNMs6GMd28-Ol5-XfEpzqxao6cJByo-2F_QKCGpwqARsBxaGUvpjmJcbsPmfDQ=w1243-h932-s-no?authuser=0" width="370" /><div>Helen for scale</div></a>
  </div>
 
-We made plans for the next day, a walk through the waterfront precinct and the [Darwin Military Museum](https://www.darwinmilitarymuseum.au/). Our fridge managed to freeze the carrots so we stopped by a pasture on the way to the military museum to feed the horses. It was nice to walk and there was a decent breeze so it wasn’t crazy hot by the waterfront. The military complex was huge so we didn't see it all. We gave ourselves a day to relax, do laundry and get sorted. Gotta to say between the sun, heat and wind it’s probably the quickest our laundry dried the whole trip! We talked to staff about the best stops along the way. We were advised that there were more fires in the area so skip Litchfield and Tennant Creek, just head over to Wongaling. We had to move our last night and ended up in a quiet corner away from the lights so we sat out and watched the stars, which were great. 
+We made plans for the next day, a walk through the waterfront precinct and the [Darwin Military Museum](https://www.darwinmilitarymuseum.au/). It was nice to walk and there was a decent breeze at the waterfront so it wasn’t crazy hot. Our fridge managed to freeze the carrots so we stopped by a pasture on the way to the military museum to feed the horses. The military complex was huge and didn't have such a great breeze so it was too hot to see it all. We gave ourselves a day to relax, do laundry and get sorted. Gotta to say between the sun, heat and wind it’s probably the quickest our laundry dried the whole trip! We talked to staff about the best stops along the way. We were advised that there were more fires in the area so skip Litchfield and Tennant Creek, just head over to Wongaling. We had to move our last night and ended up in a quiet corner away from the lights so we sat out and watched the stars, which were great. 
 
 </br>
 <div style="text-align: center">
