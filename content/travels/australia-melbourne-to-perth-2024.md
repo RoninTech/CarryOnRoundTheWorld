@@ -1,9 +1,9 @@
 ---
 title: "Australia Melbourne to Perth 2024"
 date: 2024-07-22T12:53:27+07:00
-featured_image: "https://lh3.googleusercontent.com/pw/AM-JKLUE82FajhvtKiK10C3-ml5es-vZA6egq7vzssXe8JCfZn3aSpJwADo77IdogyEcqvSY4XZe_uReDxmjsI0yZtvxhl0qbkhhwWTHZwDI7EnxsVL1-FuN8NrVQPbsSdk8ZnRrhWndrf2pNVzOZzGLPhUCxg=w315-no?authuser=0"
+featured_image: "https://lh3.googleusercontent.com/pw/AP1GczMd6kl6PB6r92egNsHTyG7A_FwPhq6IwZDZQPi9uF195v5yjENS5XWDZMtibNnjYgpWcABSa0-uMc3H9B_xNAuqB_aS3mz-hsr8enW3Ymg_P5sFdFLyvchWXZsPvaI4r8_e5w0dKLCYF7DyCSYtuLWDwQ=w1307-h897-s-no?authuser=0"
 images:
-  - "https://lh3.googleusercontent.com/pw/AM-JKLUE82FajhvtKiK10C3-ml5es-vZA6egq7vzssXe8JCfZn3aSpJwADo77IdogyEcqvSY4XZe_uReDxmjsI0yZtvxhl0qbkhhwWTHZwDI7EnxsVL1-FuN8NrVQPbsSdk8ZnRrhWndrf2pNVzOZzGLPhUCxg=w315-no?authuser=0"
+  - "https://lh3.googleusercontent.com/pw/AP1GczMd6kl6PB6r92egNsHTyG7A_FwPhq6IwZDZQPi9uF195v5yjENS5XWDZMtibNnjYgpWcABSa0-uMc3H9B_xNAuqB_aS3mz-hsr8enW3Ymg_P5sFdFLyvchWXZsPvaI4r8_e5w0dKLCYF7DyCSYtuLWDwQ=w1307-h897-s-no?authuser=0"
 draft: false
 author: "Helen"
 album: https://photos.app.goo.gl/cWEhYaxAF4YYEb568
