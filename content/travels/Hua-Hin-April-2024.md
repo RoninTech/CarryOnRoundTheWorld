@@ -1,5 +1,5 @@
 ---
-title: "Hua Hin April 2024"
+title: "Hua Hin Spring 2024"
 date: 2024-08-02T12:53:27+07:00
 featured_image: "https://lh3.googleusercontent.com/pw/AP1GczMFEJc2KFPa9IWojeDzpyYW3_h-upf9abgcKu27p2sluePXPIJMBdPG-NbyKesudfk0IYzPC6sv55LXebPZwiF0qfgrivjsqtSEB8Xvh_xR946At42s5zoxBGL0prZLCsFQZcbI-Jba8bOnkLrtvNI8nA=w1196-h897-s-no?authuser=0"
 images:
