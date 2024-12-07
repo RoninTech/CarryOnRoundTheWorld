@@ -23,13 +23,17 @@ The next travel tech change for us was when Sony Clie's came out. They could do 
 
 ## Smartphones
 
-<a href="https://en.wikipedia.org/wiki/Nexus_4"><img src="https://upload.wikimedia.org/wikipedia/commons/5/53/Nexus_4x.jpg" height="150" alt="Google Nexus 4" title="Google Nexus 4"></a>
+<a href="https://en.wikipedia.org/wiki/Nexus_4"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nexus_4.png/800px-Nexus_4.png" height="150" alt="Google Nexus 4" title="Google Nexus 4"></a>
 
-The advent of smartphones brought us our next travel tech change and it was a huge one. Phone, music player, games, GPS, camera, etc. We both had iPhone 3GS's. These had a camera which in theory could help us eliminate our small Canon point and shoot camera we traveled with. Unfortunately early smartphone cameras weren't very good so we still brought along the Canon (along with it's waterproof case). I also jailbroke the iPhones which greatly expanded their abilities. Unfortunately, jailbreaking became harder and harder so for our next phones we picked up a couple of Google Nexus 4 phones.
+The advent of smartphones brought us our next travel tech change and it was a huge one. Phone, music player, games, GPS, camera, etc. We both initially had iPhone 3GS's. These had a camera which in theory could help us eliminate our small Canon point and shoot camera we traveled with. Unfortunately early smartphone cameras weren't very good so we still brought along the Canon (along with it's waterproof case for snorkeling). I also jailbroke the iPhones which greatly expanded their abilities. Unfortunately, jailbreaking became harder and harder so for our next phones we picked up a couple of Google Nexus 4 phones.
 
 <a href="https://en.wikipedia.org/wiki/Google_Pixel#Pixel_&_Pixel_XL"><img src="https://www.notebookcheck.net/uploads/tx_nbc2/GooglePixel__1_.JPG"  height="150" alt="Google Pixel" title="Google Pixel"></a>
 
-It wasn't until we purchased our Google Pixel 1 phones in October 2016 that Smartphone cameras became good enough to the point we could leave our camera at home. At that time we had a nice little Sony RX100III which took great photos, but maybe not great enough to justify the extra weight. :smile: I have to give credit where credit is due for our Pixels. They have been running strong for almost 6 years now requiring only 2 battery swaps. It seems that the batteries last for about 3 years before they need changing. We had it done both times at a local [uBreakiFix in Calgary](https://g.page/ubreakifix-lincoln-park?share). No issues either time. Other than the battery, the phones are still awesome so a $90CAD battery replacement was way better than buying new, thousand dollar phones. These Smartphones are probably our most flexible and most valuable pieces of kit when we travel. Unfortunately they don't support voice over LTE (VoLTE). So we will be forced to replace them when networks require VoLTE. Then again, if data works fine we can use VOIP apps to talk to people.
+It wasn't until we purchased our Google Pixel 1 phones in October 2016 that Smartphone cameras became good enough to the point we could leave our camera at home. At that time we had a nice little Sony RX100III which took great photos, but maybe not great enough to justify the extra weight. :smile: I have to give credit where credit is due for our Pixels. They have been running strong for 8 years now requiring only 2 battery swaps. It seems that the batteries last for about 3 years before they need changing. We had it done both times at a local [uBreakiFix in Calgary](https://g.page/ubreakifix-lincoln-park?share). No issues either time. Other than the battery, the phones are still awesome so a $90CAD battery replacement was way better than buying new, thousand dollar phones. These Smartphones are probably our most flexible and most valuable pieces of kit when we travel. Unfortunately they don't support voice over LTE (VoLTE). So we will be forced to replace them when networks require VoLTE. Then again, if data works fine we can use VOIP apps to talk to people.
+
+<a href="https://www.samsung.com/ca/smartphones/galaxy-s24-ultra/buy/"><img src="https://images.samsung.com/is/image/samsung/assets/ca/smartphones/galaxy-s24-ultra/buy/S24Ultra-Color-Titanium_Blue_MO_0527_final.jpg" height="150" alt="Samsung Galaxy S24 Ultra" title="Samsung Galaxy S24 Ultra"></a>
+
+<b>UPDATE:</b> Over 8 years after purchasing it, Helen's original Pixel died while we were on [New Zealand's south island](/travels/new-zealand-south-island-2024/).  She went to bed and it was working fine, woke up and it was completely dead.  I spent a day trying to resurrect it but to no avail.  Due to crazy prices in NZ we waited until we were back in Oz before buying her a new Samsung Galaxy S24 Ultra.  It is supposed to get OS updates for several years so hopefully it lasts as long as our old Pixels.  After playing with Helen's new phone, Paul decided he wanted to upgrade as well so now we both have S24 Ultras.  Paul's 8 year old Pixel is still working fine so we use it to upload our pics to Google Photos with unlimited original quality.  These new phones can be plugged directly into a TV/monitor and used as basic computers using Samsung Dex.
 
 ### Android Smartphone Apps We Use When Traveling
 
@@ -37,6 +41,8 @@ It wasn't until we purchased our Google Pixel 1 phones in October 2016 that Smar
 
 <a href="https://cafbit.com/post/introducing_valence/"><img src="https://cafbit.com/valence/icon.png" width="64" height="64" alt="Valence Input Only VNC Client" title="Valence Input Only VNC Client"></a>  
 Valence is an old app that allows you to use your Android Smartphone as a combination mouse/keyboard to any device that can run a VNC server. We run the Real VNC server on the Raspberry Pi. So when using the Pi I can use Valence on my phone as an input only VNC client to move the mouse and to type. I wouldn't want to write a novel with my phone keyboard, but it's an excellent alternative to carrying a mouse and keyboard.
+
+<b>UPDATE:</b> The Valence app no longer works on our new S24 Ultras so we are on the lookout for a newer app that provides the same functionality.  Please [drop us a message](/contact) if you find one! :smile:
 
 #### Xe
 
@@ -67,7 +73,7 @@ This is another Google app that gets a lot of use. We have 2 main uses: reviews 
 
 <a href="https://maps.me/"><img src="https://maps.me/img/logo.png" width="64" height="64" alt="Maps.Me" title="Maps.Me"></a>  
 When we don't have a reliable data connection to use Google Maps, we use Maps.Me. You need to download the maps before you arrive in an area, but once you have them the app just uses the GPS and doesn't need a data connection. We used it to great effect on the Annapurna Circuit where there is basically no reception in the Nepalese Himalayas. You can import KML/KMZ files to be shown on your map. For instance I found a map that showed all of the Tea Houses and villages on the Annapurna Circuit. It also does a great job of showing you the elevation profile between 2 places. Excellent to know what kind of a hiking day you have ahead of you. :smile:
-**UPDATE:** During covid, Maps.Me was bought out and is no longer recommended. [Organic Maps](https://organicmaps.app/) is the open source replacement app.
+**UPDATE:** During covid, Maps.Me was bought out and is no longer recommended. [Organic Maps](https://organicmaps.app/) is the open source replacement app.  Further, Organic Maps now works great under Android Auto!  So now you can get turn by turn directions on your vehicle's head unit without needing to use up your phone's data plan.
 
 #### Musicolet
 
@@ -122,15 +128,23 @@ The power outlets are rarely where you need them to be so we always travel with 
 
 ## Kobo Glo E-Readers
 
-<a href="https://help.kobo.com/hc/en-us/articles/360019127233-Kobo-Glo"><img src="https://www.factorydirect.ca/images/thumbs/0009577_kobo-glo-6-touch-built-in-light-wifi-ereader-assrtd_550.jpeg" height="150" alt="Kobo Glo" title="Kobo Glo"></a>
+<a href="https://help.kobo.com/hc/en-us/articles/360019127233-Kobo-Glo"><img src="https://m.media-amazon.com/images/I/61QzbS3DQiL._AC_SX425_.jpg" height="150" alt="Kobo Glo" title="Kobo Glo"></a>
 
 Another great piece of travel tech that came out around the same time as Smartphone's was E-ink based E-readers. We both read voraciously. Back in the day we were always on the lookout for used books to read. However, when traveling, they are just too heavy to bring more than one with you. Another big pro for E-readers was that their backlight doesn't put out a ton of light. We both read when we go to bed and if one of us read later then the light needed to read the book would be distracting and interfere with the other person's sleep. With these new E-readers, one person could be reading in bed with the backlight and the other would sleep no problem. Helen originally had a Kobo Touch and then we both ended up with Kobo Glo's. The amazing, open source [Calibre software](https://calibre-ebook.com/) was used to manage our e-book library and to load books onto our Kobos.
+
+<a href="https://ca.kobobooks.com/products/kobo-clara-hd"><img src="https://ca.kobobooks.com/cdn/shop/products/Luna_Front_2_EN_1_-Recovered_640x640.jpg?v=1613667414" height="150" alt="Kobo Clara HD" title="Kobo Clara HD"></a>
+
+UPDATE: After many years of hard use, Helen's Kobo Glo finally died.  We replaced it with a new [Kobo Clara HD](https://ca.kobobooks.com/products/kobo-clara-hd).
 
 ## GL.iNet Shadow Travel Router (AR300M)
 
 <a href="https://www.gl-inet.com/products/gl-ar300m/"><img src="https://static.gl-inet.com./www/images/products/gl-ar300m/shadow_1000x1000_2.jpg"  height="150" alt="Gl.iNet Shadow AR300M" title="Gl.iNet Shadow AR300M"></a>
 
 Just before we left to travel in 2017 we picked up this [AR300M travel router](https://www.gl-inet.com/products/gl-ar300m/) from Amazon. It cost $40CAD and weighed only 40g! For network devices we have our phones, Kobos and either Chromecast, Fire stick or Raspberry Pi. We have this travel router configured to statically assign IP's and hostnames to these devices so they can always talk to each other. When we get somewhere we just have to connect the travel router to the internet and the rest just works. The router supports [captive portal](https://en.wikipedia.org/wiki/Captive_portal) so we can login to a places WiFi and share it through the travel router. In a pinch I can also use one of our phones as a USB modem and supply internet that way. It also has an Ethernet WAN port in case there is Ethernet available. It works well with Wireguard VPN's and I have used it to a home Wireguard server as well as to our more recent Mullvad Wireguard VPN account. Another cool trick is that it has a USB port and we can share media off a USB drive via DLNA from the travel router. There are regular security and feature updates and it has proven to be a very flexible and useful piece of kit. Under the hood it runs a custom flavour of OpenWRT which is an extremely well supported router distribution. Whenever I have had any questions the [community forum](https://forum.gl-inet.com/) has been a great place to get them answered.
+
+<a href="https://www.gl-inet.com/products/gl-mt3000/"><img src="/images/glinet-beryl-ax-mt3000.jpg" height="150" alt="Gl.iNet Beryl AX MT3000" title="Gl.iNet Beryl AX MT3000"></a>
+
+<b>UPDATE:</b>  To add to the horror of Helen's phone dying while were on New Zealand's south island in 2024, she also crushed our old Shadow router by closing the van's sliding door on it.  We had a decision on whether to buy another identical 8 year old, 40g travel router or upgrade to the latest and greatest 200g beast.  We went with the new Beryl AX model which has WiFi 6, USB C and built-in WiFi antennas.  It is much better in every way than our old one, except for the weight.
 
 ## Chromecast
 
@@ -167,14 +181,23 @@ In the summer of 2020, while [hiding from Covid in Creston, BC](/travels/should-
 
 I picked up a nice light (only a few grams) [TerraPi Alpha 3d printed case](https://shop.inux3d.com/en/home/44-78-the-terrapi-alpha.html#/10-color-red/26-ssd-single) for the Pi and added a 250GB SSD so I could [boot the Pi from the faster drive and have way more storage](https://lemariva.com/blog/2020/08/raspberry-pi-4-ssd-booting-enabled-trim). Also added a [Noctua NF-A4x10 5V fan](https://noctua.at/en/products/fan/nf-a4x10-5v) for some "almost" silent active cooling.
 
-With the addition of the SSD drive attached via the USB3 to SATA adapter, the Raspberry Pi 4 really came alive.  Performance increase was large.  Now I often forget that I'm on a Pi rather than a full blown desktop.  It's been able to handle everything we've thrown at it.  Most of which you can see listed below.  I usually boot from the much faster SSD but if we want to play [RetroPie](https://retropie.org.uk/) games then I just unplug the USB SSD drive cable and the Pi will then boot from the uSD card that has [RetroPie](https://retropie.org.uk/) installed on it, along with a bunch of old games.
+With the addition of the 250GB SATA SSD drive attached via the USB3 to SATA adapter, the Raspberry Pi 4 really came alive.  Performance increase was large.  Now I often forget that I'm on a Pi rather than a full blown desktop.  It's been able to handle everything we've thrown at it.  Most of which you can see listed below.  I usually boot from the much faster SSD but if we want to play [RetroPie](https://retropie.org.uk/) games then I just unplug the USB SSD drive cable and the Pi will then boot from the uSD card that has [RetroPie](https://retropie.org.uk/) installed on it, along with a bunch of old games.
+
+<a href="https://argon40.com/en-ca/products/argon-neo-5-m-2-nvme-for-raspberry-pi-5"><img src="https://argon40.com/cdn/shop/files/AMZ_AR-NEO-5_NVMe_20240202_01_1680x.jpg" height="150" alt="Argon NEO 5 M.2 NVME PCIE Case for Pi 5" title="Argon NEO 5 M.2 NVME PCIE Case for Pi 5"></a>
+
+<b>UPDATE:</b> In late 2023, the Raspberry Pi 5 was announced.  Since Paul was so satisfied with his Pi4 as his main computer, we decided to upgrade him to the Pi5 and give Helen the Pi4.  We also picked up an NVMe case for the Pi5 that has an integrated fan and NVMe slot.  The Pi5 is faster than the the Pi4 and switching from a SATA SSD to a lighter, faster 4TB NVMe SSD is a win win win.  The new case is slightly bulkier and heavier but it provides much better protection and cooling to the Pi.  Finally all the aps we used on the Pi4 still work great on the Pi5.  :smile:
 
 ### Software Used on Raspberry Pi
 
 #### Chromium browser
 
 <a href="https://www.chromium.org/chromium-projects/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chromium_11_Logo.svg/240px-Chromium_11_Logo.svg.png" width="64" height="64" alt="Chromium Browser" title="Chromium Browser"></a>  
+
 Probably the most used software. Spend most of our time using this for general browsing, YouTube watching etc. It syncs all our Chrome bookmarks, passwords and extensions so they are the same when we move between devices using Chrome/Chromium. Open source.
+
+<a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/345px-Firefox_logo%2C_2019.svg.png" height="64" alt="Mozilla Firefox browser" title="Mozilla Firefox browser"></a>
+
+<b>UPDATE:</b> In 2024 Google Chrome stopped supporting ad-blockers.  Fortunately, the folks at Mozilla still try to not do evil and continue to support ad-blockers.  So after many years using Chrome we have both switched back to Mozilla Firefox as our main browsers.  Honestly it's as good or better than Chrome and with ad-blocking via the uBlock Origin extension, it's a no-brainer.  We will never use a browser that does not support ad-blocking.
 
 #### KeepassXC
 
@@ -289,3 +312,6 @@ The Calibre e-book library management tool mentioned above is a bit of a resourc
 <a href="https://www.tubearchivist.com/"><img src="https://github.com/tubearchivist/tubearchivist/blob/master/assets/tube-archivist-logo-light.png?raw=true" width="64" height="64" alt="Tube Archivist" title="Tube Archivist"></a>  
 Automatically downloads your YouTube subscription videos for watching/listening locally without Internet.  Can download audio only.  Has a [browser extension](https://github.com/tubearchivist/browser-extension) for Chrome/Firefox to allow for easy downloading/subscribing from the browser.  Open source.
 
+<a href=""><img src="https://raw.githubusercontent.com/yt-dlp/yt-dlp/refs/heads/master/devscripts/logo.ico" height="64" alt="yt-dlp" title="yt-dlp"></a>
+
+<b>UPDATE:</b> After using TA for a bit and [writing a wrapper script](https://github.com/RoninTech/ta-helper) to have it meet my requirements (readable video names) I decided that it was too much overhead (requires 2 dockers) for my needs.  After looking around I decided to switch to the good old [yt-dlp](https://github.com/yt-dlp/yt-dlp) command line program with sponsorblock plugin and a few bash aliases.  When I see a youtube video I'd like to watch I right click on it and select "copy URL".  I then open a terminal in my Videos/YouTube folder and invoke a yt-dlp alias such as "yt10" to grab the video in 1080P or yt7l for 720P with low quality audio etc.  I have multiple aliases for different resolutions and audio qualities.  You can see my [.bash_aliases](/downloads/.bash_aliases/) here.  The wl-paste at the end of each alias simply grabs the YT video URL from the Wayland clipboard for yt-dlp to use.  I periodically update yt-dlp with the "yt-dlp -U" command.
