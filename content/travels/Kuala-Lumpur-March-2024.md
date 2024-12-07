@@ -1,12 +1,12 @@
 ---
 title: "Kuala Lumpur March 2024"
 date: 2024-08-01T13:01:54+07:00
-featured_image: "https://lh3.googleusercontent.com/pw/AP1GczOABDsXbcKLiCPEzJ8KH71cFTQQJjB-FztUkW7V9ZSr0nRdxHfaEdoMa5QN1bqDCMDQVLZON30h5V-zH3yalR9LeAr4QI8eu_ntLq2L-SJFQtB8vxdAbAWzJhpcuKRKx25TfoGth6HZC9eR0ekwI0-wYg=w1196-h897-s-no?authuser=0"
+featured_image: "https://lh3.googleusercontent.com/pw/AP1GczMTyqwsnnluoJ42nuGWCqZ8qw3BJIPW_9KQd6YpirXBR9Yvx8M03oHa_n9A8IvHZ_TQiXOV9vP82VLRihbLm10fM375OFaaAJPw5e_zZbXoxaya0tumosc2KWg_xAuWIaRDoZ0f5Kg40lb84wO1WqH30Q=w1196-h897-s-no?authuser=0"
 images:
-  - "https://lh3.googleusercontent.com/pw/AP1GczOABDsXbcKLiCPEzJ8KH71cFTQQJjB-FztUkW7V9ZSr0nRdxHfaEdoMa5QN1bqDCMDQVLZON30h5V-zH3yalR9LeAr4QI8eu_ntLq2L-SJFQtB8vxdAbAWzJhpcuKRKx25TfoGth6HZC9eR0ekwI0-wYg=w1196-h897-s-no?authuser=0"
+  - "https://lh3.googleusercontent.com/pw/AP1GczMTyqwsnnluoJ42nuGWCqZ8qw3BJIPW_9KQd6YpirXBR9Yvx8M03oHa_n9A8IvHZ_TQiXOV9vP82VLRihbLm10fM375OFaaAJPw5e_zZbXoxaya0tumosc2KWg_xAuWIaRDoZ0f5Kg40lb84wO1WqH30Q=w1196-h897-s-no?authuser=0"
 draft: false
 author: "Helen"
-album: https://photos.app.goo.gl/zZMvHAyUXVMK761J9
+album: https://photos.app.goo.gl/KRzNiCDhgmga76mL7
 omit_header_text: true
 ---
 

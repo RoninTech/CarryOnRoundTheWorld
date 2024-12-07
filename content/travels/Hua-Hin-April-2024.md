@@ -1,12 +1,13 @@
 ---
 title: "Hua Hin Spring 2024"
 date: 2024-08-02T12:53:27+07:00
-featured_image: "https://lh3.googleusercontent.com/pw/AP1GczMFEJc2KFPa9IWojeDzpyYW3_h-upf9abgcKu27p2sluePXPIJMBdPG-NbyKesudfk0IYzPC6sv55LXebPZwiF0qfgrivjsqtSEB8Xvh_xR946At42s5zoxBGL0prZLCsFQZcbI-Jba8bOnkLrtvNI8nA=w1196-h897-s-no?authuser=0"
+featured_image: "https://lh3.googleusercontent.com/pw/AP1GczODkqGrviPXBKs-iDepY-QH1WH6VbgzG9Iu_orC2b0rlu0eyEYHpUBiotppDadEUy8RS2-8BCai4ecKlEaBdxBnJ9hSZjkjePU3lqSg6R1ZD0_me8nxQNqjnT3gUOL4t6_5mKbHUIpuzvMGMndtecEiSQ=w1196-h897-s-no?authuser=0"
 images:
-  - "https://lh3.googleusercontent.com/pw/AP1GczMFEJc2KFPa9IWojeDzpyYW3_h-upf9abgcKu27p2sluePXPIJMBdPG-NbyKesudfk0IYzPC6sv55LXebPZwiF0qfgrivjsqtSEB8Xvh_xR946At42s5zoxBGL0prZLCsFQZcbI-Jba8bOnkLrtvNI8nA=w1196-h897-s-no?authuser=0"
+    - "https://lh3.googleusercontent.com/pw/AP1GczODkqGrviPXBKs-iDepY-QH1WH6VbgzG9Iu_orC2b0rlu0eyEYHpUBiotppDadEUy8RS2-8BCai4ecKlEaBdxBnJ9hSZjkjePU3lqSg6R1ZD0_me8nxQNqjnT3gUOL4t6_5mKbHUIpuzvMGMndtecEiSQ=w1196-h897-s-no?authuser=0"
 draft: false
+  - "https://lh3.googleusercontent.com/pw/AP1GczODkqGrviPXBKs-iDepY-QH1WH6VbgzG9Iu_orC2b0rlu0eyEYHpUBiotppDadEUy8RS2-8BCai4ecKlEaBdxBnJ9hSZjkjePU3lqSg6R1ZD0_me8nxQNqjnT3gUOL4t6_5mKbHUIpuzvMGMndtecEiSQ=w1196-h897-s-no?authuser=0"
 author: "Helen"
-album: https://photos.app.goo.gl/KRzNiCDhgmga76mL7
+album: "https://photos.app.goo.gl/KRzNiCDhgmga76mL7"
 omit_header_text: true
 ---
 
