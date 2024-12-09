@@ -27,7 +27,7 @@ After the salesman had tried all of his Jedi mind tricks, we were able to get a 
 
 Now the hard work begins!  We've done tons of research into vans over the years so we aren't starting from scratch but planning out what we need to do is still a massive job.  It is so easy to get bogged down with analysis paralysis.  Another factor is that the US border is still closed, June 9th right now, so we can't order anything to a border depot and go pick it up.  Unfortunately many things are priced exorbitantly in Canada compared to the US even when factoring exchange, shipping etc. so we need to wait for the border to re-open before purchasing a lot of stuff for the van build or suck up the extra costs.
 
-Here's a couple of pics of the general layout of the van.  Totally open to change. :)
+Here's a couple of pics of the general layout of the van.  Totally open to change. :smile:
 
 <div style="text-align: center">
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO-0rET7XafecISfWb_1cuW2bY9RzO3vEmhvtBrr3Jx-A-tkV5uajVaanHs-YAJXg/photo/AF1QipMVOy2PNtk9OLsXESyaKMaFSpQ4-nyZhg4Ry7P_?key=c2lmY3NBczBtaVBZRy1XT3FTZUNiRUpoNmJNY3R3" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3c3mhlDVqSZ7WwOyCI9IOPIpLwtBPwuOfhBq1npWNUAzTiknZIkqoCG1TXMwvUMzKFjt7Q9GLulbGBV12l1ytHcQ_6Sb-UpqZLClu9PXU6GgVP6uuv1WqsXc2ydaTebIAIIdnTLDB70yO2NId2960EQpA=w370-no" width="370" /><div>Roof Layout: Stacked Solar??</div></a>
