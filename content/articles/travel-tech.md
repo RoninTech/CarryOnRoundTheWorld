@@ -31,18 +31,21 @@ The advent of smartphones brought us our next travel tech change and it was a hu
 
 It wasn't until we purchased our Google Pixel 1 phones in October 2016 that Smartphone cameras became good enough to the point we could leave our camera at home. At that time we had a nice little Sony RX100III which took great photos, but maybe not great enough to justify the extra weight. :smile: I have to give credit where credit is due for our Pixels. They have been running strong for 8 years now requiring only 2 battery swaps. It seems that the batteries last for about 3 years before they need changing. We had it done both times at a local [uBreakiFix in Calgary](https://g.page/ubreakifix-lincoln-park?share). No issues either time. Other than the battery, the phones are still awesome so a $90CAD battery replacement was way better than buying new, thousand dollar phones. These Smartphones are probably our most flexible and most valuable pieces of kit when we travel. Unfortunately they don't support voice over LTE (VoLTE). So we will be forced to replace them when networks require VoLTE. Then again, if data works fine we can use VOIP apps to talk to people.
 
+<b>UPDATE:</b> 
+
 <a href="https://www.samsung.com/ca/smartphones/galaxy-s24-ultra/buy/"><img src="https://images.samsung.com/is/image/samsung/assets/ca/smartphones/galaxy-s24-ultra/buy/S24Ultra-Color-Titanium_Blue_MO_0527_final.jpg" height="150" alt="Samsung Galaxy S24 Ultra" title="Samsung Galaxy S24 Ultra"></a>
 
-<b>UPDATE:</b> Over 8 years after purchasing it, Helen's original Pixel died while we were on [New Zealand's south island](/travels/new-zealand-south-island-2024/).  She went to bed and it was working fine, woke up and it was completely dead.  I spent a day trying to resurrect it but to no avail.  Due to crazy prices in NZ we waited until we were back in Oz before buying her a new Samsung Galaxy S24 Ultra.  It is supposed to get OS updates for several years so hopefully it lasts as long as our old Pixels.  After playing with Helen's new phone, Paul decided he wanted to upgrade as well so now we both have S24 Ultras.  Paul's 8 year old Pixel is still working fine so we use it to upload our pics to Google Photos with unlimited original quality.  These new phones can be plugged directly into a TV/monitor and used as basic computers using Samsung Dex.
+Over 8 years after purchasing it, Helen's original Pixel died while we were on [New Zealand's south island](/travels/new-zealand-south-island-2024/).  She went to bed and it was working fine, woke up and it was completely dead.  I spent a day trying to resurrect it but to no avail.  Due to crazy prices in NZ we waited until we were back in Oz before buying her a new Samsung Galaxy S24 Ultra.  It is supposed to get OS updates for several years so hopefully it lasts as long as our old Pixels.  After playing with Helen's new phone, Paul decided he wanted to upgrade as well so now we both have S24 Ultras.  Paul's 8 year old Pixel is still working fine so we use it to upload our pics to Google Photos with unlimited original quality.  These new phones can be plugged directly into a TV/monitor and used as basic computers using Samsung Dex.
 
 ### Android Smartphone Apps We Use When Traveling
 
-#### Valence
+#### ~~Valence~~
 
 <a href="https://cafbit.com/post/introducing_valence/"><img src="https://cafbit.com/valence/icon.png" width="64" height="64" alt="Valence Input Only VNC Client" title="Valence Input Only VNC Client"></a>  
 Valence is an old app that allows you to use your Android Smartphone as a combination mouse/keyboard to any device that can run a VNC server. We run the Real VNC server on the Raspberry Pi. So when using the Pi I can use Valence on my phone as an input only VNC client to move the mouse and to type. I wouldn't want to write a novel with my phone keyboard, but it's an excellent alternative to carrying a mouse and keyboard.
 
-<b>UPDATE:</b> The Valence app no longer works on our new S24 Ultras so we are on the lookout for a newer app that provides the same functionality.  Please [drop us a message](/contact) if you find one! :smile:
+<b>UPDATE:</b>
+The Valence app no longer works on our new S24 Ultras so we are on the lookout for a newer app that provides the same functionality.  Please [drop us a message](/contact) if you find one! :smile:
 
 #### Xe
 
@@ -69,11 +72,15 @@ This app is addictive to use when in one of the countries where it is active. Th
 <a href="https://maps.google.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Google_Maps_Logo_2020.svg" width="64" height="64" alt="Google Maps" title="Google Maps"></a>  
 This is another Google app that gets a lot of use. We have 2 main uses: reviews and directions/location. Over the years we have reviewed LOTS of places. The images that I have uploaded for reviews have had 8.1 million views as of August, 2022 and we are both Level 8 Google reviewers for whatever that is worth. :smile:
 
-#### Maps.Me
+#### ~~Maps.Me~~
 
 <a href="https://maps.me/"><img src="https://maps.me/img/logo.png" width="64" height="64" alt="Maps.Me" title="Maps.Me"></a>  
 When we don't have a reliable data connection to use Google Maps, we use Maps.Me. You need to download the maps before you arrive in an area, but once you have them the app just uses the GPS and doesn't need a data connection. We used it to great effect on the Annapurna Circuit where there is basically no reception in the Nepalese Himalayas. You can import KML/KMZ files to be shown on your map. For instance I found a map that showed all of the Tea Houses and villages on the Annapurna Circuit. It also does a great job of showing you the elevation profile between 2 places. Excellent to know what kind of a hiking day you have ahead of you. :smile:
-**UPDATE:** During covid, Maps.Me was bought out and is no longer recommended. [Organic Maps](https://organicmaps.app/) is the open source replacement app.  Further, Organic Maps now works great under Android Auto!  So now you can get turn by turn directions on your vehicle's head unit without needing to use up your phone's data plan.
+
+**UPDATE:** 
+#### Organic Maps
+<a href="https://organicmaps.app/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Organic-map.png/180px-Organic-map.png" width="64" height="64" alt="Organic Maps" title="Organic Maps"></a>  
+During covid, Maps.Me was bought out and is no longer recommended. [Organic Maps](https://organicmaps.app/) is the open source replacement app.  Further, Organic Maps now works great under Android Auto!  So now you can get turn by turn directions on your vehicle's head unit without needing to use up your phone's data plan.
 
 #### Musicolet
 
@@ -134,7 +141,7 @@ Another great piece of travel tech that came out around the same time as Smartph
 
 <a href="https://ca.kobobooks.com/products/kobo-clara-hd"><img src="https://ca.kobobooks.com/cdn/shop/products/Luna_Front_2_EN_1_-Recovered_640x640.jpg?v=1613667414" height="150" alt="Kobo Clara HD" title="Kobo Clara HD"></a>
 
-UPDATE: After many years of hard use, Helen's Kobo Glo finally died.  We replaced it with a new [Kobo Clara HD](https://ca.kobobooks.com/products/kobo-clara-hd).
+<b>UPDATE:</b> After many years of hard use, Helen's Kobo Glo finally died.  We replaced it with a new [Kobo Clara HD](https://ca.kobobooks.com/products/kobo-clara-hd).
 
 ## GL.iNet Shadow Travel Router (AR300M)
 
@@ -142,9 +149,11 @@ UPDATE: After many years of hard use, Helen's Kobo Glo finally died.  We replace
 
 Just before we left to travel in 2017 we picked up this [AR300M travel router](https://www.gl-inet.com/products/gl-ar300m/) from Amazon. It cost $40CAD and weighed only 40g! For network devices we have our phones, Kobos and either Chromecast, Fire stick or Raspberry Pi. We have this travel router configured to statically assign IP's and hostnames to these devices so they can always talk to each other. When we get somewhere we just have to connect the travel router to the internet and the rest just works. The router supports [captive portal](https://en.wikipedia.org/wiki/Captive_portal) so we can login to a places WiFi and share it through the travel router. In a pinch I can also use one of our phones as a USB modem and supply internet that way. It also has an Ethernet WAN port in case there is Ethernet available. It works well with Wireguard VPN's and I have used it to a home Wireguard server as well as to our more recent Mullvad Wireguard VPN account. Another cool trick is that it has a USB port and we can share media off a USB drive via DLNA from the travel router. There are regular security and feature updates and it has proven to be a very flexible and useful piece of kit. Under the hood it runs a custom flavour of OpenWRT which is an extremely well supported router distribution. Whenever I have had any questions the [community forum](https://forum.gl-inet.com/) has been a great place to get them answered.
 
+<b>UPDATE:</b>
+
 <a href="https://www.gl-inet.com/products/gl-mt3000/"><img src="/images/glinet-beryl-ax-mt3000.jpg" height="150" alt="Gl.iNet Beryl AX MT3000" title="Gl.iNet Beryl AX MT3000"></a>
 
-<b>UPDATE:</b>  To add to the horror of Helen's phone dying while were on New Zealand's south island in 2024, she also crushed our old Shadow router by closing the van's sliding door on it.  We had a decision on whether to buy another identical 8 year old, 40g travel router or upgrade to the latest and greatest 200g beast.  We went with the new Beryl AX model which has WiFi 6, USB C and built-in WiFi antennas.  It is much better in every way than our old one, except for the weight.
+To add to the horror of Helen's phone dying while were on New Zealand's south island in 2024, she also crushed our old Shadow router by closing the van's sliding door on it.  We had a decision on whether to buy another identical 8 year old, 40g travel router or upgrade to the latest and greatest 200g beast.  We went with the new [Beryl AX model](https://www.gl-inet.com/products/gl-mt3000/) which has WiFi 6, USB C and built-in WiFi antennas.  It is much better in every way than our old one, except for the weight.
 
 ## Chromecast
 
@@ -183,21 +192,25 @@ I picked up a nice light (only a few grams) [TerraPi Alpha 3d printed case](http
 
 With the addition of the 250GB SATA SSD drive attached via the USB3 to SATA adapter, the Raspberry Pi 4 really came alive.  Performance increase was large.  Now I often forget that I'm on a Pi rather than a full blown desktop.  It's been able to handle everything we've thrown at it.  Most of which you can see listed below.  I usually boot from the much faster SSD but if we want to play [RetroPie](https://retropie.org.uk/) games then I just unplug the USB SSD drive cable and the Pi will then boot from the uSD card that has [RetroPie](https://retropie.org.uk/) installed on it, along with a bunch of old games.
 
-<a href="https://argon40.com/en-ca/products/argon-neo-5-m-2-nvme-for-raspberry-pi-5"><img src="https://argon40.com/cdn/shop/files/AMZ_AR-NEO-5_NVMe_20240202_01_1680x.jpg" height="150" alt="Argon NEO 5 M.2 NVME PCIE Case for Pi 5" title="Argon NEO 5 M.2 NVME PCIE Case for Pi 5"></a>
+<b>UPDATE:</b>
 
-<b>UPDATE:</b> In late 2023, the Raspberry Pi 5 was announced.  Since Paul was so satisfied with his Pi4 as his main computer, we decided to upgrade him to the Pi5 and give Helen the Pi4.  We also picked up an NVMe case for the Pi5 that has an integrated fan and NVMe slot.  The Pi5 is faster than the the Pi4 and switching from a SATA SSD to a lighter, faster 4TB NVMe SSD is a win win win.  The new case is slightly bulkier and heavier but it provides much better protection and cooling to the Pi.  Finally all the aps we used on the Pi4 still work great on the Pi5.  :smile:
+<a href="https://www.raspberrypi.com/products/raspberry-pi-5/"><img src="https://cdn11.bigcommerce.com/s-am5zt8xfow/images/stencil/1280x1280/products/3556/11365/PI_5_HERO__55628.1695665352.jpg" height="150" alt="Raspberry Pi 5" title="Raspberry Pi 5"></a><a href="https://argon40.com/en-ca/products/argon-neo-5-m-2-nvme-for-raspberry-pi-5"><img src="https://argon40.com/cdn/shop/files/AMZ_AR-NEO-5_NVMe_20240202_01_1680x.jpg" height="150" alt="Argon NEO 5 M.2 NVME PCIE Case for Pi 5" title="Argon NEO 5 M.2 NVME PCIE Case for Pi 5"></a>
+
+In late 2023, the Raspberry Pi 5 was announced.  Since Paul was so satisfied with his Pi4 as his main computer, we decided to upgrade him to the Pi5 and give Helen the Pi4.  We also picked up an [Argon40 NVMe case](https://argon40.com/en-ca/products/argon-neo-5-m-2-nvme-for-raspberry-pi-5) for the Pi5 that has an integrated fan and NVMe slot.  The Pi5 is faster than the the Pi4 and switching from a SATA SSD to a lighter, faster 4TB NVMe SSD is a win win win.  The new case is slightly bulkier and heavier but it provides much better protection and cooling to the Pi.  Finally all the aps we used on the Pi4 still work great on the Pi5.  :smile:
 
 ### Software Used on Raspberry Pi
 
-#### Chromium browser
+#### ~~Chromium browser~~
 
 <a href="https://www.chromium.org/chromium-projects/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chromium_11_Logo.svg/240px-Chromium_11_Logo.svg.png" width="64" height="64" alt="Chromium Browser" title="Chromium Browser"></a>  
 
 Probably the most used software. Spend most of our time using this for general browsing, YouTube watching etc. It syncs all our Chrome bookmarks, passwords and extensions so they are the same when we move between devices using Chrome/Chromium. Open source.
 
+<b>UPDATE:</b>
+
 <a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/345px-Firefox_logo%2C_2019.svg.png" height="64" alt="Mozilla Firefox browser" title="Mozilla Firefox browser"></a>
 
-<b>UPDATE:</b> In 2024 Google Chrome stopped supporting ad-blockers.  Fortunately, the folks at Mozilla still try to not do evil and continue to support ad-blockers.  So after many years using Chrome we have both switched back to Mozilla Firefox as our main browsers.  Honestly it's as good or better than Chrome and with ad-blocking via the uBlock Origin extension, it's a no-brainer.  We will never use a browser that does not support ad-blocking.
+In 2024 Google Chrome stopped supporting ad-blockers.  Fortunately, the folks at Mozilla still try to not do evil and continue to support ad-blockers.  So after many years using Chrome we have both switched back to Mozilla Firefox as our main browsers.  Honestly it's as good or better than Chrome and with ad-blocking via the uBlock Origin extension, it's a no-brainer.  We will never use a browser that does not support ad-blocking.
 
 #### KeepassXC
 
@@ -312,6 +325,8 @@ The Calibre e-book library management tool mentioned above is a bit of a resourc
 <a href="https://www.tubearchivist.com/"><img src="https://github.com/tubearchivist/tubearchivist/blob/master/assets/tube-archivist-logo-light.png?raw=true" width="64" height="64" alt="Tube Archivist" title="Tube Archivist"></a>  
 Automatically downloads your YouTube subscription videos for watching/listening locally without Internet.  Can download audio only.  Has a [browser extension](https://github.com/tubearchivist/browser-extension) for Chrome/Firefox to allow for easy downloading/subscribing from the browser.  Open source.
 
+<b>UPDATE:</b>
+
 <a href=""><img src="https://raw.githubusercontent.com/yt-dlp/yt-dlp/refs/heads/master/devscripts/logo.ico" height="64" alt="yt-dlp" title="yt-dlp"></a>
 
-<b>UPDATE:</b> After using TA for a bit and [writing a wrapper script](https://github.com/RoninTech/ta-helper) to have it meet my requirements (readable video names) I decided that it was too much overhead (requires 2 dockers) for my needs.  After looking around I decided to switch to the good old [yt-dlp](https://github.com/yt-dlp/yt-dlp) command line program with sponsorblock plugin and a few bash aliases.  When I see a youtube video I'd like to watch I right click on it and select "copy URL".  I then open a terminal in my Videos/YouTube folder and invoke a yt-dlp alias such as "yt10" to grab the video in 1080P or yt7l for 720P with low quality audio etc.  I have multiple aliases for different resolutions and audio qualities.  You can see my [.bash_aliases](/downloads/.bash_aliases/) here.  The wl-paste at the end of each alias simply grabs the YT video URL from the Wayland clipboard for yt-dlp to use.  I periodically update yt-dlp with the "yt-dlp -U" command.
+After using TA for a bit and [writing a wrapper script](https://github.com/RoninTech/ta-helper) to have it meet my requirements (readable video names) I decided that it was too much overhead (requires 2 dockers) for my needs.  After looking around I decided to switch to the good old [yt-dlp](https://github.com/yt-dlp/yt-dlp) command line program with sponsorblock plugin and a few bash aliases.  When I see a youtube video I'd like to watch I right click on it and select "copy URL".  I then open a terminal in my Videos/YouTube folder and invoke a yt-dlp alias such as "yt10" to grab the video in 1080P or yt7l for 720P with low quality audio etc.  I have multiple aliases for different resolutions and audio qualities.  You can see my [.bash_aliases](/downloads/.bash_aliases/) here.  The wl-paste at the end of each alias simply grabs the YT video URL from the Wayland clipboard for yt-dlp to use.  I periodically update yt-dlp with the "yt-dlp -U" command.
