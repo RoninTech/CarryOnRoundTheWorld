@@ -1,0 +1,51 @@
+alias cat='bat'
+alias vlc='cleanvcl;vlc'
+alias ls='lsd -hA --group-dirs first'
+alias diff='delta'
+# For downloading YT videos with name, duration and YT video ID in various resolutions.
+alias yt2='yt-dlp -o "%(title)s-[%(duration_string)s]-[%(id)s].%(ext)s" -i --restrict-filenames --sponsorblock-remove default -f 133+140 `wl-paste`'
+alias yt3='yt-dlp -o "%(title)s-[%(duration_string)s]-[%(id)s].%(ext)s" -i --restrict-filenames --sponsorblock-remove default -f 134+140 `wl-paste`'
+alias yt4='yt-dlp -o "%(title)s-[%(duration_string)s]-[%(id)s].%(ext)s" -i --restrict-filenames --sponsorblock-remove default -f 135+140 `wl-paste`'
+alias yt7='yt-dlp --embed-chapters -o "%(title)s-[%(duration_string)s]-[%(id)s].%(ext)s" -i --restrict-filenames --sponsorblock-remove default -f 136+140/298+140 `wl-paste`'
+alias yt10='yt-dlp --embed-chapters -o "%(title)s-[%(duration_string)s]-[%(id)s].%(ext)s" -i --restrict-filenames --sponsorblock-remove default -f 137+140/299+140 `wl-paste`'
+alias yt21='yt-dlp --embed-chapters -o "%(title)s-[%(duration_string)s]-[%(id)s].%(ext)s" -i --restrict-filenames --sponsorblock-remove default -f 401+140 `wl-paste`'
+
+alias yt2l='yt-dlp -o "%(title)s-[%(duration_string)s]-[%(id)s].%(ext)s" -i --restrict-filenames --sponsorblock-remove default -f 133+139 `wl-paste`'
+alias yt3l='yt-dlp -o "%(title)s-[%(duration_string)s]-[%(id)s].%(ext)s" -i --restrict-filenames --sponsorblock-remove default -f 134+139 `wl-paste`'
+alias yt4l='yt-dlp -o "%(title)s-[%(duration_string)s]-[%(id)s].%(ext)s" -i --restrict-filenames --sponsorblock-remove default -f 135+139 `wl-paste`'
+alias yt7l='yt-dlp -o "%(title)s-[%(duration_string)s]-[%(id)s].%(ext)s" -i --restrict-filenames --sponsorblock-remove default -f 136+139/298+139 `wl-paste`'
+alias yt10l='yt-dlp -o "%(title)s-[%(duration_string)s]-[%(id)s].%(ext)s" -i --restrict-filenames --sponsorblock-remove default -f 137+139/299+139 `wl-paste`'
+
+alias yts2='yt-dlp -o "%(title)s-[%(duration_string)s]-[%(id)s].%(ext)s" -i --restrict-filenames --write-sub --convert-subs srt --write-auto-sub --sub-lang "en.*" --sponsorblock-remove default -f 133+140 `wl-paste`'
+alias yts3='yt-dlp -o "%(title)s-[%(duration_string)s]-[%(id)s].%(ext)s" -i --restrict-filenames --write-sub --convert-subs srt --write-auto-sub --sub-lang "en.*" --sponsorblock-remove default -f 134+140 `wl-paste`'
+alias yts4='yt-dlp -o "%(title)s-[%(duration_string)s]-[%(id)s].%(ext)s" -i --restrict-filenames --write-sub --convert-subs srt --write-auto-sub --sub-lang "en.*" --sponsorblock-remove default -f 135+140 `wl-paste`'
+alias yts7='yt-dlp -o "%(title)s-[%(duration_string)s]-[%(id)s].%(ext)s" -i --restrict-filenames --write-sub --convert-subs srt --write-auto-sub --sub-lang "en.*" --sponsorblock-remove default -f 136+140/298+140 `wl-paste`'
+alias yts10='yt-dlp -o "%(title)s-[%(duration_string)s]-[%(id)s].%(ext)s" -i --restrict-filenames --write-sub --convert-subs srt --write-auto-sub --sub-lang "en.*" --sponsorblock-remove default -f 137+140/299+140 `wl-paste`'
+
+alias yts2l='yt-dlp -o "%(title)s-[%(duration_string)s]-[%(id)s].%(ext)s" -i --restrict-filenames --write-sub --convert-subs srt --write-auto-sub --sub-lang "en.*" --sponsorblock-remove default -f 133+139 `wl-paste`'
+alias yts3l='yt-dlp -o "%(title)s-[%(duration_string)s]-[%(id)s].%(ext)s" -i --restrict-filenames --write-sub --convert-subs srt --write-auto-sub --sub-lang "en.*" --sponsorblock-remove default -f 134+139 `wl-paste`'
+alias yts4l='yt-dlp -o "%(title)s-[%(duration_string)s]-[%(id)s].%(ext)s" -i --restrict-filenames --write-sub --convert-subs srt --write-auto-sub --sub-lang "en.*" --sponsorblock-remove default -f 135+139 `wl-paste`'
+alias yts7l='yt-dlp -o "%(title)s-[%(duration_string)s]-[%(id)s].%(ext)s" -i --restrict-filenames --write-sub --convert-subs srt --write-auto-sub --sub-lang "en.*" --sponsorblock-remove default -f 136+139/298+139 `wl-paste`'
+alias yts10l='yt-dlp -o "%(title)s-[%(duration_string)s]-[%(id)s].%(ext)s" -i --restrict-filenames --write-sub --convert-subs srt --write-auto-sub --sub-lang "en.*" --sponsorblock-remove default -f 137+139/299+139 `wl-paste`'
+
+
+# Download complete YT playlist.
+alias ytpl7='yt7 -o "%(playlist_index&{} -|)s%(title)s.%(ext)s" `wl-paste`'
+alias ytpl10='yt10 -o "%(playlist_index&{} -|)s%(title)s.%(ext)s" `wl-paste`'
+alias ytpl21='yt21 -o "%(playlist_index&{} -|)s%(title)s.%(ext)s" `wl-paste`'
+
+# Get info on YT video.
+alias ytl='yt-dlp --list-formats `wl-paste`'
+
+alias ytls='yt-dlp --list-subs `wl-=paste`'
+
+alias yts='yt-dlp --skip-download -o "%(title)s-[%(duration_string)s]-[%(id)s].%(ext)s" -i --restrict-filenames --write-sub --convert-subs srt --write-auto-sub --sub-lang "en.*" `wl-paste`'
+
+alias ytg='yt-dlp --cookies-from-browser firefox `wl-paste`'
+
+# Setup neovim configs for easy access.
+alias vim='chad'
+alias chad='NVIM_APPNAME="nvchad" nvim'                                          
+alias lazy='NVIM_APPNAME="lazy" nvim'                                          
+alias astro='NVIM_APPNAME="astro" nvim'                                          
+
