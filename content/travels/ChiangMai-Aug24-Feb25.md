@@ -1,12 +1,12 @@
 ---
 title: "Chiang Mai 2024"
 date: 2025-01-03T10:42:08+07:00
-featured_image: "https://lh3.googleusercontent.com/pw/AP1GczN86S6zgVxCTYZNLLl3cLXFmVMQmBF6Yr95UOUJGwgIYf6Dn9Resfk6CJb3hXrVuZ9VORUJ6q6todJ6incSRYF8R_SXLbhS7Rn5ENzPGhDx_33qwXmM47X5C02VtEHw7XTfJbCIuRKktMJb5ue2C-208Q=w1196-h897-s-no?authuser=0"
+featured_image: "https://lh3.googleusercontent.com/pw/AP1GczNIf0JT_uic0mk6G666byHaNu8LYkaWJldOH55M_pBIG7H6NBK_Cc-ZW_GCvjuCzgEaDAAp64EJvA-Y05s7tw0_SGOXs7zik-UJS6Xbdz41XIA7wVyDnybTF4VnXXWRCB-QDq9wIO7zTLFNPclIyKP4NQ=w1247-h935-s-no?authuser=0"
 images:
-  - "https://lh3.googleusercontent.com/pw/AP1GczN86S6zgVxCTYZNLLl3cLXFmVMQmBF6Yr95UOUJGwgIYf6Dn9Resfk6CJb3hXrVuZ9VORUJ6q6todJ6incSRYF8R_SXLbhS7Rn5ENzPGhDx_33qwXmM47X5C02VtEHw7XTfJbCIuRKktMJb5ue2C-208Q=w1196-h897-s-no?authuser=0"
-draft: true
+  - "https://lh3.googleusercontent.com/pw/AP1GczNIf0JT_uic0mk6G666byHaNu8LYkaWJldOH55M_pBIG7H6NBK_Cc-ZW_GCvjuCzgEaDAAp64EJvA-Y05s7tw0_SGOXs7zik-UJS6Xbdz41XIA7wVyDnybTF4VnXXWRCB-QDq9wIO7zTLFNPclIyKP4NQ=w1247-h935-s-no?authuser=0"
+draft: false
 author: "Helen"
-album: https://photos.app.goo.gl/tV9Le43YCk84V63QA
+album: https://photos.app.goo.gl/ZYM6BYUpgXSQF1ib7
 omit_header_text: true
 ---
 We departed on time from YVR and were quickly seated with jammies and food orders collected.  It was an easy flight to Taipei and we both got some sleep. We hung out in the lounge on our layover, luckily it wasn’t very long and there were no ice cream dramas. Then a last flight to Chiang Mai. We were able to fly CNX-TPE so wouldn’t have to deal with another layover in BKK. The plane was smaller and had old style seats so no pods but was still comfortable. Another great flying experience with EVA Air in the books.
