@@ -123,6 +123,8 @@ We had an awesome time. We had a private van ride to the site and the driver was
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMDZe8P_J71NbBLK4AUtROs69gJ41jZoXJPhczyqaD8NDzlFUTKf01gABlN_gcBoA/photo/AF1QipPksbuUosu-1Fhm8AWOPqMBhYKvxdjPRVQdML9z?key=dDBhandRVGc0MnZoVlZ5TEliZDE1ellESFhzQ2xn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczOLUXF-2mGPEV2qzEIh7xi7N7Hr5R2I806a8gqhKAafSXRszTnuf3Ptaz2MgliyMiKjyiS01cSlmuFfB_tezSFtYS15o_339Z2hNgwVJNhJSGDjaQRhKXCLcmNy4IJS4h7lH9FnJtdGo4Fi2EyOeJbQCQ=w1195-h896-s-no?authuser=0" width="315" /><div>River Valley</div></a>
 </div>
 
+{{< youtubepl id="PLn-hKbRu2okwzM3E4p-nYrbdAWTJEyQEY" >}}
+
 After that we headed back to Ross, where we stayed for several nights. We walked the beaches which were changed, the storm had taken out the lagoon and now it was a river into the sea. We visited with a young couple from Italy who were working there, spent time chatting with Andy and Sue, had a chilly night where we were able to sit by the fire and enjoy a pizza, they even had a gluten free option!  We were able to sit by the kitchen again and do some planing for our return to Australia. We went to the local pub for the dinner buffet, which was crazy expensive and busy. We had a nice visit with a couple who sat at our table, they've been traveling about the south island for several months. We spent our last couple of nights in Greymouth, went back to Motukiekie to return the rocks we had previously collected and started getting SPT ready to return. 
 
 </br>
