@@ -1,6 +1,6 @@
 #!/usr/bin/python
 
-from turtle import width
+# from turtle import width
 from bs4 import BeautifulSoup
 import os, glob
 import cv2

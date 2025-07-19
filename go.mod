@@ -1,5 +1,9 @@
 module github.com/RoninTech/CarryOnRoundTheWorld
 
-go 1.18
+go 1.21
 
-require github.com/theNewDynamic/gohugo-theme-ananke v0.0.0-20230203204610-a1a99cf12681 // indirect
+toolchain go1.24.5
+
+require (
+	github.com/theNewDynamic/gohugo-theme-ananke/v2 v2.12.1 // indirect
+)
