@@ -11,7 +11,7 @@ album: "https://photos.app.goo.gl/qsffXXq4EUL7jTDx6"
 
 Our next stop was Vietnam… well, with a stop in Bangkok to get our Vietnamese visas. We decided to stay at [the Vie](https://goo.gl/maps/UohETyBSjG4ZE4jE7) again, partly because it was central to everywhere we needed to go and we deserved to be spoiled after Nepal! We were also able to spend an evening with Ben since he lived close enough to come into the area.  
 </br>
-
+<!--more-->
 <div style="text-align: center">
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMqOG3tFh_Usm-gDDcpCLYh_VWl4rTC0mJGnE0l4M4imhi40H7VbDpe6pC8LB9VlQ/photo/AF1QipPdOuVvr_kNB1--8MrC-3FcuTHb9NPtDIqTQB9t?key=UFlyUTNZOHgtZHFNVlJ2cG4wRlJYbUZNVzdCaXdR" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3daqjlECl_nsV06llSR2550OIM_ZtWeVzq0OARZWg4JV4Pn7aFLgqSnZwMYpRuN5lA4DSI7_536jJ9d7akB5fktn5HPg_ePYAATizUCOCd0uZI64ECpt2yhgVCeRvkXP1mEpjXDGjne_HAYBt1udYbYhg=w370-no" width="370" /><div>Ben</div></a>
 </div>

@@ -10,7 +10,7 @@ album: "https://photos.app.goo.gl/auCJzPB9De44zf6d8"
 ---
 
 10 days in Tasmania wasn’t enough. We could of easily spent at least a couple more weeks to explore this lovely island but we only had a short time left on our Ozzy visas. It remains one of our favorite places… even though we landed during a massive rain storm and spent the day hunkered in the van. 🙂
-
+<!--more-->
 </br>
 <div style="text-align: center">
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO_Dt4MjTAOb25MB3CxZpgaYIClIEjiCufBJuhZO4P-Bki90FJlYrQ8DiGwoTPwrA/photo/AF1QipNBff90gBf2AEwop4aLRg4knGVqJwUT6va4pGjm?key=c0RGSVo2Vy1iQUEyMDJDQng5U1dWcGpmWDBRbGRB" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3fXsQvQieCT2GUUr875W8YhBDzqqGX0IhwWDaQnsqVKV-08iNQ74m7l3-gCTC-G66k_8nWwp__NQAmBiHUroK1YuuGGvlcJr7bb1cOX9jNcG1h1kU3HRHgmqYPZnzwnAoW7uG8chaLttMv7qciC2-LxSw=w370-no" width="370" /><div>Raining</div></a>

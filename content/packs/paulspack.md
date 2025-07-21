@@ -10,5 +10,5 @@ omit_header_text: true
 ---
 
 This page shows what is in Paul's pack for travel. It is generated using [lighterpack.com](https://lighterpack.com) which is a great way to organize your packing lists for various activities. You can see his Pacific Crest Trail load out [here](/packs/pauls-pct-pack/) and his Annapurna Circuit load out [here](/packs/pauls-annapurna-pack/).
-
+<!--more-->
 <script src="https://lighterpack.com/e/100gxp"></script><div id="100gxp"></div>

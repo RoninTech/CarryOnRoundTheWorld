@@ -10,5 +10,5 @@ draft: false
 ---
 
 This page shows what was in Helen's pack for the Annapurna Circuit treks. It is generated using [lighterpack.com](https://lighterpack.com) which is a great way to organize your packing lists for various activities. You can see her travel load out [here](/packs/helenspack) and her PCT load out [here](/packs/helens-pct-pack/).
-
+<!--more-->
 <script src="https://lighterpack.com/e/38tlzv"></script><div id="38tlzv"></div>

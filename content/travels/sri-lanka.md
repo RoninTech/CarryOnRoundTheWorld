@@ -11,7 +11,7 @@ album: "https://photos.app.goo.gl/ra4QR62xMNmhBLdTA"
 ---
 
 Sri Lanka! It wasn't originally on our radar but our friends, Judy and Carl, had raved about their experience there so we thought hmmm... why not? Plus the photos they had sent made it look really good and they were able to give us some great ideas on places to go... so why not?
-
+<!--more-->
 ## The Flights
 
 John and Rita dropped us off at the Cranbrook Airport so we could start our journey to Sri Lanka. We used the last of Paul's Aeroplan Miles to book a business class flight to Sri Lanka so we decided to take advantage of some travel perks and did multi city stops. Our first stop was Vancouver where we spent the day with my sister Jayne. We went for lunch by where the seaplanes take off and land, then we went and explored. We took a bus out to Steveston, spent some time at one of the patios by the water chatting and relaxing, found a good sushi place and walked back down by the dikes. It was a nice way to spend the first day. Jayne took us on the Skytrain the next day to get to the airport. Next stop Seattle!

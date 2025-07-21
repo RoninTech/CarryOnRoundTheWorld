@@ -13,7 +13,7 @@ Decision Made! What? When did this happen? I know it’s been a while since I to
 
 - June – accepted offer on the house, Paul ruptured his Achilles.
 - July – sold trailer, truck, passed home inspection. Paul is in a boot and needed driving around, Helen searches for apartments and packs.
-
+<!--more-->-->
 <div style="text-align: center">
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipNzXM2ejuel-cP83GpoUxFt9iC4bXV1U2VTzFt7yNrz603xIJ6qkUjeAFAOt1-G6w/photo/AF1QipNSTVcoGFKzXb3W8_MYPZmBoPyR1ODfB2VtfGzA?key=NGhOVGJJZUVpYmVFM08wZTZzeGpMQktHYWxWX0V3" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3d2eEdkNQ-YC-rqkUpJiFVA1Z5hfxkXrF5dOrIkrXjqHR-szq1dr8-nDMMxQntIBMGRwy3WvI51Wm4HH_hz68GTQ-t9d0-GfznrAxTeHszFiky9FkMfMrdReh2CpOpVmpNuSNo8w3JqM-AKZ06cZjv9Vw=w370-no" width="370" /><div>Packing up the house</div></a>
 </div>

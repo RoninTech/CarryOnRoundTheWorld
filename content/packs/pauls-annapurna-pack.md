@@ -10,5 +10,5 @@ draft: false
 ---
 
 This page shows what was in Paul's pack for the Annapurna Circuit treks. It is generated using [lighterpack.com](https://lighterpack.com) which is a great way to organize your packing lists for various activities. You can see his travel load out [here](/packs/paulspack) and his PCT load out [here](/packs/pauls-pct-pack/).
-
+<!--more-->
 <script src="https://lighterpack.com/e/bjjjxs"></script><div id="bjjjxs"></div>
