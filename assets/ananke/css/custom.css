@@ -1,0 +1,34 @@
+.ananke-social-link.bluesky:hover {
+  fill: #1185fe;
+  color: #1185fe;
+}
+
+.ananke-social-link.mastodon:hover {
+  fill: #6364ff;
+  color: #6364ff;
+}
+
+.ananke-social-link.github:hover {
+  fill: #6cc644;
+  color: #6cc644;
+}
+
+.ananke-social-link.youtube:hover {
+  fill: #cd201f;
+  color: #cd201f;
+}
+
+.ananke-social-link.contact:hover {
+  fill: #ffa500;
+  color: #ffa500;
+}
+
+.ananke-social-link.search:hover {
+  fill: #ffff00;
+  color: #ffff00;
+}
+
+.ananke-social-link.home:hover {
+  fill: #0000ff;
+  color: #0000ff;
+}
