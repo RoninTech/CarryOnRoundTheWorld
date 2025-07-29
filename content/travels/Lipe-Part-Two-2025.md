@@ -47,7 +47,7 @@ A quick duffle drop, a short wait and we were on the speedboat back to Lipe. It 
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipNWmI92dqVH2e9u9doTQ1MCGjwJ0wQIL5wJ5ftHDntyEilkCZxItJ5fbHQXbF9dtQ/photo/AF1QipPpS5vpsZpp9hPm3whDBhyYWmWctWsKqf8Zh6E3?key=ZDFqT1lpaHI3VW04RVRDSzRKeUY3TEVTSmdZcldn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczPW5bmjbqGcv_PL5UPd7KO41kE1pwAFc5XetwBETWOtl2sFKZWu7CGEs6Qv7a7A_MUWXXjn92KOpPbha0ShbnkajBPCbz_S5rjMc-zjs3AH_NThTAVocNeD1FK4P0NapIZNL0sOmwoHouoTy6hZ-1ORFw=w1213-h910-s-no?authuser=0" width="310" /><div>Sunset</div></a>
 </div>
 
-Had a bit of a bumpy ride back to the mainland but it was fine. We arranged a night in Hat Yai, deciding to check out the old Centara before we came back to Canada. We spent the afternoon at Central seeing the latest Avengers movie, diner and getting some last minute items. The next day was a short flight to BKK. The airport hotel switched to the Hyatt, which didn’t change the room, but vastly improved the breakfast. We rested, packed and got ready for our flight back to Canada.   
+Had a bit of a bumpy ride back to the mainland but it was fine. We arranged a night in Hat Yai, deciding to check out the old Centara. Sadly, it's really showing it's age and the breakfast has gone downhill so we won't be back. We spent the afternoon at Central seeing the latest Avengers movie, diner and getting some last minute items. The next day was a short flight to BKK. The airport hotel switched to the Hyatt, which didn’t change the room, but vastly improved the breakfast. We rested, packed and got ready for our flight back to Canada.   
 
 </br>
 <div style="text-align: center">
