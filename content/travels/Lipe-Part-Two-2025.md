@@ -14,7 +14,7 @@ Yep, a second trip to Koh Lipe was in the cards! While we were sitting in Huonvi
 
 We started looking into flights and quickly remembered that Songkran, Thai New Year's, is in April and you don’t want to travel on those days. We knew we were going to be in KL having already booked flights from PER-KUL and it was an easy flight to HDY. We contacted our Airbnb host, Leo, to see if we could extend our stay a few more days, which wasn’t a problem. Next up, was to get in touch with Mikkel and Nok to see if they had any rooms. No problem! Then we booked flights from KUL-HDY, a night at the SeeSea and it was back to Lipe for us. Tik was able to let us leave the duffle at her cousin's shop again, which was great. We also booked the flights from HDY-BKK along with a night at the BKK Airport Hotel so we were sorted. All the photos are from Lipe, apartment photos in KL aren't that interesting. 
 
-KUL, April 9 - 16:
+#### KUL, April 9 to 16, 2025:
 
 After a quick shuttle to the airport, we got in the line up to drop the duffle. It was quite long, a combined check in luggage drop, but we had lots of time so it wasn't an issue. They were very strict, weighing everyone's carry on and making those that were over weight check them. One younger couple went off to the side and started layering up their clothes, no idea if it worked as we didn’t see them on the flight. We had some breakfast and a coffee before our easy flight from PER to KUL. Our row only had two seats so it was perfect as the plane was packed. Flight was smooth with no issues. Usual easy process to get through immigration and get a Grab down to the Airbnb. Leo’s apartment is nice, we had stayed the prior year, so were familiar with the building. Luckily we were both healthy this time! We had a couple of days to relax, do laundry, walk over to KLCC and go out for breakfast and coffee. Our biggest plan here was a trip to the dentist since it was time for a cleaning and stopping in Decathlon. Easily done! 
 
@@ -34,7 +34,7 @@ While here we saw a lot of comments about people with DTV’s getting stopped on
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipNWmI92dqVH2e9u9doTQ1MCGjwJ0wQIL5wJ5ftHDntyEilkCZxItJ5fbHQXbF9dtQ/photo/AF1QipNT_tRBv0JIADcYuUKDbVApeE_lqsE12AGvYKql?key=ZDFqT1lpaHI3VW04RVRDSzRKeUY3TEVTSmdZcldn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczOh3wUnWQNjG6hsEVYGsyU3lFwZ2yl5T3W6BhRpdyygK6azAskka8WGZ_P42whOGgX9PMbOmU33rfoKTU8SjoeMRwgEZKKWWvu0n4p3WSRd5yW9b4UN-zUuxmjIhoVThYTNVAU_w-wVnXvlwpFNEFYuiQ=w1213-h910-s-no?authuser=0" width="310" /><div>Hanging with Mikkel</div></a>
 </div>
 
-Lipe, April 16 - May 7:
+#### Lipe, April 16 to May 7, 2025:
  
 We headed out to the airport early due to the closures and made it there with no problems. We checked in, had a quick bite and waited by the gate. The flight was delayed a bit, but was smooth and we arrived back in Thailand with no issues. An incident between two passengers resulted in some entertainment while waiting in line at immigration, one of the officers was even called over to tell them to calm down. We made it through, no questions so didn’t have to break out our documents. We quickly got our luggage, met our driver and headed off to the SeeSea. After a walk and dinner, we sorted out the duffle and our packs before getting some sleep. 
 
