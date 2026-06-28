@@ -1,7 +1,7 @@
 ---
 title: "Decision 2026"
 date: 2025-09-04T15:59:49+07:00
-draft: false
+draft: true
 ---
 Yeah I know, Lipe and Australia again… how blasé 🙄. Hear us out on this one, please and thank you! It’s a long read but we wanted to get this in prior to the actual trip as it deserves some explanation. After summer in Canada, we had always planned to head back to Chiang Mai, go to Lipe for February and head somewhere else for March and part of April before going back to Chiang Mai. Easy right? Well Lipe was easy. We spoke to Nok and Mikkel, booked in at [The Reef](https://maps.app.goo.gl/PhUGe8dpJqRhMuKX7) and booked our flight from CNX. We’ll do a usual overnight in Pak Bara and be on Lipe, February 5. Then what? We were debating Japan, Cambodia… even a trek in Nepal came up. We had no intention of heading back to Australia so quickly, it's expensive and we figured we'd wait awhile before doing another trip. Then we had another one of those the "universe spoke" moments which are always interesting. 
 
