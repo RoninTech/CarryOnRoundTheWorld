@@ -7,7 +7,7 @@ images:
 draft: true
 author: "Helen"
 album: https://photos.app.goo.gl/uzbLWjoVwMLP1Gpc8
-omit_header_text: false
+omit_header_text: true
 ---
 
 And so we meet again East Coast Australia!  Our flight from Hobart was good and we made it over to Let’s Go’s Melbourne office to pick up another Tourer. When we originally booked the trip, we had researched what spending Autumn in Australia would be like. Along the East Coast we were told to expect mostly good weather with lots of crowds because of Easter and school holidays. Everyone advised us to book in advance. We figured we managed some long weekends and school holidays in 2024’s trip to Perth, so it would be similar. We couldn’t have been more wrong and should have factored in the population density. In December, we happened to check out some of our favorite caravan parks and while tossing in some estimated dates, found a couple of them to be solidly booked. This resulted in us spending a week coming up with a plan for our first 3 weeks. We don’t normally plan so this was a challenge for us and for the most part we stuck to it. 
