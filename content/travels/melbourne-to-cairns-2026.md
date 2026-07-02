@@ -4,7 +4,7 @@ date: 2026-06-10T12:20:31+07:00
 featured_image: "https://lh3.googleusercontent.com/pw/AP1GczOV74uClZCNTBFItw7sa59hmWiJZmz1ykYe5T-ZdFWJPRJt-_4ud8FR_pdiL_NONi8qrAm6GNTTIwUwHigQHWlP6RA5YLNjOHlN83tKuF_ysqcqRdee6NZnFZpC_AxnIvmotk5XaeOQeubaK2BUXdQ18g=w1449-h816-s-no?authuser=0"
 images:
   - "https://lh3.googleusercontent.com/pw/AP1GczOV74uClZCNTBFItw7sa59hmWiJZmz1ykYe5T-ZdFWJPRJt-_4ud8FR_pdiL_NONi8qrAm6GNTTIwUwHigQHWlP6RA5YLNjOHlN83tKuF_ysqcqRdee6NZnFZpC_AxnIvmotk5XaeOQeubaK2BUXdQ18g=w1449-h816-s-no?authuser=0"
-draft: true
+draft: false
 author: "Helen"
 album: https://photos.app.goo.gl/uzbLWjoVwMLP1Gpc8
 omit_header_text: true
