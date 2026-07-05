@@ -36,10 +36,11 @@ The next morning Rob, from [Tassie Motor Shacks](https://maps.app.goo.gl/1pFuYbD
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO3QpUdnEvzH37Xp0ME80iSqRNhIrnOnoNueFoitIVfyL2BMNj3A9VW0aeocMMGIg/photo/AF1QipMWXLX7WjqfAI9L4Fscm_gk7nZwoMPvN4r98iQp?key=VW53dllYcFAyRjlKc0xFaVotU0poZ2FEcmluQ0Zn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczOPuFt0AZaGojMzxnwpFtx1qmlR97KWeXBvmd2myFgK44UyNe94Rd2EIw2Q4GKwbB_g-W1Tm-TWTzSCM5DpnnstvM73frkohD5XqjDFT84BGAVqronddVnsZ8p9ViHDThO7yxlVmG5EBbNEYz7y6HBzZg=w512-h909-s-no?authuser=0" width="200" /><div>Left our mark</div></a>
 </div>
 </br>
-<div style="text-align: center">
-  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO3QpUdnEvzH37Xp0ME80iSqRNhIrnOnoNueFoitIVfyL2BMNj3A9VW0aeocMMGIg?key=VW53dllYcFAyRjlKc0xFaVotU0poZ2FEcmluQ0Zn" target="_blank"><img loading="lazy" src="https://photos.google.com/share/AF1QipO3QpUdnEvzH37Xp0ME80iSqRNhIrnOnoNueFoitIVfyL2BMNj3A9VW0aeocMMGIg/photo/AF1QipOHWwfIfq9zo-Ejc8ZtCfZzuuM9FYTvwi2J5J8R?key=VW53dllYcFAyRjlKc0xFaVotU0poZ2FEcmluQ0Zn" width="200" /><div>Drew Blundell Placeholder</div></a>
-</div>
 
+
+</br>
+{{< youtube 0aPiTJYObLY >}}
+</br>
 
 We spent the next few weeks walking around [Mt. Field National Park](https://maps.app.goo.gl/hCN4aeDFRmVx5pfx9). Some days we did a shorter walk where we went along the Tyenna, across the bridge and around the front of the park. Other days hitting up the 3 Falls, Tall Trees hike. We finally figured out the short cut that removed about 200 stairs… thanks Mel! 🤗 Adrian, Mel and the kids, Craig, Bill, Nev, Tassie Paul (the singer) and Mark were all there at various times. There was live music with Drew Blundell, which was really good. He even knew some Tragically Hip! Drew played another night with a fiddle player called Pixie Jenkins, who was also awesome. We had a couple of quieter nights with Tassie Paul singing. Our last night was a free concert by 8 Ball Aitkin and Tanya, which was really good. There was shared roast lamb, white anchovies and blue cheese, sausages, sushi shared around the firepit and I made Pad Kra Pao one night. We had some cool, rainy nights which had us appreciating the remote operated diesel heater in the van. We'd turn it on before getting up in the morning and it kept the van toasty. Paul helped Craig with some wiring on his bike, then Nev with his solar controller and Alan with some wiring. We had lots of interesting, and occasionally weird, conversations around the fire while tasty beverages were consumed. It was really great to just relax with everyone. 
 
