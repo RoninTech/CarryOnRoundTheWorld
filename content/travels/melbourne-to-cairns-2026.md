@@ -1,7 +1,8 @@
 ---
 title: "Melbourne to Cairns 2026"
 date: 2026-06-10T12:20:31+07:00
-featured_image: "https://photos.google.com/share/AF1QipNgCu-5tErh4vwaoQ-cC2ZaHNvNMFRn-U7eXvxHwd_urBNlWKEnGb2NRKsezgCHxA/photo/AF1QipO6Eyj5F9CNlM2rFn0SlHjBxHL_R7oIv329nfZz?key=emtTZm1mN19XNWRVd08tYkJxcUV3ZFhQaG5SZmFR"
+featured_image: "https://lh3.googleusercontent.com/pw/AP1GczPRy3Vj0anepE4BD6NZ0pbcoYmIiDUM3Q0Te_b8NjD1J5FhTieZFBwILUgZ02eLEdAZbAI1I8iOevtSsXOjBEFQkQFg1RIUqw9e-n8gXX-cWWjxpfJEuoa9v9vgysLicV-zUuIvL5r1y-oorK3k-tePaw=w1449-h816-s-no?authuser=0"
+featured_image_class: "cover bg-center"
 images:
   - "https://lh3.googleusercontent.com/pw/AP1GczPRy3Vj0anepE4BD6NZ0pbcoYmIiDUM3Q0Te_b8NjD1J5FhTieZFBwILUgZ02eLEdAZbAI1I8iOevtSsXOjBEFQkQFg1RIUqw9e-n8gXX-cWWjxpfJEuoa9v9vgysLicV-zUuIvL5r1y-oorK3k-tePaw=w1449-h816-s-no?authuser=0"
 draft: false
