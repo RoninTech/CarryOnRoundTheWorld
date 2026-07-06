@@ -7,7 +7,7 @@ images:
 draft: false
 author: "Helen"
 album: https://photos.app.goo.gl/wTwCt3ugUm44ZFmN7
-omit_header_text: false
+omit_header_text: true
 ---
 
  CNS-SIN-BKK
