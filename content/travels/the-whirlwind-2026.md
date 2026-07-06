@@ -1,5 +1,5 @@
 ---
-title: "The Whirlwind 2026"
+title: "The Whirlwind"
 date: 2026-06-28T12:29:46+07:00
 featured_image: "https://lh3.googleusercontent.com/pw/AP1GczMpqOE9tW9U-hJY3wK2pm64Bsld5l3WT4rAY62VR2BRnEtVdXlKih8eBf4zHYQ7OXdAnlo6WYOnSETdm6IKGxb8qMXHO-4mhILTHKtGqYRWyM8AWS7pnl57rqqIU7853AJ3zG1vQMbDPvGbQqdg7OIVIg=w1089-h613-s-no?authuser=0"
 images:
