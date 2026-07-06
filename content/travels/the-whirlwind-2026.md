@@ -1,9 +1,9 @@
 ---
 title: "The Whirlwind 2026"
 date: 2026-06-28T12:29:46+07:00
-featured_image: "https://photos.google.com/share/AF1QipPtV3vqvUQ59FVlX9VDHgmQTAsY3B6yYjQhnwwiViMCdd0jDKuaWB40Wh_BS44K9g/photo/AF1QipM8yQQxVjiOQMuAh0Gm0GtmIWlr-hKW3phO7KNC?key=MDdSNUZoOGhyYW5SSVh5dlBmbGxqMEhYYzBFS2Jn"
+featured_image: "https://lh3.googleusercontent.com/pw/AP1GczMpqOE9tW9U-hJY3wK2pm64Bsld5l3WT4rAY62VR2BRnEtVdXlKih8eBf4zHYQ7OXdAnlo6WYOnSETdm6IKGxb8qMXHO-4mhILTHKtGqYRWyM8AWS7pnl57rqqIU7853AJ3zG1vQMbDPvGbQqdg7OIVIg=w1089-h613-s-no?authuser=0"
 images:
-  - "https://photos.google.com/share/AF1QipPtV3vqvUQ59FVlX9VDHgmQTAsY3B6yYjQhnwwiViMCdd0jDKuaWB40Wh_BS44K9g/photo/AF1QipM8yQQxVjiOQMuAh0Gm0GtmIWlr-hKW3phO7KNC?key=MDdSNUZoOGhyYW5SSVh5dlBmbGxqMEhYYzBFS2Jn"
+  - "https://lh3.googleusercontent.com/pw/AP1GczMpqOE9tW9U-hJY3wK2pm64Bsld5l3WT4rAY62VR2BRnEtVdXlKih8eBf4zHYQ7OXdAnlo6WYOnSETdm6IKGxb8qMXHO-4mhILTHKtGqYRWyM8AWS7pnl57rqqIU7853AJ3zG1vQMbDPvGbQqdg7OIVIg=w1089-h613-s-no?authuser=0"
 draft: false
 author: "Helen"
 album: https://photos.app.goo.gl/wTwCt3ugUm44ZFmN7
