@@ -39,7 +39,7 @@ We were able to get our dengue vaccine which was a big relief. With the cooler w
 
 With the new visas and entry changes, Thailand also updated their tax laws and it became a bit muddled. If you stay 180 days you become a tax resident, that’s reasonable, cut and dried. What isn’t clear is what you will be taxed on, is it only income brought into Thailand or only if your country doesn't have a tax treaty or what rate you pay if items aren’t taxed in your home country but are in Thailand. It’s mass confusion and there is a lot of misinformation out there. We decided to stay under 180 days for this year so that we can see how it all works out. That meant 12 days where we’d need to be outside the country to stay under the timeline so we needed to make a trip. We decided to head to Malaysia as it was easiest and we could see the dentist before heading to Penang. 
 
-Malaysia - Kuala Lumpur and Penang - October 12-21, 2024
+### Malaysia - Kuala Lumpur and Penang - October 12-21, 2024
 
 We got easy flights to KUL from CNX with Malaysia Airlines. Never flown with them before but they had the best timed flights so we decided to give them a go. Worked out great, we had a smooth flight and good service. We had booked an AirBnb in KL that was very close to KLCC and the dentist. Our first night we started with a meal from My Biryani house which is tradition. The apartment had a view of the [Menara Kuala Lumpur](https://kltower.com.my/) which was lit up every night. We were on floor 13A which is really the 15th floor when all other A floors were counted. If you continue reading you'll see why this matters. 
 
