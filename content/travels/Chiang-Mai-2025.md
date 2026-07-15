@@ -39,7 +39,7 @@ There was a horrible flooding situation in Southern Thailand that affected many 
 
 We were well enough to attend a very special event and headed out to Mae Taeng for Kot & Yves wedding! They had done the official documents in the fall but had the actual ceremony on November 22. They did the tying/blessing ceremony in the morning at the local temple with close family and friends. We went out for the late afternoon and evening. It was great to see them both and they were just so happy. There were videos from all their friends, many who we know from Lipe. 
 
-We’ve also had a quick 3 night trip to Kuala Lumpur. We were only 2 nights away from being under 180 days for the tax residency and it was time for our dental cleaning so we felt it was a good idea. The timing was questionable, all things considered, but we made it work. Since we’ve been back we have been out to meet Bo, Ian and Ness at Solros and a couple of other restaurants. As well as being invited to meet some new friends of theirs along with Peter & Luigi, which was another great night at Solros. I finished the sessions at the gym with no further delays. Tomas & Romana are back in Chiang Mai for a couple of months, so have been out for dinner. We've managed to see Matt for coffee and then dinner with Kot and Yves. 
+We’ve also had a quick 3 night trip to Kuala Lumpur. We were only 2 nights away from being under 180 days for the tax residency and it was time for our dental cleaning so we felt it was a good idea. The timing was questionable, all things considered, but we made it work. Since getting back, we’ve been out to meet Bo, Ian, and Ness at Solros and a couple of other restaurants. We were also invited to meet some of their new friends alongside Peter and Luigi, which turned into another great night at Solros. I finished the sessions at the gym with no further delays. Tomas & Romana are back in Chiang Mai for a couple of months, so we have also been out for dinner. We've managed to see Matt for coffee and then dinner with Kot and Yves. 
 
 </br>
 <div style="text-align: center">
@@ -50,7 +50,7 @@ We’ve also had a quick 3 night trip to Kuala Lumpur. We were only 2 nights awa
 </div>
 
 
-We had a quiet Christmas, did our phone calls home and headed out for a cheeky Indian and a glass of wine. We had a nice meal with Bo and Pack at [Billy's](https://maps.app.goo.gl/9Vh5TP8aGHMarz4V6). We walked over to Solros then to Peter & Luigi’s for New Years Eve. A lovely surprise when Ronnie and Sarah, who we met back in [Laos 2017](https://carryonrtw.com/travels/the-land-of-laos/) got in touch. They were in Chiang Mai with their kids and we were able to meet for dinner. We had several more dinners and meet ups with friends planned and one more visit out to Mae Taeng. 
+We had a quiet Christmas, did our phone calls home and headed out for a cheeky Indian and a glass of wine. We had a nice meal with Bo and Pack at [Billy's](https://maps.app.goo.gl/9Vh5TP8aGHMarz4V6). We walked over to Solros then to Peter & Luigi’s for New Years Eve. A lovely surprise when Ronnie and Sarah, who we met back in [Laos 2017](https://carryonrtw.com/travels/the-land-of-laos/) got in touch. They were in Chiang Mai with their kids and we were able to meet for dinner. Robin was in town, so we got to see him twice as well. We had several more dinners and meet ups with friends planned and one more visit out to Mae Taeng. 
 
 </br>
 <div style="text-align: center">
