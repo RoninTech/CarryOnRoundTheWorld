@@ -10,6 +10,7 @@ author: "Helen"
 album: https://photos.app.goo.gl/tkkmQEoWt3mUjZ3y9
 omit_header_text: false
 description: ". "
+show_nav_menu: true
 ---
 
 And so we meet again East Coast Australia! When we originally booked the trip, we were told to expect mostly good weather but lots of crowds because of Easter and school holidays. Everyone advised us to book in advance. We figured we managed some long weekends and school holidays in our 2024 trip to [Perth](https://carryonrtw.com/travels/australia-melbourne-to-perth-2024/), so thought it would be similar. We couldn’t have been more wrong and should have factored in that, approximately, 80% of Australia's population lives on the East Coast. 
