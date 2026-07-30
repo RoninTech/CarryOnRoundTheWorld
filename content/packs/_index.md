@@ -4,7 +4,8 @@ date: 2020-09-09T20:35:00-07:00
 draft: false
 featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3fLq15dEYt66DPRcAZQLgZ8QIrgwZsdxw7kLf7kM83gnyqwbqaTOpw65NfH7kwrHQyC61gFkSq3pDVSBlD86W35y3t5M5Yw0bSrWuqFOxMe2HiwEIyEuStQThuUYJ4YDFZYimymDQTGM1HzKb_gj9dIaA=w1216-h912-no"
 author: "Paul"
-omit_header_text: true
+omit_header_text: false
+description: "\b"
 ---
 
 Traveling with carry on bags only is an ongoing process. When we first started serious traveling on our Y2K month long honeymoon to Thailand, we both had 65L packs ([Arc'Teryx Bora 65s](/articles/arcteryx-bora-65/)) that weighed about 14kg each when packed. The pack alone was almost 2Kg. We used these for backpacking in Canada and for our annual trips to SEA to avoid the depths of Canadian winters. In 2016 when we were in the process of retiring and down sizing for world travel, we knew we wanted smaller packs for Carry On so wouldn't have to worry about lost luggage anymore (which had happened 3 times over the years). We ended up switching to a 40L backpacking pack for Paul and a 38L pack for Helen (Gregory J38 and Gregory Z40 from 2016). When packed they weigh close to 7kg each along with a small carry on personal item of about 2kg. The carry on personal items fold down to small sizes and are stored in our main packs when not in use. These packs were half of the weight of our old Arc'Teryx Bora 65s.

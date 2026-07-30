@@ -7,7 +7,8 @@ images:
 draft: false
 author: "Helen"
 album: https://photos.app.goo.gl/z3FDLwfsr2pnWxkf8
-omit_header_text: true
+omit_header_text: false
+description: "\b"
 ---
 
 Yes, we are heading back to Australia… again 🤷. Tasmania specifically which shouldn’t be surprising since we’ve both said we could live here. While in Chiang Mai, we had seen a series from a fairly popular youtube channel, [One Pack Wanderers](https://youtu.be/PiQDul738LA), who had spent some time in Tasmania. As we were watching it, we realized two things: 1) we wanted to go back 2) it was becoming more and more popular. So knowing what happens when youtube discovers a place, looking at you [Khao Soi Maesai Chiang Mai](https://maps.app.goo.gl/mjcbhGMeLE5rQEQ47), it didn’t take us long to make a return to Tasmania a priority. We’d also be going at a different time of year which would be a new adventure. 

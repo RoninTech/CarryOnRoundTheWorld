@@ -2,11 +2,12 @@
 title: "Bangkok & Chiang Mai 2020"
 date: 2020-01-15T12:40:22-06:00
 draft: false
-featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3fQXTYZk2T_iVcTTvnaOCrAEkelYTkq7CN0GqW0LHViEKA81UTcCNtls8nmzI1cuSgT7l3bZbfIZtgUTIweeFg011EIoIk1wa3DbHRpHhDrlby7B8Hq9D-_3M-ywLKo6h_SXQ7nOC259QA9uvBCrMOmIQ=w1300-h975-no"
+featured_image: "https://lh3.googleusercontent.com/pw/AP1GczNgUoxroZeZPxWBRvTzYySlo643Z_B73m0w3kP36S9OnUVx-yu6SdooTdoYDQ1_oiiJ1uAnmRT9sTDBa_q8dfetqrp5eqCK4MIrN7PIa2XOlP1qjpNqI46oMV-68WlOPa7WjmqHSoXwGGFQt22_16NX9A=w1183-h887-s-no?authuser=0"
 images:
-  - "https://lh3.googleusercontent.com/pw/ACtC-3fQXTYZk2T_iVcTTvnaOCrAEkelYTkq7CN0GqW0LHViEKA81UTcCNtls8nmzI1cuSgT7l3bZbfIZtgUTIweeFg011EIoIk1wa3DbHRpHhDrlby7B8Hq9D-_3M-ywLKo6h_SXQ7nOC259QA9uvBCrMOmIQ=w1300-h975-no"
+  - "https://lh3.googleusercontent.com/pw/AP1GczNgUoxroZeZPxWBRvTzYySlo643Z_B73m0w3kP36S9OnUVx-yu6SdooTdoYDQ1_oiiJ1uAnmRT9sTDBa_q8dfetqrp5eqCK4MIrN7PIa2XOlP1qjpNqI46oMV-68WlOPa7WjmqHSoXwGGFQt22_16NX9A=w1183-h887-s-no?authuser=0"
 author: "Helen"
-omit_header_text: true
+omit_header_text: false
+description: "\b"
 album: "https://photos.app.goo.gl/WC9zkF8mjnNPtBJd8"
 ---
 John and Rita dropped us off at Cranbrook airport on December 12. It was a nice morning but there had been some snow. We'd left early so we could take our time on the drive and went for coffee together before leaving. Our flight this time was [Cranbrook-Vancouver-Tokyo-Bangkok](http://www.gcmap.com/mapui?P=YXC-YVR-HND-BKK). I had arranged to meet my sister Jayne at the airport. We were supposed to have 2 hours in Vancouver but it was pouring when we arrived and took over 30 minutes to get a gate and get off the plane. We did get to spend a quick half hour with Jayne before we headed through customs.

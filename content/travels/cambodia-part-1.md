@@ -1,11 +1,13 @@
 ---
 title: "Cambodia"
 date: 2017-07-20T07:28:16-07:00
-featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3eSxmNQwhsFdayjWsjtDjCbh1hLq5SfONxzl1OhEwpo4cxFkuB1BGS6uKFAtMLNadITHyfRuqZXKHn6xbSo0mxJmdgXr94dOmh042qZgKTMx_BCkXVNymtfQLrc4UwV-JXjITf-6jl5LuVDjgeri29RAw=w1210-h908-no"
+featured_image: "https://lh3.googleusercontent.com/pw/AP1GczORzV_9NQFLJvGVzBb6H1bDh3bf6QSfMdXCcfb2stVLWZobjsPXUz6rCL895EQKV7AXdJFyQbWPr_O4_BpTp6cRd_h26OI_LcnwDwO12vN8WZCFFOUYJpg6VXgdGXSNyTHErhHDDD1fFPpWSUhAmVdmQQ=w1183-h887-s-no?authuser=0"
 images:
-  - "https://lh3.googleusercontent.com/pw/ACtC-3eSxmNQwhsFdayjWsjtDjCbh1hLq5SfONxzl1OhEwpo4cxFkuB1BGS6uKFAtMLNadITHyfRuqZXKHn6xbSo0mxJmdgXr94dOmh042qZgKTMx_BCkXVNymtfQLrc4UwV-JXjITf-6jl5LuVDjgeri29RAw=w1210-h908-no"
+  - "https://lh3.googleusercontent.com/pw/AP1GczORzV_9NQFLJvGVzBb6H1bDh3bf6QSfMdXCcfb2stVLWZobjsPXUz6rCL895EQKV7AXdJFyQbWPr_O4_BpTp6cRd_h26OI_LcnwDwO12vN8WZCFFOUYJpg6VXgdGXSNyTHErhHDDD1fFPpWSUhAmVdmQQ=w1183-h887-s-no?authuser=0"
+featured_image_class: "cover bg-center"
 author: "Helen"
-omit_header_text: true
+omit_header_text: false
+description: "\b"
 album: "https://photos.app.goo.gl/IrhmfIOGEZrs7Lxz1"
 ---
 

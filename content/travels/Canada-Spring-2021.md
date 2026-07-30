@@ -1,11 +1,12 @@
 ---
 title: "Canada 2021"
 date: 2021-05-09T16:37:33-07:00
-featured_image: "https://lh3.googleusercontent.com/pw/AM-JKLVs6L5Y8Hj-jIuIjV_Wmnn-h9cBlFXx5EhHMp1A3uInkPxPYZOXuxDIlcKKO926P_cSMEMPl-KGkBYnDVpYoF9higd6n0ZDuQ4-rNLWRzkywKYeNuntUcKWKUyyVGt0kk8UA-B6qbW5b_QLhFviz10dXQ=w315-no?authuser=0"
+featured_image: "https://lh3.googleusercontent.com/pw/AP1GczOGAs1L0cCmSJsz-WviG3l5Wf048yLJ-IxE_v4wWzufegWHCMv3ZKMOp3p_hh5-0x2tybRh9VkzFGgCdi47qnoYU9mCIReMmeojjGBshBJeenAfOgbRsi9E9-oOTGF5t508ycxY6cyxjt9ef3KHTapYzA=w1183-h887-s-no?authuser=0"
 images:
-  - "https://lh3.googleusercontent.com/pw/AM-JKLVs6L5Y8Hj-jIuIjV_Wmnn-h9cBlFXx5EhHMp1A3uInkPxPYZOXuxDIlcKKO926P_cSMEMPl-KGkBYnDVpYoF9higd6n0ZDuQ4-rNLWRzkywKYeNuntUcKWKUyyVGt0kk8UA-B6qbW5b_QLhFviz10dXQ=w315-no?authuser=0"
+  - "hhttps://lh3.googleusercontent.com/pw/AP1GczOGAs1L0cCmSJsz-WviG3l5Wf048yLJ-IxE_v4wWzufegWHCMv3ZKMOp3p_hh5-0x2tybRh9VkzFGgCdi47qnoYU9mCIReMmeojjGBshBJeenAfOgbRsi9E9-oOTGF5t508ycxY6cyxjt9ef3KHTapYzA=w1183-h887-s-no?authuser=0"
 author: "Helen"
-omit_header_text: true
+omit_header_text: false
+description: "\b"
 ---
 
 With the resurgence of COVID in Canada, they had made further entry restrictions. For Canadian citizens we had to have a negative covid test result within 72 hours prior to arrival, take another test on arrival and go to a quarantine hotel for a minimum of 3 nights or until we received a negative result. If you received your negative results in less than 3 days, you were not reimbursed for unused nights and still paid the full amount of $500/night BUT then you were allowed to move to your final destination using air, train or any form of public transportation! Once you were at your final destination you had to quarantine for 14 days with another test on day 8. I wouldn’t consider myself political but I have to say these restrictions were useless and were only so the current government could say “hey we did stuff”. Our quarantine in Canada cost almost as much as our 15 nights in a 5 star hotel in BKK… CRAZY!!! Anyhoo, back to the story...

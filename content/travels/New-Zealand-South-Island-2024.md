@@ -7,7 +7,8 @@ images:
 draft: false
 author: "Helen"
 album:  https://photos.app.goo.gl/WBAKnQ77Mr3TJzVU6
-omit_header_text: true
+omit_header_text: false
+description: "\b"
 ---
 Being just after New Year’s it was really, really busy and so we ended up having to book the lunch time ferry. When we got on board we went up top quickly but it was quite windy so we headed down, just as quickly, to find some seats. Smart decision as they closed the top deck due to the wind as soon as we left the port and everyone was scrambling for spots. We managed to get some comfortable seats and even had a bit of a view. <!--more--> Since it was just after the holidays, there were loads of people, a lot of families and so many kids. There was a clown making balloon shapes and a scavenger hunt to keep them busy but it had mixed results. We used the time to make a couple of plans and read our books. The crossing was smooth and we arrived as scheduled. When disembarking, we had a minor scare when the older van in front of us ended up putting up their hood but whatever they did worked so we didn’t have any delays.
 

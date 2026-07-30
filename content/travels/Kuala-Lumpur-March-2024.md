@@ -7,7 +7,8 @@ images:
 draft: false
 author: "Helen"
 album: https://photos.app.goo.gl/KRzNiCDhgmga76mL7
-omit_header_text: true
+omit_header_text: false
+description: "\b"
 ---
 
 When making our travel plans in [2023](/travels/decision-2023/) we had about 6 weeks between dropping off Skippy in Perth and heading back to Canada. We had found the best value for flights was with Air Asia PER-KUL so had booked the flights to depart near the end of March. During our travels in Australia and New Zealand we discussed if we wanted to spend time traveling around Malaysia or would we prefer to settle somewhere for a bit. Not surprisingly, settling somewhere won since we had been on the go for 6 months.<!--more--> Our friends, Ness and Ian, have a condo in Hua Hin, Thailand and had offered to let us stay previously but the timing never quite worked.  We had often discussed checking out the area to see what it was like, we'd never been before and had heard good things.  We got in touch and the dates worked, they wouldn't be using the condo and we were welcome to stay.  We could do a quick KL dentist visit, easily get flights to Bangkok and from there it was a short 3 hour taxi to Hua Hin.  This would give us just under a month in Thailand before leaving for our flights to Canada. While we were traveling our retirement extensions for Thailand had lapsed but we could enter visa exempt(30 days). So we had a plan. 

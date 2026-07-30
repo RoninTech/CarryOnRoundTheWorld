@@ -8,7 +8,8 @@ draft: false
   - "https://lh3.googleusercontent.com/pw/AP1GczODkqGrviPXBKs-iDepY-QH1WH6VbgzG9Iu_orC2b0rlu0eyEYHpUBiotppDadEUy8RS2-8BCai4ecKlEaBdxBnJ9hSZjkjePU3lqSg6R1ZD0_me8nxQNqjnT3gUOL4t6_5mKbHUIpuzvMGMndtecEiSQ=w1196-h897-s-no?authuser=0"
 author: "Helen"
 album: "https://photos.app.goo.gl/KRzNiCDhgmga76mL7"
-omit_header_text: true
+omit_header_text: false
+description: "\b"
 ---
 
 Our flight to BKK from KL left quite early, so we had to be up at 4 am which is never pleasant. We had checked in online but the KL airport was a bit of a nuthouse. The Air Asia self check-in machines weren’t very user friendly, people weren't getting their luggage tags and there were larger groups all trying to check-in… staff did their best and in the end we got through. We even had time for coffee! We went and hung out at the gate where the weirdest thing happened.<!--more--> A larger Chinese tour group showed up and started taking pictures with me… no idea if it was because I smiled at one lady, looked funny or they thought I was someone else. This went on for about 15 minutes of people sitting with me, putting arms around me and holding my hand and we still have no idea why. Paul was about to help me out and put a stop to it when we started boarding.

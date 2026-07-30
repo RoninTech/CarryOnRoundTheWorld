@@ -5,7 +5,8 @@ featured_image: "https://lh3.googleusercontent.com/pw/AM-JKLWgXfTL-YYlXN5sQt0gxC
 images:
   - "https://lh3.googleusercontent.com/pw/AM-JKLWgXfTL-YYlXN5sQt0gxCxmsL8Ql12smKzIjliizFiHCHBTS6jeAvl-am7F3a-dlydkmBdDorFcHp_hLjqPnm-3330vQjJq6NTXoQFNy6oDz65adexsiSC4fRUpIGtWLjV4QMWiBqDF6l1LlPjreKM95w=w850-h637-no?authuser=0"
 author: "Helen"
-omit_header_text: true
+omit_header_text: false
+description: "\b"
 ---
 
 December 13, 2020 and we are off on our next adventure… hopefully! We packed up the apartment and Paul’s parents took us to the Cranbrook airport for a quick hop to Vancouver. Once there, we masked up and headed to the Marriott Vancouver where other then the Covid-19 tests, the plan was to hideout until Wednesday at midnight when our EVA Air flight leaves. If everything goes to plan, we will then be on our way to Thailand.

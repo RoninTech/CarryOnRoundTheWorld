@@ -6,7 +6,8 @@ featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3d6cMHax2ivu98BtvuUO0
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3d6cMHax2ivu98BtvuUO0ETlh7RH9NsvnMUribTAlBiNWVWg831qsIfmU2DyH3SGfXN5Ggqmd9-5wh4Lhqn51o8VXLKTd_6n5q0wM3QiSobi7ELNvO2Pts1q3s8od9LoKEPIQcJ4xRXJrriBRLCnIgsCg=w1210-h908-no"
 author: "Helen"
-omit_header_text: true
+omit_header_text: false
+description: "\b"
 album: "https://photos.app.goo.gl/esSFk43cjfq5oeUm7"
 ---
 

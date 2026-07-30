@@ -5,7 +5,8 @@ images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3cIHwloNWDNzbmrs9zjP1IMY3dTwjcBK-nlazzyG-p55SgqrripkjmG0pqahMbGWXvX5KPVMDlCCaCsoLqzrcEuTBqehgwAtH_YrjvLwlIojUtyiTjYeog5Q_eyaQphKJ3BE9V7zRR1NnDDvWTEdrbErg=w1920-h670-no"
 author: "Paul"
 date: 2020-09-09T18:26:37-07:00
-omit_header_text: true
+omit_header_text: false
+description: "\b"
 draft: false
 ---
 

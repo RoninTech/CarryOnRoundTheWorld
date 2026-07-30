@@ -1,11 +1,12 @@
 ---
 title: "Chiang Mai January-February 2021"
 date: 2021-01-02T16:37:33-07:00
-featured_image: "https://lh3.googleusercontent.com/pw/AM-JKLUsl4WvF-LIq1k0B9rPlV38AqHsE-whkpdOG1rxCwLvz7YG6dTZTFI_NvM2_pvawFBFwn_bXgNm4eeIcsMU1KtcJyd1bG3AVla0IUrMtYtpJ75mfIUERlALV3qIWy2_3uMwuYPrL0SYnBM0YWHfoNr9Dw=w315-no?authuser=0"
+featured_image: "https://lh3.googleusercontent.com/pw/AP1GczMS9AW7Niq0TUiz9M1fgh_5YEYkn6joxS9Mt1Zt6NwHsycdJWZEopcOSySLK2bcmJMV7U3rJRxDzSIWGUQhWbh3RW3DcjA-r-qagnbFfjOcOb6UigFp0Opl5iT0WJjpqID3tJ65al9ARhA9ptxz9O2d7w=w1183-h887-s-no?authuser=0"
 images:
-  - "https://lh3.googleusercontent.com/pw/AM-JKLUsl4WvF-LIq1k0B9rPlV38AqHsE-whkpdOG1rxCwLvz7YG6dTZTFI_NvM2_pvawFBFwn_bXgNm4eeIcsMU1KtcJyd1bG3AVla0IUrMtYtpJ75mfIUERlALV3qIWy2_3uMwuYPrL0SYnBM0YWHfoNr9Dw=w315-no?authuser=0"
+  - "https://lh3.googleusercontent.com/pw/AP1GczMS9AW7Niq0TUiz9M1fgh_5YEYkn6joxS9Mt1Zt6NwHsycdJWZEopcOSySLK2bcmJMV7U3rJRxDzSIWGUQhWbh3RW3DcjA-r-qagnbFfjOcOb6UigFp0Opl5iT0WJjpqID3tJ65al9ARhA9ptxz9O2d7w=w1183-h887-s-no?authuser=0"
 author: "Helen"
-omit_header_text: true
+omit_header_text: false
+description: "\b"
 album: "https://photos.app.goo.gl/LbwvYzDjGv8FGwU78"
 ---
 

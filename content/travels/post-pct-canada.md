@@ -2,11 +2,12 @@
 title: "Post PCT Canada"
 date: 2019-12-15T12:40:22-06:00
 draft: false
-featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3fAwK8aPgg0D8bjPIVfXocV5LLKGRWvqjxrM4EcBSo3nASEYo0caudNF21s3pulFVhn_v34XUqxty15pHWDqPE1zFW6b1Z25es596Alh53qCeEIGfkMbbKMB0DRKQi1gJZ5oOgBlZzw8Rd80KaR1lnZhw=w1300-h975-no"
+featured_image: "https://lh3.googleusercontent.com/pw/AP1GczPQWYgJJz616B8LogL_0IZTapTx8bgj4nbzIuF17YpAD53fsHblcsGjwzzBHTQJALi1KBWifgUARSfoUu-Z7ElGVUbzlY0ewIvFH8aev4bjUuYuL39CWhtREBqi6q8dZC-vqTCTHCtMzlqB_jF3rqox7A=w1127-h845-s-no?authuser=0"
 images:
-  - "https://lh3.googleusercontent.com/pw/ACtC-3fAwK8aPgg0D8bjPIVfXocV5LLKGRWvqjxrM4EcBSo3nASEYo0caudNF21s3pulFVhn_v34XUqxty15pHWDqPE1zFW6b1Z25es596Alh53qCeEIGfkMbbKMB0DRKQi1gJZ5oOgBlZzw8Rd80KaR1lnZhw=w1300-h975-no"
+  - "https://lh3.googleusercontent.com/pw/AP1GczPQWYgJJz616B8LogL_0IZTapTx8bgj4nbzIuF17YpAD53fsHblcsGjwzzBHTQJALi1KBWifgUARSfoUu-Z7ElGVUbzlY0ewIvFH8aev4bjUuYuL39CWhtREBqi6q8dZC-vqTCTHCtMzlqB_jF3rqox7A=w1127-h845-s-no?authuser=0"
 author: "Helen"
-omit_header_text: true
+omit_header_text: false
+description: "\b"
 ---
 
 Leaving the PCT was one of the hardest decisions we have made but we both believe that it was the right choice. Paul’s knee was getting worse, my feet were constantly sore and neither of us was feeling right. We called our parents from our last camp spot to discuss options. All of them were so supportive and encouraging about our decision. It helped us to feel more comfortable about the decision to return.

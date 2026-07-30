@@ -3,7 +3,7 @@ title: "Carry On Round The World"
 featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3cIHwloNWDNzbmrs9zjP1IMY3dTwjcBK-nlazzyG-p55SgqrripkjmG0pqahMbGWXvX5KPVMDlCCaCsoLqzrcEuTBqehgwAtH_YrjvLwlIojUtyiTjYeog5Q_eyaQphKJ3BE9V7zRR1NnDDvWTEdrbErg=w1920-h670-no"
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3cIHwloNWDNzbmrs9zjP1IMY3dTwjcBK-nlazzyG-p55SgqrripkjmG0pqahMbGWXvX5KPVMDlCCaCsoLqzrcEuTBqehgwAtH_YrjvLwlIojUtyiTjYeog5Q_eyaQphKJ3BE9V7zRR1NnDDvWTEdrbErg=w1920-h670-no"
-description: ""
+description: "\b"
 ---
 
 On February 28th, 2017 we left Calgary, Canada on a one way ticket to South East Asia after selling our house and most of our possessions and retiring early. After a lot of preparation it was the start of a massive ongoing adventure. This is how long ago our adventure started:

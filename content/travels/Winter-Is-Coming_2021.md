@@ -1,11 +1,12 @@
 ---
 title: "Winter Is Coming 2021"
 date: 2021-09-22T16:37:33-07:00
-featured_image: "https://lh3.googleusercontent.com/pw/AM-JKLUE82FajhvtKiK10C3-ml5es-vZA6egq7vzssXe8JCfZn3aSpJwADo77IdogyEcqvSY4XZe_uReDxmjsI0yZtvxhl0qbkhhwWTHZwDI7EnxsVL1-FuN8NrVQPbsSdk8ZnRrhWndrf2pNVzOZzGLPhUCxg=w315-no?authuser=0"
+featured_image: "https://lh3.googleusercontent.com/pw/AP1GczPRFiB9lUXFZm_C5vNqYLI4E5DjoiELf373HUBUq9moJ1zWWf2QN_9ZH22eqh8EZxWFpgc1tTUOgecuMx_NVK5BVmRkCFGnOWY7b_p-EaOugi2c_vXizMaVHWdB8T7_Lz5JfKTwLc-Swq-wGsTcXHzPBQ=w1183-h887-s-no?authuser=0"
 images:
-  - "https://lh3.googleusercontent.com/pw/AM-JKLUE82FajhvtKiK10C3-ml5es-vZA6egq7vzssXe8JCfZn3aSpJwADo77IdogyEcqvSY4XZe_uReDxmjsI0yZtvxhl0qbkhhwWTHZwDI7EnxsVL1-FuN8NrVQPbsSdk8ZnRrhWndrf2pNVzOZzGLPhUCxg=w315-no?authuser=0"
+  - "https://lh3.googleusercontent.com/pw/AP1GczPRFiB9lUXFZm_C5vNqYLI4E5DjoiELf373HUBUq9moJ1zWWf2QN_9ZH22eqh8EZxWFpgc1tTUOgecuMx_NVK5BVmRkCFGnOWY7b_p-EaOugi2c_vXizMaVHWdB8T7_Lz5JfKTwLc-Swq-wGsTcXHzPBQ=w1183-h887-s-no?authuser=0"
 author: "Helen"
-omit_header_text: true
+omit_header_text: false
+description: "\b"
 album: "https://photos.app.goo.gl/s7QDc9dn6NA4rDqs6"
 ---
 

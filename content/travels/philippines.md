@@ -5,7 +5,8 @@ featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3dK2OH6gVlLAmHgc_xICi
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3dK2OH6gVlLAmHgc_xICicDmkAOr78FhhroJyuc7xK2SNFrNUI9Nc5-KUR-XNHs1JH-05A4kIkT679LRj6Snth_s-BYwZF_tIn17do9L_4JQ78WAcvJ2IbEeKDutNHwfYOw0loie4YupYTk_yogzEQ_eQ=w1306-h979-no?authuser=0"
 author: "Helen"
-omit_header_text: true
+omit_header_text: false
+description: "\b"
 album: "https://photos.app.goo.gl/LljpPFA1IxR63Ghz2"
 ---
 ## Cebu

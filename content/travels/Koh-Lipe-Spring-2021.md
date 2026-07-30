@@ -1,11 +1,12 @@
 ---
 title: "Koh Lipe Spring 2021"
 date: 2021-03-05T16:37:33-07:00
-featured_image: "https://lh3.googleusercontent.com/pw/AM-JKLVQ10QbBzn6oKMUpOS99AhOdKUgKsYno3WzVIF5E-flBYLkhK14PcP-yLDpMi0TgFCjllKjTSvOmupqjcFCNFs9VkOASgDXfQxD4HlAt7lIyhPiuTG8hjXD-R6jwjo-QsHwKG1LoHJqLXUXnnWjJFamIw=w850-h637-no?authuser=0"
+featured_image: "https://lh3.googleusercontent.com/pw/AP1GczOYSNfBlQh-fIxrmSG8H0vr0BOce-ocSw8vnh6txBFma9ogp5RodA-6yMpuLjGiO8cVqro7-KNpuCK3MPzcyac5rRvu5ZOk97_TBTvQUJUWpgJip498o8F5vqHt5nVK4wRpzfwy8PdL0dJfVnx6YDqcOA=w1183-h887-s-no?authuser=0"
 images:
-  - "https://lh3.googleusercontent.com/pw/AM-JKLVQ10QbBzn6oKMUpOS99AhOdKUgKsYno3WzVIF5E-flBYLkhK14PcP-yLDpMi0TgFCjllKjTSvOmupqjcFCNFs9VkOASgDXfQxD4HlAt7lIyhPiuTG8hjXD-R6jwjo-QsHwKG1LoHJqLXUXnnWjJFamIw=w850-h637-no?authuser=0"
+  - "https://lh3.googleusercontent.com/pw/AP1GczOYSNfBlQh-fIxrmSG8H0vr0BOce-ocSw8vnh6txBFma9ogp5RodA-6yMpuLjGiO8cVqro7-KNpuCK3MPzcyac5rRvu5ZOk97_TBTvQUJUWpgJip498o8F5vqHt5nVK4wRpzfwy8PdL0dJfVnx6YDqcOA=w1183-h887-s-no?authuser=0"
 author: "Helen"
-omit_header_text: true
+omit_header_text: false
+description: "\b"
 album: "https://photos.app.goo.gl/TvBnPfVnCKCH63Tj6"
 ---
 

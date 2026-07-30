@@ -7,7 +7,8 @@ images:
 draft: false
 author: "Helen"
 album: https://photos.app.goo.gl/cWEhYaxAF4YYEb568
-omit_header_text: true
+omit_header_text: false
+description: "\b"
 ---
 The flight from Christchurch was packed but we arrived as scheduled and moved in the chaos that was Melbourne Airport. The lines to get through customs were really long so it was hard to determine which one to be in. There was a sign saying they were filming an episode of Border Patrol which added to the confusion… for some reason, people were avoiding that line!<!--more--> The airport had staff giving directions, so we got where we needed to go and eventually made it through with no issues. Getting an Uber was also a bit crazy, we hadn’t gotten sims yet so we needed to be in an area to use the wifi and we had to determine which ride share stop we were at. As usual, Paul wasn’t daunted, found someone to confirm which stop and it wasn’t long before we were on the way to [Let’s Go Motorhomes](https://www.letsgomotorhomes.com.au/locations/melbourne/) for our pickup appointment. Dealing with Carol again was great, she is really nice and remembered us from last time. We got a nice surprise when we were given a brand new Escape van with only 24 kms! Wow, it even had the new car smell. We loaded our luggage and followed Carol over to the local Woolies for groceries, wine and a sim card.<!--more--> It was then we realized the air conditioner in the cab wasn’t working so after our errands and lunch, we headed back to Let’s Go. This time we were dealing with Carol’s daughter, who was also super nice. We waited while they took the van over to the mechanic but it turns out the van was so new, they hadn’t charged the AC yet and it would take several hours. Instead of keeping us waiting, they brought out another new van, this one was only 600km and gave us a half day credit. We transferred everything over and we were on our way.
 

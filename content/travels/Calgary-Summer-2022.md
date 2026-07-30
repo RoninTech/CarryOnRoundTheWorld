@@ -1,11 +1,12 @@
 ---
 title: "Calgary Summer 2022"
 date: 2022-08-17T16:37:33-07:00
-featured_image: "https://lh3.googleusercontent.com/pw/AL9nZEXCR_osB4Wt2LgUi96oqKMq275Yx7bIB5_2q5EaCMopLwzTP57L_DNohpKBHorbqt-tdjGERoTdaZapXXw_di1rAXZYszBwvZ2RaOFhOL55AODVn_7tOZZsxIYwjE7nC9fe3Dz22SXvbutj6vAI21f3CA=w315-no?authuser=0"
+featured_image: "https://lh3.googleusercontent.com/pw/AP1GczNJKaHMGG9fb2h5OH2CT_NhUbeE0yqUiaj-nsLLYLi43nhtz-i-mvFIMDrECXZvR4awQZSjFXklJ3yjNNGPL9lMBkOTHiGEFV0lBZhWZrRWaI7L415MmHrFfqS9e2yLlgCNTz93ZIfPap6QHAFHaF18AQ=w1560-h878-s-no?authuser=0"
 images:
-  - "https://lh3.googleusercontent.com/pw/AL9nZEXCR_osB4Wt2LgUi96oqKMq275Yx7bIB5_2q5EaCMopLwzTP57L_DNohpKBHorbqt-tdjGERoTdaZapXXw_di1rAXZYszBwvZ2RaOFhOL55AODVn_7tOZZsxIYwjE7nC9fe3Dz22SXvbutj6vAI21f3CA=w315-no?authuser=0"
+  - "https://lh3.googleusercontent.com/pw/AP1GczNJKaHMGG9fb2h5OH2CT_NhUbeE0yqUiaj-nsLLYLi43nhtz-i-mvFIMDrECXZvR4awQZSjFXklJ3yjNNGPL9lMBkOTHiGEFV0lBZhWZrRWaI7L415MmHrFfqS9e2yLlgCNTz93ZIfPap6QHAFHaF18AQ=w1560-h878-s-no?authuser=0"
 author: "Helen"
-omit_header_text: true
+omit_header_text: false
+description: "\b"
 album: "https://photos.app.goo.gl/CY38VykET6FBCrdy7"
 ---
 

@@ -1,11 +1,12 @@
 ---
 title: "BKK and Quarantine"
 date: 2020-12-18T16:37:33-07:00
-featured_image: "https://lh3.googleusercontent.com/pw/AM-JKLXK91LYIadzqMeOsmYfyGkL-qjzjtUGZnLiYbvRRredrwyd1FbzikgzshWLMzw-mD8Dk85MVYZLuU7u__ajhg78_xQjgKX7nsV1_quq1PuMM5AIenuk4IyY5aGgOJAcOUZ1jsX0vuNaqmLC7OI3qjfubw=w850-h637-no?authuser=0"
+featured_image: "https://lh3.googleusercontent.com/pw/AP1GczMR6VNuMHou0NO8PVWZ7skq1Fr-eYVoTToz5HNnsnoMbaxlccDDgBABYtYUFUO49FCOxSpr0jH8ewSMx_7XJk69mAWXzWyG1uKifV3psaGsIHtOtJg19p2hUvZCHKQ96hDErjHYc7M6yk0dwfxmHV71Mw=w1183-h887-s-no?authuser=0"
 images:
-  - "https://lh3.googleusercontent.com/pw/AM-JKLXK91LYIadzqMeOsmYfyGkL-qjzjtUGZnLiYbvRRredrwyd1FbzikgzshWLMzw-mD8Dk85MVYZLuU7u__ajhg78_xQjgKX7nsV1_quq1PuMM5AIenuk4IyY5aGgOJAcOUZ1jsX0vuNaqmLC7OI3qjfubw=w850-h637-no?authuser=0"
+  - "https://lh3.googleusercontent.com/pw/AP1GczMR6VNuMHou0NO8PVWZ7skq1Fr-eYVoTToz5HNnsnoMbaxlccDDgBABYtYUFUO49FCOxSpr0jH8ewSMx_7XJk69mAWXzWyG1uKifV3psaGsIHtOtJg19p2hUvZCHKQ96hDErjHYc7M6yk0dwfxmHV71Mw=w1183-h887-s-no?authuser=0"
 author: "Helen"
-omit_header_text: true
+omit_header_text: false
+description: "\b"
 album: "https://photos.app.goo.gl/KWytzSQSsgFQZgdbA"
 ---
 

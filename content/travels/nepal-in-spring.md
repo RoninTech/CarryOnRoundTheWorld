@@ -1,12 +1,13 @@
 ---
 title: "Nepal in Spring"
 date: 2018-04-25T19:51:56-07:00
-featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3e6utvBsGpq_CExSE-yTqldZ4BiNyiOFQ3emt_DNkqXRt2XTmZ5O_IV6VjXtPNyZba4swS_4JVa9kVrb7BSmoR2vElcig8wRK0XmMrGPDeQ_0yelYQNHU66s-HAVExDl6Mkri09aYULU-fwFV3khBmfWA=w1920-h668-no"
+featured_image: "https://lh3.googleusercontent.com/pw/AP1GczNPq_65hVsqZi6NQTtGMgTRTLa4cKAtV7BCVNcqdj3xXELs26LakHkWT7KZSO4KeWeJrPkzvexMTAE4BCiZCN7TD4AkLotgyWguJGZqqES4f-gw3kQhA2ILsLViEF_D-S5uAcSIrrc8jAA9d6DyuV9T8g=w1183-h887-s-no?authuser=0"
+featured_image_class: "cover bg-center"
 images:
-  - "https://lh3.googleusercontent.com/pw/ACtC-3e6utvBsGpq_CExSE-yTqldZ4BiNyiOFQ3emt_DNkqXRt2XTmZ5O_IV6VjXtPNyZba4swS_4JVa9kVrb7BSmoR2vElcig8wRK0XmMrGPDeQ_0yelYQNHU66s-HAVExDl6Mkri09aYULU-fwFV3khBmfWA=w1920-h668-no"
+  - "https://lh3.googleusercontent.com/pw/AP1GczNPq_65hVsqZi6NQTtGMgTRTLa4cKAtV7BCVNcqdj3xXELs26LakHkWT7KZSO4KeWeJrPkzvexMTAE4BCiZCN7TD4AkLotgyWguJGZqqES4f-gw3kQhA2ILsLViEF_D-S5uAcSIrrc8jAA9d6DyuV9T8g=w1183-h887-s-no?authuser=0"
 author: "Helen"
-description: "Annapurna Circuit without a guide or porter and Pokhara"
-omit_header_text: true
+omit_header_text: false
+description: "\b"
 album: "https://photos.app.goo.gl/MjqKMEC9QD6oaka72"
 ---
 

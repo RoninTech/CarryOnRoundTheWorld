@@ -2,11 +2,13 @@
 title: "Kampot 2019"
 date: 2019-01-21T14:09:44-06:00
 draft: false
-featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3eWP8zoXbgGZRtwHaF9ce8OKb3aQy-xudUHHSTB8gM__qTXLHq-k7iwXiGuprYFQ2sI_2rBDirxqrkKrTVJwZqid9YaKpykd5iHBqALnGjdaayIstHb_lNkOHlLICdXcDArkUzxAuxfj9unizBJj_S_Sg=w1300-h975-no"
+featured_image: "https://lh3.googleusercontent.com/pw/AP1GczNPGAIaRm95EFPBClXpmtArCSUJHl7FfOQwxsmmwicVWz100mUqaw4dxo5NSfIOrXCaaNwp2TUvXDcBG2FKNcH86gYHHmsGeaICcWFRB_FUWtPC56UZBzOeYwEGpNT3-6stwUoYq1ZhWHLISQQ8hqYBuQ=w1183-h887-s-no?authuser=0"
+featured_image_class: "cover bg-center"
 images:
-  - "https://lh3.googleusercontent.com/pw/ACtC-3eWP8zoXbgGZRtwHaF9ce8OKb3aQy-xudUHHSTB8gM__qTXLHq-k7iwXiGuprYFQ2sI_2rBDirxqrkKrTVJwZqid9YaKpykd5iHBqALnGjdaayIstHb_lNkOHlLICdXcDArkUzxAuxfj9unizBJj_S_Sg=w1300-h975-no"
+  - "https://lh3.googleusercontent.com/pw/AP1GczNPGAIaRm95EFPBClXpmtArCSUJHl7FfOQwxsmmwicVWz100mUqaw4dxo5NSfIOrXCaaNwp2TUvXDcBG2FKNcH86gYHHmsGeaICcWFRB_FUWtPC56UZBzOeYwEGpNT3-6stwUoYq1ZhWHLISQQ8hqYBuQ=w1183-h887-s-no?authuser=0"
 author: "Helen"
-omit_header_text: true
+omit_header_text: false
+description: "\b"
 album: "https://photos.app.goo.gl/61V9JRqU9hrkdUPX6"
 ---
 

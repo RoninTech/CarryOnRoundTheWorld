@@ -1,11 +1,13 @@
 ---
 title: "New Zealand North Island"
 date: 2018-02-02T17:33:33-07:00
-featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3e3NDTKDvVwnsrVmNXmhwTXNdZQMz9w3As5aAsIZgsipidav0L0bN7l2QA6l27Kd4i6_p8OEZjgAMP-NQHALI5xMSsbcaA91GIFBfsicdp3JTl4jmwo4Y81556WWPHs4A1M8qITMK6C4c_xivBxICH_Nw=w1920-h979-no?authuser=0"
+featured_image: "https://lh3.googleusercontent.com/pw/AP1GczMlzc9ESR560xfca-C6p7mzZ-1WfnABcFKvGcMp_MZEM5rhBLpsdBuSvk9OZPSHHIaLJUu4urRA_CTGxofbtsk-h8LbOTaljOg-lu3d9IFj3-4Zlpbq3sgMC5hrqxI0kxtWnvzVBCNCsbAkxPYgSVV8sg=w1183-h887-s-no?authuser=0"
+featured_image_class: "cover bg-center"
 images:
-  - "https://lh3.googleusercontent.com/pw/ACtC-3e3NDTKDvVwnsrVmNXmhwTXNdZQMz9w3As5aAsIZgsipidav0L0bN7l2QA6l27Kd4i6_p8OEZjgAMP-NQHALI5xMSsbcaA91GIFBfsicdp3JTl4jmwo4Y81556WWPHs4A1M8qITMK6C4c_xivBxICH_Nw=w1920-h979-no?authuser=0"
+  - "https://lh3.googleusercontent.com/pw/AP1GczMlzc9ESR560xfca-C6p7mzZ-1WfnABcFKvGcMp_MZEM5rhBLpsdBuSvk9OZPSHHIaLJUu4urRA_CTGxofbtsk-h8LbOTaljOg-lu3d9IFj3-4Zlpbq3sgMC5hrqxI0kxtWnvzVBCNCsbAkxPYgSVV8sg=w1183-h887-s-no?authuser=0"
 author: "Helen"
-omit_header_text: true
+omit_header_text: false
+description: "\b"
 album: "https://photos.app.goo.gl/Rh6hiPjjERqqkZij2"
 ---
 ### The Ferry

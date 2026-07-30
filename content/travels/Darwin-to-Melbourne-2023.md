@@ -7,7 +7,8 @@ images:
 draft: false
 author: "Helen"
 album: https://photos.app.goo.gl/eHaWKXHjW2fL9WZBA
-omit_header_text: true
+omit_header_text: false
+description: "\b"
 ---
 Departure day arrived and we were ready… well, we thought we were. Jen drove us to the airport and off we went. The original flight from CNX-SIN was good and we had a nice surprise when we were given a meal. We had a nice chat with the lady seated in our row; she was on her way to Australia to board a boat and sail along the coast. The landing in Singapore’s Changi airport was a bit sketchy, it was raining and you could feel the plane when it skidded on touch down. The duffle was checked through so we were able to head straight to the [Aerotel Singapore](https://maps.app.goo.gl/aGo2jFE71UVz4gkv7) and check in. Our room was nicer than expected, we had read mixed reviews online, so it was a pleasant surprise and we were glad to escape the bustle of the airport. In the evening we braved the terminal for a walk to stretch our legs and search out something for dinner. 
 

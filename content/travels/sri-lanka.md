@@ -5,8 +5,8 @@ featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3fvNpFIspxeYTOhKNAsOP
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3fvNpFIspxeYTOhKNAsOPxJL9o1EXxXeofqbGiIKa3MyCdomBSDx08MHAfi4XpjpsR6bNl4yvl9ISEngyky2BPn4iUVINX7T9EIE0eMBbUquIPMh8FnPymKRuQaMj5gGH4QSfyM2ulNAlXKajDaJObPBQ=w1828-h979-no?authuser=0"
 author: "Helen"
-description: "Sri Lanka September"
-omit_header_text: true
+omit_header_text: false
+description: "\b"
 album: "https://photos.app.goo.gl/ra4QR62xMNmhBLdTA"
 ---
 

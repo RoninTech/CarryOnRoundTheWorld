@@ -7,7 +7,8 @@ images:
 draft: false
 author: "Helen"
 album: https://photos.app.goo.gl/AfNcdnD7ftqtjGzr8
-omit_header_text: true
+omit_header_text: false
+description: "\b"
 ---
 
 When we were in Chiang Mai deciding on our plans for 2025, a return to Canada came up. The opportunity to see family and friends was appealing and we could take care of whatever else was needed. We started looking at flights using Aeroplan miles but getting anything other then economy was impossible and even those used huge mileage amounts. I naively suggested we could find resonably priced premium or business class flights, it can't be that hard... keeping in mind, I am not the person who usually finds the flights.
