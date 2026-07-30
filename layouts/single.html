@@ -23,11 +23,11 @@
         <p>
           <div class="article-meta">
               <!-- Author Section -->
-              <span class="author" data-pagefind-meta="author:{{ . }}">
+              <span class="author">
                   {{ with .Params.author | compare.Default .Site.Params.author }}  
                       {{- if compare.Eq $page.Language "de" "en" "es" "fr" "it" "no" "pt" -}}
                           {{- lang.Translate "by" -}}
-                      {{ end -}}By <strong>
+                      {{ end -}}By <strong data-pagefind-meta="author:{{ . }}">
                       {{- if reflect.IsSlice . -}}
                           {{ collections.Delimit . ", " | transform.Markdownify }}
                       {{- else -}}
@@ -59,7 +59,7 @@
         </p>
       {{ end }}
     </header>
-    <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | compare.Default "serif"}} f4 nested-links {{ $.Param "text_color" | compare.Default "mid-gray" }} {{ compare.Conditional (compare.Eq $.Site.Language.Direction "rtl") "pl4-l" "pr4-l" }} {{ if $needs_aside }}w-two-thirds-l{{ else }}w-100-l{{ end }}">
+    <div class="nested-copy-line-height lh-copy {{ $.Param "post_content_classes"  | compare.Default "serif"}} f5 nested-links {{ $.Param "text_color" | compare.Default "mid-gray" }} {{ compare.Conditional (compare.Eq $.Site.Language.Direction "rtl") "pl4-l" "pr4-l" }} {{ if $needs_aside }}w-two-thirds-l{{ else }}w-100-l{{ end }}">
       {{- partials.Include "hook.html" (dict "hook" "content-before" "context" .) -}}
       {{ if (compare.Eq (.Param "show_nav_menu") true) }}
         {{- partials.Include "next-gallery-prev-navbar.html" . -}}
