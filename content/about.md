@@ -1,8 +1,9 @@
 ---
 title: "About Us"
-featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3cIHwloNWDNzbmrs9zjP1IMY3dTwjcBK-nlazzyG-p55SgqrripkjmG0pqahMbGWXvX5KPVMDlCCaCsoLqzrcEuTBqehgwAtH_YrjvLwlIojUtyiTjYeog5Q_eyaQphKJ3BE9V7zRR1NnDDvWTEdrbErg=w1920-h670-no"
+featured_image: "https://lh3.googleusercontent.com/pw/AP1GczNJ9Ay1YELzurwwDErZQ28svuLxwTZ3ENd46pTsiPJrEh1ppcU4T82BA7cXbYjNOQyYHhLLkx9PfgQkjeMd1g4sTPzz9bCO8Le2l_-rdcwEdl3GtHZkJXQ_S9wNaWQI_7gRFIiKpzlDvCrFH-fQnlvdUQ=w1183-h887-s-no?authuser=0"
+featured_image_class: "cover bg-center"
 images:
-  - "https://lh3.googleusercontent.com/pw/ACtC-3cIHwloNWDNzbmrs9zjP1IMY3dTwjcBK-nlazzyG-p55SgqrripkjmG0pqahMbGWXvX5KPVMDlCCaCsoLqzrcEuTBqehgwAtH_YrjvLwlIojUtyiTjYeog5Q_eyaQphKJ3BE9V7zRR1NnDDvWTEdrbErg=w1920-h670-no"
+  - "https://lh3.googleusercontent.com/pw/AP1GczNJ9Ay1YELzurwwDErZQ28svuLxwTZ3ENd46pTsiPJrEh1ppcU4T82BA7cXbYjNOQyYHhLLkx9PfgQkjeMd1g4sTPzz9bCO8Le2l_-rdcwEdl3GtHZkJXQ_S9wNaWQI_7gRFIiKpzlDvCrFH-fQnlvdUQ=w1183-h887-s-no?authuser=0"
 author: "Paul"
 date: 2020-09-09T18:26:37-07:00
 omit_header_text: false

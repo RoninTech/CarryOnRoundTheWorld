@@ -48,7 +48,7 @@ When we got to check in, we were told our flight was delayed by about half an ho
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipPtV3vqvUQ59FVlX9VDHgmQTAsY3B6yYjQhnwwiViMCdd0jDKuaWB40Wh_BS44K9g/photo/AF1QipPuFpGbs23Znq2cdW0mHNgMec0YyJRxIQJnmupB?key=MDdSNUZoOGhyYW5SSVh5dlBmbGxqMEhYYzBFS2Jn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczNwX9A6JU6egI24WJ1QV-ruI1W7D9FbKMGfEA1w15TjjMbZBgXQ5Nkbe-W3UClMt7HBtCRxQUwBuii4YSefmC6hXBAkHDsLJepPjngeD09wHZ6oOrke3rXFhpd-QX3_ODAA2dqnAkJMySFa6jcYFPA1RQ=w1089-h613-s-no?authuser=0" width="330" /><div>In the Air</div></a>
 </div>
 
-YXC-YVR-BKK-CNX
+#### [YXC-YVR-BKK-CNX](http://www.gcmap.com/mapui?P=YXC-YVR-BKK-CNX)
 
 Service on the flight was great. With all the chaos we had forgotten to order our meal so chose off the set menu. The food was still good and we enjoyed a nice glass of wine or two to relax. Paul managed to get some sleep, he thinks about 6 hours. I probably got 2 or 3. It was a bit bumpier on this flight, a lot more turbulence, but we landed on time. We made it through immigration, got the duffle and went to check in for our next flight. We had a 3 hour lay over before our connecting flight to CNX. All things considered, Air Canada was better than expected and we both said we’d fly with them again on our next trip to Canada… with the caveat being that it had to be in business class. 
 
