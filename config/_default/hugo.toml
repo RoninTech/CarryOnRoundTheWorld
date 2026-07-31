@@ -60,8 +60,8 @@ enableEmoji = true
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = "bg-dark-gray"
   post_content_classes = "arial"
-  featured_image = "https://lh3.googleusercontent.com/pw/ACtC-3cIHwloNWDNzbmrs9zjP1IMY3dTwjcBK-nlazzyG-p55SgqrripkjmG0pqahMbGWXvX5KPVMDlCCaCsoLqzrcEuTBqehgwAtH_YrjvLwlIojUtyiTjYeog5Q_eyaQphKJ3BE9V7zRR1NnDDvWTEdrbErg=w1920-h670-no"
-  featured_image_class = "cover bg-bottom"
+  featured_image = "https://lh3.googleusercontent.com/pw/AP1GczNK-hUAHzp7hlqLBpjBWCRRO3N4vdQTFoVJFEWKkWYoXBTGq7-f1JJANeJ-_ZabLrInWYnIHoG48XhxSJpOLzVGf-7_Bc6wRXh_lGrVJ3tU68m3192hA6v6HePnvmjlkuPb-uaBWJ328qqcuNyXf83gVQ=w1573-h887-s-no?authuser=0"
+  featured_image_class = "cover bg-center"
   show_nav_menu = true
   show_author_reading_data = true
   recent_posts_number = 5

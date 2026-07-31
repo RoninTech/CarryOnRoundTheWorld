@@ -1,9 +1,9 @@
 ---
 title: "Carry On Round The World"
-featured_image: "https://lh3.googleusercontent.com/pw/AP1GczOyVA6cDXo7RjlEHm2UsZKIk1HdRKoYZRCs54YG7OIu37rWNkF7RLVzsi4yjzUX9HjiLcsyBHL_jzLakpncJBFZxlEmPK_jFG7gtKEDm3odtNuan6-Smd3D0Bab2vBDW9BNBTaWKOoih3ZdjyDaU36mWA=w1183-h887-s-no?authuser=0"
-featured_image_class: "cover bg-bottom"
+featured_image: "https://lh3.googleusercontent.com/pw/AP1GczNK-hUAHzp7hlqLBpjBWCRRO3N4vdQTFoVJFEWKkWYoXBTGq7-f1JJANeJ-_ZabLrInWYnIHoG48XhxSJpOLzVGf-7_Bc6wRXh_lGrVJ3tU68m3192hA6v6HePnvmjlkuPb-uaBWJ328qqcuNyXf83gVQ=w1573-h887-s-no?authuser=0"
+featured_image_class: "cover bg-center"
 images:
-  - "https://lh3.googleusercontent.com/pw/AP1GczOyVA6cDXo7RjlEHm2UsZKIk1HdRKoYZRCs54YG7OIu37rWNkF7RLVzsi4yjzUX9HjiLcsyBHL_jzLakpncJBFZxlEmPK_jFG7gtKEDm3odtNuan6-Smd3D0Bab2vBDW9BNBTaWKOoih3ZdjyDaU36mWA=w1183-h887-s-no?authuser=0"
+  - "https://lh3.googleusercontent.com/pw/AP1GczNK-hUAHzp7hlqLBpjBWCRRO3N4vdQTFoVJFEWKkWYoXBTGq7-f1JJANeJ-_ZabLrInWYnIHoG48XhxSJpOLzVGf-7_Bc6wRXh_lGrVJ3tU68m3192hA6v6HePnvmjlkuPb-uaBWJ328qqcuNyXf83gVQ=w1573-h887-s-no?authuser=0"
 description: "\b"
 ---
 
