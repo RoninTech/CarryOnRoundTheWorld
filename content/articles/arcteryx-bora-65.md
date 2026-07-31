@@ -5,8 +5,9 @@ featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3ebA-d-6txXQNhsFYXHWQ
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3ebA-d-6txXQNhsFYXHWQ8-539rstQJgcvlFQ5XnXLl8pRgfRUpu1Rd7uup6fK2o6Yz8sclDvnlVexU-gwW-2PE30KZc8yNnsBDvHu7GJm1NP5amc64pd774lhG8J3D4aHl4ZliXB0phebLesicWAetzQ=w1396-h912-no"
 author: "Paul"
-omit_header_text: true
+omit_header_text: false
 draft: false
+description: "\b"
 ---
 
 Our Arc’Teryx Bora 65 Backpacks are 2 of the best things we’ve purchased. Despite the miles on them they’ve come through everything with flying colours. [Arc’Teryx](https://arcteryx.com/ca/en/) has provided us with some great products. They are located in Vancouver, Canada and produce very high quality gear that they completely stand behind. Over the years we’ve had 3 backpacks (Bora 80 and 2 Bora 65’s), 4 Gore-Tex jackets (1 15-year-old and 3 newish Theta ARs) and 2 hooded Atom LT insulated jackets from them. Their stuff isn’t cheap but it performs incredibly well, making them a perfect example of the phrase “you get what you pay for”.

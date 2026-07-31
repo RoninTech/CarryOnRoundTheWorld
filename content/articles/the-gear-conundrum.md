@@ -5,7 +5,8 @@ featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3cQCZAy6pHoL7x8LXa2Fc
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3cQCZAy6pHoL7x8LXa2FcHIrj-WU1gPxO9lWO0JcKeMqPtgN2DDoDaknFzVe9HaZWUnbfPL8TvffWCTLNeeQpmJnsFmu6g8YWHc9eyhyAkjCO8RKhuL1UPcE9OLGs-N2R5I-lZopjNqVON6LaLxpHVm_Q=w1028-h771-no"
 author: "Helen"
-omit_header_text: true
+omit_header_text: false
+description: "\b"
 draft: false
 ---
 

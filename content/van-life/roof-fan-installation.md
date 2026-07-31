@@ -5,7 +5,8 @@ featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3cOT1DUNyZAJUbEVwnv55
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3cOT1DUNyZAJUbEVwnv55NktlBWThem6exCHPx7YWsJ-QXz86GiUh37yWEDQm0i9E9ewfnWqwLYe9DfRpnwnujlSKymNroOEfxYW2_6Bvyje1HGFwK_cqXo8y8RceicT3GAAFxMo9twBH1vF_g_skOzXg=w1210-h908-no"
 author: "Paul"
-omit_header_text: true
+omit_header_text: false
+description: "\b"
 draft: false
 ---
 

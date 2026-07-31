@@ -6,7 +6,8 @@ featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3dqEDElxdziiKBfk3uR8E
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3dqEDElxdziiKBfk3uR8E_xKztHcmeskNAZ7AAk7TCTj_orQ5ZI9X2_lSUN5Yjc5S7x5nLGNUQ0kbqAH5CxZitxghrIZCylUk9451ejdfU_ytth0ELVKhBEZrttTjGmEoUUgRukg0X0f8wUIa9_7A8eVQ=w1210-h908-no"
 author: "Paul"
-omit_header_text: true
+omit_header_text: false
+description: "\b"
 ---
 
 This page shows what is in Paul's pack for travel. It is generated using [lighterpack.com](https://lighterpack.com) which is a great way to organize your packing lists for various activities. You can see his Pacific Crest Trail load out [here](/packs/pauls-pct-pack/) and his Annapurna Circuit load out [here](/packs/pauls-annapurna-pack/).

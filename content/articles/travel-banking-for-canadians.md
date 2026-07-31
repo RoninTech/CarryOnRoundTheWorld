@@ -5,7 +5,8 @@ featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3erqBPCKnnW9EmoiPZEwu
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3erqBPCKnnW9EmoiPZEwuOoBT6HXk8ifaSnvry412i8jTy97dUTqCVyqqiqBrXSMeVvB4IK1SMkB0q5ICeHkckjTwYFKtQlFoGRV_1ZM3VDRPQR80MSc-eQvKEfJ9HM1uv3a-6Okp0VSUizkxibzcEaQQ=w1210-h908-no"
 author: "Paul"
-omit_header_text: true
+omit_header_text: false
+description: "\b"
 ---
 
 We use different cards in Canada than when travelling. At home we’ve [churned cards for Aeroplan points](https://www.reddit.com/r/churningcanada/) and used different cash back cards. This has saved us money on purchases and allowed us to build up a big pot of [Aeroplan points](https://www.aeroplan.com/home.do#/). These will allow us to fly with points between the major regions of our upcoming RTW trip. When we are on the road though we are more concerned about the banking fees. For that we need different accounts/cards. Typically when we’ve gone on holiday, we haven’t worried too much about banking with credit (CC) or debit cards. Not too smart as travel banking for Canadians can eat up a good chunk of your funds. We always made sure we had some local currency (from previous trips) and then just withdrew cash from ATMs at the airport or in the towns when we got there.
