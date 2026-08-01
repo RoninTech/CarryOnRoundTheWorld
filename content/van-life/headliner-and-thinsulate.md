@@ -10,7 +10,7 @@ description: "\b"
 draft: false
 ---
 
-Removing the headliner makes insulating above a breeze. All you need for tools are an 7mm socket and a set of trim removal tools like this. With the following steps it only took about 10 minutes to remove and same to re-install.
+Removing the headliner makes insulating above a breeze. All you need for tools are a 7mm socket and a set of trim removal tools like this. With the following steps it only took about 10 minutes to remove and same to re-install.
 
 1. Pop out the 3 orange clips holding up the rear center of the headliner.
 

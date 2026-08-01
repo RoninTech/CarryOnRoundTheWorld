@@ -145,7 +145,7 @@ Here's a map showing all of the places we've stayed and travel hubs we've used i
 </body>
 </html>
 
-We started off with grand plans of blogging all about our travels. It wasn't long before we realized how much work that required, especially with just our phones. This totally went against our #1 requirement of having fun. So now we simply update our travels map to show where we are, where we have been and show links to a locations photo album (if you click the location marker). Every once in a while we add a page for somewhere we've been . You can find those under the "Travels" link above. We've also added some articles we've written on how we manage to travel long term.  
+We started off with grand plans of blogging all about our travels. It wasn't long before we realized how much work that required, especially with just our phones. This totally went against our #1 requirement of having fun. So now we simply update our travels map to show where we are, where we have been and show links to a locations photo album (if you click the location marker). Every once in a while we add a page for somewhere we've been. You can find those under the "Travels" link above. We've also added some articles we've written on how we manage to travel long term.  
 &nbsp;
 &nbsp;
 {{< cta "Our Travels Start Here" "/travels/se-asia-on-our-way/" >}}

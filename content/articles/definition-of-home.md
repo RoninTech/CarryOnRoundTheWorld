@@ -16,7 +16,7 @@ It sounds simple doesn’t it but I’m not sure that it is. I was born in Liver
 
 ## My definition
 
-While the places I’ve lived have had a huge impact on my life they don’t define my home. For me, it isn’t a result of being born in the UK, of spending most of my life in Canada or of dreaming of living in Thailand. I’ve spent many a day relaxing on a beach thinking about traveling and how much I enjoy it. So over the years I’ve come to realize that home isn’t defined by where my “stuff” is, or most of our friends and family are. It’s wherever my partner in crime, Helen and I are at any given time . And no, I haven’t done something bad causing me to look for [brownie points](https://en.wikipedia.org/wiki/Brownie_points) (that I’m aware of…).
+While the places I’ve lived have had a huge impact on my life they don’t define my home. For me, it isn’t a result of being born in the UK, of spending most of my life in Canada or of dreaming of living in Thailand. I’ve spent many a day relaxing on a beach thinking about traveling and how much I enjoy it. So over the years I’ve come to realize that home isn’t defined by where my “stuff” is, or most of our friends and family are. It’s wherever my partner in crime, Helen and I are at any given time. And no, I haven’t done something bad causing me to look for [brownie points](https://en.wikipedia.org/wiki/Brownie_points) (that I’m aware of…).
 
 ## Does our answer change?
 

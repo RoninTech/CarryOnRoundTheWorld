@@ -10,7 +10,7 @@ description: "\b"
 draft: false
 ---
 
-Decision Made! What? When did this happen? I know it’s been a while since I took the time to write out something about our plans. Partially because we have been super busy and some things took much longer then expected so we weren’t sure what was happening. We also had some changes in the family that had us questioning our decisions. The quick catch up:
+Decision Made! What? When did this happen? I know it’s been a while since I took the time to write out something about our plans. Partially because we have been super busy and some things took much longer than expected so we weren’t sure what was happening. We also had some changes in the family that had us questioning our decisions. The quick catch up:
 
 - June – accepted offer on the house, Paul ruptured his Achilles.
 - July – sold trailer, truck, passed home inspection. Paul is in a boot and needed driving around, Helen searches for apartments and packs.
@@ -44,6 +44,6 @@ We chose two countries that we refuse to miss: Iceland and South Africa, the two
 
 We bit the bullet, put the pedal to the metal, walked the talk, made the mountain into a molehill and Paul got on the phone with [Aeroplan](https://aeroplan.com). An hour later and flights booked! Bidness class thru Chicago to Zürich and Bangkok! Finally landing in Krabi on March 1st. I actually do know how to spell business but it's my blog and what I think is funny goes because who is going to stop me… well Paul, but I can post this before he reads it.
 
-Fast forward a week later. Panic ensues when we check our itinerary and note that we have a 27 hour stop over in Chicago. WHAT! First, stopovers aren’t possible with one way tickets and second, a 27 hour layover in Chicago is not what we wanted! Quick discussion occurs with a call to Aeroplan resulting. This is when we got stuck in a time warp: Paul was hung up on after being transferred. Then we both called in to see who would get through first. After two hours waiting for “the next available agent because your call is important to us” we finally got through. There is a strong possibility that I became loopy while waiting on hold and potentially danced around our apartment while the “funky” John Tesh/Kenny G combo was playing. No witnesses so you’ll never know.
+Fast forward a week later. Panic ensues when we check our itinerary and note that we have a 27 hour stop over in Chicago. WHAT! First, stopovers aren’t possible with one way tickets and second, a 27 hour layover in Chicago is not what we wanted! Quick discussion occurs and we call Aeroplan. This is when we got stuck in a time warp: Paul was hung up on after being transferred. Then we both called in to see who would get through first. After two hours waiting for “the next available agent because your call is important to us” we finally got through. There is a strong possibility that I became loopy while waiting on hold and potentially danced around our apartment while the “funky” John Tesh/Kenny G combo was playing. No witnesses so you’ll never know.
 
-Crisis averted when “the agent” actually answered and kindly sorted it out for us, not charging any change fees ($180!) as it was their mistake. Now the work begins to sort out the two W’s which is when are we going and where!
+Crisis averted when “the agent” actually answered and kindly sorted it out for us, not charging any change fees ($180!) as it was their mistake. Now the work begins to sort out the two W’s which is when we are going and where!

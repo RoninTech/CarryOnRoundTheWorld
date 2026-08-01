@@ -56,7 +56,7 @@ Van is located in Calgary, Alberta. Currently has 8100km with the following equi
 - Keyless Entry Pad
 - HD Trailer Tow Package
 - Trailer Brake Controller
-- Long Arm PWR heat Mirrors
+- Long Arm PWR Heated Mirrors
 - Front Fog Lamps
 - Radio HD Sync3 8" Screen AM/FM/Sirius/Bluetooth/USB/Android Auto/Apple CarPlay
 - Adaptive cruise control
@@ -117,8 +117,8 @@ Last item to be installed was a removable East West sliding bed to maximize inte
 
 Here is a list of all of the items that have been installed so far and how much they cost:
 
-<iframe width=1000 and height=500 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vROUwgLD9M6rItGVVl79fNYhUxwUkUyYnTiaf-giGuXUml0Tm5IGzQi1HZdsf96HqJNBPsQe0AQexNC/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="1000" height="500" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vROUwgLD9M6rItGVVl79fNYhUxwUkUyYnTiaf-giGuXUml0Tm5IGzQi1HZdsf96HqJNBPsQe0AQexNC/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
-Here is a list of all of the parts waiting to be used on the van. These items wil be sold individually or can be added to van purchase if buyer requests:
+Here is a list of all of the parts waiting to be used on the van. These items will be sold individually or can be added to van purchase if buyer requests:
 
-<iframe width=1000 and height=500 src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSW9tvHHkRmRuaptpPDkAwvb3bXHNZcQfpeiV37aRiofiFt9x29ywmsmYiFxm8gVtDT1l5wnS5lnGs2/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe width="1000" height="500" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSW9tvHHkRmRuaptpPDkAwvb3bXHNZcQfpeiV37aRiofiFt9x29ywmsmYiFxm8gVtDT1l5wnS5lnGs2/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>

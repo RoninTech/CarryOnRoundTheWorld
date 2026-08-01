@@ -53,7 +53,7 @@ Ian and I spent a day baking. After a trip to the kitchen supply store, where I 
 
 {{< youtube K6-hPlrZkj4 >}}
 
-We made the decision to get set up so we can cook more meals at home instead of ordering in all the time. Grab Food makes life easy, it’s cheap and there are so many delicious options but we can’t guarantee GF, there are also a lot of additives like sugar or salt that we are trying to avoid.  This resulted in us getting an air fryer… I’m sure everyone is sick about hearing me talk about it already. We use it almost every day and it’s been great. We use it as an oven not a fryer, it takes little to no oil and everything cooks perfectly. Unless it’s user error and I turn it to charcoal, there was a bigger learning curve then I expected. We can even connect and control it through wifi… this had no bearing on the model we choose. 
+We made the decision to get set up so we can cook more meals at home instead of ordering in all the time. Grab Food makes life easy, it’s cheap and there are so many delicious options but we can’t guarantee GF, there are also a lot of additives like sugar or salt that we are trying to avoid.  This resulted in us getting an air fryer… I’m sure everyone is sick about hearing me talk about it already. We use it almost every day and it’s been great. We use it as an oven not a fryer, it takes little to no oil and everything cooks perfectly. Unless it’s user error and I turn it to charcoal, there was a bigger learning curve than I expected. We can even connect and control it through wifi… this had no bearing on the model we choose. 
 
 </br>
 <div style="text-align: center">
