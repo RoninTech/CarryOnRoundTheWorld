@@ -21,7 +21,7 @@ The timing was good because vans are even harder to find and resale values are a
 
 We made the choice to settle in Calgary for the summer. This meant we would spend time with my Mom as we really hadn’t seen her much over the past few years. A definite added bonus!! Hopefully we would also get to see our friends and we planned to head out to Creston to see Paul’s Dad along with Pati and John. Calgary also made sense as it was a larger market to sell the van and accessories. Next step was making plans to head back to Manitoba, have a visit, load up the van and head west. 
 
-I’d like to say that once we made the decision it was easy, but that would be a lie. We continued to question ourselves, pretty much up to the minute we handed over the keys. As I type this, it’s been a over a month since we actually sold the van. We are glad that we were able to adapt to the changing circumstances and both feel like we made the right choice. 
+I’d like to say that once we made the decision it was easy, but that would be a lie. We continued to question ourselves, pretty much up to the minute we handed over the keys. As I type this, it’s been over a month since we actually sold the van. We are glad that we were able to adapt to the changing circumstances and both feel like we made the right choice. 
 
 
 

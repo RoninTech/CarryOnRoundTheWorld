@@ -12,7 +12,7 @@ album: "https://photos.app.goo.gl/VFJfvjBkZCMfAZ1f9"
 
 We had decided to head to Malaysia next, giving ourselves about a month before heading to Lipe. We went from Phnom Penh to Kuala Lumpur on Air Asia, it was a short flight. The airport in KL is massive but modern and we moved through everything quickly. We got sims and a Grab Taxi to downtown KL.
 
-We booked a suite at Mercu Summer Suites, which are 99% AirBnb’s. It was a great location, close enough to get places by walking or Grab. We had great plans in KL, but our experience turned out to be different then expected.
+We booked a suite at Mercu Summer Suites, which are 99% AirBnb’s. It was a great location, close enough to get places by walking or Grab. We had great plans in KL, but our experience turned out to be different than expected.
 
 Our first day we walked over to an open air buffet place called Nasi Khandar. We were the only non locals there at the time. The staff were great and helped us decide what to order and we settled in for delicious curries, tandori and drinks. Once we finished we headed over to the Petronas Towers and KLCC shopping centre. It was one of the rare times in SEA where drivers actually obey the rules and let pedestrians cross… usually.
 
@@ -50,7 +50,7 @@ On February 3, I received a call from home that my sister Gillian had died. It w
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMHDoTfhzFdE0F-ULXxbhOJk_dp0UQfV-A4A8WCqhfdjVOVR-L-sap9lY67-6o5cg/photo/AF1QipM9XuxfyjjOqMq-hD1rPXkz4h0s9uEHXhyIvfPw?key=SGhUczhjMjFZRW9sQzlNeXUxbGxQNWNHRWtmOVZn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3fuVXqay90OQDN02jnRbEyiFpXdOuMspmmCiRkiMxhuJlsu8VY-ofIzN6yYcWB0Wx4cc2P2xcUQe4V-kkzjLkMqRjHEiKkHVRiAIzV7tA5I-IOheE7hqfLtQHRhM6XXpIes-L-MpGZw33WGcNTVqyevQQ=w210-no" width="210" /><div>Gillian</div></a>
 </div>
 
-We found a really good soup place in KLCC shopping centre so started going out for lunches but still ordered supper from our favorite Biryani House and Nasi Kandar. We found a dentist that came highly recommended so decided to get a cleaning. My dentist was trained in the US, Paul's was trained in England. The office was great, super modern and had all the latest technologies. It was so much more affordable then getting it done at home.
+We found a really good soup place in KLCC shopping centre so started going out for lunches but still ordered supper from our favorite Biryani House and Nasi Kandar. We found a dentist that came highly recommended so decided to get a cleaning. My dentist was trained in the US, Paul's was trained in England. The office was great, super modern and had all the latest technologies. It was so much more affordable than getting it done at home.
 
 We decided it was time to get out of the city and set ourselves up to go to Lipe, so headed out to Langkawi. Again, this is another place that we didn’t do justice. Paul was really under the weather at this point so mostly stayed in our room. I wandered around the area we were, found some restaurants, coffee shops and stores so kept us in food and water. Paul felt better a few days before we left so we were able to try some restaurants together and walked to the beach.
 

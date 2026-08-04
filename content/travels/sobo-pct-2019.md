@@ -10,7 +10,7 @@ description: "\b"
 album: "https://photos.app.goo.gl/ao17feyoJEAoHMtP7"
 ---
 
-In January of 2019, while we were chilling in Kampot, Cambodia, we were trying to figure out what we would for the summer of 2019. Eventually we decided that we wanted to hike the Pacific Crest Trail (PCT) from the Canadian border in Washington to the Mexican border near San Diego. So using our phones at 3AM in Cambodia we jumped online for the second permit lottery and got 2 permits for northbound PCT hikes. Unfortunately we couldn't get 2 on the same day so we had to switch them out for southbound (SOBO) permits which didn't require specific dates for heading in that direction.
+In January of 2019, while we were chilling in Kampot, Cambodia, we were trying to figure out what we would do for the summer of 2019. Eventually we decided that we wanted to hike the Pacific Crest Trail (PCT) from the Canadian border in Washington to the Mexican border near San Diego. So using our phones at 3AM in Cambodia we jumped online for the second permit lottery and got 2 permits for northbound PCT hikes. Unfortunately we couldn't get 2 on the same day so we had to switch them out for southbound (SOBO) permits which didn't require specific dates for heading in that direction.
 
 We got back to Canada on March 17th and started organizing our gear and training our bodies. 3 months later we got Paul's mum and Dad to give us a ride to Hart's Pass in Washington state, the jumping off point for SOBO PCT hikers.
 
@@ -34,7 +34,7 @@ And here it is all laid out on the bed, just before we left. Click to see the fu
 
 ## The Big 3: Tent, Sleep System and Backpacks
 
-Since we were hiking as a couple we were able to split the weight of our [3FUL Lanshan 2 tent](https://photos.app.goo.gl/Pdqj4G2SRYgBHrfh6). It breaks down into an inner and a fly along with a DIY polycro groundsheet and the pegs. We specifically chose a 2 wall tent for this reason. We purchased this tent of Aliexpress for $115 CAD and had no problem with billing or shipping. That's a fraction of the price of most popular brand name tents. Needless to say the tent performed flawlessly in the 63 nights we slept in it and we would use it again on any other overnight or longer hikes.
+Since we were hiking as a couple we were able to split the weight of our [3FUL Lanshan 2 tent](https://photos.app.goo.gl/Pdqj4G2SRYgBHrfh6). It breaks down into an inner and a fly along with a DIY polycro groundsheet and the pegs. We specifically chose a 2 wall tent for this reason. We purchased this tent from Aliexpress for $115 CAD and had no problem with billing or shipping. That's a fraction of the price of most popular brand name tents. Needless to say the tent performed flawlessly in the 63 nights we slept in it and we would use it again on any other overnight or longer hikes.
 
 </br>
 <div style="text-align: center">
@@ -62,7 +62,7 @@ Most ultralight sleeping mats are 21" wide or narrower. We found that we slept m
 
 We purchased new packs for this adventure: [Northern Ultralight Sundowns](https://www.northernultralight.com/shop/sundown). They are made in Nelson, BC which is just a 2 hour drive from where we live. These packs weigh half of our old [Gregory packs](/articles/choosing-a-pack/) and are even more comfortable. The only downside is their price at $360 CAD each. We liked them so much that they are now our full time packs for everything: travel and hiking. They only weigh about 690g and have detachable hip belts and removable aluminum stays and can cinch down to comfy day packs. For travel we remove the aluminum stays in case we need to stuff them in somewhere tight like overhead bins on planes. We now have no problem meeting the magical 7kg carry on weight limit that many low cost carriers have and our backs sure appreciate it.
 
-To keep our stuff dry inside the packs we used a couple of [Nylofume pack liners](https://www.litesmith.com/nylofume-pack-liner-bags/). Everything we want to keep dry goes inside these. They are like durable, lightweight garbage bags. At first we didn't have our inflatable pads inside them bags but after a couple of wet Washington days we started putting those inside as well. They are surprisingly strong and durable and protect much better than pack covers that only cover a portion of the outside of packs. We've been using the same 2 bags for the Washington and Oregon sections of the PCT as well as 3 months travel in South East Asia, before the Corona-virus forced our early return to Canada.
+To keep our stuff dry inside the packs we used a couple of [Nylofume pack liners](https://www.litesmith.com/nylofume-pack-liner-bags/). Everything we want to keep dry goes inside these. They are like durable, lightweight garbage bags. At first we didn't have our inflatable pads inside these bags but after a couple of wet Washington days we started putting those inside as well. They are surprisingly strong and durable and protect much better than pack covers that only cover a portion of the outside of packs. We've been using the same 2 bags for the Washington and Oregon sections of the PCT as well as 3 months travel in South East Asia, before the Coronavirus forced our early return to Canada.
 
 </br>
 <div style="text-align: center">
@@ -105,8 +105,6 @@ For food storage we had a couple of [Basecamp odor barrier bags](https://www.ama
 ## Hitchhiking and Trail Angels
 
 <a href="https://photos.app.goo.gl/yVvUSWojrsFdS5Nr6" target=”_blank”><img src="/images/image-gallery.png" title="PCT Trail Angels Photo Album" alt="PCT Trail Angels Photo Album" height="50"></a> [Here's an album](https://photos.app.goo.gl/yVvUSWojrsFdS5Nr6) of all the people that gave us rides or helped us out on the PCT.
-
-<Add more details>
 
 ## Photo Albums
 

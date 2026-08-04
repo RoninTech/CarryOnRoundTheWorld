@@ -12,7 +12,7 @@ draft: false
 
 28 days later and we are back! It wasn’t years on the road but it was a good test of living out of our new Gregory 38 L and 40 L bags (J38 and Z40). The traveling with carry on only experiment was definitely a success. It sure was liberating being able to walk off the plane with all our possessions on our backs. We flew Air Canada, Thai Airways International and the regional Thai Smile. Absolutely no problems on any of the flights. Over the years we grew to hate waiting for our luggage to come out on the carousel. That’s because twice it was lost and was a major hassle. Eventually it showed up but this worry is no longer a concern. 😀
 
-About the only thing we missed was our own snorkel gear, although I took my mask. On all of our other trips we used to strap our fins on the sides of our old 65 L packs. Renting snorkel gear it is.
+About the only thing we missed was our own snorkel gear, although I took my mask. On all of our other trips we used to strap our fins on the sides of our old 65 L packs. So renting snorkel gear is the way to go.
 
 The [Klymit V2 sleeping pads](https://klymit.com/collections/sleeping-pads/products/static-v2-sleeping-pad) and [MEC Basecamp pillows](https://www.mec.ca/en/product/5023-543/Base-Camp-Pillow) were worth their weight in gold as our luxury items. So much smaller than the full size Thermarest and vacuum sealed Ikea pillows we used to take with our 65 L packs but just as comfortable. SEA can be brutal for rock hard beds and pillows (especially on a budget) and these let us sleep comfortably everywhere. When deflated they take up little space and were so worth it.
 

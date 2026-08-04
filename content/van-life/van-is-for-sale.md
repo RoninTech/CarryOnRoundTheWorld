@@ -66,7 +66,7 @@ Van is located in Calgary, Alberta. Currently has 8100km with the following equi
   - Modified Vehicle Wiring System
   - Dual Batteries (70 Amp-Hr)
   - Large Center Console
-  - Auxillary Fuse Panel
+  - Auxiliary Fuse Panel
 - 250 Amp Alternator
 - Remote Start (Fobs and App)
 - Extended Length Running Boards
@@ -92,7 +92,7 @@ When we first found the van we were very excited as it was well kitted out for a
 - Adaptive cruise is great for long drives. We'll never own a vehicle without this again.
 - Big 8" Sync 3 Display makes navigating and reversing easier.
 
-The van has been completely insulated for sound and temperature using Noico sound deadening mat and 60 sqft of 3M SM600L Thinsulate. All door panels and headliners were removed for full coverage. Insulated flooring has also been installed with 1" XPS foam, 1/2" baltic birch plywood and vinyl flooring. A final touch on the flooring was the installation of the Ford HD scuff plate kit for side and rear doors.
+The van has been completely insulated for sound and temperature using Noico sound deadening mat and 60 sqft of 3M SM600L Thinsulate. All door panels and headliners were removed for full coverage. Insulated flooring has also been installed with 1" XPS foam, 1/2" Baltic Birch plywood and vinyl flooring. A final touch on the flooring was the installation of the Ford HD scuff plate kit for side and rear doors.
 
 The roof is setup for 400W of solar panels with 80/20 roof rails installed into the factory attachment points. Solar panels and mounting pieces are available and ready to be installed for purchaser at costs detailed below.
 
@@ -107,7 +107,7 @@ Last item to be installed was a removable East West sliding bed to maximize inte
 - [Headliner and Thinsulate](https://carryonrtw.com/van-life/headliner-and-thinsulate/)
 - [Diesel Heater](https://carryonrtw.com/van-life/chinese-diesel-heater/)
 - [Roof Rails](https://carryonrtw.com/van-life/roof-rails/)
-- [Removeable East West Queen Sliding Bed](https://carryonrtw.com/van-life/east-west-sliding-bed/)
+- [Removable East West Queen Sliding Bed](https://carryonrtw.com/van-life/east-west-sliding-bed/)
 
 ## [Contact us here](/contact/) for pricing or with any questions or interest. Serious inquiries only please.
 
