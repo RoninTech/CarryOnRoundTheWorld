@@ -10,7 +10,7 @@ description: "\b"
 album: https://photos.app.goo.gl/WpdFks462dMtDPNC8
 draft: false
 ---
-Like most people, our past few years have been filled with turmoil, stress and uncertainty… a pandemic sure makes you reconsider life choices. Spending time in Canada allowed us to see family and friends, get some things sorted and the van sold. Our last few days in Calgary were filled with visits with my Mom, cleaning the apartment, a trip to the storage unit with John C. and packing for Thailand. We know, Thailand, again!?  🙂 
+Like most people, our past few years have been filled with turmoil, stress and uncertainty… a pandemic sure makes you reconsider life choices. Spending time in Canada allowed us to see family and friends, get some things sorted and the van sold. Our last few days in Calgary included visits with my Mom, cleaning the apartment, a trip to the storage unit with John C. and packing for Thailand. We know, Thailand, again!?  🙂 
 
 We knew that coming back made sense… and when Paul found us such great plane tickets it seemed fitting. We chose Chiang Mai for numerous reasons: we are comfortable and have good friends here, we like the city, oh, and it’s CHEAP!  We feel we have a good understanding of the basics that we need for day to day living and, for now, the retirement extensions make the visa situation easy. So it seemed like the best place to hunker down and regroup and consider what’s next. The flights were [YYC-YVR-TPE-BKK-CNX](http://www.gcmap.com/mapui?P=YYC-YVR-TPE-BKK-CNX) in business class, using our dwindling Star Alliance mileage rewards. We had decent stopovers in case of any delays. Luckily for us, Taiwan opened up for transit passengers and none of our flights were canceled!
 
@@ -53,7 +53,7 @@ Ian and I spent a day baking. After a trip to the kitchen supply store, where I 
 
 {{< youtube K6-hPlrZkj4 >}}
 
-We made the decision to get set up so we can cook more meals at home instead of ordering in all the time. Grab Food makes life easy, it’s cheap and there are so many delicious options but we can’t guarantee GF, there are also a lot of additives like sugar or salt that we are trying to avoid.  This resulted in us getting an air fryer… I’m sure everyone is sick of hearing me talk about it already. We use it almost every day and it’s been great. We use it as an oven not a fryer, it takes little to no oil and everything cooks perfectly. Unless it’s user error and I turn it to charcoal, there was a bigger learning curve than I expected. We can even connect and control it through wifi… this had no bearing on the model we choose. 
+We made the decision to get set up so we can cook more meals at home instead of ordering in all the time. Grab Food makes life easy, it’s cheap and there are so many delicious options but we can’t guarantee GF, there are also a lot of additives like sugar or salt that we are trying to avoid.  This resulted in us getting an air fryer… I’m sure everyone is sick of hearing me talk about it already. We use it almost every day and it’s been great. We use it as an oven not a fryer, it takes little to no oil and everything cooks perfectly. Unless it’s user error and I turn it to charcoal, there was a bigger learning curve than I expected. We can even connect and control it through WiFi… this had no bearing on the model we chose. 
 
 </br>
 <div style="text-align: center">

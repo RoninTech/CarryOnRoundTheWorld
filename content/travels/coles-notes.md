@@ -11,7 +11,7 @@ description: "\b"
 album: "https://photos.app.goo.gl/esSFk43cjfq5oeUm7"
 ---
 
-On Facebook, you may have been exposed to our constant updates and many temple and/or Pagoda photos. For those not on Facebook or who have blocked us after being fed up with the aforementioned pagodas… here is the Cole’s Notes version of our first couple of months:
+On Facebook, you may have been exposed to our constant updates and many temple and/or Pagoda photos. For those not on Facebook or who have blocked us after being fed up with the aforementioned pagodas… here is the Coles Notes version of our first couple of months:
 
 ## Koh Lipe – March 2017
 This time we stayed at [The Reef](https://goo.gl/maps/Rt72kc2nSC2DiwSk8) instead of our usual Andaman Resort, which was taken over by new owners. We really enjoyed our accommodation and met some great people. We highly recommend The Reef, the staff was super nice, beds comfortable and breakfast was good. The orange tabby cat that I spent a lot of time with has no bearing on my opinion.
@@ -45,7 +45,7 @@ Paul finally took a diving class and passed his PADI open water test. The instru
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipM9dxLx8Pxy8STdCtLfOY4ErF6zJgNP3m1XXDeJvjQLYVv6hhbcG-_pHiNWjfJ-lA/photo/AF1QipO1BG98gLVeYlayd36Z6JvJctC49_yuV9ou1_Dj?key=RVdIajRsWGV5N0k2eWdZVG9CeGk1Y0F2c1RtQndn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3fB1YLt-5SiO62oEHuCjy6NeSlRs1NyvHb7TjMfxbaInfQKb773GNQJH9XuxC552va5jshTzBVupQRUCvPQ02jZe_0a0m8PAtucmkNYNJhhdG-H6Ec5s8cR2G7tO2cXMmvfD0eRMkt6MpwRtE1uRjURUA=w210-no" width="208" /><div>Adang Sea Divers</div></a>
 </div>
 
-We met Chip, his wife and daughter. Chip invited us to watch sunset at his place… which is a gorgeous house with a private beach! Pizza, beer, and a fire on a private beach watching a beautiful sunset with friends… one of my top moments. We managed to get a couple of group dinners in with fresh caught fish, BBQ chicken and all the sides. We had a special time with many people, you know you are.
+We met Chip, his wife and daughter. Chip invited us to watch sunset at his place… which is a gorgeous house with a private beach! Pizza, beer, and a fire on a private beach watching a beautiful sunset with friends… one of my top moments. We managed to get a couple of group dinners in with fresh caught fish, BBQ chicken and all the sides. We had a special time with many people, you know who you are.
 
 </br>
 <div style="text-align: center">
@@ -97,7 +97,7 @@ Our friend Pn (Nut) invited us to come and spend some time at her home on the ma
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipNWYl3tuP-npTqrST82biUH3ge_4FqIjfifs7VwupsAbpWexjBkHT-YnOW5-B-mvQ/photo/AF1QipMS8pfSlzshxNrPTA3C_9tsobAMs0CDER5oA4lq?key=SWs0aTVfbC1velI4cG9ScDdPLXFHRllRWW9EbVFn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3cyN6_7_ByoJahMYQMMllX3zFPfhltvmniSM3ulJGJlX_bdOPbhS3ksy6qv2VFFkVidUcvGcGiX6NWairzCRk_La0HHvyUxWI8N1wAQDob7cNp0-dDOMozrXNj5F1xQ1lbKJC1DBzX0khSoAv9sVylHZg=w210-no" width="208" /><div>Paul watching the grill</div></a> 
 </div>
 
-The next day we drove out to the grave site and participated​ in the ceremony. From laying out the food, decorating the site, burning the paper clothes, money and offerings, it was something very special. Off to a nice local park are for a family picnic where unfortunately it poured so we had a quick departure.
+The next day we drove out to the grave site and participated​ in the ceremony. From laying out the food, decorating the site, burning the paper clothes, money and offerings, it was something very special. Off to a nice local park area for a family picnic where unfortunately it poured so we had a quick departure.
 
 </br>
 <div style="text-align: center">
@@ -186,7 +186,7 @@ Markets - We hit up [Warorot market](https://goo.gl/maps/jy3rgYR5gFHbJvSX8), Sun
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO2kMrzhEyZClN7z24EEh9axbu5XJXFmlFtAYVM5boKK3QlVMEeuBEBeU4ByP7Nzw/photo/AF1QipN3VMpmdtGHP82qq8iZ5FfsxUX8yPBt2UEOhF6f?key=ZGY5Njd4eU9xR1gxVlJxUXVQekxIWFZVT3VyQ1hn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3cu-GZtj1pCoTT8iJVvXYoBi42TB-nILwlztncMJRmL4dWVQDOlabWvXeLgHjGMSbwFNuzJk6aadfcd2of8XR3QJAUCN8SHxwETviqbDGSAHFzlPpstOfynchN_Ztq83ykmqubAAQzrXo7lrrImDHf17g=w370-no" width="370" /><div>Cats only played with allergic Paul 😃</div></a> 
 </div>
 
-[Doi Inthanon National Park](https://goo.gl/maps/PgsYNSxubwHfSQEHA) was great. Liked the waterfalls and the garden project. We were very happy at the top (2565m). It was "only" +18C…everyone else had jackets on. We were loving the shorts and t-shirts. It was a nice day and we were glad we went.
+[Doi Inthanon National Park](https://goo.gl/maps/PgsYNSxubwHfSQEHA) was great. Liked the waterfalls and the garden project. We were very happy at the top (2565m). It was "only" +18C … everyone else had jackets on. We were loving the shorts and t-shirts. It was a nice day and we were glad we went.
 
 </br>
 <div style="text-align: center">

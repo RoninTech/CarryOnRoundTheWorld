@@ -11,7 +11,7 @@ description: "\b"
 album: "https://photos.app.goo.gl/IrhmfIOGEZrs7Lxz1"
 ---
 
-Cambodia (Part 1)? What? Why, you ask? Even if you didn’t, I’m pretending you did so I can tell you all about it! After a great time on the 4000 islands in Laos our next stop was Cambodia. We were very excited for a couple of reasons the main one being an opportunity to see our old friend Lee. We hadn’t seen him in years… basically since he moved there from Calgary, Canada. The other reason was that we heard it was amazing. So we took off from the 4000 islands on a boat, then a bus to the infamous border crossing, renowned for its corruption. We were super lucky in that our Thai friend Nok had also decided to leave at the same time so we all traveled together.
+Cambodia (Part 1)? What? Why, you ask? Even if you didn’t, I’m pretending you did so I can tell you all about it! After a great time on the 4000 islands in Laos our next stop was Cambodia. We were very excited for a couple of reasons; the main one being an opportunity to see our old friend Lee. We hadn’t seen him in years… basically since he moved there from Calgary, Canada. The other reason was that we heard it was amazing. So we took off from the 4000 islands on a boat, then a bus to the infamous border crossing, renowned for its corruption. We were super lucky in that our Thai friend Nok had also decided to leave at the same time so we all traveled together.
 
 </br>
 <div style="text-align: center">
@@ -27,8 +27,7 @@ While beautiful, it was crazy crowded with people. Tour buses, hundreds of tuk t
 
 </br>
 <div style="text-align: center">
-  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO1kp4khayMoI1-b69c3tBE-JNsrwY5GkMfxGJirR8CkiLn3YgzvMPYtz-AiYAeIA/photo/AF1QipPzYtTa_7ozKVIinH2tcCVNrXsCvtcR0YCnePjB?key=Mk9uTDYxT3pha3dwVFh5QUtpc3UySUZrV3NISFdn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3d0l7Lryy5XLDuwR8KTVfK3RUbHWeAZrbv2sPnI4zlJYFy6g42Gb5bCJ2uuqKCkTCNqUNQ_rI_692hJG5StT_-5Oy2-B9etrpGvTGTS70qmVH9QoNf2Q0rbqrrZgeWhKrtylMbwusE6ccXO3IxLDZqXkw=w370-no" width="370" /><div>Ang
-  kor Wat with the hordes just outside the frame</div></a>
+  <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO1kp4khayMoI1-b69c3tBE-JNsrwY5GkMfxGJirR8CkiLn3YgzvMPYtz-AiYAeIA/photo/AF1QipPzYtTa_7ozKVIinH2tcCVNrXsCvtcR0YCnePjB?key=Mk9uTDYxT3pha3dwVFh5QUtpc3UySUZrV3NISFdn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3d0l7Lryy5XLDuwR8KTVfK3RUbHWeAZrbv2sPnI4zlJYFy6g42Gb5bCJ2uuqKCkTCNqUNQ_rI_692hJG5StT_-5Oy2-B9etrpGvTGTS70qmVH9QoNf2Q0rbqrrZgeWhKrtylMbwusE6ccXO3IxLDZqXkw=w370-no" width="370" /><div>Angkor Wat with the hordes just outside the frame</div></a>
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipO1kp4khayMoI1-b69c3tBE-JNsrwY5GkMfxGJirR8CkiLn3YgzvMPYtz-AiYAeIA/photo/AF1QipNGaKqCrHefA-T_ygnTy1y1WBk0UVA4rsKdhQjV?key=Mk9uTDYxT3pha3dwVFh5QUtpc3UySUZrV3NISFdn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3dmODL1rhSojB2bNqhZEzdrC_jqeZ2mLf_Nm5vIhX4HDtc8tKiNDUmxYeh9l3E3wE-wclPu_HdmT0AA2jLl2PYCmJ8PefbN0NBl0Opg5RTWKRJmgNw13YN_48osgvpvKSrzvjsKc6nCpzNdjtHMrr9Mtw=w370-no" width="370" /><div>Convenient puddles for reflections</div></a> 
 </div>
 

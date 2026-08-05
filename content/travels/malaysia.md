@@ -14,7 +14,7 @@ We had decided to head to Malaysia next, giving ourselves about a month before h
 
 We booked a suite at Mercu Summer Suites, which are 99% AirBnb’s. It was a great location, close enough to get places by walking or Grab. We had great plans in KL, but our experience turned out to be different than expected.
 
-Our first day we walked over to an open air buffet place called Nasi Khandar. We were the only non locals there at the time. The staff were great and helped us decide what to order and we settled in for delicious curries, tandori and drinks. Once we finished we headed over to the Petronas Towers and KLCC shopping centre. It was one of the rare times in SEA where drivers actually obey the rules and let pedestrians cross… usually.
+Our first day we walked over to an open air buffet place called Nasi Khandar. We were the only non locals there at the time. The staff were great and helped us decide what to order and we settled in for delicious curries, tandoori and drinks. Once we finished we headed over to the Petronas Towers and KLCC shopping centre. It was one of the rare times in SEA where drivers actually obey the rules and let pedestrians cross… usually.
 
 The Towers are massive and it was quite neat to see them. There are all sorts of tours and things you could do but we decided to pass and went into the massive mall. The mall here is 4 or 5 stories and is filled with food courts, movie theatres and high end stores. Behind the mall there is a park where you can see a night time light show, then walk over to the food alley. We wandered around for hours, then got some groceries and headed home.
 
@@ -24,7 +24,7 @@ The Towers are massive and it was quite neat to see them. There are all sorts of
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMHDoTfhzFdE0F-ULXxbhOJk_dp0UQfV-A4A8WCqhfdjVOVR-L-sap9lY67-6o5cg/photo/AF1QipOyhaiAKosq0pcQJp1VE991eY1eMAU7YrC13y9L?key=SGhUczhjMjFZRW9sQzlNeXUxbGxQNWNHRWtmOVZn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3fjBu06swCvlbVKT9EXbAXOeSsN6JYCX7xt5U96ebUSWwCOYgc1WsOJUms-1fXF-2yUwuUcOH_46VTMNslJkxQvYnfsoewSRHgXiyOOQbtc3YspWKNEAzvHYy_WhWaQbYT9EiUWIb7mpy1DnE_N_LboQg=w370-no" width="370" /><div>Towers</div></a>
 </div>
 
-The next few days were a combination of finding delicious Malaysian/Indian food and walking around. We had only booked a week in KL and then planned on heading to Malacca, Penang and Ipoh. At this time we were also watching video’s on the PCT and calling home regularly to get updates on Gillian. I was able to call and talk to her as well as exchanging texts which was special.
+The next few days were a combination of finding delicious Malaysian/Indian food and walking around. We had only booked a week in KL and then planned on heading to Malacca, Penang and Ipoh. At this time we were also watching videos on the PCT and calling home regularly to get updates on Gillian. I was able to call and talk to her as well as exchanging texts which was special.
 
 We made a mad dash one night to watch LFC at the local KL LFC supporters club. It took a long time to get there so Paul started watching the game on his phone. We arrived and ended up sitting at the end of a bar with one of the owners who was a huge fan. It was a great atmosphere and we were getting high fives when we scored. They even bought us a beer… it was a great night.
 

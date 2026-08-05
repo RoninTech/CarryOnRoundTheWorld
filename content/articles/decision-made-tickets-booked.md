@@ -12,7 +12,7 @@ draft: false
 
 Decision made and we've booked our plane tickets! What? When did this happen? I know it’s been a while since I took the time to write out something about our plans. Partially because we have been super busy and some things took much longer than expected so we weren’t sure what was happening. We also had some changes in the family that had us questioning our decisions. The quick catch up:
 
-- June – accepted offer on the house, Paul ruptured his Achilles.
+- June – accepted offer on the house, Paul ruptured his Achilles tendon playing soccer.
 - July – sold trailer, truck, passed home inspection. Paul is in a boot and needed driving around, Helen searches for apartments and packs.
 
 <div style="text-align: center">
@@ -36,7 +36,7 @@ There are some factors to consider:
 
 After spending a Saturday trying to map the best seasons for travel in each country, we realized that we were going too far. Sadly, we didn’t come to that conclusion until I’d spent the day typing up what was readily available on many websites. While it’s good to have knowledge and be educated about where you are going and when, you can only be so ready. You can drive yourself nuts trying to stay away from cyclone season in one section but can’t avoid rainy season somewhere else.
 
-Thankfully the fog cleared and we engaged in intelligent and rational conversation. I know you are all thinking that Paul spoke rationally with intelligence to me, but I was able to respond in kind. We should have recorded it since most people won’t believe that! Our yearly trips to Thailand mean a lot to us and not planning on going this upcoming year was not something we were happy about. So, why not? Start in SE Asia, one of our favourite areas in the world and go from there?
+Thankfully the fog cleared and we engaged in intelligent and rational conversation. I know you are all thinking that Paul spoke rationally with intelligence to me, but I was able to respond in kind. We should have recorded it since most people won’t believe it! Our yearly trips to Thailand mean a lot to us and not planning on going this upcoming year was not something we were happy about. So, why not? Start in SE Asia, one of our favourite areas in the world and go from there?
 
 We could use Thailand as a starting point, take a few weeks to get over working for a living and translate into just living. Be able to take time to visit friends and places that are special to us. Explore new places and meet new people. Plus with the other places in the area that we want to see: Cambodia, Laos, Vietnam, Burma, Nepal, Bhutan(mixed feelings), Philippines, Malaysia, Indonesia and all the little islands, we thought it would be easy to move between countries. It’s a quicker trip to get to Australia, New Zealand and all those areas as well. Then when we’ve done that section and have some travel cred under our belts, India, Morocco and South Africa. South America is also on the list!
 

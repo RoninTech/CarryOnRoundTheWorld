@@ -108,7 +108,7 @@ If you like good food you have to go to Kampot. There are many expats there who 
 
 ## The Red Roads and Surrounding Area
 
-We did several rides along the “red roads” to explore the area. These are a network of red clay roads that go to all sorts of interesting places. Dusty as heck when dry and slippery as snot when wet. We met locals, won at quiz night, a boat ride with Bart the Boatman, explored caves, saw the remarkable fig tree and went to Kep for amazing seafood. Just rent a scooter for $4/day, fill it for $2 and go explore. One thing to be aware of is these roads turn into ice rinks when you add rain so be aware of the weather when you are out riding. And wear a helmet!
+We did several rides along the “red roads” to explore the area. These are a network of red clay roads that go to all sorts of interesting places. Dusty as heck when dry and slippery as snot when wet. We met locals, won at quiz night, a boat ride with Bart the Boatman, explored caves, saw the remarkable fig tree and went to Kep for amazing seafood. Just rent a scooter for $4/day, fill it for $2 and go explore. One thing to be aware of with the weather when you are out riding is that these roads turn into ice rinks when you add rain.  The dirt turns into super-slick mud. And wear a helmet!
 
 </br>
 <div style="text-align: center">

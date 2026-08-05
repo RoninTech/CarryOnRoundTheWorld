@@ -18,6 +18,6 @@ There are things you can do to work with the airline carry on rules to improve y
 
 When planning a big trip it’s a good idea to make a list of your gear and it’s weight. You could use your own spreadsheet or use one of the sites specifically designed for this such as [lighterpack.com](https://lighterpack.com/). You can use this to play with combinations of items to arrive at your best gear list before you even pack. Once you get your gear you’ll likely have to do multiple test packs.
 
-Sometimes there is no way your baggage will meet the requirements on a flight that you need to take. For these cases it is much cheaper to pay for checked in luggage when you book. Paying this fee at check-in can sometimes be exorbitant so try to plan ahead. We use a [USB travel scale](https://www.mec.ca/en/product/5044-977/Digital-USB-Scale) to make sure we meet the carry on weight allowances.
+Sometimes there is no way your baggage will meet the requirements for a flight that you need to take. For these cases it is much cheaper to pay for checked in luggage when you book. Paying this fee at check-in can sometimes be exorbitant so try to plan ahead. We use a [USB travel scale](https://www.mec.ca/en/product/5044-977/Digital-USB-Scale) to make sure we meet the carry on weight allowances.
 
 Here’s a great resource from luggage maker [Minaal](https://www.minaal.com/), for finding what rules many airlines have: [Airline Carry On Bag Sizes](https://carryonbagsizes.com/).

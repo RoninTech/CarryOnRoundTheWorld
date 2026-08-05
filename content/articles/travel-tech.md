@@ -10,13 +10,13 @@ description: "\b"
 draft: false
 ---
 
-My first travel tech was a pen flashlight and a Walkman. That allowed me to read the massive copy of Let's Go Europe in the hostel dorms without bothering anyone too much while listening to one of the mix tapes that I had with me. This was way back in 1987 on my first real adventure between high school and university. A 6 month backpacking trip in 1987 around Europe and Morocco.
+My first travel tech was a pen flashlight and a Walkman. That allowed me to read the massive copy of Let's Go Europe in the hostel dorms without bothering anyone too much while listening to one of the mix tapes that I had with me. This was way back in 1987, on my first real adventure between high school and university. A 6 month backpacking trip around Europe and Morocco.
 
 ## PDAs
 
 <a href="https://en.wikipedia.org/wiki/Palm_III"><img src="https://m.media-amazon.com/images/I/41QV9ZPF7ZL.jpg" height="150" alt="Palm Pilot III PDA" title="Palm Pilot III PDA"></a>
 
-Fast forward a few years to our honeymoon trip to Thailand in Y2K and my first "real" travel tech was a Palm Pilot 3. I used it to read e-books and play games (Freecell, sudoku, chess etc.). Just having a way to bring a ton of books to read without having to carry them anymore was a massive improvement. I even had a folding keyboard for it as shown above. 2 months on 2 x AAA batteries. I also had a nice Sony Diskman so we could listen to CDs. This wasn't ideal as a couple since we only had 1 Palm Pilot and Discman.
+Fast forward a few years to our honeymoon trip to Thailand in Y2K and my first "real" travel tech was a Palm Pilot 3. I used it to read e-books and play games (Freecell, sudoku, chess etc.). Just having a way to bring a ton of books to read without having to carry them anymore was a massive improvement. I even had a folding keyboard for it as shown above. The PDA would last 2 months on 2 x AAA batteries. I also had a nice Sony Diskman so we could listen to CDs. This wasn't ideal as a couple since we only had 1 Palm Pilot and Discman.
 
 <a href="https://en.wikipedia.org/wiki/Sony_CLI%C3%89_NX_Series"><img src="https://m.media-amazon.com/images/I/51TK2A0XW1L._AC_SY355_.jpg" height="150" alt="Sony Clie NX70V" title="Sony Clie NX70V"> <img src="http://www.palminfocenter.com/images/ind_img_ti.jpg" height="150" alt="Sony Clie NX70V" title="Sony Clie NX70V"></a>
 
@@ -30,13 +30,13 @@ The advent of smartphones brought us our next travel tech change and it was a hu
 
 <a href="https://en.wikipedia.org/wiki/Google_Pixel#Pixel_&_Pixel_XL"><img src="https://www.notebookcheck.net/uploads/tx_nbc2/GooglePixel__1_.JPG"  height="150" alt="Google Pixel" title="Google Pixel"></a>
 
-It wasn't until we purchased our Google Pixel 1 phones in October 2016 that Smartphone cameras became good enough to the point we could leave our camera at home. At that time we had a nice little Sony RX100III which took great photos, but maybe not great enough to justify the extra weight. :smile: I have to give credit where credit is due for our Pixels. They have been running strong for 8 years now requiring only 2 battery swaps. It seems that the batteries last for about 3 years before they need changing. We had it done both times at a local [uBreakiFix in Calgary](https://g.page/ubreakifix-lincoln-park?share). No issues either time. Other than the battery, the phones are still awesome so a $90CAD battery replacement was way better than buying new, thousand dollar phones. These Smartphones are probably our most flexible and most valuable pieces of kit when we travel. Unfortunately they don't support voice over LTE (VoLTE). So we will be forced to replace them when networks require VoLTE. Then again, if data works fine we can use VOIP apps to talk to people.
+It wasn't until we purchased our Google Pixel 1 phones in October 2016 that Smartphone cameras became good enough to the point we could leave our camera at home. At that time we had a nice little Sony RX100III which took great photos, but maybe not great enough to justify the extra weight. :smile: I have to give credit where credit is due for our Pixels. They have been running strong for 8 years now requiring only 2 battery swaps. It seems that the batteries last for about 3 years before they need changing. We had it done both times at a local [uBreakiFix in Calgary](https://g.page/ubreakifix-lincoln-park?share). No issues either time. Other than the battery, the phones are still awesome so a $90 CAD battery replacement was way better than buying new, thousand dollar phones. These Smartphones are probably our most flexible and most valuable pieces of kit when we travel. Unfortunately they don't support voice over LTE (VoLTE). So we will be forced to replace them when networks require VoLTE. Then again, if data works fine we can use VOIP apps to talk to people.
 
 <b>UPDATE:</b> 
 
-<a href="https://www.samsung.com/ca/smartphones/galaxy-s24-ultra/buy/"><img src="https://images.samsung.com/is/image/samsung/assets/ca/smartphones/galaxy-s24-ultra/buy/S24Ultra-Color-Titanium_Blue_MO_0527_final.jpg" height="150" alt="Samsung Galaxy S24 Ultra" title="Samsung Galaxy S24 Ultra"></a>
+<a href="https://www.samsung.com/ca/smartphones/galaxy-s24-ultra/buy/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Samsung_Galaxy_S24_Ultra_and_Pen_with_grey_Background.jpg/330px-Samsung_Galaxy_S24_Ultra_and_Pen_with_grey_Background.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" height="150" alt="Samsung Galaxy S24 Ultra" title="Samsung Galaxy S24 Ultra"></a>
 
-Over 8 years after purchasing it, Helen's original Pixel died while we were on [New Zealand's south island](/travels/new-zealand-south-island-2024/).  She went to bed and it was working fine, woke up and it was completely dead.  I spent a day trying to resurrect it but to no avail.  Due to crazy prices in NZ we waited until we were back in Oz before buying her a new Samsung Galaxy S24 Ultra.  It is supposed to get OS updates for several years so hopefully it lasts as long as our old Pixels.  After playing with Helen's new phone, Paul decided he wanted to upgrade as well so now we both have S24 Ultras.  Paul's 8 year old Pixel is still working fine so we use it to upload our pics to Google Photos with unlimited original quality.  These new phones can be plugged directly into a TV/monitor and used as basic computers using Samsung Dex.
+Over 8 years after purchasing it, Helen's original Pixel died while we were on [New Zealand's south island](/travels/new-zealand-south-island-2024/).  She went to bed and it was working fine, woke up and it was completely dead.  I spent a day trying to resurrect it but to no avail.  Due to crazy prices in NZ we waited until we were back in Oz before buying her a new Samsung Galaxy S24 Ultra.  It is supposed to get OS updates for several years so hopefully it lasts as long as our old Pixels.  After playing with Helen's new phone, Paul decided he wanted to upgrade as well, so now we both have S24 Ultras.  Paul's 8 year old Pixel is still working fine so we use it to upload our pics to Google Photos with unlimited original quality.  These new phones can be plugged directly into a TV/monitor and used as basic computers using Samsung Dex.
 
 ### Android Smartphone Apps We Use When Traveling
 
@@ -55,17 +55,17 @@ We use this to do currency conversions at the most up to date exchange rates. We
 
 #### Wise
 
-<a href="https://www.wise.com/"><img src="https://wise.com/static/images/fb-og-logo-flag.png" width="64" height="64" alt="Wise Cheaper, Faster Money Transfers" title="Wise Cheaper, Faster Money Transfers"></a>  
+<a href="https://www.wise.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Wise_Logo_512x124.svg/330px-Wise_Logo_512x124.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" height="64" alt="Wise Cheaper, Faster Money Transfers" title="Wise Cheaper, Faster Money Transfers"></a>  
 We use Wise to transfer money between foreign currencies, typically Canadian to something else. The transfer fees are usually better than any other method and quite fast. Liked them so much we even signed up for a Wise Prepaid Multi-Currency VISA card.
 
 #### Google Translate
 
-<a href="https://translate.google.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Google_Translate_logo.svg/240px-Google_Translate_logo.svg.png" width="64" height="64" alt="Google Translate" title="Google Translate"></a>  
+<a href="https://translate.google.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Google_Translate_logo.svg/250px-Google_Translate_logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="64" height="64" alt="Google Translate" title="Google Translate"></a>  
 This app has been so useful over the years. There's also a great browser extension that lets you translate whole websites or just snippets of text as you browse. I'll never forget using it in Taiwan to translate a menu on the wall from Taiwanese to English using the camera in real time. You just hold it up and the text changes to English like magic.
 
 #### Grab
 
-<a href="https://www.grab.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Grab_Logo.svg/320px-Grab_Logo.svg.png" height="64" alt="Grab Rides and Food Deliveries" title="Grab Rides and Food Deliveries"></a>  
+<a href="https://www.grab.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Grab_Logo.svg/330px-Grab_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" height="64" alt="Grab Rides and Food Deliveries" title="Grab Rides and Food Deliveries"></a>  
 This app is addictive to use when in one of the countries where it is active. That includes Singapore, Malaysia, Cambodia, Indonesia, Myanmar, the Philippines, Thailand and Vietnam. First of all we never use taxis anymore except if they are Grab taxis. By using the Grab app, you know exactly what you are going to pay which makes it much more difficult to be scammed. Also, many restaurants in SE Asia will deliver food to your location using the app. Highly recommended!
 
 #### Google Maps
@@ -76,11 +76,11 @@ This is another Google app that gets a lot of use. We have 2 main uses: reviews 
 #### ~~Maps.Me~~
 
 <a href="https://maps.me/"><img src="https://maps.me/img/logo.png" width="64" height="64" alt="Maps.Me" title="Maps.Me"></a>  
-When we don't have a reliable data connection to use Google Maps, we use Maps.Me. You need to download the maps before you arrive in an area, but once you have them the app just uses the GPS and doesn't need a data connection. We used it to great effect on the Annapurna Circuit where there is basically no reception in the Nepalese Himalayas. You can import KML/KMZ files to be shown on your map. For instance I found a map that showed all of the Tea Houses and villages on the Annapurna Circuit. It also does a great job of showing you the elevation profile between 2 places. Excellent to know what kind of a hiking day you have ahead of you. :smile:
+When we don't have a reliable data connection to use Google Maps, we use Maps.Me. You need to download the maps before you arrive in an area, but once you have them the app just uses the GPS and doesn't need a data connection. We used it to great effect on the Annapurna Circuit where there is basically no reception in the Nepalese Himalayas. You can import KML/KMZ files to be shown on your map. For instance I found a map that showed all of the Tea Houses and villages on the Annapurna Circuit. It also does a great job of showing you the elevation profile between two places. Excellent to know what kind of a hiking day you have ahead of you. :smile:
 
 **UPDATE:** 
 #### Organic Maps
-<a href="https://organicmaps.app/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Organic-map.png/180px-Organic-map.png" width="64" height="64" alt="Organic Maps" title="Organic Maps"></a>  
+<a href="https://organicmaps.app/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Organic_Maps_logo_green-on-white.svg/250px-Organic_Maps_logo_green-on-white.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="64" height="64" alt="Organic Maps" title="Organic Maps"></a>  
 During covid, Maps.Me was bought out and is no longer recommended. [Organic Maps](https://organicmaps.app/) is the open source replacement app.  Further, Organic Maps now works great under Android Auto!  So now you can get turn by turn directions on your vehicle's head unit without needing to use up your phone's data plan.
 
 #### Musicolet
@@ -100,7 +100,7 @@ Just before we left Canada in 2017 we ported our Canadian cell phone numbers fro
 
 #### Wireguard
 
-<a href="https://www.fongo.com/services/fongo-mobile/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Logo_of_WireGuard.png/320px-Logo_of_WireGuard.png" alt="Wireguard VPN App" title="Wireguard VPN App"></a>  
+<a href="https://www.fongo.com/services/fongo-mobile/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Cib-wireguard_%28CoreUI_Icons_v1.0.0%29.svg/250px-Cib-wireguard_%28CoreUI_Icons_v1.0.0%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" height="64" alt="Wireguard VPN App" title="Wireguard VPN App"></a>  
 We kept a server running in Canada in my parent's basement. It ran a VPN server, initially we used OpenVPN, so we could access banking from anywhere in the world as though we were in Canada. Unfortunately the Overhead of OpenVPN meant that the speeds weren't that great. Eventually Wireguard was released which is a much leaner VPN implementation and the speeds improved quite a bit. This Wireguard client for Android allowed us to access Canadian websites and other services as though we were still in Canada. For example we couldn't download our Canadian Covid shot certificates from the Alberta Health website if we were not in Canada.
 
 #### Mullvad VPN
@@ -124,7 +124,7 @@ One "luxury" tech item we've been taking lately is an old Dell bluetooth travel 
 
 <a href="https://www.amazon.com/dp/B00X5P8BJO"><img src="/images/GOOJODOQ-BT-Backlit-keyboard.webp" height="150" alt="Backlit Bluetooth Keyboard" title="Backlit Bluetooth Keyboard"></a>
 
-Since we have decided to hunker down in Chiang Mai for an extended period, I decided to buy a cheap BT keyboard.  When we stay places for a while I usually get back into programming and using the Valence keyboard for that gets old fast.  After scouring the internet I finally found a great solution.  It is a 170g BT 3 keyboard with a built in 400 mAh battery that lasts weeks and is rechargeable via USB.  You can use the keyboard while it is being charged so no down time.  The keyboard is rigid enough to use sitting in my lap.  It also has 7 backlight colours or you can disable the backlight.  I've been using it for a few months now and haven't had any issues with dropped keystrokes.  Very happy with this and it only cost 283THB ($10CAD) shipped from China to Thailand in a week.  I've provided the link to a re-branded version of the keyboard on Amazon for more detail.  I have the generic unbranded one but there are many out there that are identical except for another re-selling companies logo.
+Since we have decided to hunker down in Chiang Mai for an extended period, I decided to buy a cheap BT keyboard.  When we stay somewhere for a while I usually get back into programming and using the Valence keyboard for that gets old fast.  After scouring the internet I finally found a great solution.  It is a 170g BT 3 keyboard with a built in 400 mAh battery that lasts weeks and is rechargeable via USB.  You can use the keyboard while it is being charged so no down time.  The keyboard is rigid enough to use sitting in my lap.  It also has 7 backlight colours or you can disable the backlight.  I've been using it for a few months now and haven't had any issues with dropped keystrokes.  Very happy with this and it only cost 283THB ($10 CAD) shipped from China to Thailand in a week.  I've provided the link to a re-branded version of the keyboard on Amazon for more detail.  I have the generic unbranded one but there are many out there that are identical except for another re-selling companies logo.
 
 NOTE: When I first purchased the keyboard I had issues with range.  I had to be within a couple of metres of my Raspberry Pi.  After a lot of googling and experimentation I found that my USB3 to SATA adapter that I use to attach my Pi's SSD drive is very noisy and interfered with the keyboard.  Now a few washed tuna cans sit on top of the adapter and I can use the keyboard from the couch.  This would have affected any BT keyboard.
 
@@ -146,9 +146,9 @@ Another great piece of travel tech that came out around the same time as Smartph
 
 ## GL.iNet Shadow Travel Router (AR300M)
 
-<a href="https://www.gl-inet.com/products/gl-ar300m/"><img src="https://static.gl-inet.com./www/images/products/gl-ar300m/shadow_1000x1000_2.jpg"  height="150" alt="Gl.iNet Shadow AR300M" title="Gl.iNet Shadow AR300M"></a>
+<a href="https://www.gl-inet.com/products/gl-ar300m/"><img src="https://m.media-amazon.com/images/I/41gQQAA8ozL._AC_UF894,1000_QL80_.jpg"  height="150" alt="Gl.iNet Shadow AR300M" title="Gl.iNet Shadow AR300M"></a>
 
-Just before we left to travel in 2017 we picked up this [AR300M travel router](https://www.gl-inet.com/products/gl-ar300m/) from Amazon. It cost $40CAD and weighed only 40g! For network devices we have our phones, Kobos and either Chromecast, Fire stick or Raspberry Pi. We have this travel router configured to statically assign IP's and hostnames to these devices so they can always talk to each other. When we get somewhere we just have to connect the travel router to the internet and the rest just works. The router supports [captive portal](https://en.wikipedia.org/wiki/Captive_portal) so we can login to a places WiFi and share it through the travel router. In a pinch I can also use one of our phones as a USB modem and supply internet that way. It also has an Ethernet WAN port in case there is Ethernet available. It works well with Wireguard VPN's and I have used it to a home Wireguard server as well as to our more recent Mullvad Wireguard VPN account. Another cool trick is that it has a USB port and we can share media off a USB drive via DLNA from the travel router. There are regular security and feature updates and it has proven to be a very flexible and useful piece of kit. Under the hood it runs a custom flavour of OpenWRT which is an extremely well supported router distribution. Whenever I have had any questions the [community forum](https://forum.gl-inet.com/) has been a great place to get them answered.
+Just before we left to travel in 2017 we picked up this [AR300M travel router](https://www.gl-inet.com/products/gl-ar300m/) from Amazon. It cost $40 CAD and weighed only 40g! For network devices we have our phones, Kobos and either Chromecast, Fire stick or Raspberry Pi. We have this travel router configured to statically assign IP's and hostnames to these devices so they can always talk to each other. When we get somewhere we just have to connect the travel router to the internet and the rest just works. The router supports [captive portal](https://en.wikipedia.org/wiki/Captive_portal) so we can login to a places WiFi and share it through the travel router. In a pinch I can also use one of our phones as a USB modem and supply internet that way. It also has an Ethernet WAN port in case there is Ethernet available. It works well with Wireguard VPN's and I have used it to a home Wireguard server as well as to our more recent Mullvad Wireguard VPN account. Another cool trick is that it has a USB port and we can share media off a USB drive via DLNA from the travel router. There are regular security and feature updates and it has proven to be a very flexible and useful piece of kit. Under the hood it runs a custom flavour of OpenWRT which is an extremely well supported router distribution. Whenever I have had any questions the [community forum](https://forum.gl-inet.com/) has been a great place to get them answered.
 
 <b>UPDATE:</b>
 
@@ -158,7 +158,7 @@ To add to the horror of Helen's phone dying while were on New Zealand's south is
 
 ## Chromecast
 
-<a href="https://en.wikipedia.org/wiki/Chromecast#Second_generation"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Chromecast-2015.jpg/306px-Chromecast-2015.jpg" height="150" alt="Chromecast Gen. 2" title="Chromecast Gen. 2"></a>
+<a href="https://en.wikipedia.org/wiki/Chromecast#Second_generation"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Chromecast-2015.jpg/330px-Chromecast-2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" height="150" alt="Chromecast Gen. 2" title="Chromecast Gen. 2"></a>
 
 The Chromecast was so we could view phone content on a TV. Good in theory but it didn't work well in practice. Google was limiting what the Chromecast could do. Since it was a WiFi connection from Phone to the Chromecast, it didn't work well for playing HD content. Too much stuttering. It was good for Netflix but that was about it. We needed something that could play any downloaded media file on a TV via HDMI.
 
@@ -179,19 +179,19 @@ We had planned on doing a lot of travel blogging and the keyboard was to make ty
 
 ## Amazon Fire TV Stick 4K
 
-<a href="https://en.wikipedia.org/wiki/Amazon_Fire_TV#Fire_TV_Stick_4K"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Amazon_Fire_TV_4k.jpg/259px-Amazon_Fire_TV_4k.jpg" height="150" alt="Fire TV Stick 4K" title="Fire TV Stick 4K"></a>
+<a href="https://en.wikipedia.org/wiki/Amazon_Fire_TV#Fire_TV_Stick_4K"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Fire-TV_Stick_and_Remote.jpg/250px-Fire-TV_Stick_and_Remote.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" height="150" alt="Fire TV Stick 4K" title="Fire TV Stick 4K"></a>
 
-In late 2019, after we finished our [Pacific Crest Trail adventure](https://carryonrtw.com/travels/sobo-pct-2019/), we picked up an Amazon Fire TV Stick 4K. I found that I could mount a large micro SD card using an OTG cable and use VLC or Kodi to play the downloaded media. Not too shabby and this setup worked for a year or so. The downside was that the stick only had a few Gig's of onboard memory and the external OTG memory card had to be formatted in Fat32 which meant that files had to be smaller than 4GB, which isn't always the case for movies. It was better than the Chromecast but still not ideal.
+In late 2019, after we finished our [Pacific Crest Trail adventure](https://carryonrtw.com/travels/sobo-pct-2019/), we picked up an Amazon Fire TV Stick 4K. I found that I could mount a large micro SD card using an OTG cable and use VLC or Kodi to play the downloaded media. Not too shabby and this setup worked for a year or so. The downside was that the stick only had a few gigs of onboard memory and the external OTG memory card had to be formatted in Fat32 which meant that files had to be smaller than 4GB, which isn't always the case for movies. It was better than the Chromecast but still not ideal.
 
 ## Raspberry Pi 4B, 8GB - Game Changer
 
-<a href="https://en.wikipedia.org/wiki/Raspberry_Pi"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Raspberry_Pi_4_Model_B_-_Side.jpg/320px-Raspberry_Pi_4_Model_B_-_Side.jpg" height="150" alt="Raspberry Pi 4B 8GB" title="Raspberry Pi 4B 8GB"><img src="https://shop.inux3d.com/235-medium_default/the-terrapi-alpha.jpg" height="150" alt="Terrapi Alpha SSD Case" title="Terrapi Alpha SSD Case"></a>
+<a href="https://en.wikipedia.org/wiki/Raspberry_Pi"><img src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Raspberry_Pi_4_B.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" height="150" alt="Raspberry Pi 4B 8GB" title="Raspberry Pi 4B 8GB"><img src="https://shop.inux3d.com/235-medium_default/the-terrapi-alpha.jpg" height="150" alt="Terrapi Alpha SSD Case" title="Terrapi Alpha SSD Case"></a>
 
 In the summer of 2020, while [hiding from Covid in Creston, BC](/travels/should-we-stay-or-should-we-go/), I picked up an [8GB Raspberry Pi 4 kit](https://en.wikipedia.org/wiki/Raspberry_Pi#Raspberry_Pi). This has been a game changer for traveling. It is still super light but it is so much more functional than the Chromecast and Fire TV Stick. Price was $130 CAD for the kit including power supply and uSD card. It has proven to be an extremely capable, portable travel computer running a 64bit Linux distro, specifically Debian ~~Buster~~ Bullseye. It is an Arm computer so some apps aren't available but most are and more are becoming available every day. One major requirement is that it relies on us having a TV with an HDMI input. Same as the Chromecast and Fire TV Stick. We've stayed in a lot of places since we started full-time travel in 2017 and if I had to guess I would bet that over 90% of the places had an HDMI capable TV. It's really only been when we were trekking in Nepal and Myanmar that we didn't have access to modern TV's in our rooms.
 
-I picked up a nice light (only a few grams) [TerraPi Alpha 3d printed case](https://shop.inux3d.com/en/home/44-78-the-terrapi-alpha.html#/10-color-red/26-ssd-single) for the Pi and added a 250GB SSD so I could [boot the Pi from the faster drive and have way more storage](https://lemariva.com/blog/2020/08/raspberry-pi-4-ssd-booting-enabled-trim). Also added a [Noctua NF-A4x10 5V fan](https://noctua.at/en/products/fan/nf-a4x10-5v) for some "almost" silent active cooling.
+I picked up a nice, lightweight (only a few grams) [TerraPi Alpha 3d printed case](https://shop.inux3d.com/en/home/44-78-the-terrapi-alpha.html#/10-color-red/26-ssd-single) for the Pi and added a 250GB SSD so I could [boot the Pi from the faster drive and have way more storage](https://lemariva.com/blog/2020/08/raspberry-pi-4-ssd-booting-enabled-trim). Also added a [Noctua NF-A4x10 5V fan](https://noctua.at/en/products/fan/nf-a4x10-5v) for some "almost" silent active cooling.
 
-With the addition of the 250GB SATA SSD drive attached via the USB3 to SATA adapter, the Raspberry Pi 4 really came alive.  Performance increase was large.  Now I often forget that I'm on a Pi rather than a full blown desktop.  It's been able to handle everything we've thrown at it.  Most of which you can see listed below.  I usually boot from the much faster SSD but if we want to play [RetroPie](https://retropie.org.uk/) games then I just unplug the USB SSD drive cable and the Pi will then boot from the uSD card that has [RetroPie](https://retropie.org.uk/) installed on it, along with a bunch of old games.
+With the addition of the 250GB SATA SSD drive attached via the USB3 to SATA adapter, the Raspberry Pi 4 really came alive.  The performance increase was large.  Now I often forget that I'm on a Pi rather than a full blown desktop.  It's been able to handle everything we've thrown at it.  Most of which you can see listed below.  I usually boot from the much faster SSD but if we want to play [RetroPie](https://retropie.org.uk/) games then I just unplug the USB SSD drive cable and the Pi will then boot from the uSD card that has [RetroPie](https://retropie.org.uk/) installed on it, along with a bunch of old games.
 
 <b>UPDATE:</b>
 
@@ -203,24 +203,24 @@ In late 2023, the Raspberry Pi 5 was announced.  Since Paul was so satisfied wit
 
 #### ~~Chromium browser~~
 
-<a href="https://www.chromium.org/chromium-projects/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Chromium_11_Logo.svg/240px-Chromium_11_Logo.svg.png" width="64" height="64" alt="Chromium Browser" title="Chromium Browser"></a>  
+<a href="https://www.chromium.org/chromium-projects/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Chromium_Logo.svg/250px-Chromium_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="64" height="64" alt="Chromium Browser" title="Chromium Browser"></a>  
 
 Probably the most used software. Spend most of our time using this for general browsing, YouTube watching etc. It syncs all our Chrome bookmarks, passwords and extensions so they are the same when we move between devices using Chrome/Chromium. Open source.
 
 <b>UPDATE:</b>
 
-<a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/345px-Firefox_logo%2C_2019.svg.png" height="64" alt="Mozilla Firefox browser" title="Mozilla Firefox browser"></a>
+<a href=""><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/250px-Firefox_logo%2C_2019.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" height="64" alt="Mozilla Firefox browser" title="Mozilla Firefox browser"></a>
 
 In 2024 Google Chrome stopped supporting ad-blockers.  Fortunately, the folks at Mozilla still try to not do evil and continue to support ad-blockers.  So after many years using Chrome we have both switched back to Mozilla Firefox as our main browsers.  Honestly it's as good or better than Chrome and with ad-blocking via the uBlock Origin extension, it's a no-brainer.  We will never use a browser that does not support ad-blocking.
 
 #### KeepassXC
 
-<a href="https://keepassxc.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/KeePassXC.svg/240px-KeePassXC.svg.png"  width="64" height="64" alt="KeePass DB Client" title="KeePass DB Client"></a>  
+<a href="https://keepassxc.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/KeePassXC.svg/250px-KeePassXC.svg.png"  width="64" height="64" alt="KeePass DB Client" title="KeePass DB Client"></a>  
 We both use Keepass password managers to encrypt and store all of our passwords. This is the one we use on Linux hosts including our Raspberry Pi. Uses a browser extension to talk to Chrome/Chromium. Open source.
 
 #### QBittorrent
 
-<a href="https://www.qbittorrent.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/New_qBittorrent_Logo.svg/240px-New_qBittorrent_Logo.svg.png" width="64" height="64" alt="QBittorrent Torrent Client" title="QBittorrent Torrent Client"></a>  
+<a href="https://www.qbittorrent.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Breezeicons-apps-48-qbittorrent.svg/250px-Breezeicons-apps-48-qbittorrent.svg.png" width="64" height="64" alt="QBittorrent Torrent Client" title="QBittorrent Torrent Client"></a>  
 Used for downloading all sorts of media. Can be [configured to only work when the Wireguard VPN is active](https://www.reddit.com/r/VPNTorrents/comments/ssy8vv/guide_bind_vpn_network_interface_to_torrent/). Includes an excellent search engine to find what you are looking for.  Open source.
 
 #### HexChat
@@ -235,12 +235,12 @@ This manages all the movies and TV shows that we watch and can play pretty much 
 
 #### VLC
 
-<a href="https://www.videolan.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/VLC_Icon.svg/212px-VLC_Icon.svg.png"  width="64" height="64" alt="VLC Media Player" title="VLC Media Player"></a>  
+<a href="https://www.videolan.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/3/38/VLC_icon.png"  width="64" height="64" alt="VLC Media Player" title="VLC Media Player"></a>  
 If we just want to watch something quickly then this is what we use. No fuss or muss and can also play anything. Open source.
 
 #### RetroPie
 
-<a href="https://retropie.org.uk/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/RetroPie-Icon.svg/111px-RetroPie-Icon.svg.png" height="64" alt="RetroPie Retro Gaming" title="RetroPie Retro Gaming"></a>  
+<a href="https://retropie.org.uk/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/RetroPie-Icon.svg" height="64" alt="RetroPie Retro Gaming" title="RetroPie Retro Gaming"></a>  
 We keep a micro SD card loaded into the micro SD card slot of our Raspberry Pi. It contains a [RetroPie image](https://retropie.org.uk/download/) along with a bunch of old arcade games. If we unplug the SSD drive connector then the Pi will now boot the RetroPie image and we can play games. Plug the SSD drive back in and the Pi boots normally again. [Bubble Bobble](https://en.wikipedia.org/wiki/Bubble_Bobble) is by far our favourite 2 player game.
 
 #### Calibre
@@ -273,17 +273,17 @@ Forked version of Microsoft's VS Code with all of their tracking code removed. G
 
 #### Git
 
-<a href="https://git-scm.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/97px-Git_icon.svg.png" width="64" height="64" alt="Git Version Control" title="Git Version Control"></a>  
-Version control software we use for our website and all of my scripting and journaling with VSCodium and Obsidian. We keep most of our stuff in [Github repositories](https://github.com/RoninTech). Open source.
+<a href="https://git-scm.com/"><img src="https://git-scm.com/images/logo@2x.png" height="64" alt="Git Version Control" title="Git Version Control"></a>  
+Version control software we use for our website and all of my coding, scripting and notes with neovim, VSCodium and Obsidian. We keep most of our stuff in [Github repositories](https://github.com/RoninTech). Open source.
 
 #### Obsidian
 
-<a href="https://obsidian.md/"><img src="https://avatars.githubusercontent.com/u/65011256?s=280&v=4" width="64" height="64" alt="Obsidian Knowledge Base" title="Obsidian Knowledge Base"></a>  
+<a href="https://obsidian.md/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/2023_Obsidian_logo.svg/250px-2023_Obsidian_logo.svg.png" width="64" height="64" alt="Obsidian Knowledge Base" title="Obsidian Knowledge Base"></a>  
 Just starting to play around with this as an alternative to [Google Keep](https://keep.google.com/). It allows you to store knowledge in text files and have them easily accessible on multiple platforms using git community extension and git. Open source.
 
 #### Python
 
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/110px-Python-logo-notext.svg.png" width="64" height="64" alt="Python Programming Language" title="Python Programming Language"></a>  
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Python_logo_(icon_only).svg/250px-Python_logo_(icon_only).svg.png" width="64" height="64" alt="Python Programming Language" title="Python Programming Language"></a>  
 A super flexible programming language I use for scripting and various geekery. One investment tracking program I wrote scrapes our portfolio every day, places the data into an Influx database running in a docker and presents the info using a Grafana docker. It also sends us a daily email showing portfolio performance and links to various charts in Grafana. Open source.
 
 #### Docker
@@ -304,7 +304,7 @@ This docker gives us the full Pi Hole ad blocker running on our Local Area Netwo
 ##### Unbound Docker
 
 <a href="https://www.nlnetlabs.nl/projects/unbound/about/"><img src="/images/unbound.svg" width="64" height="64" alt="Recursive DNS server" title="Recursive DNS server"></a>  
-This docker works in tandem with PiHole to provide an ad-blocking recursive DNS server. Rather than PiHole querying one of the standard DNS servers out there like quad9, cloudflare or openDNS, it can talk to the local unbound docker which will find the authoritative DNS server for the domain being queried and keep your internet travels out of the hands of the big organizations providing the other servers. These other servers go down from time to time so this also avoids that. Good writeup on this topic [here](https://docs.pi-hole.net/guides/dns/unbound/https://docs.pi-hole.net/guides/dns/unbound/).  Open source.
+This docker works in tandem with PiHole to provide an ad-blocking recursive DNS server. Rather than PiHole querying one of the standard DNS servers out there like quad9, cloudflare or openDNS, it can talk to the local unbound docker which will find the authoritative DNS server for the domain being queried and keep your internet travels out of the hands of the big organizations providing the other servers. These other servers go down from time to time, so this also avoids that. Good writeup on this topic [here](https://docs.pi-hole.net/guides/dns/unbound/https://docs.pi-hole.net/guides/dns/unbound/).  Open source.
 
 ##### InfluxDB Docker
 

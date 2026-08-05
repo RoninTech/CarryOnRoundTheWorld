@@ -42,7 +42,7 @@ There were definitely some downsides to using these packs though:
 
 ## Weight!
 
-Hold on! Just because you’ve nailed the right size doesn’t mean your home free. Now you have to be careful not to overload it. Your pack [might meet the airline size requirement](/articles/airline-carry-on-rules/) but they also have maximum weights so make sure you check ahead of time. Smaller packs usually mean lower weights (except for maybe photography geeks) so not going for the 80L behemoth might be wise. The weight will also have a big effect on how far you can go without help. You can’t predict these situations so obviously the further you can walk with your pack, the better. Suspension components like hip belts and load-lifter straps can make a heavier pack more comfortable to carry than a lighter one without these features. The downside is they also add to the size and weight of your pack and give more things for airlines to tear off your bag. 😮
+Hold on! Just because you’ve nailed the right size doesn’t mean you're home free. Now you have to be careful not to overload it. Your pack [might meet the airline size requirement](/articles/airline-carry-on-rules/) but they also have maximum weights so make sure you check ahead of time. Smaller packs usually mean lower weights (except for maybe photography geeks) so not going for the 80L behemoth might be wise. The weight will also have a big effect on how far you can go without help. You can’t predict these situations so obviously the further you can walk with your pack, the better. Suspension components like hip belts and load-lifter straps can make a heavier pack more comfortable to carry than a lighter one without these features. The downside is they also add to the size and weight of your pack and give more things for airlines to tear off your bag. 😮
 
 ## May I Enter?
 
@@ -58,7 +58,7 @@ After much consideration we picked a Gregory Z40 and a J38 (pics at the top). We
 
 ## Update - August 2018!
 
-After a year and a half of travel we couldn't be happier with our Gregory packs. We've taken them onto many flights including low cost carriers like AirAsia, Jetstar and Cebu Pacific with no issues. We also used them as our bags for trekking the Annapurna Circuit (twice!) in Nepal. We did this without a porter or guide and carried all of our own gear in these bags. So whether its rocking onto a plane in business class or lugging our stuff through the Himalayas these bags have proven to be more than up to the task.
+After a year and a half of travel we couldn't have been happier with our Gregory packs. We've taken them onto many flights including low cost carriers like AirAsia, Jetstar and Cebu Pacific with no issues. We also used them as our bags for trekking the Annapurna Circuit (twice!) in Nepal. We did this without a porter or guide and carried all of our own gear in these bags. So whether its rocking onto a plane in business class or lugging our stuff through the Himalayas these bags have proven to be more than up to the task.
 
 ## Update - March 2020!
 

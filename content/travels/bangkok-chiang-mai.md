@@ -26,7 +26,7 @@ We slept, went to the malls, ate great Thai food around the corner at [Grandmoth
 
 ## Chiang Mai December 16- January 11
 
-We had booked an [airbnb in an area that we were familiar with](https://goo.gl/maps/pLSiCo53MUT7nee77) so it was easy to walk places and go out. Our first night, still feeling a bit jet lagged, we headed off to see God and Yves at their bar. It took about 20 minutes to get to the new [MellowMango bar](https://goo.gl/maps/ohXfqGAZebvoqVSZ7) but it was great to be there. Interestingly it was in an area that we had been before, near the old night market and not far from the Top North Guest House where we stayed in 2000. It was great to see everyone and we spent a lot of nights here! 😃
+We had booked an [airbnb in an area that we were familiar with](https://goo.gl/maps/pLSiCo53MUT7nee77) so it was easy to walk places and go out. Our first night, still feeling a bit jet lagged, we headed off to see God and Yves at their bar. It took about 20 minutes to get to the new [MellowMango bar](https://goo.gl/maps/ohXfqGAZebvoqVSZ7) but it was great to be there. Interestingly it was in an area that we had been before, near the Night Bazaar and not far from the Top North Guest House where we stayed in 2000. It was great to see everyone and we spent a lot of nights here! 😃
 
 </br>
 <div style="text-align: center">
@@ -57,7 +57,7 @@ We spent the next week having great breakfasts of either khao soi or brunch, fol
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipODiiBEcvSEv725BsI5m5L5cgfMLH6eU9XcmwT6ZyNsCHjNBmuTQK8zJ4382wVyOw/photo/AF1QipMdJluoDA55MpbtPA3aiizw7bcXjZzBswOFHK4d?key=OFNNT0J5NmJxckwwdGFWTjJkRWFmaVBLM0VTT013" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3ezlrmKMX8iBgkvuopU6f8tRVoNaG7E3ASylpdSSnDkhobXdclvSQbFs_BggN5miWWWhqg1wKG0-LhXCzLTLSiTO114Bc18mSt7N39Plcn0iJlLRsOXWBtCoTufl94ppKfEgpX9G0baznL2vIcpKPSOGQ=w370-no" width="370" /><div>Amazing noodle bowls at Khao Soy Maesai</div></a>
   </div>
 
-For New Years the plan was MellowMango, then Small House and then to a house party we were invited to. As often happens we didn’t make it out of MellowMango until quite late so headed back to the apartment. It was another great night and we enjoyed seeing all the lanterns.
+For New Year's the plan was MellowMango, then Small House and then to a house party we were invited to. As often happens we didn’t make it out of MellowMango until quite late so headed back to the apartment. It was another great night and we enjoyed seeing all the lanterns.
 
 </br>
 <div style="text-align: center">

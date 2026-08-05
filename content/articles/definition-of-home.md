@@ -12,11 +12,11 @@ draft: false
 
 ## What’s the definition of home?
 
-It sounds simple doesn’t it but I’m not sure that it is. I was born in Liverpool, England, Helen was born in Belfast, Northern Ireland. We both moved to Canada with our families. Helen at the young age of 4 and myself at 13. Years later we met in Saskatchewan in 1991 and since then have spent our last 23 years living our adult lives together in Calgary, Alberta. Also, we’ve spent many months in Thailand since our honeymoon in 2000. Therefore it would seem that home should probably be one of these places right?
+It sounds simple doesn’t it but I’m not sure that it is. I was born in Liverpool, England, Helen was born in Belfast, Northern Ireland. We both moved to Canada with our families. Helen at the young age of 4 and me at 13. Years later we met in Saskatchewan in 1991 and since then have spent our last 23 years living our adult lives together in Calgary, Alberta. Also, we’ve spent many months in Thailand since our honeymoon in 2000. Therefore it would seem that home should probably be one of these places right?
 
 ## My definition
 
-While the places I’ve lived have had a huge impact on my life they don’t define my home. For me, it isn’t a result of being born in the UK, of spending most of my life in Canada or of dreaming of living in Thailand. I’ve spent many a day relaxing on a beach thinking about traveling and how much I enjoy it. So over the years I’ve come to realize that home isn’t defined by where my “stuff” is, or most of our friends and family are. It’s wherever my partner in crime, Helen and I are at any given time. And no, I haven’t done something bad causing me to look for [brownie points](https://en.wikipedia.org/wiki/Brownie_points) (that I’m aware of…).
+While the places I’ve lived have had a huge impact on my life they don’t define my home. For me, it isn’t a result of being born in the UK, of spending most of my life in Canada or of dreaming of living in Thailand. I’ve spent many a day relaxing on a beach thinking about traveling and how much I enjoy it. So over the years I’ve come to realize that home isn’t defined by where my “stuff” is, or most of our friends and family are. It’s wherever my partner in crime, Helen, and I are at any given time. And no, I haven’t done something bad causing me to look for [brownie points](https://en.wikipedia.org/wiki/Brownie_points) (that I’m aware of...).
 
 ## Does our answer change?
 

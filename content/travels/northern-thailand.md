@@ -14,7 +14,7 @@ After Myanmar we spent several weeks in Northern Thailand. All the Chiang’s to
 
 ## Chiang Mai
 
-We decided to get organized in Chiang Mai. Mailed some items back that we don’t use, saw Wonder Woman and did a cooking class with Pat and Liz. I’d wanted to a do a class so this was more for me then Paul. We got to make several dishes and no injuries occurred. After wandering the night market we spent some time at the shopping malls, neither are our favorite things to do but we managed. Had a nice evening at [Small House Kafe](https://goo.gl/maps/HG6bY4qjTYiincyu8) where some advice from Dao had us heading off to Chiang Dao instead of Pai.
+We decided to get organized in Chiang Mai. Mailed some items back that we don’t use, saw Wonder Woman and did a cooking class with Pat and Liz. I’d wanted to a do a class so this was more for me than Paul. We got to make several dishes and no injuries occurred. After wandering the night market we spent some time at the shopping malls, neither are our favorite things to do but we managed. Had a nice evening at [Small House Kafe](https://goo.gl/maps/HG6bY4qjTYiincyu8) where some advice from Dao had us heading off to Chiang Dao instead of Pai.
 
 </br>
 <div style="text-align: center">
@@ -66,7 +66,7 @@ Awesome place! Our friend from Small House Kafe, Dao, recommended it to us. We s
 
 <a href="https://photos.app.goo.gl/3rbPrXwsLLRY9n5V6" target=”_blank”><img src="/images/image-gallery.png" title="Chiang Rai Photo Album" alt="Chiang Rai Photo Album" height="50"></a>
 
-Took a bus from Chiang Dao to [Tha Ton](https://goo.gl/maps/jkwD2LbXtGXQxFiV8), then a cool [longtail boat ride](https://goo.gl/maps/nJuV8jYczL72) to Chiang Rai. We saw some elephants being bathed in the river. There was a stop where you can get a photo with a snake but we choose not to. Spent the next morning at the White Temple, Black House and Blue Temple before heading to see our friends God and Yves at their hostel in Chiang Khong on the Laos border.
+Took a bus from Chiang Dao to [Tha Ton](https://goo.gl/maps/jkwD2LbXtGXQxFiV8), then a cool [longtail boat ride](https://goo.gl/maps/nJuV8jYczL72) to Chiang Rai. We saw some elephants being bathed in the river. There was a stop where you can get a photo with a snake but we chose not to. Spent the next morning at the White Temple, Black House and Blue Temple before heading to see our friends God and Yves at their hostel in Chiang Khong on the Laos border.
 
 </br>
 {{< youtube xxSY_cyndPw >}}
@@ -102,7 +102,7 @@ Took a bus from Chiang Dao to [Tha Ton](https://goo.gl/maps/jkwD2LbXtGXQxFiV8), 
 
 <a href="https://photos.app.goo.gl/MiNuevFXuwjGYPYD2" target=”_blank”><img src="/images/image-gallery.png" title="Chiang Khong Photo Album" alt="Chiang Khong Photo Album" height="50"></a>
 
-Finally made it to see God and Yves at their most excellent Hub Pub and Funky Box hostel where we had a fantastic week. We went on a jungle hike to a beautiful waterfall, were shown the area and taken to some viewpoints, spent several days being lazy, went fishing, had some cooking lessons, ate great food and had an awesome time visiting and being spoiled rotten. Make sure to go for a coffee at [The View Coffee](https://goo.gl/maps/8JekXbuzKuY3P5vn8) and checkout the views of the Mekong and Laos!
+Finally made it to see God and Yves at their most excellent Hub Pub and Funky Box hostel where we had a fantastic week. We went on a jungle hike to a beautiful waterfall, were shown the area and taken to some viewpoints, spent several days being lazy, went fishing, had some cooking lessons, ate great food and had an awesome time visiting and being spoiled rotten. Make sure to go for a coffee at [The View Coffee](https://goo.gl/maps/8JekXbuzKuY3P5vn8) and check out the views of the Mekong and Laos!  Paul said it was the best urinal view he has ever experienced.
 
 </br>
 <div style="text-align: center">

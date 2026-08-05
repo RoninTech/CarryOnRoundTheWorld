@@ -55,7 +55,7 @@ By posting on the Anfield Wrap Facebook group we managed to get tickets to the m
 
 ## Sightseeing
 
-Since we only had a really short time here, we still got up early(ish) and made it out to see the sights of Hong Kong. We started with a bus ride up to Victoria Peak which in itself was really cool. When we got up to the top we decided we could walk instead of taking the tram… maybe a mistake in the heat and tired state we were in… especially considering we went the wrong way and had to come halfway back down before going up again to get to the right area.
+Since we only had a really short time here, we still got up early(ish) and made it out to see the sights of Hong Kong. We started with a bus ride up to Victoria Peak which in itself was really cool. When we got up to the top we decided we could walk instead of taking the tram… maybe a mistake in the heat and the tired state we were in... especially considering we went the wrong way and had to come halfway back down before going up again to get to the right area.
 
 </br>
 <div style="text-align: center">

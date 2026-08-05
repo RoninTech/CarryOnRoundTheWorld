@@ -23,7 +23,7 @@ We started with an early wake up on February 28th so we could make it to the air
   <a style="display:inline-block;text-decoration:none;color: grey;" href="https://photos.google.com/share/AF1QipMRRr-AVcEUnTPVJN4jjfbgpF5xLKvTlgO0zljx3o0n8KbTDx0V_L1_N0Dz0N0EYQ/photo/AF1QipMm-AJHZVQRgMWBTlVPYLPoKRbBpmlRiE4BxXeI?key=ZzZzWlRObHA5a01fVy1hSXJGYzMwQTBnVlVjSnpR" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3dRRiPLTiJ4wtAtJvI2kXIDTONEJe7ettJCOAkkbV_fS4Uydf6qE6ENDsLAK78AAgGgE1-tvuhOumY1HFBnnMkzmc9-xUv_Wtk9eItrwDrFMaHvCOe62j3wPG5dSHsFIyxTzb5lSO8-cnHYonJ1NT7BdA=w370-no" width="370" /><div>Finally on our way!</div></a>
 </div>
 
-That was it… we were now on our way! Freaky? A little… exciting? Majorly! Security was smooth and after a bit we got on the plane to Chicago. There was a minor issue with the carry on, we weren’t the first people on board and the luggage area for our seats was already full. Paul managed to get ours a little further back and we settled into our flight.
+That was it… we were now on our way! Freaky? A little… exciting? Majorly! Security was smooth and after a bit we got on the plane to Chicago. There was a minor issue with the carry-on, we weren’t the first people on board and the luggage area for our seats was already full. Paul managed to get ours a little further back and we settled into our flight.
 
 We had 5 hours in Chicago with a terminal change. We debated going into the city but decided not to, concerned about it being too rushed, getting through security, etc. Instead, we hung out in the lounges. Ahh, the privilege of business class. 😎 While we were there we wandered through the airport, watched the news, read, etc. We also watched the weather. There was a tornado warning in place but thankfully, nothing happened. We easily boarded our Swiss Air flight to Zürich.
 
@@ -39,7 +39,7 @@ What can I say? I was so glad we used some of our [Aeroplan](https://aeroplan.co
 
 The flight was great and we landed in Zürich on time and ready to go. We were off the plane and eventually found the lounge so we could have a shower, put on some warmer clothes and figure out our plan for playing tourist. We had 7 hours in Zürich so decided to explore. Customs was easy, everyone in the airport was friendly and helped us find where we wanted to go.
 
-We decided to store our bags and tried the lockers, figured we had it covered since we had Euro’s… not so much, we needed Swiss Francs. Luckily there was a manned luggage drop close by so we were able to leave our bags and pay by credit card. We were off on our way to explore the city.
+We decided to store our bags and tried the lockers, figured we had it covered since we had Euros… not so much, we needed Swiss Francs. Luckily there was a manned luggage drop close by so we were able to leave our bags and pay by credit card. We were off on our way to explore the city.
 
 ## Zurich
 

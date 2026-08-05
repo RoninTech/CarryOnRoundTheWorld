@@ -16,7 +16,7 @@ So we arranged to get to Cambodia by ferry to the Vietnamese mainland through An
 
 We weren’t able to get into our usual NyNy Hotel with it being over the Christmas, New Years holidays so we booked at Stay Inn Kampot with Gilly and Noel, which was right across from Razorbacks. We had also booked a Christmas dinner of turkey/ham with all the trimmings! Lee had gone back to spend the holidays with his family but was heading back a few days before we were booked to depart.
 
-Being that Razorbacks was so close, our first night was a stop in to say hello. The next day we headed out around Kampot, found a place for breakfast and wandered around to see the changes. Christmas Eve we had a late night at Stumble Inn so we were a bit slow on Christmas day! Had a really nice meeting with various people at lunch and then went out again.
+Given that Razorbacks was so close, our first night was a stop in to say hello. The next day we headed out around Kampot, found a place for breakfast and wandered around to see the changes. Christmas Eve we had a late night at Stumble Inn so we were a bit slow on Christmas day! Had a really nice meeting with various people at lunch and then went out again.
 
 </br>
 <div style="text-align: center">
