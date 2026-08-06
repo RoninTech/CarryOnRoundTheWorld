@@ -1,7 +1,7 @@
 ---
 title: "Something Changed"
 date: 2015-09-14T18:56:27-07:00
-featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3fdYa_LDO8g4fakHHFPLC-9pgYDHjKZO4tWEOhJlJhN4zs0hGFsaif26iCMQGel-aJ8Z_l1Jsw1otSxOUdIb8WvSm24oltzlRghCGr7pe2GmNTGi86RKN7JzbwPAgsAF5818jd4FgdbECtvt-fGMu7lBg=w1210-h908-no"
+featured_image: "/images/featured/content_articles_something-changed.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3fdYa_LDO8g4fakHHFPLC-9pgYDHjKZO4tWEOhJlJhN4zs0hGFsaif26iCMQGel-aJ8Z_l1Jsw1otSxOUdIb8WvSm24oltzlRghCGr7pe2GmNTGi86RKN7JzbwPAgsAF5818jd4FgdbECtvt-fGMu7lBg=w1210-h908-no"
 author: "Helen"

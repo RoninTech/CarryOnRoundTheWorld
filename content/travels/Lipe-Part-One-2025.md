@@ -1,7 +1,7 @@
 ---
 title: "Lipe Part One 2025"
 date: 2025-07-05T10:42:08+07:00
-featured_image: "https://lh3.googleusercontent.com/pw/AP1GczPNONUMqkaVu1RpDLK9yRgI5NSdq09Mktn4hwHvcNTa7IWN2CbhRM97YJb0CIQISyDHYhRh5l_0evF6VDFTCM-NKvwIoNp1qTVca7H6EOhoASRVE6gU81_B_ithnzpHGW1H5gCxo-osoJWsOIPJTgMREg=w1220-h915-s-no?authuser=0"
+featured_image: "/images/featured/content_travels_Lipe-Part-One-2025.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/AP1GczPNONUMqkaVu1RpDLK9yRgI5NSdq09Mktn4hwHvcNTa7IWN2CbhRM97YJb0CIQISyDHYhRh5l_0evF6VDFTCM-NKvwIoNp1qTVca7H6EOhoASRVE6gU81_B_ithnzpHGW1H5gCxo-osoJWsOIPJTgMREg=w1220-h915-s-no?authuser=0"
 draft: false

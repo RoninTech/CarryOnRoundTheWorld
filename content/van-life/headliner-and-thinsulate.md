@@ -1,7 +1,7 @@
 ---
 title: "Headliner and Thinsulate"
 date: 2020-08-23T09:14:24-07:00
-featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3fI4MRuyAxYZYless63dfoR8_gynlkmuGgIDtr9CGTU4d30_JKEgopBOOEIkZm-bEYgWcLqeOVwKApbTlo3UcWx5ChoX_ikjONw_LkK_NYVElZA5dtWnga8zlDgMOerkHSxmvvF8qGpVdpvx-V6hbgtVg=w1210-h908-no"
+featured_image: "/images/featured/content_van-life_headliner-and-thinsulate.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3fI4MRuyAxYZYless63dfoR8_gynlkmuGgIDtr9CGTU4d30_JKEgopBOOEIkZm-bEYgWcLqeOVwKApbTlo3UcWx5ChoX_ikjONw_LkK_NYVElZA5dtWnga8zlDgMOerkHSxmvvF8qGpVdpvx-V6hbgtVg=w1210-h908-no"
 author: "Paul"

@@ -2,7 +2,7 @@
 title: "Malaysia 2020"
 date: 2020-02-21T12:55:17-06:00
 draft: false
-featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3dnsnXtsWVWIkzXyHCcPesgXfcUlt_tOYJYkuCHH_fpajMe8OpxjZ1Z22nDcq-WrbnHxoPyEsbkocV13_N2V6-7_28U9JLRXf_55TAG_bCsu5PFqNQqYyKiLXQYGQrXm9Jd5-7-I5YTDSqWiEfeM6w8sA=w1300-h975-no"
+featured_image: "/images/featured/content_travels_malaysia-2020.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3dnsnXtsWVWIkzXyHCcPesgXfcUlt_tOYJYkuCHH_fpajMe8OpxjZ1Z22nDcq-WrbnHxoPyEsbkocV13_N2V6-7_28U9JLRXf_55TAG_bCsu5PFqNQqYyKiLXQYGQrXm9Jd5-7-I5YTDSqWiEfeM6w8sA=w1300-h975-no"
 author: "Helen"

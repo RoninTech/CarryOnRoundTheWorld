@@ -1,7 +1,7 @@
 ---
 title: "Should We Stay or Should We Go"
 date: 2020-12-08T16:37:33-07:00
-featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3cEowWu6qdacvjUzzGAKF7wlQ28TWNkg_Mp1ti_0Y3InqW6jI2KWHt5MgeNMyAIeIYI92KrUoX5CmNVPRc3JciBDgPwNqIMCP6xPeW2vNZAV3DUgB7etEtvd67KFXkh5wgkLlZD44kyxITzJLg6rkkdVw=w1343-h1007-no"
+featured_image: "/images/featured/content_travels_should-we-stay-or-should-we-go.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3cEowWu6qdacvjUzzGAKF7wlQ28TWNkg_Mp1ti_0Y3InqW6jI2KWHt5MgeNMyAIeIYI92KrUoX5CmNVPRc3JciBDgPwNqIMCP6xPeW2vNZAV3DUgB7etEtvd67KFXkh5wgkLlZD44kyxITzJLg6rkkdVw=w1343-h1007-no"
 author: "Helen"

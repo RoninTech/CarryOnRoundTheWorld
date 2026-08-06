@@ -1,7 +1,7 @@
 ---
 title: "Malaysia"
 date: 2019-02-18T15:49:36-07:00
-featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3fv6DfscghSFiWYfvk_YtpjxL3tehVg0Ny0Dgt9whYHLDdkvfSgX-6430Ot9t-w2sRWnyuc73H_jhR_IC4EkYI8vuB_OcngfLc92bwGqVl50hpiuziXpPdXE8N03PPpo4Be3h06kNF9rl_gU1rtWJLWNg=w1210-h908-no"
+featured_image: "/images/featured/content_travels_malaysia.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3fv6DfscghSFiWYfvk_YtpjxL3tehVg0Ny0Dgt9whYHLDdkvfSgX-6430Ot9t-w2sRWnyuc73H_jhR_IC4EkYI8vuB_OcngfLc92bwGqVl50hpiuziXpPdXE8N03PPpo4Be3h06kNF9rl_gU1rtWJLWNg=w1210-h908-no"
 author: "Helen"

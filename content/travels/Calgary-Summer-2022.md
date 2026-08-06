@@ -1,7 +1,7 @@
 ---
 title: "Calgary Summer 2022"
 date: 2022-08-17T16:37:33-07:00
-featured_image: "https://lh3.googleusercontent.com/pw/AP1GczNJKaHMGG9fb2h5OH2CT_NhUbeE0yqUiaj-nsLLYLi43nhtz-i-mvFIMDrECXZvR4awQZSjFXklJ3yjNNGPL9lMBkOTHiGEFV0lBZhWZrRWaI7L415MmHrFfqS9e2yLlgCNTz93ZIfPap6QHAFHaF18AQ=w1560-h878-s-no?authuser=0"
+featured_image: "/images/featured/content_travels_Calgary-Summer-2022.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/AP1GczNJKaHMGG9fb2h5OH2CT_NhUbeE0yqUiaj-nsLLYLi43nhtz-i-mvFIMDrECXZvR4awQZSjFXklJ3yjNNGPL9lMBkOTHiGEFV0lBZhWZrRWaI7L415MmHrFfqS9e2yLlgCNTz93ZIfPap6QHAFHaF18AQ=w1560-h878-s-no?authuser=0"
 author: "Helen"

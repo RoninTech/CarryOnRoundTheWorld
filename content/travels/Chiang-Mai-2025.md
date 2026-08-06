@@ -1,7 +1,7 @@
 ---
 title: "Chiang Mai 2025"
 date: 2026-01-04T16:06:58+07:00
-featured_image: "https://lh3.googleusercontent.com/pw/AP1GczOV74uClZCNTBFItw7sa59hmWiJZmz1ykYe5T-ZdFWJPRJt-_4ud8FR_pdiL_NONi8qrAm6GNTTIwUwHigQHWlP6RA5YLNjOHlN83tKuF_ysqcqRdee6NZnFZpC_AxnIvmotk5XaeOQeubaK2BUXdQ18g=w1449-h816-s-no?authuser=0"
+featured_image: "/images/featured/content_travels_Chiang-Mai-2025.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/AP1GczOV74uClZCNTBFItw7sa59hmWiJZmz1ykYe5T-ZdFWJPRJt-_4ud8FR_pdiL_NONi8qrAm6GNTTIwUwHigQHWlP6RA5YLNjOHlN83tKuF_ysqcqRdee6NZnFZpC_AxnIvmotk5XaeOQeubaK2BUXdQ18g=w1449-h816-s-no?authuser=0"
 draft: false

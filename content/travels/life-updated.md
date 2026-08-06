@@ -1,7 +1,7 @@
 ---
 title: "Life, Updated!"
 date: 2022-05-10T16:37:33-07:00
-featured_image: "https://lh3.googleusercontent.com/pw/AP1GczPzucwx7RZhF4Tb6A_5ihcIY5fb02s0_L1Y8iO5-hzjClhQ4fN2jwHfsokesjpNxD3QmaXBAfBqxkwFly0vezN0zFMxz6iUPdGHtxqkrxsp1gbNfIAEJbrQrPxF8XIQdbBtMjcyDy-lz9AQubi-eayBHg=w1183-h887-s-no?authuser=0"
+featured_image: "/images/featured/content_travels_life-updated.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/AP1GczPzucwx7RZhF4Tb6A_5ihcIY5fb02s0_L1Y8iO5-hzjClhQ4fN2jwHfsokesjpNxD3QmaXBAfBqxkwFly0vezN0zFMxz6iUPdGHtxqkrxsp1gbNfIAEJbrQrPxF8XIQdbBtMjcyDy-lz9AQubi-eayBHg=w1183-h887-s-no?authuser=0"
 author: "Helen"

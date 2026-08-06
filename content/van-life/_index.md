@@ -2,7 +2,7 @@
 title: "Van Life"
 date: 2020-09-09T20:35:00-07:00
 draft: false
-featured_image: 'https://lh3.googleusercontent.com/pw/ACtC-3cJSxonyTmC65j3pL_eatOCylb8hDs8eO-xYOu2Wk6OKGJAgpsq8v3bbuEbdECkQ5kTNJcxBT3KFz_0Y9pICwUPiinObhhm7uMp4JsM4-WsDLmMCdsvwsxiDby-62rkAxtQn0AkLeMgB-4qCVBuceAoPg=w1210-h908-no'
+featured_image: '/images/featured/content_van-life__index.webp'
 featured_image_class: "cover bg-center"
 images:
   - 'https://lh3.googleusercontent.com/pw/ACtC-3cJSxonyTmC65j3pL_eatOCylb8hDs8eO-xYOu2Wk6OKGJAgpsq8v3bbuEbdECkQ5kTNJcxBT3KFz_0Y9pICwUPiinObhhm7uMp4JsM4-WsDLmMCdsvwsxiDby-62rkAxtQn0AkLeMgB-4qCVBuceAoPg=w1210-h908-no'

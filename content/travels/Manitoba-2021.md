@@ -1,7 +1,7 @@
 ---
 title: "Manitoba 2021"
 date: 2021-06-22T16:37:33-07:00
-featured_image: "https://lh3.googleusercontent.com/pw/AM-JKLUrD0F6yKgqmvRf1lwMjhB66iqBrxmv8ixX5YFCu6XtQ_atsgyvnx9a11Uqtx3spt3gDNMtUHBTWsItJ5oqFnsv9kHskd0Qi9beAnuyQehj2QVDFxvM3HRQsRe61VxUyL3MdjGvi6NGfsTA9znKjV4JwA=w1300-h975-no?authuser=0"
+featured_image: "/images/featured/content_travels_Manitoba-2021.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/AM-JKLUrD0F6yKgqmvRf1lwMjhB66iqBrxmv8ixX5YFCu6XtQ_atsgyvnx9a11Uqtx3spt3gDNMtUHBTWsItJ5oqFnsv9kHskd0Qi9beAnuyQehj2QVDFxvM3HRQsRe61VxUyL3MdjGvi6NGfsTA9znKjV4JwA=w1300-h975-no?authuser=0"
 author: "Helen"

@@ -1,7 +1,7 @@
 ---
 title: "Paul's Annapurna Pack"
 date: 2018-09-15T16:43:01-07:00
-featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3eIssjxkFp1AaikaftO1_LxPOL7eICAMADI2cxJFeV39ovJ5ii72Pj8DUHUo8b1VJukEHc3fpn-hZ8bqbrSgM1-W0pXj1vMXizJksE4LhVRj8FLj4lXvoE7eo74Id2FVqUa61cGR3gny1ZOPajWqgDXWA=w1210-h908-no"
+featured_image: "/images/featured/content_packs_pauls-annapurna-pack.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3eIssjxkFp1AaikaftO1_LxPOL7eICAMADI2cxJFeV39ovJ5ii72Pj8DUHUo8b1VJukEHc3fpn-hZ8bqbrSgM1-W0pXj1vMXizJksE4LhVRj8FLj4lXvoE7eo74Id2FVqUa61cGR3gny1ZOPajWqgDXWA=w1210-h908-no"
 author: "Paul"

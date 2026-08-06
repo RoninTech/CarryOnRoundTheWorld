@@ -1,7 +1,7 @@
 ---
 title: "BKK and Quarantine"
 date: 2020-12-18T16:37:33-07:00
-featured_image: "https://lh3.googleusercontent.com/pw/AP1GczMR6VNuMHou0NO8PVWZ7skq1Fr-eYVoTToz5HNnsnoMbaxlccDDgBABYtYUFUO49FCOxSpr0jH8ewSMx_7XJk69mAWXzWyG1uKifV3psaGsIHtOtJg19p2hUvZCHKQ96hDErjHYc7M6yk0dwfxmHV71Mw=w1183-h887-s-no?authuser=0"
+featured_image: "/images/featured/content_travels_BKK-and-quarantine.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/AP1GczMR6VNuMHou0NO8PVWZ7skq1Fr-eYVoTToz5HNnsnoMbaxlccDDgBABYtYUFUO49FCOxSpr0jH8ewSMx_7XJk69mAWXzWyG1uKifV3psaGsIHtOtJg19p2hUvZCHKQ96hDErjHYc7M6yk0dwfxmHV71Mw=w1183-h887-s-no?authuser=0"
 author: "Helen"

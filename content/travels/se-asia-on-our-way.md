@@ -2,7 +2,7 @@
 title: "SE Asia on Our Way"
 date: 2017-02-27T08:29:40-07:00
 draft: false
-featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3cYLV6Azf2S-ap46uPGBOsD1GXvpkc5A2vHmcYHNhNamIxn12970wc0RLfZzzH-4mMeEBbtm-KEDFWDIa9KvKpR70Fg7aLx7eIk1YubXcxt69wwLJ2HUeJ7yu5ybuYU0-RUkZis4wyBjBokbFeQliFAoA=w1216-h912-no"
+featured_image: "/images/featured/content_travels_se-asia-on-our-way.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3cYLV6Azf2S-ap46uPGBOsD1GXvpkc5A2vHmcYHNhNamIxn12970wc0RLfZzzH-4mMeEBbtm-KEDFWDIa9KvKpR70Fg7aLx7eIk1YubXcxt69wwLJ2HUeJ7yu5ybuYU0-RUkZis4wyBjBokbFeQliFAoA=w1216-h912-no"
 author: "Helen"

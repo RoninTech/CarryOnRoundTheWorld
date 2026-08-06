@@ -1,7 +1,7 @@
 ---
 title: "Selling Everything to Travel"
 date: 2015-10-18T18:26:37-07:00
-featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3dY5McK-HVkegPrp4u6iMB2gZ9PCjGBStKZ2AFPxjhWkg4pVigmwgN223ecVOzeTteOCW68fjLcEydRUCH518nrjVbrAX4avXIEnXGnhHlU7Zo8cN9ErYv6DKycALCWhk8Pr4nN7m7MBqwGktzSQn024A=w1024-h768-no"
+featured_image: "/images/featured/content_articles_selling-everything-to-travel.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3dY5McK-HVkegPrp4u6iMB2gZ9PCjGBStKZ2AFPxjhWkg4pVigmwgN223ecVOzeTteOCW68fjLcEydRUCH518nrjVbrAX4avXIEnXGnhHlU7Zo8cN9ErYv6DKycALCWhk8Pr4nN7m7MBqwGktzSQn024A=w1024-h768-no"
 author: "Helen"

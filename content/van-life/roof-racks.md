@@ -1,7 +1,7 @@
 ---
 title: "Roof Racks"
 date: 2020-09-23T18:01:05-07:00
-featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3fYB-bCIxiXD-HQQmJpT32OarnsiFSNcJadzATVNcjFWRkFOiKdw2OhkeCItUQgXpkarTO4wKEIhJPbPduLP_iiNMwsk03G9GQ4rVpB5UM2gcCtHIS3sNQCcF7skWvPn9Sxohd7wKE0dzndATAnwfKQRA=w729-h972-no"
+featured_image: "/images/featured/content_van-life_roof-racks.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3fYB-bCIxiXD-HQQmJpT32OarnsiFSNcJadzATVNcjFWRkFOiKdw2OhkeCItUQgXpkarTO4wKEIhJPbPduLP_iiNMwsk03G9GQ4rVpB5UM2gcCtHIS3sNQCcF7skWvPn9Sxohd7wKE0dzndATAnwfKQRA=w729-h972-no"
 author: "Paul"

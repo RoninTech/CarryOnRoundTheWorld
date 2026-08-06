@@ -1,7 +1,7 @@
 ---
 title: "Sound Deadener and Flooring"
 date: 2020-08-10T11:17:37-07:00
-featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3f2b9urB77hcWsDRQFK0E-hdCGFG_yB-Si9xM_agtLu8goXvm1oRaggJl-WzRSGHCvqsG9O0FCTyYWBDLjeLAkThvcE2AketbYCuhYIZQHYr9gszyf-OtrrJ82Rk8wwI1BQSDqOQr_6DUWDUUR415pAYg=w1210-h908-no"
+featured_image: "/images/featured/content_van-life_sound-deadener-and-flooring.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3f2b9urB77hcWsDRQFK0E-hdCGFG_yB-Si9xM_agtLu8goXvm1oRaggJl-WzRSGHCvqsG9O0FCTyYWBDLjeLAkThvcE2AketbYCuhYIZQHYr9gszyf-OtrrJ82Rk8wwI1BQSDqOQr_6DUWDUUR415pAYg=w1210-h908-no"
 author: "Paul"

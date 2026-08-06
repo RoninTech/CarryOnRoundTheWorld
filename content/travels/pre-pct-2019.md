@@ -1,7 +1,7 @@
 ---
 title: "Pre PCT 2019"
 date: 2019-07-01T07:18:08-07:00
-featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3dGAvB3sFcqhoVDRvQUOb6ulzsYYwYBmWWG22NKmEYnIgit3wZ7NYRJZZp9exztS9wi5vI1PhS5erkdyQPLaUHwiANdb2tzJcBm0yoRlOhbc1wfSBs3WoZWbXVFGvQ0Jf_m7CfyfkyEqaCLJd5qzUrAGg=w1300-h975-no"
+featured_image: "/images/featured/content_travels_pre-pct-2019.webp"
 author: "Helen"
 omit_header_text: false
 description: "\b"

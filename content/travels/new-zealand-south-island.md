@@ -1,7 +1,7 @@
 ---
 title: "New Zealand South Island"
 date: 2018-01-19T17:33:25-07:00
-featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3fRToNpPJjgXyIHsMn--cpnGpqjJdsWnE1uF917SHF8XLQGiSe2Qgn76-e8zFSkiGqme-gfhiV_jjoGN6wRwCC2N9zWKW9GVpQ_ld53yk5L66D6FkrZyQkohSq5QXR0kR03mL24tACH_fmLL1PQtxHdAA=w1920-h900-no?authuser=0"
+featured_image: "/images/featured/content_travels_new-zealand-south-island.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3fRToNpPJjgXyIHsMn--cpnGpqjJdsWnE1uF917SHF8XLQGiSe2Qgn76-e8zFSkiGqme-gfhiV_jjoGN6wRwCC2N9zWKW9GVpQ_ld53yk5L66D6FkrZyQkohSq5QXR0kR03mL24tACH_fmLL1PQtxHdAA=w1920-h900-no?authuser=0"
 author: "Helen"

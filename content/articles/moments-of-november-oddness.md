@@ -1,7 +1,7 @@
 ---
 title: "Moments of November Oddness"
 date: 2015-12-15T17:59:10-07:00
-featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3fobcaTrVCBG-ulePId3d1VwYy8mbnGCsa-2zG5M_lF1JXvqD7UrraE9k5OqdMAb8C5mEiry7RMcdZXcDrJQFnRP2RrPDd92ymbEvJt5JlsChqT_gvKN2T8OGjejyCYXAaIf-0cSuAl-hYI6r0VnPyC7Q=w1024-h768-no"
+featured_image: "/images/featured/content_articles_moments-of-november-oddness.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3fobcaTrVCBG-ulePId3d1VwYy8mbnGCsa-2zG5M_lF1JXvqD7UrraE9k5OqdMAb8C5mEiry7RMcdZXcDrJQFnRP2RrPDd92ymbEvJt5JlsChqT_gvKN2T8OGjejyCYXAaIf-0cSuAl-hYI6r0VnPyC7Q=w1024-h768-no"
 author: "Helen"

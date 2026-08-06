@@ -1,7 +1,7 @@
 ---
 title: "Travel Tech"
 date: 2022-07-01T12:43:01-06:00
-featured_image: "https://lh3.googleusercontent.com/pw/AL9nZEW3ia-KEvZcPEl7nGBYJUOoVnXEd0QIBqqWgsvMPe_joy-ttz8pEblob6gl0J7WZcBdYm5IQL9LYDlcupzcQ3B4ZMPTpgNDnQxBrvz4s_duA4D7mCpkKg1xo2Lk8j9fe9nAyukrHo3vpzzLljQAHgKY6g=w1224-h918-no"
+featured_image: "/images/featured/content_articles_travel-tech.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/AL9nZEW3ia-KEvZcPEl7nGBYJUOoVnXEd0QIBqqWgsvMPe_joy-ttz8pEblob6gl0J7WZcBdYm5IQL9LYDlcupzcQ3B4ZMPTpgNDnQxBrvz4s_duA4D7mCpkKg1xo2Lk8j9fe9nAyukrHo3vpzzLljQAHgKY6g=w1224-h918-no"
 author: "Paul"

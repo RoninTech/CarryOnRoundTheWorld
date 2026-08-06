@@ -1,7 +1,7 @@
 ---
 title: "Myanmar"
 date: 2017-06-15T17:26:57-07:00
-featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3eYV32kPXhKtRxZHhq7FlWJVZ5e0ZrYyE70yFPJQczkExoyzRfHqRAGaLLeQ-mJjuQmiz6d0xm1niJ2kCpikvD5t_B1P_jCACiLWnZnH-dHSyXGTS6MPjNd1RMLqVKmx3L3mwdvKnh-H33FHpb4JSnwPw=w1210-h908-no"
+featured_image: "/images/featured/content_travels_myanmar.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3eYV32kPXhKtRxZHhq7FlWJVZ5e0ZrYyE70yFPJQczkExoyzRfHqRAGaLLeQ-mJjuQmiz6d0xm1niJ2kCpikvD5t_B1P_jCACiLWnZnH-dHSyXGTS6MPjNd1RMLqVKmx3L3mwdvKnh-H33FHpb4JSnwPw=w1210-h908-no"
 author: "Helen"

@@ -1,7 +1,7 @@
 ---
 title: "New Zealand North Island 2023"
 date: 2024-07-19T12:53:27+07:00
-featured_image: "https://lh3.googleusercontent.com/pw/AP1GczNQ_wgWYPRV-Mu3Zdj0CFzGLYNY5v-5DwnUjk3R_T5TlYL3kZBKLykeX4GBpiizT5D-0HBtT4VCjdkHsDMiI6vec1H2X6z4NhoFVLLwI4x7E7bsW1BERcipVKKJhSXq5i0XZx2OtgitIyhgZ3YBN6EcYw=w1196-h897-s-no?authuser=0"
+featured_image: "/images/featured/content_travels_New-Zealand-North-Island-2023.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/AP1GczNQ_wgWYPRV-Mu3Zdj0CFzGLYNY5v-5DwnUjk3R_T5TlYL3kZBKLykeX4GBpiizT5D-0HBtT4VCjdkHsDMiI6vec1H2X6z4NhoFVLLwI4x7E7bsW1BERcipVKKJhSXq5i0XZx2OtgitIyhgZ3YBN6EcYw=w1196-h897-s-no?authuser=0"
 draft: false

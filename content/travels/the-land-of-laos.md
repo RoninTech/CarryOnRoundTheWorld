@@ -1,7 +1,7 @@
 ---
 title: "The Land of Laos"
 date: 2017-07-15T17:27:38-07:00
-featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3cJn7skmeroSoqeTMXxs-dbTmMx6EV6pIxgnyxU69V4-h-sQJfejVfmKxUVVer888IW1ii_E6H_o6BA_8n7Qbdzeuvf_aGhlEX4SRDNN1dtPK1BnJ75bnIHexqrszjg1jQH3ehwaSs74vu8wgBIkJMhnw=w1210-h908-no"
+featured_image: "/images/featured/content_travels_the-land-of-laos.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3cJn7skmeroSoqeTMXxs-dbTmMx6EV6pIxgnyxU69V4-h-sQJfejVfmKxUVVer888IW1ii_E6H_o6BA_8n7Qbdzeuvf_aGhlEX4SRDNN1dtPK1BnJ75bnIHexqrszjg1jQH3ehwaSs74vu8wgBIkJMhnw=w1210-h908-no"
 author: "Helen"

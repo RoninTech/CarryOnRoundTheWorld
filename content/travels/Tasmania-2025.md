@@ -1,7 +1,7 @@
 ---
 title: "Tasmania 2025"
 date: 2025-07-15T14:26:36-06:00
-featured_image: "https://lh3.googleusercontent.com/pw/AP1GczNHWcZPDNBusoEm3oCnMO8OgX6XH9D1CH3jFvcD0H0XUZiu1Nd_miurdWtwTcv35TGf9xazASsOjm13GmaRBDd67y_c2PAJNVMoyzVrPRKXfuUiFR6zQ4ilEjGp4jdTEHOBdZdf3DOsryfJEu0UInv3xA=w1220-h915-s-no?authuser=0"
+featured_image: "/images/featured/content_travels_Tasmania-2025.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/AP1GczNHWcZPDNBusoEm3oCnMO8OgX6XH9D1CH3jFvcD0H0XUZiu1Nd_miurdWtwTcv35TGf9xazASsOjm13GmaRBDd67y_c2PAJNVMoyzVrPRKXfuUiFR6zQ4ilEjGp4jdTEHOBdZdf3DOsryfJEu0UInv3xA=w1220-h915-s-no?authuser=0"
 draft: false

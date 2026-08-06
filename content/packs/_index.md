@@ -2,7 +2,7 @@
 title: "Our Packs"
 date: 2020-09-09T20:35:00-07:00
 draft: false
-featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3fLq15dEYt66DPRcAZQLgZ8QIrgwZsdxw7kLf7kM83gnyqwbqaTOpw65NfH7kwrHQyC61gFkSq3pDVSBlD86W35y3t5M5Yw0bSrWuqFOxMe2HiwEIyEuStQThuUYJ4YDFZYimymDQTGM1HzKb_gj9dIaA=w1216-h912-no"
+featured_image: "/images/featured/content_packs__index.webp"
 author: "Paul"
 omit_header_text: false
 description: "\b"

@@ -1,7 +1,7 @@
 ---
 title: "Airline Carry on Rules"
 date: 2016-10-09T17:51:13-07:00
-featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3fJZJBEKLFnAkLcST6QzyiE2B3fSccEmGdaHI6_3slhVGvhSW_G9kPxnDBYH07ZvXi879SkjUT7c3jhnYbW1UAUKRvwUqEbKAXEO-9sgIXNyUgA33TC1AoANnlDlqM7BnugAORJV64IYeFOu-Nm0n_70Q=w700-h144-no"
+featured_image: "/images/featured/content_articles_airline-carry-on-rules.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3fJZJBEKLFnAkLcST6QzyiE2B3fSccEmGdaHI6_3slhVGvhSW_G9kPxnDBYH07ZvXi879SkjUT7c3jhnYbW1UAUKRvwUqEbKAXEO-9sgIXNyUgA33TC1AoANnlDlqM7BnugAORJV64IYeFOu-Nm0n_70Q=w700-h144-no"
 author: "Paul"

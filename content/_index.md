@@ -1,6 +1,6 @@
 ---
 title: "Carry On Round The World"
-featured_image: "https://lh3.googleusercontent.com/pw/AP1GczNK-hUAHzp7hlqLBpjBWCRRO3N4vdQTFoVJFEWKkWYoXBTGq7-f1JJANeJ-_ZabLrInWYnIHoG48XhxSJpOLzVGf-7_Bc6wRXh_lGrVJ3tU68m3192hA6v6HePnvmjlkuPb-uaBWJ328qqcuNyXf83gVQ=w1573-h887-s-no?authuser=0"
+featured_image: "/images/featured/content__index.webp"
 featured_image_class: "cover bg-center"
 images:
   - "https://lh3.googleusercontent.com/pw/AP1GczNK-hUAHzp7hlqLBpjBWCRRO3N4vdQTFoVJFEWKkWYoXBTGq7-f1JJANeJ-_ZabLrInWYnIHoG48XhxSJpOLzVGf-7_Bc6wRXh_lGrVJ3tU68m3192hA6v6HePnvmjlkuPb-uaBWJ328qqcuNyXf83gVQ=w1573-h887-s-no?authuser=0"
@@ -52,13 +52,13 @@ $("#DateCountdown").TimeCircles({
 Some stats during this time:<br />
 <br />
 
-<link rel="stylesheet" href="http://github.hubspot.com/odometer/themes/odometer-theme-default.css" />
+<link rel="stylesheet" href="https://github.hubspot.com/odometer/themes/odometer-theme-default.css" />
 <style>
 .odometer {
     font-size: 50px;
 }
 </style>
-<script src="http://github.hubspot.com/odometer/odometer.js"></script>
+<script src="https://github.hubspot.com/odometer/odometer.js"></script>
 
 <table class="center">
 <tr>

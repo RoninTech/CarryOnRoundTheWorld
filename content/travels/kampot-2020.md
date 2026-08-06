@@ -2,7 +2,7 @@
 title: "Kampot 2020"
 date: 2020-02-15T11:58:10-06:00
 draft: false
-featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3fq45_8oVElCc6TRppFn6GeIiE11eydZFgmFFFnvBbvt6ceRfGK22CsvOBFXEdkIPOQlAaBeD3KIC_P0dXaG00t2L_BNgoPppEi35zADP5odyNBg_tRfgnDaER_BJmI7c9TDARWly50TYAmEIjTPYm90Q=w1300-h975-no"
+featured_image: "/images/featured/content_travels_kampot-2020.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3fq45_8oVElCc6TRppFn6GeIiE11eydZFgmFFFnvBbvt6ceRfGK22CsvOBFXEdkIPOQlAaBeD3KIC_P0dXaG00t2L_BNgoPppEi35zADP5odyNBg_tRfgnDaER_BJmI7c9TDARWly50TYAmEIjTPYm90Q=w1300-h975-no"
 author: "Helen"

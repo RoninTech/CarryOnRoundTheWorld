@@ -1,7 +1,7 @@
 ---
 title: "New Zealand North Island"
 date: 2018-02-02T17:33:33-07:00
-featured_image: "https://lh3.googleusercontent.com/pw/AP1GczMlzc9ESR560xfca-C6p7mzZ-1WfnABcFKvGcMp_MZEM5rhBLpsdBuSvk9OZPSHHIaLJUu4urRA_CTGxofbtsk-h8LbOTaljOg-lu3d9IFj3-4Zlpbq3sgMC5hrqxI0kxtWnvzVBCNCsbAkxPYgSVV8sg=w1183-h887-s-no?authuser=0"
+featured_image: "/images/featured/content_travels_new-zealand-north-island.webp"
 featured_image_class: "cover bg-center"
 images:
   - "https://lh3.googleusercontent.com/pw/AP1GczMlzc9ESR560xfca-C6p7mzZ-1WfnABcFKvGcMp_MZEM5rhBLpsdBuSvk9OZPSHHIaLJUu4urRA_CTGxofbtsk-h8LbOTaljOg-lu3d9IFj3-4Zlpbq3sgMC5hrqxI0kxtWnvzVBCNCsbAkxPYgSVV8sg=w1183-h887-s-no?authuser=0"

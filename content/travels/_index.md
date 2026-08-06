@@ -2,7 +2,7 @@
 title: "Our Travels"
 date: 2020-09-09T20:35:00-07:00
 draft: false
-featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3d5NQnGfiQxhcctc6a0iattEkl7ulMbki2pzXSwlNokagX6kjqpSmlcYQEnTJrBdbmz29CusQoL0p0yeHEs6q3twmXUDXgT4-ZC1nUo4eQpBnOIZRttQJ64XpI5lYaVBXdWV1jslsDoP3m_-zIe3HQ7ig=w1210-h908-no"
+featured_image: "/images/featured/content_travels__index.webp"
 featured_image_class: "cover bg-center"
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3d5NQnGfiQxhcctc6a0iattEkl7ulMbki2pzXSwlNokagX6kjqpSmlcYQEnTJrBdbmz29CusQoL0p0yeHEs6q3twmXUDXgT4-ZC1nUo4eQpBnOIZRttQJ64XpI5lYaVBXdWV1jslsDoP3m_-zIe3HQ7ig=w1210-h908-no"

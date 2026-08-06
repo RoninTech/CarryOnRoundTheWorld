@@ -2,7 +2,7 @@
 title: "Post PCT Canada"
 date: 2019-12-15T12:40:22-06:00
 draft: false
-featured_image: "https://lh3.googleusercontent.com/pw/AP1GczPQWYgJJz616B8LogL_0IZTapTx8bgj4nbzIuF17YpAD53fsHblcsGjwzzBHTQJALi1KBWifgUARSfoUu-Z7ElGVUbzlY0ewIvFH8aev4bjUuYuL39CWhtREBqi6q8dZC-vqTCTHCtMzlqB_jF3rqox7A=w1127-h845-s-no?authuser=0"
+featured_image: "/images/featured/content_travels_post-pct-canada.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/AP1GczPQWYgJJz616B8LogL_0IZTapTx8bgj4nbzIuF17YpAD53fsHblcsGjwzzBHTQJALi1KBWifgUARSfoUu-Z7ElGVUbzlY0ewIvFH8aev4bjUuYuL39CWhtREBqi6q8dZC-vqTCTHCtMzlqB_jF3rqox7A=w1127-h845-s-no?authuser=0"
 author: "Helen"

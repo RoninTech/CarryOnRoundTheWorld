@@ -1,7 +1,7 @@
 ---
 title: "Australia: Brisbane to Daintree"
 date: 2017-10-15T09:31:21-07:00
-featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3d2HhQQrKUzFP5jATb0uJX6deRXXtNJ_FetfdPra4kJ5g3BexRjwIuYO54LTmIB4tkCwnk8rlPTlgO05sorPMW8T6iXDpMLG5lrkce7pV_3zwM18tpefsZwV1C9Scxb30X3MfHfvhDqdnmGTSQJtGXF5A=w1210-h908-no"
+featured_image: "/images/featured/content_travels_australia-brisbane-to-daintree.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3d2HhQQrKUzFP5jATb0uJX6deRXXtNJ_FetfdPra4kJ5g3BexRjwIuYO54LTmIB4tkCwnk8rlPTlgO05sorPMW8T6iXDpMLG5lrkce7pV_3zwM18tpefsZwV1C9Scxb30X3MfHfvhDqdnmGTSQJtGXF5A=w1210-h908-no"
 author: "Helen"

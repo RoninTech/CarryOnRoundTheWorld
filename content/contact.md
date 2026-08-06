@@ -1,6 +1,6 @@
 ---
 title: Contact
-featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3erYwpThzgDNNtp3VeXe8jIiu7-hw6wv3Awqw3jS8DKxDdarqfOp-ua31OsPXMrKbJRkWOYIW5fa19AB9YnQIv6-09Jg75ptBNTvVwZh-KWcvozDYhgOEUDMNYF-D59YSAduf_Uz4o-MIgoB39O6dmToQ=w1216-h912-no"
+featured_image: "/images/featured/content_contact.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3erYwpThzgDNNtp3VeXe8jIiu7-hw6wv3Awqw3jS8DKxDdarqfOp-ua31OsPXMrKbJRkWOYIW5fa19AB9YnQIv6-09Jg75ptBNTvVwZh-KWcvozDYhgOEUDMNYF-D59YSAduf_Uz4o-MIgoB39O6dmToQ=w1216-h912-no"
 omit_header_text: false

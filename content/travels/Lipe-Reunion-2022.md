@@ -1,7 +1,7 @@
 ---
 title: "Lipe Reunion 2022"
 date: 2022-02-18T16:37:33-07:00
-featured_image: "https://lh3.googleusercontent.com/pw/AM-JKLVQxRecWHIzWykOL7nScg3mn6BLKiI-yNoFKWGhv1GoZXlLdOuZBpWexsSWHL9jojU3ZHxCqwgJGHj_X0fMKrmIjM72pHYP6LHcazFg_84hHjxafQ-FZe5yM_us2gs_04Z8DxE6-YZBUKRTH8X2nSrSKg=w1300-h975-no?authuser=0"
+featured_image: "/images/featured/content_travels_Lipe-Reunion-2022.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/AM-JKLVQxRecWHIzWykOL7nScg3mn6BLKiI-yNoFKWGhv1GoZXlLdOuZBpWexsSWHL9jojU3ZHxCqwgJGHj_X0fMKrmIjM72pHYP6LHcazFg_84hHjxafQ-FZe5yM_us2gs_04Z8DxE6-YZBUKRTH8X2nSrSKg=w1300-h975-no?authuser=0"
 author: "Helen"

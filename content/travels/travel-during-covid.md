@@ -1,7 +1,7 @@
 ---
 title: "Travel During Covid"
 date: 2020-12-13T16:37:33-07:00
-featured_image: "https://lh3.googleusercontent.com/pw/AM-JKLWgXfTL-YYlXN5sQt0gxCxmsL8Ql12smKzIjliizFiHCHBTS6jeAvl-am7F3a-dlydkmBdDorFcHp_hLjqPnm-3330vQjJq6NTXoQFNy6oDz65adexsiSC4fRUpIGtWLjV4QMWiBqDF6l1LlPjreKM95w=w850-h637-no?authuser=0"
+featured_image: "/images/featured/content_travels_travel-during-covid.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/AM-JKLWgXfTL-YYlXN5sQt0gxCxmsL8Ql12smKzIjliizFiHCHBTS6jeAvl-am7F3a-dlydkmBdDorFcHp_hLjqPnm-3330vQjJq6NTXoQFNy6oDz65adexsiSC4fRUpIGtWLjV4QMWiBqDF6l1LlPjreKM95w=w850-h637-no?authuser=0"
 author: "Helen"

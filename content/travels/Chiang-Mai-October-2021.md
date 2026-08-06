@@ -1,7 +1,7 @@
 ---
 title: "Chiang Mai Fall 2021"
 date: 2021-10-13T16:37:33-07:00
-featured_image: "https://lh3.googleusercontent.com/pw/AM-JKLXrt6C7MqLjGYDf4Jz5kypSYwriVqrIMsfv2fzcIybxCJE-iJniYExTwwEsxoq1gpU9Ll0E90aR9uhiLys9xA2Vsj4Vq07Y8HpQJ5obF2yps25xCuZp-SRBQujgdQXPlZrAwF0W8PThe1JwBEdfmq-NMQ=w1734-h975-no?authuser=0"
+featured_image: "/images/featured/content_travels_Chiang-Mai-October-2021.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/AM-JKLXrt6C7MqLjGYDf4Jz5kypSYwriVqrIMsfv2fzcIybxCJE-iJniYExTwwEsxoq1gpU9Ll0E90aR9uhiLys9xA2Vsj4Vq07Y8HpQJ5obF2yps25xCuZp-SRBQujgdQXPlZrAwF0W8PThe1JwBEdfmq-NMQ=w1734-h975-no?authuser=0"
 author: "Helen"

@@ -1,7 +1,7 @@
 ---
 title: "Travel Banking for Canadians"
 date: 2016-12-24T16:21:23-07:00
-featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3erqBPCKnnW9EmoiPZEwuOoBT6HXk8ifaSnvry412i8jTy97dUTqCVyqqiqBrXSMeVvB4IK1SMkB0q5ICeHkckjTwYFKtQlFoGRV_1ZM3VDRPQR80MSc-eQvKEfJ9HM1uv3a-6Okp0VSUizkxibzcEaQQ=w1210-h908-no"
+featured_image: "/images/featured/content_articles_travel-banking-for-canadians.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3erqBPCKnnW9EmoiPZEwuOoBT6HXk8ifaSnvry412i8jTy97dUTqCVyqqiqBrXSMeVvB4IK1SMkB0q5ICeHkckjTwYFKtQlFoGRV_1ZM3VDRPQR80MSc-eQvKEfJ9HM1uv3a-6Okp0VSUizkxibzcEaQQ=w1210-h908-no"
 author: "Paul"

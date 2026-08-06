@@ -1,7 +1,7 @@
 ---
 title: "2 Months in Kampot"
 date: 2017-09-25T17:30:23-07:00
-featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3erqBPCKnnW9EmoiPZEwuOoBT6HXk8ifaSnvry412i8jTy97dUTqCVyqqiqBrXSMeVvB4IK1SMkB0q5ICeHkckjTwYFKtQlFoGRV_1ZM3VDRPQR80MSc-eQvKEfJ9HM1uv3a-6Okp0VSUizkxibzcEaQQ=w1210-h908-no"
+featured_image: "/images/featured/content_travels_2-months-in-kampot.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3erqBPCKnnW9EmoiPZEwuOoBT6HXk8ifaSnvry412i8jTy97dUTqCVyqqiqBrXSMeVvB4IK1SMkB0q5ICeHkckjTwYFKtQlFoGRV_1ZM3VDRPQR80MSc-eQvKEfJ9HM1uv3a-6Okp0VSUizkxibzcEaQQ=w1210-h908-no"
 author: "Helen"

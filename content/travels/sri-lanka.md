@@ -1,7 +1,7 @@
 ---
 title: "Sri Lanka"
 date: 2018-10-05T07:18:08-07:00
-featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3fvNpFIspxeYTOhKNAsOPxJL9o1EXxXeofqbGiIKa3MyCdomBSDx08MHAfi4XpjpsR6bNl4yvl9ISEngyky2BPn4iUVINX7T9EIE0eMBbUquIPMh8FnPymKRuQaMj5gGH4QSfyM2ulNAlXKajDaJObPBQ=w1828-h979-no?authuser=0"
+featured_image: "/images/featured/content_travels_sri-lanka.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3fvNpFIspxeYTOhKNAsOPxJL9o1EXxXeofqbGiIKa3MyCdomBSDx08MHAfi4XpjpsR6bNl4yvl9ISEngyky2BPn4iUVINX7T9EIE0eMBbUquIPMh8FnPymKRuQaMj5gGH4QSfyM2ulNAlXKajDaJObPBQ=w1828-h979-no?authuser=0"
 author: "Helen"

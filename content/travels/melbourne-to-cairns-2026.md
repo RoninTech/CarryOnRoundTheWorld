@@ -1,7 +1,7 @@
 ---
 title: "Melbourne to Cairns 2026"
 date: 2026-06-10T12:20:31+07:00
-featured_image: "https://lh3.googleusercontent.com/pw/AP1GczPRy3Vj0anepE4BD6NZ0pbcoYmIiDUM3Q0Te_b8NjD1J5FhTieZFBwILUgZ02eLEdAZbAI1I8iOevtSsXOjBEFQkQFg1RIUqw9e-n8gXX-cWWjxpfJEuoa9v9vgysLicV-zUuIvL5r1y-oorK3k-tePaw=w1449-h816-s-no?authuser=0"
+featured_image: "/images/featured/content_travels_melbourne-to-cairns-2026.webp"
 featured_image_class: "cover bg-center"
 images:
   - "https://lh3.googleusercontent.com/pw/AP1GczPRy3Vj0anepE4BD6NZ0pbcoYmIiDUM3Q0Te_b8NjD1J5FhTieZFBwILUgZ02eLEdAZbAI1I8iOevtSsXOjBEFQkQFg1RIUqw9e-n8gXX-cWWjxpfJEuoa9v9vgysLicV-zUuIvL5r1y-oorK3k-tePaw=w1089-h613-s-no?authuser=0"

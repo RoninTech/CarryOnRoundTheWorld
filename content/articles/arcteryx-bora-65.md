@@ -1,7 +1,7 @@
 ---
 title: "Arcteryx Bora 65"
 date: 2015-09-13T08:15:24-07:00
-featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3ebA-d-6txXQNhsFYXHWQ8-539rstQJgcvlFQ5XnXLl8pRgfRUpu1Rd7uup6fK2o6Yz8sclDvnlVexU-gwW-2PE30KZc8yNnsBDvHu7GJm1NP5amc64pd774lhG8J3D4aHl4ZliXB0phebLesicWAetzQ=w1396-h912-no"
+featured_image: "/images/featured/content_articles_arcteryx-bora-65.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3ebA-d-6txXQNhsFYXHWQ8-539rstQJgcvlFQ5XnXLl8pRgfRUpu1Rd7uup6fK2o6Yz8sclDvnlVexU-gwW-2PE30KZc8yNnsBDvHu7GJm1NP5amc64pd774lhG8J3D4aHl4ZliXB0phebLesicWAetzQ=w1396-h912-no"
 author: "Paul"

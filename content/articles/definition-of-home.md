@@ -1,7 +1,7 @@
 ---
 title: "Definition of Home"
 date: 2016-07-08T19:03:03-07:00
-featured_image: "https://lh3.googleusercontent.com/pw/ACtC-3dauhe2LMf0KNpUdkO6nbGMPj8NxwxsT1rVRNE251tB7_otvhl2VnQCOIt0iB2JnYeMoHaTKKrgOI29XesZEypq6ZPneceuks7Q0TWn3tmcnbCFkHR9oieXd145raL0dvjwNLlGD3XYXg7NpNKn4-p1rg=w1024-h768-no"
+featured_image: "/images/featured/content_articles_definition-of-home.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3dauhe2LMf0KNpUdkO6nbGMPj8NxwxsT1rVRNE251tB7_otvhl2VnQCOIt0iB2JnYeMoHaTKKrgOI29XesZEypq6ZPneceuks7Q0TWn3tmcnbCFkHR9oieXd145raL0dvjwNLlGD3XYXg7NpNKn4-p1rg=w1024-h768-no"
 author: "Paul"

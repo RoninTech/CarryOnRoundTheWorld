@@ -1,7 +1,7 @@
 ---
 title: "Darwin to Melbourne 2023"
 date: 2024-07-06T12:53:27+07:00
-featured_image: "https://lh3.googleusercontent.com/pw/AP1GczNGA9by4XHrFylBsYaDUsnu40EZvxZ6R64H17MZAGUx3l-T0BtJ9-5-rInMEurVb85-kYEI0NL1E8SGPNTA4B486WGb20N1AD1n5tDBjwCXJxM9053cJWUp-bV39p2w4wObLLA6Kwa3Vmwd0bV_knpxHg=w1196-h897-s-no?authuser=0"
+featured_image: "/images/featured/content_travels_Darwin-to-Melbourne-2023.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/AP1GczNGA9by4XHrFylBsYaDUsnu40EZvxZ6R64H17MZAGUx3l-T0BtJ9-5-rInMEurVb85-kYEI0NL1E8SGPNTA4B486WGb20N1AD1n5tDBjwCXJxM9053cJWUp-bV39p2w4wObLLA6Kwa3Vmwd0bV_knpxHg=w1196-h897-s-no?authuser=0"
 draft: false

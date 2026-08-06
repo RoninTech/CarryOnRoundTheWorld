@@ -1,7 +1,7 @@
 ---
 title: "Tasmania 2023"
 date: 2024-07-15T12:53:27+07:00
-featured_image: "https://lh3.googleusercontent.com/pw/AP1GczN86S6zgVxCTYZNLLl3cLXFmVMQmBF6Yr95UOUJGwgIYf6Dn9Resfk6CJb3hXrVuZ9VORUJ6q6todJ6incSRYF8R_SXLbhS7Rn5ENzPGhDx_33qwXmM47X5C02VtEHw7XTfJbCIuRKktMJb5ue2C-208Q=w1196-h897-s-no?authuser=0"
+featured_image: "/images/featured/content_travels_Tasmania-2023.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/AP1GczN86S6zgVxCTYZNLLl3cLXFmVMQmBF6Yr95UOUJGwgIYf6Dn9Resfk6CJb3hXrVuZ9VORUJ6q6todJ6incSRYF8R_SXLbhS7Rn5ENzPGhDx_33qwXmM47X5C02VtEHw7XTfJbCIuRKktMJb5ue2C-208Q=w1196-h897-s-no?authuser=0"
 draft: false
