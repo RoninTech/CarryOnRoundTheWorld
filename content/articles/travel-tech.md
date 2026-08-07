@@ -95,7 +95,7 @@ We also keep a few Audiobooks on our phones and this software makes for a great,
 
 #### Fongo
 
-<a href="https://www.fongo.com/services/fongo-mobile/"><img src="https://play-lh.googleusercontent.com/BieYsASQgTTizhZW0utxWHspEGe5-9v6d7YHrRkX_YpKJo4yJj9f5nApvjDw3s472w=w240-h480-rw" width="64" height="64" alt="Fongo Canada VOIP App" title="Fongo Canada VOIP App"></a>  
+<a href="https://www.fongo.com/services/fongo-mobile/"><img src="https://play-lh.googleusercontent.com/BieYsASQgTTizhZW0utxWHspEGe5-9v6d7YHrRkX_YpKJo4yJj9f5nApvjDw3s472w=w64-no" width="64" height="64" alt="Fongo Canada VOIP App" title="Fongo Canada VOIP App"></a>  
 Just before we left Canada in 2017 we ported our Canadian cell phone numbers from Koodo to Fongo. The Fongo App allows us to make or take calls to/from Canada from anywhere in the world as long as we have data (WiFi or cellular). Drops calls quite a bit. Their text messages don't support short codes so can't be used for 2FA.
 
 #### Wireguard
