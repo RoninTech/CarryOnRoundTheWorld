@@ -3,7 +3,7 @@ title: "Philippines"
 date: 2018-02-28T17:33:59-07:00
 featured_image: "/images/featured/content_travels_philippines.webp"
 images:
-  - "https://lh3.googleusercontent.com/pw/ACtC-3dK2OH6gVlLAmHgc_xICicDmkAOr78FhhroJyuc7xK2SNFrNUI9Nc5-KUR-XNHs1JH-05A4kIkT679LRj6Snth_s-BYwZF_tIn17do9L_4JQ78WAcvJ2IbEeKDutNHwfYOw0loie4YupYTk_yogzEQ_eQ=w1306-h979-no?authuser=0"
+  - "https://lh3.googleusercontent.com/pw/ACtC-3dK2OH6gVlLAmHgc_xICicDmkAOr78FhhroJyuc7xK2SNFrNUI9Nc5-KUR-XNHs1JH-05A4kIkT679LRj6Snth_s-BYwZF_tIn17do9L_4JQ78WAcvJ2IbEeKDutNHwfYOw0loie4YupYTk_yogzEQ_eQ=w1306-h979-no"
 author: "Helen"
 omit_header_text: false
 description: "\b"

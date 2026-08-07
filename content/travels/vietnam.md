@@ -3,7 +3,7 @@ title: "Vietnam"
 date: 2018-12-25T21:34:00-07:00
 featured_image: "/images/featured/content_travels_vietnam.webp"
 images:
-  - "https://lh3.googleusercontent.com/pw/ACtC-3c3eo3N_X186xr_NHU154Rnd79xrDdmhJlvrGEGSFMR1vDJpm-TWTWHhD5nB-ovqsT_nT3gKrn20X_IeCrVO2APZdb91jXZVZ8ZsHCyjUSyb1OFMNofzG4FLiJIl7xLJVaFUuAzeuCeKXsYIOV9x9VVPg=w1306-h979-no?authuser=0"
+  - "https://lh3.googleusercontent.com/pw/ACtC-3c3eo3N_X186xr_NHU154Rnd79xrDdmhJlvrGEGSFMR1vDJpm-TWTWHhD5nB-ovqsT_nT3gKrn20X_IeCrVO2APZdb91jXZVZ8ZsHCyjUSyb1OFMNofzG4FLiJIl7xLJVaFUuAzeuCeKXsYIOV9x9VVPg=w1306-h979-no"
 author: "Helen"
 omit_header_text: false
 description: "\b"

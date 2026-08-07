@@ -5,7 +5,7 @@ draft: false
 featured_image: "/images/featured/content_travels_Kampot-2019.webp"
 featured_image_class: "cover bg-center"
 images:
-  - "https://lh3.googleusercontent.com/pw/AP1GczNPGAIaRm95EFPBClXpmtArCSUJHl7FfOQwxsmmwicVWz100mUqaw4dxo5NSfIOrXCaaNwp2TUvXDcBG2FKNcH86gYHHmsGeaICcWFRB_FUWtPC56UZBzOeYwEGpNT3-6stwUoYq1ZhWHLISQQ8hqYBuQ=w1183-h887-s-no?authuser=0"
+  - "https://lh3.googleusercontent.com/pw/AP1GczNPGAIaRm95EFPBClXpmtArCSUJHl7FfOQwxsmmwicVWz100mUqaw4dxo5NSfIOrXCaaNwp2TUvXDcBG2FKNcH86gYHHmsGeaICcWFRB_FUWtPC56UZBzOeYwEGpNT3-6stwUoYq1ZhWHLISQQ8hqYBuQ=w1183-h887-s-no"
 author: "Helen"
 omit_header_text: false
 description: "\b"

@@ -4,7 +4,7 @@ date: 2018-04-25T19:51:56-07:00
 featured_image: "/images/featured/content_travels_nepal-in-spring.webp"
 featured_image_class: "cover bg-center"
 images:
-  - "https://lh3.googleusercontent.com/pw/AP1GczNPq_65hVsqZi6NQTtGMgTRTLa4cKAtV7BCVNcqdj3xXELs26LakHkWT7KZSO4KeWeJrPkzvexMTAE4BCiZCN7TD4AkLotgyWguJGZqqES4f-gw3kQhA2ILsLViEF_D-S5uAcSIrrc8jAA9d6DyuV9T8g=w1183-h887-s-no?authuser=0"
+  - "https://lh3.googleusercontent.com/pw/AP1GczNPq_65hVsqZi6NQTtGMgTRTLa4cKAtV7BCVNcqdj3xXELs26LakHkWT7KZSO4KeWeJrPkzvexMTAE4BCiZCN7TD4AkLotgyWguJGZqqES4f-gw3kQhA2ILsLViEF_D-S5uAcSIrrc8jAA9d6DyuV9T8g=w1183-h887-s-no"
 author: "Helen"
 omit_header_text: false
 description: "\b"
