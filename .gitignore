@@ -73,3 +73,25 @@ public/
 
 # Pagefind search
 static/_pagefind
+
+# AI generated scripts to help with the website maintenance
+scripts/
+
+# Output of various programs
+crap/
+
+# The theme module from Hugo
+_vendor/
+
+# AI stuff
+.opencode/
+AGENTS.md
+
+# venv stuff
+__pycache__/
+bin/
+lib/
+lib64
+pyvenv.cfg
+
+resources/_gen/

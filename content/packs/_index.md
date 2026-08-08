@@ -2,7 +2,7 @@
 title: "Our Packs"
 date: 2020-09-09T20:35:00-07:00
 draft: false
-featured_image: "/images/featured/content_packs__index.webp"
+featured_image: "content_packs__index.webp"
 author: "Paul"
 omit_header_text: false
 description: "\b"

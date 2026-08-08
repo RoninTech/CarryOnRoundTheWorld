@@ -10,41 +10,6 @@ googleAnalytics = "G-QT3G9GJDXC"
 enableRobotsTXT = true
 enableEmoji = true
 
-# [[params.ananke_socials]]
-# name = "home"
-# url = "/"
-# label = "Home"
-# color = "#0000ff"
-# [[params.ananke_socials]]
-# name = "search"
-# url = "/search"
-# label = "Search"
-# # yellow
-# color = "#ffff00"
-# [[params.ananke_socials]]
-# name = "contact"
-# url = "/contact"
-# label = "Contact"
-# color = "#ffa500"
-# #[[params.ananke_socials]]
-# #name = "twitter"
-# #url = "https://twitter.com/CarryOnRTW"
-# #[[params.ananke_socials]]
-# #name = "facebook"
-# #url = "https://facebook.com/CarryOnRTW"
-# [[params.ananke_socials]]
-# name = "github"
-# url = "https://github.com/RoninTech"
-# #[[params.ananke_socials]]
-# #name = "linkedin"
-# #url = "https://www.linkedin.com/in/paul-rimmer-a46a461/"
-# [[params.ananke_socials]]
-# name = "youtube"
-# url = "https://www.youtube.com/@CarryOnRTW"
-# [[params.ananke_socials]]
-# name = "mastodon"
-# url = "https://mastodon.social/@carryonrtw"
-
 [sitemap]
   changefreq = "monthly"
   priority = 0.5
