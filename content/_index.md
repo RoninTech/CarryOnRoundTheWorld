@@ -70,9 +70,9 @@ Some stats during this time:<br />
             }, 1000);
         </script>
     </td>
-    <td>
+    <th scope="row">
         Countries
-    </td>
+    </th>
     <td>
         <div id="odometerFlights" class="odometer">0</div>
         <script>
@@ -81,9 +81,9 @@ Some stats during this time:<br />
             }, 1000);
         </script>
     </td>
-    <td>
+    <th scope="row">
         Flights
-    </td>
+    </th>
 </tr>
 <tr>
     <td>
@@ -94,9 +94,9 @@ Some stats during this time:<br />
             }, 1000);
         </script>
     </td>
-    <td>
+    <th scope="row">
         Beds
-    </td>
+    </th>
     <td>
         <div id="odometerAirports" class="odometer">0</div>
         <script>
@@ -105,9 +105,9 @@ Some stats during this time:<br />
             }, 1000);
         </script>
     </td>
-    <td>
+    <th scope="row">
         Airports
-    </td>
+    </th>
 </tr>
 <tr>
     <td>
@@ -118,9 +118,9 @@ Some stats during this time:<br />
             }, 1000);
         </script>
     </td>
-    <td>
+    <th scope="row">
         Buses
-    </td>
+    </th>
     <td>
         <div id="odometerMotos" class="odometer">0</div>
         <script>
@@ -129,9 +129,9 @@ Some stats during this time:<br />
             }, 1000);
         </script>
     </td>
-    <td>
+    <th scope="row">
         Motorbikes
-    </td>
+    </th>
 </tr>
 </table>
 
