@@ -8,7 +8,7 @@
     <div class="{{ $cover_dimming_class }}">
       {{ partials.Include "site-navigation.html" .}}
       <div class="{{ $header_section_class }}">
-        <h1 class="f2 f-subheadline-l fw2 white-90 mb0 lh-title">
+        <h1 class="f2 f-subheadline-l fw2 white-90 mt0 mb0 lh-title">
           {{ .Title | compare.Default .Site.Title }}
         </h1>
         {{ with .Params.description }}
@@ -25,7 +25,7 @@
       {{ partials.Include "site-navigation.html" . }}
       {{ $header_section_class := .Param "header_section_class" | compare.Default "tc-l pv3 ph3 ph4-ns" }}
       <div class="{{ $header_section_class }}">
-        <h1 class="f2 f-subheadline-l fw2 light-silver mb0 lh-title">
+        <h1 class="f2 f-subheadline-l fw2 light-silver mt0 mb0 lh-title">
           {{ .Title | compare.Default .Site.Title }}
         </h1>
         {{ with .Params.description }}
