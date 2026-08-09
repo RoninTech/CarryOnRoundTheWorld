@@ -139,7 +139,7 @@ Some stats during this time:<br />
 Here's a map showing all of the places we've stayed and travel hubs we've used in our adventures so far. They start in Calgary (1) on February 28th, 2017, and continue to wherever we are now. If you click on the icon for a location it shows when we arrived there and a link to the relevant photo album. Click the [ ] in the upper right of the map to go full screen.
 
 <pre>
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1wlM2-pQKkpSOQFAND2thDd4ozPkyRuQ&ehbc=2E312F&z=2&ll=5" width="800" height="500"></iframe>
+<a href="https://www.google.com/maps/d/u/0/embed?mid=1wlM2-pQKkpSOQFAND2thDd4ozPkyRuQ&ehbc=2E312F&z=2&ll=5"><img loading="lazy" src="/images/travel-map.webp" alt="Every place we've stayed in our travels" title="Every place we've stayed in our travels" /></a><br />
 </pre>
 
 </body>
