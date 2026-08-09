@@ -3,9 +3,7 @@
   {{/* Trimming the slash and adding absURL make sure the image works no matter where our site lives */}}
   {{ $featured_image_class := site.Params.featured_image_class | compare.Default "cover bg-top" }}
   {{ $header_section_class := .Param "header_section_class" | compare.Default "tc-l pv4 pv6-l ph3 ph4-ns" }}
-  {{ $min_height := "40vh" }}
-  {{ if .IsHome }}{{ $min_height = "60vh" }}{{ end }}
-  <header class="{{ $featured_image_class }}" data-pagefind-meta="image:{{ $featured_image }}" style="background-image: url('{{ $featured_image }}'); min-height: {{ $min_height }};">
+  <header class="{{ $featured_image_class }}" data-pagefind-meta="image:{{ $featured_image }}" style="background-image: url('{{ $featured_image }}');">
     {{ $cover_dimming_class := site.Params.cover_dimming_class | compare.Default "bg-black-60" }}
     <div class="{{ $cover_dimming_class }}">
       {{ partials.Include "site-navigation.html" .}}

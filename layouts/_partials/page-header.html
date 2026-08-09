@@ -20,7 +20,7 @@
       {{ end }}
     </style>
   {{ end }}
-  <header {{ with $responsive_header_id }}id="{{ . }}" {{ end }}class="{{ $featured_image_class }}" data-pagefind-meta="image:{{ $featured_image }}" style="background-image: url('{{ $background_image }}'); min-height: 40vh;">
+  <header {{ with $responsive_header_id }}id="{{ . }}" {{ end }}class="{{ $featured_image_class }}" data-pagefind-meta="image:{{ $featured_image }}" style="background-image: url('{{ $background_image }}');">
     <div class="{{ $cover_dimming_class }}">
       {{ partials.Include "site-navigation.html" . }}
       <div class="{{ $header_section_class }}">

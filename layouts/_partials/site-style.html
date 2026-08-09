@@ -122,6 +122,43 @@
 {{- end -}}
 
 {{- with $main_style -}}
+  <style>
+    .cover{background-size:cover!important}
+    .bg-center{background-repeat:no-repeat;background-position:center center}
+    .bg-black-60{background-color:#0009}
+    .tc-l{text-align:center}
+    .pv4{padding-top:2rem;padding-bottom:2rem}
+    .pv6-l{padding-top:8rem;padding-bottom:8rem}
+    .ph3{padding-left:1rem;padding-right:1rem}
+    .ph4-ns{padding-left:2rem;padding-right:2rem}
+    .f2{font-size:2.25rem}
+    .f-subheadline-l{font-size:3rem}
+    .f3{font-size:1.5rem}
+    .f3-l{font-size:1.875rem}
+    .f5{font-size:1rem}
+    .fw2{font-weight:200}
+    .fw1{font-weight:100}
+    .white-90{color:#ffffffe6}
+    .white-80{color:#fffc}
+    .mb0{margin-bottom:0}
+    .mt3{margin-top:1rem}
+    .lh-title{line-height:1.25}
+    .lh-copy{line-height:1.5}
+    .measure-wide-l{max-width:34em}
+    .mw8{max-width:64rem}
+    .center{margin-right:auto;margin-left:auto}
+    .mid-gray{color:#555}
+    .nested-links a{color:#357edd;transition:color .15s ease-in}
+    .nested-links a:hover{color:#96ccff;transition:color .15s ease-in}
+    .nested-links a:focus{color:#96ccff;transition:color .15s ease-in}
+    .nested-links a{overflow-wrap:break-word}
+    .nested-links p{font-size:1rem;line-height:1.5}
+    .nested-links a{color:#1e5b94}
+    .nested-links a:hover{color:#0d3d6b}
+    body.is-home header.cover{min-height:60vh}
+    body.is-page header.cover{min-height:40vh}
+    body.is-home header.cover .flex-l.items-center,body.is-page header.cover .flex-l.items-center{min-height:48px}
+  </style>
   <link rel="preload" href="{{ .RelPermalink }}" as="style"{{ with .Data.Integrity }} integrity="{{ . }}" crossorigin="anonymous"{{ end }}>
   <link rel="stylesheet" href="{{ .RelPermalink }}"{{ with .Data.Integrity }} integrity="{{ . }}" crossorigin="anonymous"{{ end }} media="print" onload="this.media='all'">
   <noscript><link rel="stylesheet" href="{{ .RelPermalink }}"{{ with .Data.Integrity }} integrity="{{ . }}" crossorigin="anonymous"{{ end }}></noscript>
