@@ -21,7 +21,7 @@ Here's links to maps of all the flights we've taken. Just click the banners belo
 
 ### Random selfies from our travels:
 
-<iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRMbpTeplEBOUK0J2Pap1-Mw7tE9XlekPsFc6Bpw6T-Y6IU8ZVWpX77ybujPTd-buoPVFRWfjxQpIar/pubembed?start=false&loop=false&delayms=10000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe> <br />
-<br />
+
+<a href="https://docs.google.com/presentation/d/1MPVn9F-UO9g0DVikhR8PqgxJ2SrYjjmkIOPjo7oSDFs/present?usp=sharing"><img loading="lazy" src="/images/selfies.webp" alt="All our travel selfies" title="All our travel selfies" /></a>Click the image to play the slideshow<br />
 
 ### Below are links to blog posts we've written about our travels:
