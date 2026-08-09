@@ -38,6 +38,18 @@
   line-height: 1.5;
 }
 
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
 .article-content a,
 .page-body a,
 .nested-links a {
@@ -55,6 +67,15 @@
 .travel-time .tt-minutes strong,
 .travel-time .tt-seconds strong {
   font-size: 2.2em;
+  font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
+  font-variant-numeric: tabular-nums;
+  display: inline-block;
+  text-align: right;
+  min-width: 1.6em;
+}
+
+.travel-time .tt-years strong {
+  min-width: 1.4em;
 }
 
 table.center td .odometer {
