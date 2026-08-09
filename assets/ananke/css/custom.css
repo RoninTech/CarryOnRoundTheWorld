@@ -62,10 +62,18 @@ table.center td .odometer {
   font-weight: bold;
 }
 
-header.cover {
+body.is-home header.cover {
   min-height: 60vh;
 }
 
-header.cover .flex-l.items-center {
+body.is-home header.cover .flex-l.items-center {
+  min-height: 48px;
+}
+
+body.is-page header.cover {
+  min-height: 40vh;
+}
+
+body.is-page header.cover .flex-l.items-center {
   min-height: 48px;
 }
