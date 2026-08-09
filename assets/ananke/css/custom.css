@@ -37,3 +37,14 @@
   font-size: 1rem; /* Adjust to desired size, e.g., 0.9rem or 16px */
   line-height: 1.5;
 }
+
+.article-content a,
+.page-body a,
+.nested-links a {
+  color: #1e5b94;
+}
+.article-content a:hover,
+.page-body a:hover,
+.nested-links a:hover {
+  color: #0d3d6b;
+}
