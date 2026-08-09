@@ -1,0 +1,21 @@
+{{- $start := time.AsTime "2017-02-28T07:08:10Z" -}}
+{{- $now := time.Now -}}
+{{- $dur := $now.Sub $start -}}
+{{- $totalSeconds := math.Floor $dur.Seconds -}}
+{{- $seconds := math.Floor (mod $totalSeconds 60) -}}
+{{- $totalMinutes := math.Floor (div $totalSeconds 60) -}}
+{{- $minutes := math.Floor (mod $totalMinutes 60) -}}
+{{- $totalHours := math.Floor (div $totalSeconds 3600) -}}
+{{- $hours := math.Floor (mod $totalHours 24) -}}
+{{- $days := math.Floor (div $totalHours 24) -}}
+{{- $years := math.Floor (div $totalSeconds 31557600) -}}
+{{- $yearsSeconds := mul $years 31557600 -}}
+{{- $remainderSeconds := sub $totalSeconds $yearsSeconds -}}
+{{- $remainderDays := math.Floor (div $remainderSeconds 86400) -}}
+<div class="travel-time">
+  <span class="tt-years"><strong>{{ $years }}</strong> years</span>,
+  <span class="tt-days"><strong>{{ $remainderDays }}</strong> days</span>,
+  <span class="tt-hours"><strong>{{ $hours }}</strong> hours</span>,
+  <span class="tt-minutes"><strong>{{ $minutes }}</strong> minutes</span>,
+  <span class="tt-seconds"><strong>{{ $seconds }}</strong> seconds</span>
+</div>

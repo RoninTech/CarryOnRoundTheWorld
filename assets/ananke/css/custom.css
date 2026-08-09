@@ -48,3 +48,16 @@
 .nested-links a:hover {
   color: #0d3d6b;
 }
+
+.travel-time .tt-years strong,
+.travel-time .tt-days strong,
+.travel-time .tt-hours strong,
+.travel-time .tt-minutes strong,
+.travel-time .tt-seconds strong {
+  font-size: 2.2em;
+}
+
+table.center td .odometer {
+  font-size: 50px;
+  font-weight: bold;
+}
