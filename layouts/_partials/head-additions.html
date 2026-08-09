@@ -8,3 +8,8 @@
 {{- partials.Include "hook.html" (dict "hook" "head-end" "context" .) -}}
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+{{ if .IsHome }}
+  {{ with .Params.featured_image | default .Site.Params.featured_image }}
+    <link rel="preload" as="image" href="{{ . }}" fetchpriority="high">
+  {{ end }}
+{{ end }}
