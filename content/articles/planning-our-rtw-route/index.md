@@ -23,5 +23,5 @@ Russia kind of skews the map as its so big and currently we only intend to visit
 
 So our chosen technique appears to be keep calm and carry on round the world just going with the flow. In summary, **our plan is: "there is no plan"**. Stay tuned to see how that turns out. :grinning:
 
-### UPDATE:
+## UPDATE:
  10 years later....  OK, it's 2026, let's see how it's gone so far.  I've colored the countries we've maade it to in green.  The bottom line is that for good, slow travel were you really get a feel for a place, it would take you multiple life times to know and see the world.  We could spend a lifetime just exploring mainland Australia, Tasmania and New Zealand.  We've put a good dent in those but still not even close to seeing all of them.

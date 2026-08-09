@@ -98,3 +98,8 @@ body.is-page header.cover {
 body.is-page header.cover .flex-l.items-center {
   min-height: 48px;
 }
+
+header nav ul li a {
+  padding: 8px 10px;
+  display: inline-block;
+}

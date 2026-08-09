@@ -11,7 +11,7 @@ omit_header_text: false
 description: "\b"
 ---
 
-### [CNS-SIN-BKK](http://www.gcmap.com/mapui?P=CNS-SIN-BKK)
+## [CNS-SIN-BKK](http://www.gcmap.com/mapui?P=CNS-SIN-BKK)
 
 We were flying with Singapore Airlines so we boarded with the usual efficiency and were quickly settled in with a glass of bubbly. We had a great meal on this segment, with some of the nicest lamb (for me) and steak (for Paul) that we had the whole trip. The flight was smooth and we landed in Singapore on time. We had booked into the Aerotel for 6 hours, with a layover of just over 8 hours we wanted to get some rest. Up early the next morning, we had a good flight to BKK. This flight included a really nice breakfast so we were set for the day. 
 
@@ -29,7 +29,7 @@ We headed over to Soi 11 to meet Tik and Jesse for dinner and drinks. They were 
   <a style="display:inline-block;text-decoration:none;color: #595959;" href="https://photos.google.com/share/AF1QipPtV3vqvUQ59FVlX9VDHgmQTAsY3B6yYjQhnwwiViMCdd0jDKuaWB40Wh_BS44K9g/photo/AF1QipNkPQ1T-8LCzFimlwcO9AC5_X6S8fcZuU-IOL2d?key=MDdSNUZoOGhyYW5SSVh5dlBmbGxqMEhYYzBFS2Jn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczNs1XmQUYPkfWQK8asZtbnJN5RGMrI7EX1r2NcEtpwFxN_a07bW8Xq2xzG0ws_JiELePQc15sdrwJl91ydCJ8YERTBC0krK_-LIE1KuLaWbYnED6zDEppzvEfCrMYGVjMsFzb_VYDnj7EkBYfmSMiNq9Q=w250-no" width="250" /><div>Tik, Jesse & Us</div></a>
 </div>
 
-#### [BKK-YVR-YXC](http://www.gcmap.com/mapui?P=BKK-YVR-YXC)
+## [BKK-YVR-YXC](http://www.gcmap.com/mapui?P=BKK-YVR-YXC)
 
 When we decided to head back to Canada, we found a flight with Air Canada that got us back within the shortest time frame, 18 hours. It was a direct BKK-YVR flight with a 2 hour layover before we caught the early flight to YXC. It was reasonably priced for business class and many people said service had improved so we took a chance and booked it. We decided to book a return flight at the time as we knew we’d be coming back to Chiang Mai. Since we knew where to go, check in was quite easy and we were quickly in the lounge. We had time to have some coffee and a snack to tide us over until we made it to the plane. For the first time our gate was in the new addition to BKK, the S gates, which meant a slightly longer walk and an additional train. We had plenty of time to get there. The boarding process was smooth and we were quickly settled into our seats. The flight attendants were friendly and attentive. Our seats were comfortable and the food was decent, my steak was a bit overdone, but everything else was good. Fairly impressed. 
 
@@ -48,7 +48,7 @@ When we got to check in, we were told our flight was delayed by about half an ho
   <a style="display:inline-block;text-decoration:none;color: #595959;" href="https://photos.google.com/share/AF1QipPtV3vqvUQ59FVlX9VDHgmQTAsY3B6yYjQhnwwiViMCdd0jDKuaWB40Wh_BS44K9g/photo/AF1QipPuFpGbs23Znq2cdW0mHNgMec0YyJRxIQJnmupB?key=MDdSNUZoOGhyYW5SSVh5dlBmbGxqMEhYYzBFS2Jn" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/AP1GczNwX9A6JU6egI24WJ1QV-ruI1W7D9FbKMGfEA1w15TjjMbZBgXQ5Nkbe-W3UClMt7HBtCRxQUwBuii4YSefmC6hXBAkHDsLJepPjngeD09wHZ6oOrke3rXFhpd-QX3_ODAA2dqnAkJMySFa6jcYFPA1RQ=w330-no" width="330" /><div>In the Air</div></a>
 </div>
 
-#### [YXC-YVR-BKK-CNX](http://www.gcmap.com/mapui?P=YXC-YVR-BKK-CNX)
+## [YXC-YVR-BKK-CNX](http://www.gcmap.com/mapui?P=YXC-YVR-BKK-CNX)
 
 Service on the flight was great. With all the chaos we had forgotten to order our meal so chose off the set menu. The food was still good and we enjoyed a nice glass of wine or two to relax. Paul managed to get some sleep, he thinks about 6 hours. I probably got 2 or 3. It was a bit bumpier on this flight, a lot more turbulence, but we landed on time. We made it through immigration, got the duffle and went to check in for our next flight. We had a 3 hour layover before our connecting flight to CNX. All things considered, Air Canada was better than expected and we both said we’d fly with them again on our next trip to Canada… with the caveat being that it had to be in business class. 
 

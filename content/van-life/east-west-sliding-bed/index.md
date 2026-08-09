@@ -12,7 +12,7 @@ draft: false
 
 We don't have an extended length van so we need to maximize space usage. We will have a ~38" deep garage with facing 24" bench seats next to it. The sliding bed covers the garage during the daytime and slides out at night to cover both the garage and bench seats which we don't need while sleeping. I am 5'9" and Helen is 5'6" so E/W should work no problem.
 
-### Parts list we used:
+## Parts list we used:
 
 - 4 [Ikea Skorva bed rails](https://www.ikea.com/ca/en/p/skorva-center-support-beam-galvanized-90124534/)
 - 2 sets of [Ikea Luroy twin bed slats](https://www.ikea.com/ca/en/p/luroey-slatted-bed-base-60160217/) (total of 32)
@@ -113,7 +113,7 @@ Finally, since we are still working on the van we made it so we could lift the b
 
 Once the boxes are built for the head and foot of the bed, we will have to remove the 2 profile pieces with 4 nyloc bolts on each in order to remove the bed.
 
-### Things that we have left to do for the bed:
+## Things that we have left to do for the bed:
 
 - [FIXED](#FIXED3): Come up with a way to lock Skorvas 1 and 3 in place but still have them easily removable.
 - [FIXED](#FIXED2): Locate some tough plastic to replace the wooden blocks for smoother sliding on the aluminum rails. Maybe the plastic decking that looks like lumber?

@@ -10,7 +10,7 @@ omit_header_text: false
 description: "\b"
 album: "https://photos.app.goo.gl/Rh6hiPjjERqqkZij2"
 ---
-### The Ferry
+## The Ferry
 
 We had booked in advance to get the ferry so with tickets in hand we headed over at the recommended time, strangely we were some of the first people there. I needed coffee but Paul didn't want one so I ran into a little trouble when I went to order. I only brought my credit card and needed to have a minimum purchase to use it at the coffee place. I didn't want to walk all the back to the van for cash, so bought two coffees and a cookie. Paul had the cookie but still refused the coffee... I spent the rest of the day being hyper.
 
