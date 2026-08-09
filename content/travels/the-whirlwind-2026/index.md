@@ -11,7 +11,7 @@ omit_header_text: false
 description: "\b"
 ---
 
-#### [CNS-SIN-BKK](http://www.gcmap.com/mapui?P=CNS-SIN-BKK)
+### [CNS-SIN-BKK](http://www.gcmap.com/mapui?P=CNS-SIN-BKK)
 
 We were flying with Singapore Airlines so we boarded with the usual efficiency and were quickly settled in with a glass of bubbly. We had a great meal on this segment, with some of the nicest lamb (for me) and steak (for Paul) that we had the whole trip. The flight was smooth and we landed in Singapore on time. We had booked into the Aerotel for 6 hours, with a layover of just over 8 hours we wanted to get some rest. Up early the next morning, we had a good flight to BKK. This flight included a really nice breakfast so we were set for the day. 
 
