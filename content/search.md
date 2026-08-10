@@ -51,7 +51,7 @@ function waitForElm(selector) {
 }
 </script>
 
-#### Example Searches
+## Example Searches
 
 Find all articles [by Paul](</search/?q="By Paul">)  
 

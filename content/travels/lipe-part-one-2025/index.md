@@ -10,7 +10,7 @@ album: https://photos.app.goo.gl/zUf3LxoRRBxEvUoU7
 omit_header_text: false
 description: "\b"
 ---
-#### Koh Lipe: February 8 to 27, 2025
+## Koh Lipe: February 8 to 27, 2025
 
 With our lease ending and not wanting to miss it two years in a row, we headed to Lipe. We had gotten in contact with Mikkel and arranged a room at The Reef. Nok arranged our taxi and ferry, so everything went smoothly. Tik was kind enough to let us store our big duffle bag (with all our Tasmania gear) at her cousin's shop at the Pak Bara pier. We didn’t want to haul it all the way to Lipe since we wouldn’t need anything from it. It was an easy trip to Pak Bara.  We checked in at the SeeSea Hotel, dropped the duffle at the shop and headed over to Barista Cafe for dinner. We walked over to the pier after dinner, where Paul made a new feline friend, before heading back to the hotel. The next morning, it was the early boat to Lipe which was one of the smoother rides we’ve had. 
 
@@ -41,7 +41,7 @@ The theme of the trip was everyone was either getting over being sick, was still
 
 Inevitably, the germs were passed around and Paul ended up getting sick. Not wanting to spread more germs, he spent 10 days just going between our room and Mojo. With help from Nok and Su, we found the “soup lady” and I made several trips for soup or kebabs when he didn't feel up to leaving the room. It ended up that he had to go to the doctor and get some antibiotics as it just wasn’t clearing up. I went out to Passion to see Laura, Rob, Odne and crew for a cheeky G&T. We had planned our next stop as Kuala Lumpur to set ourselves up for Tasmania and made the decision to head there about a week earlier. Figured it would give Paul time to rest and be over it before we hit the ground running in Tassie. Paul was up to a meal with Odne before he headed home, we were able to have dinner with Mikkel and Nok as well. On our final night we hit up the new 10 Moons with Rob, Laura, Tik and Jesse for a “see you next time” meal and had a nice dinner. Apologies, we weren’t as good at taking pictures this time around so don’t have decent shots of everyone 🤦. We decided to spend a night in Hat Yai so took the later boat which was nice. The trip was fairly smooth and we rested up, repacked for the flight to KL the next day.
 
-#### KUL: February 28 to March 6, 2025 
+## KUL: February 28 to March 6, 2025 
 
 Our flight was smooth and we headed to our Airbnb. It was a gong show… long story short they gave us the wrong entry code, said we didn’t have a booking, the place wasn’t clean, had a horrible smell so we bailed to a new place the next day. This one was great, clean and comfortable. Paul was feeling better but I ended up getting sick. We found a new breakfast place, they were on Grab so we could get it delivered. It was close enough that when Paul felt better, he could walk over and pick it up along with a stop at Optimist for a coffee. He went and got me some medicine and we can say chocolate flavoured cough syrup isn’t as good as you might think. Other than that, we did some laundry, rested and tried to get organized for Tasmania.
 
