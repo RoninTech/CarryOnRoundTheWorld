@@ -13,9 +13,8 @@
 {{- $remainderSeconds := sub $totalSeconds $yearsSeconds -}}
 {{- $remainderDays := math.Floor (div $remainderSeconds 86400) -}}
 <div class="travel-time">
-  <span class="tt-years"><strong>{{ $years }}</strong> years</span>,
-  <span class="tt-days"><strong>{{ $remainderDays }}</strong> days</span>,
-  <span class="tt-hours"><strong>{{ $hours }}</strong> hours</span>,
-  <span class="tt-minutes"><strong>{{ $minutes }}</strong> minutes</span>,
-  <span class="tt-seconds"><strong>{{ $seconds }}</strong> seconds</span>
+  <span class="tt-years"><strong>{{ $years }}</strong> years</span>
+  <span class="tt-days"><strong>{{ $remainderDays }}</strong> days</span>
+  <span class="tt-hours"><strong>{{ $hours }}</strong> hours</span>
+  <span class="tt-minutes"><strong>{{ $minutes }}</strong> minutes</span>
 </div>

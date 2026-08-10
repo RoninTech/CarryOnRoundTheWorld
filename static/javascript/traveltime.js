@@ -10,10 +10,8 @@
   var days = Math.floor(remainder / 86400);
   var hours = Math.floor((remainder % 86400) / 3600);
   var mins = Math.floor((remainder % 3600) / 60);
-  var secs = remainder % 60;
   el.querySelector('.tt-years strong').textContent = years;
   el.querySelector('.tt-days strong').textContent = days;
   el.querySelector('.tt-hours strong').textContent = hours;
   el.querySelector('.tt-minutes strong').textContent = mins;
-  el.querySelector('.tt-seconds strong').textContent = secs;
 })();

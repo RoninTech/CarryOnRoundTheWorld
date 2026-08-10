@@ -64,18 +64,18 @@
 .travel-time .tt-years strong,
 .travel-time .tt-days strong,
 .travel-time .tt-hours strong,
-.travel-time .tt-minutes strong,
-.travel-time .tt-seconds strong {
+.travel-time .tt-minutes strong {
   font-size: 2.2em;
   font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, "Liberation Mono", monospace;
   font-variant-numeric: tabular-nums;
   display: inline-block;
   text-align: right;
-  min-width: 1.6em;
+  min-width: 2.4em;
+  padding-right: 0.25em;
 }
 
-.travel-time .tt-years strong {
-  min-width: 1.4em;
+.travel-time span + span {
+  margin-left: 0.6em;
 }
 
 table.center td .odometer {
