@@ -1,6 +1,6 @@
 ---
 title: "Kuala Lumpur March 2024"
-date: 2024-08-01T13:01:54+07:00
+date: 2024-06-20T13:01:54+07:00
 featured_image: "content_travels_Kuala-Lumpur-March-2024.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/AP1GczMTyqwsnnluoJ42nuGWCqZ8qw3BJIPW_9KQd6YpirXBR9Yvx8M03oHa_n9A8IvHZ_TQiXOV9vP82VLRihbLm10fM375OFaaAJPw5e_zZbXoxaya0tumosc2KWg_xAuWIaRDoZ0f5Kg40lb84wO1WqH30Q=w1196-h897-s-no"

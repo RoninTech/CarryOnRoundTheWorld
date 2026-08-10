@@ -41,7 +41,7 @@ The next night it was off to [Small House Cafe](https://goo.gl/maps/tpLSWkmHLvyk
   <a style="display:inline-block;text-decoration:none;color: #595959;" href="https://photos.google.com/share/AF1QipODiiBEcvSEv725BsI5m5L5cgfMLH6eU9XcmwT6ZyNsCHjNBmuTQK8zJ4382wVyOw/photo/AF1QipP1Z5OQglFGw39lpA1XmBeXDG1areJvQNePv5p9?key=OFNNT0J5NmJxckwwdGFWTjJkRWFmaVBLM0VTT013" target="_blank"><img loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3cpWhe_3U4OMaPka1jzjWzXH6KvqHvQD6KZXm5vBE1YAukYyn8XvApKezEU7r_cyZlkslGzqhKqKYOSfDbSzxV1tzhh9Os8IH3h1I37CJrEQAQKKIefovQcM-nL5Tk5oHQqTjPwqk-xgaaKTLO-r7BhmA=w370-no" width="370" /><div>Yann</div></a>
   </div>
 
-For Christmas Eve, God and Yves put on a huge meal and invited everyone to come and spend time with them. God’s family, his Mom, sister and nephews were all there. It was a great meal with all sorts of different foods and we had a wonderful time. Ness was in town, so we were able to see him and finally got to meet his boyfriend Ian. Bo was also there as he had moved up from Bangkok. It was a great way to spend Christmas and we had a fantastic evening.
+For Christmas Eve, God and Yves put on a huge meal and invited everyone to come and spend time with them. God’s family, his Mom, sister and nephews were all there. It was a great meal with all sorts of different foods and we had a wonderful time. Ness was in town, so we were able to see him and finally got to meet his husband Ian. Bo was also there as he had moved up from Bangkok. It was a great way to spend Christmas and we had a fantastic evening.
 
 </br>
 <div style="text-align: center">

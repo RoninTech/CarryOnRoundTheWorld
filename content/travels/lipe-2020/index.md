@@ -25,7 +25,7 @@ Ka was shocked to see us, we called Bird and had a really nice visit with amazin
 
 We got to Lipe, with a quick stop at the arch island, no problems. We walked over to The Reef and checked in. It was nice to be back. The Reef is owned by our friends Simon, Mikkel and Lexi. It’s a great place to stay as the rooms are comfortable, staff are great and the location is perfect for everywhere on the island. Ivan and Mikkel were taking turns running Mojo’s and the food was delicious. Nok had taken over the kitchen so we didn’t get to see her much as she was busy. We were lucky enough to see SomChai and were able to have dinner at Nee Papaya. Nee was happy to see us as well and spoiled us with a delicious meal!
 
-Rudi was at Andaman, Bram and Alyssa were at San Pita, Rob and Laura were over at Bennie’s, Milos at Varin so we pretty much had the island covered. Rudi brought a friend, Vibeke so we got to spend time getting to know her. Nunzia and her husband, Ton, also arrived a few days later… none of us even knew that Nunzia was married. Alyssa’s friend Tanja also arrived about a week in and we all spent a lot of time together. The “shithead arena” opened up at San Pita and many games were played.
+Rudi was at Andaman, Bram and Alyssa were at San Pita, Rob and Laura were over at Bennie’s, Milos at Varin so we pretty much had the island covered. Rudi brought a friend, Vibeke so we got to spend time getting to know her. Nunzia and her partner, Ton, also arrived a few days later. Alyssa’s friend Tanja also arrived about a week in and we all spent a lot of time together. The “shithead arena” opened up at San Pita and many games were played.
 
 </br>
 <div style="text-align: center">

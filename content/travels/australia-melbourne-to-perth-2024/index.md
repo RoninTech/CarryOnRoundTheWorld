@@ -1,6 +1,6 @@
 ---
 title: "Melbourne to Perth 2024"
-date: 2024-07-22T12:53:27+07:00
+date: 2024-06-15T12:53:27+07:00
 featured_image: "content_travels_australia-melbourne-to-perth-2024.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/AP1GczMd6kl6PB6r92egNsHTyG7A_FwPhq6IwZDZQPi9uF195v5yjENS5XWDZMtibNnjYgpWcABSa0-uMc3H9B_xNAuqB_aS3mz-hsr8enW3Ymg_P5sFdFLyvchWXZsPvaI4r8_e5w0dKLCYF7DyCSYtuLWDwQ=w1307-h897-s-no"
