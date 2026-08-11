@@ -11,18 +11,18 @@ description: "\b"
 album: "https://photos.app.goo.gl/esSFk43cjfq5oeUm7"
 ---
 
-On Facebook, you may have been exposed to our constant updates and many temple and/or Pagoda photos. For those not on Facebook or who have blocked us after being fed up with the aforementioned pagodas… here is the Coles Notes version of our first couple of months:
+On Facebook, you may have been exposed to our constant updates and many temple or pagoda photos. For those not on Facebook -- or who have blocked us after being fed up with the aforementioned pagodas… here is the Coles Notes version of our first couple of months:
 
 ## Koh Lipe – March 2017
-This time we stayed at [The Reef](https://goo.gl/maps/Rt72kc2nSC2DiwSk8) instead of our usual Andaman Resort, which was taken over by new owners. We really enjoyed our accommodation and met some great people. We highly recommend The Reef, the staff was super nice, beds comfortable and breakfast was good. The orange tabby cat that I spent a lot of time with has no bearing on my opinion.
+This time we stayed at [The Reef](https://goo.gl/maps/Rt72kc2nSC2DiwSk8) instead of our usual Andaman Resort, which was taken over by new owners. We really enjoyed our accommodation and met some great people. We highly recommend The Reef. The staff were super nice, beds comfortable, and breakfast was good. The orange tabby cat that I spent a lot of time with has no bearing on my opinion.
 
 </br>
 <div style="text-align: center">
-  <a style="display:inline-block;text-decoration:none;color: #595959;" href="https://photos.google.com/share/AF1QipM9dxLx8Pxy8STdCtLfOY4ErF6zJgNP3m1XXDeJvjQLYVv6hhbcG-_pHiNWjfJ-lA/photo/AF1QipPYySAsC-gN9cHpOczSSXvNcvdXHzeaJ9eoHQQc?key=RVdIajRsWGV5N0k2eWdZVG9CeGk1Y0F2c1RtQndn" target="_blank"><img alt="The Reef Hotel. Big (good!) Changes since then." loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3eqb9BdFp5drtc1OR87iuoEAet-SxbkevCf-oLByb9WTQwHeJMsCmCsEDa7vET_xPsaOmdDGail2kiWxx2nqu_kMZfU15VlWd_IJxE3qCUiznnmrj0IPfrlNqwezZHy2mFMKapcRZa3_UGZ7id0DKNYAQ=w370-no" width="370" /><div>The Reef Hotel.  Big (good!) Changes since then.</div></a>
+  <a style="display:inline-block;text-decoration:none;color: #595959;" href="https://photos.google.com/share/AF1QipM9dxLx8Pxy8STdCtLfOY4ErF6zJgNP3m1XXDeJvjQLYVv6hhbcG-_pHiNWjfJ-lA/photo/AF1QipPYySAsC-gN9cHpOczSSXvNcvdXHzeaJ9eoHQQc?key=RVdIajRsWGV5N0k2eWdZVG9CeGk1Y0F2c1RtQndn" target="_blank"><img alt="The Reef Hotel. Big (good!) Changes since then." loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3eqb9BdFp5drtc1OR87iuoEAet-SxbkevCf-oLByb9WTQwHeJMsCmCsEDa7vET_xPsaOmdDGail2kiWxx2nqu_kMZfU15VlWd_IJxE3qCUiznnmrj0IPfrlNqwezZHy2mFMKapcRZa3_UGZ7id0DKNYAQ=w370-no" width="370" /><div>The Reef Hotel.  Big (good!) changes since then.</div></a>
   <a style="display:inline-block;text-decoration:none;color: #595959;" href="https://photos.google.com/share/AF1QipM9dxLx8Pxy8STdCtLfOY4ErF6zJgNP3m1XXDeJvjQLYVv6hhbcG-_pHiNWjfJ-lA/photo/AF1QipMzyaXNCXonSus6icJkqm4RrhPmDuNqwgqFAB4h?key=RVdIajRsWGV5N0k2eWdZVG9CeGk1Y0F2c1RtQndn" target="_blank"><img alt="One of the friendly cats at the Reef" loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3eu36-_4LD6hUYJObfHz4acZixkQ_Q874cyRp5HIqB6osML5Fem0Djwa8qKw58drv6p023SYdQTaJu6NqPf_3mdIB8VVdt_wBHiej1B9hXFDRU0Vjoon9LrDm7p5bgtRHoxl3xaScwS-uCFCpaPVykZmA=w370-no" width="370" /><div>One of the friendly cats at the Reef</div></a> 
 </div>
 
-We connected with old friends, made new ones, learned how to play “shithead”, developed a taste for unsweetened chai minao, volunteered at a vet clinic, had copious amounts of BBQ squid, saw awesome lightning storms and spent time on the beach.
+We connected with old friends, made new ones, learned how to play “shithead,” developed a taste for unsweetened chai manao, volunteered at a vet clinic, had copious amounts of BBQ squid, saw awesome lightning storms, and spent time on the beach.
 
 </br>
 <div style="text-align: center">
@@ -36,7 +36,7 @@ We connected with old friends, made new ones, learned how to play “shithead”
 
 ## Couple of Highlights
 
-Paul finally took a diving class and passed his PADI open water test. The instructor told Paul it was like he was diving for years and he was one of the easiest people he had ever taught. My thought on that was that he should be happy I didn’t take mine. Paul was able to get in a few dives and meet some nice people…even though they are “divers”. 😉
+Paul finally took a diving class and passed his PADI open water test. The instructor told Paul it was like he had been diving for years and that he was one of the easiest people he had ever taught. My thought on that was that he should be happy I didn’t take mine. Paul was able to get in a few dives and meet some nice people… even though they are “divers”. 😉
 
 </br>
 <div style="text-align: center">
@@ -45,7 +45,7 @@ Paul finally took a diving class and passed his PADI open water test. The instru
   <a style="display:inline-block;text-decoration:none;color: #595959;" href="https://photos.google.com/share/AF1QipM9dxLx8Pxy8STdCtLfOY4ErF6zJgNP3m1XXDeJvjQLYVv6hhbcG-_pHiNWjfJ-lA/photo/AF1QipO1BG98gLVeYlayd36Z6JvJctC49_yuV9ou1_Dj?key=RVdIajRsWGV5N0k2eWdZVG9CeGk1Y0F2c1RtQndn" target="_blank"><img alt="Adang Sea Divers" loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3fB1YLt-5SiO62oEHuCjy6NeSlRs1NyvHb7TjMfxbaInfQKb773GNQJH9XuxC552va5jshTzBVupQRUCvPQ02jZe_0a0m8PAtucmkNYNJhhdG-H6Ec5s8cR2G7tO2cXMmvfD0eRMkt6MpwRtE1uRjURUA=w208-no" width="208" /><div>Adang Sea Divers</div></a>
 </div>
 
-We met Chip, his wife and daughter. Chip invited us to watch sunset at his place… which is a gorgeous house with a private beach! Pizza, beer, and a fire on a private beach watching a beautiful sunset with friends… one of my top moments. We managed to get a couple of group dinners in with fresh caught fish, BBQ chicken and all the sides. We had a special time with many people, you know who you are.
+We met Chip, his wife, and his daughter. Chip invited us to watch the sunset at his place… which is a gorgeous house with a private beach! Pizza, beer, and a fire on a private beach watching a beautiful sunset with friends… one of our top moments. We managed to get a couple of group dinners in with freshly caught fish, BBQ chicken, and all the sides. We had a special time with many people -- you know who you are.
 
 </br>
 <div style="text-align: center">
@@ -82,7 +82,7 @@ We met Chip, his wife and daughter. Chip invited us to watch sunset at his place
 
 <a href="https://photos.app.goo.gl/Sb4oWDaQHzZu8Khx9" target=”_blank”><img src="/images/image-gallery.png" title="Satun Photo Album" alt="Satun Photo Album" height="50"></a>
 
-Our friend Pn (Nut) invited us to come and spend some time at her home on the mainland. She picked us up from the ferry, iced coffee in hand and brought us to a beautiful beach area to relax and visit. Turns out our timing coincided with a family ceremony to honour her great, great grandfather. Many of her Aunts and Uncles were in town so we were invited to attend the festivities. It started with a massive family BBQ and everyone had a duty. I helped with the skewers and Paul tried to BBQ, We were quickly given guest status. I also received a first hand lesson on making Som Tam (papaya salad)… no more needs to be said on that. The meal was great and we were spoiled rotten.
+Our friend Pn (Nut) invited us to come and spend some time at her home on the mainland. She picked us up from the ferry, iced coffee in hand, and brought us to a beautiful beach area to relax and visit. It turns out our timing coincided with a family ceremony to honour her great-great-grandfather. Many of her aunts and uncles were in town, so we were invited to attend the festivities. It started with a massive family BBQ and everyone had a duty. I helped with the skewers, and Paul tried to BBQ. We were quickly given guest status. I also received a firsthand lesson on making Som Tam (papaya salad)… no more needs to be said on that. The meal was great, and we were spoiled rotten.
 
 </br>
 <div style="text-align: center">
@@ -97,15 +97,15 @@ Our friend Pn (Nut) invited us to come and spend some time at her home on the ma
   <a style="display:inline-block;text-decoration:none;color: #595959;" href="https://photos.google.com/share/AF1QipNWYl3tuP-npTqrST82biUH3ge_4FqIjfifs7VwupsAbpWexjBkHT-YnOW5-B-mvQ/photo/AF1QipMS8pfSlzshxNrPTA3C_9tsobAMs0CDER5oA4lq?key=SWs0aTVfbC1velI4cG9ScDdPLXFHRllRWW9EbVFn" target="_blank"><img alt="Paul watching the grill" loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3cyN6_7_ByoJahMYQMMllX3zFPfhltvmniSM3ulJGJlX_bdOPbhS3ksy6qv2VFFkVidUcvGcGiX6NWairzCRk_La0HHvyUxWI8N1wAQDob7cNp0-dDOMozrXNj5F1xQ1lbKJC1DBzX0khSoAv9sVylHZg=w208-no" width="208" /><div>Paul watching the grill</div></a> 
 </div>
 
-The next day we drove out to the grave site and participated​ in the ceremony. From laying out the food, decorating the site, burning the paper clothes, money and offerings, it was something very special. Off to a nice local park area for a family picnic where unfortunately it poured so we had a quick departure.
+The next day, we drove out to the gravesite and participated in the ceremony. From laying out the food and decorating the site to burning paper clothes, money, and offerings, it was something very special. Then it was off to a nice local park area for a family picnic. Unfortunately, it poured, so we made a quick departure.
 
 </br>
 <div style="text-align: center">
-  <a style="display:inline-block;text-decoration:none;color: #595959;" href="https://photos.google.com/share/AF1QipNWYl3tuP-npTqrST82biUH3ge_4FqIjfifs7VwupsAbpWexjBkHT-YnOW5-B-mvQ/photo/AF1QipPXJ53B99V1am9MAcxkN1KNW7Tv9jYbhAUHEshs?key=SWs0aTVfbC1velI4cG9ScDdPLXFHRllRWW9EbVFn" target="_blank"><img alt="At Nut's family grave yard" loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3dOVG_fAJY811l079nWHjexHKeXGM5ICE5sGomn9LZr5T5Ve9sxzYkB2MwpnsUz1BJNYeG3VuSTd-OJeAxgoO4NDQpoQZ0oqgzZ6SeG7yJxiPs_a58js6v4JdzbNI2lW2wKFHJLEWiL8dXVxlvc8XcpEQ=w370-no" width="370" /><div>At Nut's family grave yard</div></a>
+  <a style="display:inline-block;text-decoration:none;color: #595959;" href="https://photos.google.com/share/AF1QipNWYl3tuP-npTqrST82biUH3ge_4FqIjfifs7VwupsAbpWexjBkHT-YnOW5-B-mvQ/photo/AF1QipPXJ53B99V1am9MAcxkN1KNW7Tv9jYbhAUHEshs?key=SWs0aTVfbC1velI4cG9ScDdPLXFHRllRWW9EbVFn" target="_blank"><img alt="At Nut's family grave yard" loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3dOVG_fAJY811l079nWHjexHKeXGM5ICE5sGomn9LZr5T5Ve9sxzYkB2MwpnsUz1BJNYeG3VuSTd-OJeAxgoO4NDQpoQZ0oqgzZ6SeG7yJxiPs_a58js6v4JdzbNI2lW2wKFHJLEWiL8dXVxlvc8XcpEQ=w370-no" width="370" /><div>At Nut's family graveyard</div></a>
   <a style="display:inline-block;text-decoration:none;color: #595959;" href="https://photos.google.com/share/AF1QipNWYl3tuP-npTqrST82biUH3ge_4FqIjfifs7VwupsAbpWexjBkHT-YnOW5-B-mvQ/photo/AF1QipMyAtXNUUPkzo3up1ZFOp023BMleWqwQYIWHv5P?key=SWs0aTVfbC1velI4cG9ScDdPLXFHRllRWW9EbVFn" target="_blank"><img alt="Lunch at a local beach just before it rained" loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3dUtQ59LQohPR4dtDjX5qyykjvdlTVxIX3FaD6OkQ9LYJdLorx89h2h__PYCuHzCo605--93OkSQ9B4YW1qUk4XTQoIB1E5x6bybnNdBcss1zwgN3-TZUPrPZTHRXORPc_Neig3lxCmTPbmm7OOIRzzkQ=w370-no" width="370" /><div>Lunch at a local beach just before it rained</div></a>
 </div>
 
-We had a drive to the Malaysia border with Pn and her friend Napat. We spent a day with Pn taking us to the local beaches, one with a long boardwalk and then where we had a fantastic meal, the freshest [pomelo](https://en.wikipedia.org/wiki/Pomelo) ever and checked out a jellyfish harvesting operation.
+We drove to the Malaysia border with Pn and her friend Napat. We spent a day with Pn taking us to the local beaches -- one with a long boardwalk and then where we had a fantastic meal, the freshest [pomelo](https://en.wikipedia.org/wiki/Pomelo) ever, and checked out a jellyfish harvesting operation.
 
 </br>
 <div style="text-align: center">
@@ -117,14 +117,14 @@ We had a drive to the Malaysia border with Pn and her friend Napat. We spent a d
 </br>
 <div style="text-align: center">
   <a style="display:inline-block;text-decoration:none;color: #595959;" href="https://photos.google.com/share/AF1QipNWYl3tuP-npTqrST82biUH3ge_4FqIjfifs7VwupsAbpWexjBkHT-YnOW5-B-mvQ/photo/AF1QipOFIgH6kFEc8YHSBvbdaEgmDq0MUxYu_px8vtIw?key=SWs0aTVfbC1velI4cG9ScDdPLXFHRllRWW9EbVFn" target="_blank"><img alt="Lonely tree under water at high tide" loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3cyanbhvrr08LRhy_6jmhpwUbeCGYh5KcT-j2K4RKDqru-b4K9rdPPI3BWRxhRPMYZALGjvlh8TVYDe8gLCNJVGn0jib_ETm2moPHB8ff7BkavpB5F8TU5nlWmP9Jyc9VAwE2P2vsZkub-5kJjH-XgWEA=w370-no" width="370" /><div>Lonely tree under water at high tide</div></a>
-  <a style="display:inline-block;text-decoration:none;color: #595959;" href="https://photos.google.com/share/AF1QipNWYl3tuP-npTqrST82biUH3ge_4FqIjfifs7VwupsAbpWexjBkHT-YnOW5-B-mvQ/photo/AF1QipN77ZZmGTVyXBkdA6_DMH5_wiPho1gIdVJu6Ofo?key=SWs0aTVfbC1velI4cG9ScDdPLXFHRllRWW9EbVFn" target="_blank"><img alt="Jelly fish processing" loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3dKXtCxrjfQc8QXfJ2kO9fFsV4KWtbXnBN2Nfb4zrejRMTb7awmCfCObkyHZ5BljpEi8kDXwzHKOXo80NbZR3Qwce-YMFHxwTyXxJr4G00yhDGlafq_aypZn6L1DPuwrSe6G6AYihaTyc-q3dhvnodVcg=w370-no" width="370" /><div>Jelly fish processing</div></a>
+  <a style="display:inline-block;text-decoration:none;color: #595959;" href="https://photos.google.com/share/AF1QipNWYl3tuP-npTqrST82biUH3ge_4FqIjfifs7VwupsAbpWexjBkHT-YnOW5-B-mvQ/photo/AF1QipN77ZZmGTVyXBkdA6_DMH5_wiPho1gIdVJu6Ofo?key=SWs0aTVfbC1velI4cG9ScDdPLXFHRllRWW9EbVFn" target="_blank"><img alt="Jelly fish processing" loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3dKXtCxrjfQc8QXfJ2kO9fFsV4KWtbXnBN2Nfb4zrejRMTb7awmCfCObkyHZ5BljpEi8kDXwzHKOXo80NbZR3Qwce-YMFHxwTyXxJr4G00yhDGlafq_aypZn6L1DPuwrSe6G6AYihaTyc-q3dhvnodVcg=w370-no" width="370" /><div>Jellyfish processing</div></a>
 </div>
 
 </br>
 {{< youtube Z0kZ-VF2fJ8 >}}
 </br>
 
-Finally, it was on to Hat Yai with the family to visit a sick uncle, a family supper and finally get dropped off for the night train to Bangkok. Pn was heading to BKK with her Auntie and had arranged for us to get on the same train. I hadn’t been on a train before so I was very much looking forward to it. It was awesome! I will state that top bunks aren’t my favorite but we were comfortable and enjoyed it.
+Then it was on to Hat Yai with the family to visit a sick uncle, have a family supper, and finally get dropped off for the night train to Bangkok. Pn was heading to BKK with her auntie and had arranged for us to get on the same train. I hadn’t been on a train before, so I was very much looking forward to it. It was awesome! I will state that top bunks aren’t my favorite, but we were comfortable and enjoyed it.
 
 </br>
 <div style="text-align: center">
@@ -141,7 +141,7 @@ Finally, it was on to Hat Yai with the family to visit a sick uncle, a family su
 
 ## Bangkok, April 5 – 8, 2017
 
-This was quick. We were lucky to meet up with God and Yves who were heading for a wedding. Had a nice evening visiting. Paul wasn’t feeling well, so we didn’t do much. Didn't have time for any shopping. Our hotel wasn’t well placed so we happily moved on. I will admit excitement thinking we had a massage place at the end of the street… not as excited when I noticed all customers were male. Flew to Chiang Mai.
+This was a quick three nights. We were lucky to meet up with God and Yves, who were heading south for a wedding. We had a nice evening visiting. Paul wasn’t feeling well, so we didn’t do much. We didn’t have time for any shopping, but did go for a walk in the mall. Our hotel wasn’t well placed, so we happily moved on. I will admit my excitement thinking we had a massage place at the end of the street… though I was not as excited when I noticed all the customers were male. Then it was off to Chiang Mai.
 
 </br>
 <div style="text-align: center">
@@ -153,15 +153,15 @@ This was quick. We were lucky to meet up with God and Yves who were heading for 
 
 <a href="https://photos.app.goo.gl/AE13PLKfrEQmYEAt6" target=”_blank”><img src="/images/image-gallery.png" title="Chiang Mai, April 8 – May 8, 2017 Photo Album" alt="Chiang Mai, April 8 – May 8, 2017 Photo Album" height="50"></a>
 
-We rented an Airbnb place for a month ([Prompt Condo](https://goo.gl/maps/9HMFzrWNmJDC5Qnu7), near Maya Mall) which was okay. Decent place, good pool and easy to get places. The highlights:
+We rented an Airbnb place for a month ([Prompt Condo](https://goo.gl/maps/9HMFzrWNmJDC5Qnu7), near Maya Mall), which was okay. Decent place, good pool and easy to get places. The highlights:
 
-Songkran – A 3 day festival of water fights, being drenched and having a blast. Paul was a hero for figuring out how to open the Songthaew windows from the outside, no one was safe.
+Songkran – A 3-day festival of water fights, being drenched and having a blast. Paul was a hero for figuring out how to open the songthaew windows from the outside -- no one was safe.
 
 </br>
 {{< youtube 1yQx7D0yUxQ >}}
 </br>
 
-[Small House Kafe](https://goo.gl/maps/dVkkYanpfpUky1dZA) – great place and nice people. Dao and Chris were great and there was such a cool mix of people, each time we went there it was a good night.
+[Small House Kafe](https://goo.gl/maps/dVkkYanpfpUky1dZA) – great place and nice people. Dao and Chris were great and there was such a cool mix of people; each time we went there it was a good night.
 
 </br>
 <div style="text-align: center">
@@ -169,7 +169,7 @@ Songkran – A 3 day festival of water fights, being drenched and having a blast
   <a style="display:inline-block;text-decoration:none;color: #595959;" href="https://photos.google.com/share/AF1QipO2kMrzhEyZClN7z24EEh9axbu5XJXFmlFtAYVM5boKK3QlVMEeuBEBeU4ByP7Nzw/photo/AF1QipMtIjyb7mIjqGFsZ4VyKQd8U8oMDT6lQ1C7EAuy?key=ZGY5Njd4eU9xR1gxVlJxUXVQekxIWFZVT3VyQ1hn" target="_blank"><img alt="Chris and Dao from Small House and their friend" loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3dVYgbshYlRcXSqalyDOBaWNz3pJenKgSQefMbYyzUCqWl67wSWPZ02XLavbo1tyjg3roMPoMHw12TJPmip1x-T5yEyROwtYeZYkzxzcWdp8tMY4fH1qsG8wgCuYOTYjdLRRWIdDm59-6FAQfBOd_WYLg=w370-no" width="370" /><div>Chris and Dao from Small House and their friend </div></a> 
 </div>
 
-Markets - We hit up [Warorot market](https://goo.gl/maps/jy3rgYR5gFHbJvSX8), Sunday night walking market and ate Khao Soi almost every day from a stall across the street from our condo, 35b/$1… delicious.
+Markets - We hit up [Warorot Market](https://goo.gl/maps/jy3rgYR5gFHbJvSX8), Sunday night walking market, and we ate Khao Soi almost every day from a stall across the street from our condo, 35b/$1… delicious.
 
 </br>
 <div style="text-align: center">
@@ -178,7 +178,7 @@ Markets - We hit up [Warorot market](https://goo.gl/maps/jy3rgYR5gFHbJvSX8), Sun
   <a style="display:inline-block;text-decoration:none;color: #595959;" href="https://photos.google.com/share/AF1QipO2kMrzhEyZClN7z24EEh9axbu5XJXFmlFtAYVM5boKK3QlVMEeuBEBeU4ByP7Nzw/photo/AF1QipN4H7bJs3JXKzUQMr6FZRA9YmVliYsdLVQRa5EH?key=ZGY5Njd4eU9xR1gxVlJxUXVQekxIWFZVT3VyQ1hn" target="_blank"><img alt="Helen in her happy place" loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3fZfG2TsMuHwyhwSHv68HEeBQd-a4RNr1y7nNFcX5VKu85P1-r7ZSoGO6yCi1RjcEmlEFdNPUXh1gOzYXyhmN3oQcFEWiWs90mN4l3LODcqHml6xAuRGOTW8L5ExwAAq8-9zUOSqFvPl3oyetRIHuyAhQ=w208-no" width="208" /><div>Helen in her happy place</div></a>
 </div>
 
-[Catmosphere Cafe](https://goo.gl/maps/YBZeyn1mvY3NEwwNA) – cats and coffee.. says it all really.
+[Catmosphere Cafe](https://goo.gl/maps/YBZeyn1mvY3NEwwNA) – cats and coffee... says it all really.
 
 </br>
 <div style="text-align: center">
@@ -186,7 +186,7 @@ Markets - We hit up [Warorot market](https://goo.gl/maps/jy3rgYR5gFHbJvSX8), Sun
   <a style="display:inline-block;text-decoration:none;color: #595959;" href="https://photos.google.com/share/AF1QipO2kMrzhEyZClN7z24EEh9axbu5XJXFmlFtAYVM5boKK3QlVMEeuBEBeU4ByP7Nzw/photo/AF1QipN3VMpmdtGHP82qq8iZ5FfsxUX8yPBt2UEOhF6f?key=ZGY5Njd4eU9xR1gxVlJxUXVQekxIWFZVT3VyQ1hn" target="_blank"><img alt="Cats only played with allergic Paul 😃" loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3cu-GZtj1pCoTT8iJVvXYoBi42TB-nILwlztncMJRmL4dWVQDOlabWvXeLgHjGMSbwFNuzJk6aadfcd2of8XR3QJAUCN8SHxwETviqbDGSAHFzlPpstOfynchN_Ztq83ykmqubAAQzrXo7lrrImDHf17g=w370-no" width="370" /><div>Cats only played with allergic Paul 😃</div></a> 
 </div>
 
-[Doi Inthanon National Park](https://goo.gl/maps/PgsYNSxubwHfSQEHA) was great. Liked the waterfalls and the garden project. We were very happy at the top (2565m). It was "only" +18C … everyone else had jackets on. We were loving the shorts and t-shirts. It was a nice day and we were glad we went.
+[Doi Inthanon National Park](https://goo.gl/maps/PgsYNSxubwHfSQEHA) was great. We liked the waterfalls and the garden project. We were very happy at the top (2,565 m). It was “only” +18°C… everyone else had jackets on. We were loving it in just shorts and T-shirts. It was a nice day, and we were glad we went.
 
 </br>
 <div style="text-align: center">
@@ -194,7 +194,7 @@ Markets - We hit up [Warorot market](https://goo.gl/maps/jy3rgYR5gFHbJvSX8), Sun
   <a style="display:inline-block;text-decoration:none;color: #595959;" href="https://photos.google.com/share/AF1QipO2kMrzhEyZClN7z24EEh9axbu5XJXFmlFtAYVM5boKK3QlVMEeuBEBeU4ByP7Nzw/photo/AF1QipOUrZwT0uPEb6eggkY_fSTwN2xW2Z5tlCEuC0Ii?key=ZGY5Njd4eU9xR1gxVlJxUXVQekxIWFZVT3VyQ1hn" target="_blank"><img alt="Exotic flowers everywhere" loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3dmuPBWYIUDIhk7rRpia49WHb9aCx8WE24J973JjFZI5eAhnoQ9GYGWymN2VqQr_h_dI3BWR4uKUIfiZJbA_2HUGgVajovDdddmdMrCqedGmFsl3QG430_v2GBuOR5_fa9eEpzGmvzuk3l8rmOSbB0gvQ=w370-no" width="370" /><div>Exotic flowers everywhere</div></a> 
 </div>
 
-We were lucky to spend an evening with our friend God again, he was in town visiting family. We got to meet his sister and nephew. It was nice despite her being a Man U supporter and me not being able to take a video. So that was it in a nutshell. Our next adventure is a bus ride to Mae Sot and then onto [Myanmar](/travels/myanmar/)!
+We were lucky to spend an evening with God again — he was in town visiting family. We got to meet his sister and nephew. It was nice, despite her being a Man U supporter and me not being able to take a video. So that was it in a nutshell. Our next adventure is a bus ride to Mae Sot and then on to [Myanmar](/travels/myanmar/)!
 
 </br>
 <div style="text-align: center">
