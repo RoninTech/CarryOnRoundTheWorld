@@ -12,4 +12,7 @@
   {{ with .Params.featured_image | default .Site.Params.featured_image }}
     <link rel="preload" as="image" href="{{ . }}" fetchpriority="high">
   {{ end }}
+  {{ with .Site.Params.site_logo }}
+    <link rel="preload" as="image" href="{{ urls.RelURL . }}" fetchpriority="high">
+  {{ end }}
 {{ end }}

@@ -1,0 +1,47 @@
+{{/*
+  google_analytics.html — override of Hugo's built-in GA snippet.
+
+  Performance optimization:
+  - The script tag is injected *after* the page is interactive (or after a
+    2-second fallback, whichever comes first), via requestIdleCallback.
+  - dns-prefetch + preconnect hints are emitted immediately so the gtm.js
+    download starts while the rest of the page parses.
+  - fetchpriority="low" signals the script is not critical.
+
+  Identical analytics payload to the default — only the timing changed.
+*/}}
+{{ if hugo.IsProduction }}
+  {{ with site.Config.Services.GoogleAnalytics.ID }}
+    <link rel="dns-prefetch" href="https://www.googletagmanager.com">
+    <link rel="preconnect" href="https://www.googletagmanager.com">
+    <script>
+      (function () {
+        var id = {{ . }};
+        var loaded = false;
+        function loadGtag() {
+          if (loaded) return;
+          loaded = true;
+          var s = document.createElement('script');
+          s.async = true;
+          s.src = 'https://www.googletagmanager.com/gtag/js?id=' + id;
+          s.setAttribute('fetchpriority', 'low');
+          document.head.appendChild(s);
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', id);
+        }
+        // Load on first user interaction, or after the page is idle, or after 2s.
+        var events = ['scroll', 'keydown', 'pointerdown', 'touchstart'];
+        events.forEach(function (ev) {
+          window.addEventListener(ev, loadGtag, { once: true, passive: true });
+        });
+        if ('requestIdleCallback' in window) {
+          requestIdleCallback(loadGtag, { timeout: 2000 });
+        } else {
+          setTimeout(loadGtag, 2000);
+        }
+      })();
+    </script>
+  {{ end }}
+{{ end }}
