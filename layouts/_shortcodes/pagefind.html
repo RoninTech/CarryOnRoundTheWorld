@@ -1,0 +1,51 @@
+<link href="/_pagefind/pagefind-modular-ui.css" rel="stylesheet">
+<script>
+  (function disablePagefindWorker() {
+    if (typeof Worker === "undefined") return;
+    const OrigWorker = window.Worker;
+    window.Worker = function (url, options) {
+      const urlStr = (url && url.toString && url.toString()) || String(url);
+      if (urlStr.indexOf("pagefind-worker") !== -1) {
+        throw new Error("Pagefind worker disabled for browser compatibility");
+      }
+      return new OrigWorker(url, options);
+    };
+    window.Worker.prototype = OrigWorker.prototype;
+  })();
+</script>
+<script src="/_pagefind/pagefind-modular-ui.js" type="text/javascript"></script>
+<div id="search">
+  <div id="search-input"></div>
+  <p id="search-summary"></p>
+  <ul id="search-results"></ul>
+</div>
+<script>
+  const queryString = window.location.search;
+  const urlParams = new URLSearchParams(queryString);
+  const searchString = urlParams.get("q");
+
+  window.addEventListener('DOMContentLoaded', () => {
+    const { Instance, Input, ResultList, Summary } = window.PagefindModularUI;
+    const instance = new Instance();
+    instance.add(new Input({ containerElement: "#search-input" }));
+    instance.add(new Summary({ containerElement: "#search-summary" }));
+    instance.add(new ResultList({ containerElement: "#search-results" }));
+
+    if (searchString) {
+      instance.triggerSearch(searchString);
+    }
+
+    const focusInput = () => {
+      const el = document.querySelector("#search-input input");
+      if (el) {
+        el.focus();
+        if (searchString) {
+          el.value = searchString;
+        }
+      } else {
+        setTimeout(focusInput, 50);
+      }
+    };
+    focusInput();
+  });
+</script>

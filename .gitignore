@@ -99,3 +99,5 @@ pyvenv.cfg
 .playwright-mcp/
 
 resources/_gen/
+
+todo.md

@@ -16,40 +16,7 @@ show_author_reading_data: false
     Powered by <a href="https://github.com/cloudcannon/pagefind">Pagefind</a> by&nbsp;<a href="https://cloudcannon.com">CloudCannon</a>.<br>Requires JavaScript.
 </p>
 
-<link href="/_pagefind/pagefind-ui.css" rel="stylesheet">
-<script src="/_pagefind/pagefind-ui.js" type="text/javascript"></script>
-<div id="search"></div>
-<script>
-  const queryString = window.location.search;
-  const urlParams = new URLSearchParams(queryString);
-  const searchString = urlParams.get("q");
-  window.addEventListener('DOMContentLoaded', (event) => {
-    let pagefind = new PagefindUI({ element: "#search" });
-    if (searchString) { 
-      pagefind.triggerSearch(searchString);
-    }
-  });
-  waitForElm(".pagefind-ui__search-input").then((elm) => {
-    elm.focus();
-  });
-function waitForElm(selector) {
-  return new Promise((resolve) => {
-    if (document.querySelector(selector)) {
-      return resolve(document.querySelector(selector));
-    }
-    const observer = new MutationObserver((mutations) => {
-      if (document.querySelector(selector)) {
-        resolve(document.querySelector(selector));
-        observer.disconnect();
-      }
-    });
-    observer.observe(document.body, {
-      childList: true,
-      subtree: true,
-    });
-  });
-}
-</script>
+{{< pagefind >}}
 
 ## Example Searches
 
