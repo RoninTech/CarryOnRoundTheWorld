@@ -10,11 +10,11 @@ description: "\b"
 album: "https://photos.app.goo.gl/CTDXziBoTvyggg4TA"
 ---
 
-After 60+ days in Thailand we headed to Myanmar for a new adventure. We woke up early and headed to the green bus depot to take us to Mae Sot on the border. We stayed one night at a nice little place called [Phanu Guesthouse](https://goo.gl/maps/6wM5shGNkJM2).
+After 60+ days in Thailand, we headed to Myanmar for a new adventure. We woke up early and headed to the Green Bus depot to take us to Mae Sot on the border. We stayed one night at a nice little place called [Phanu Guesthouse](https://goo.gl/maps/6wM5shGNkJM2).
 
 ## Hpa-An
 
-First stop Myawaddy, right across the border from Mae Sot. We were helped by “Mike” and were soon sharing a taxi with Karen, a nurse from the USA who was volunteering in Thailand at the Burmese border during her retirement. Apparently lots of Burmese cross here to use the hospital at Mae Sot. After a harrowing drive through the countryside (1 dead body from moped accident) we arrived in Hpa-An and checked into the [Galaxy Motel](https://goo.gl/maps/tgZDZGHcfHz2nuTd7) with its amazing rooftop views.
+First stop was Myawaddy, right across the border from Mae Sot. We were helped by “Mike” and were soon sharing a taxi with Karen, a nurse from the USA who was volunteering in Thailand at the Burmese border during her retirement. Apparently, lots of Burmese cross here to use the hospital in Mae Sot. After a harrowing drive through the countryside (1 dead body from a moped accident), we arrived in Hpa-An and checked into the [Galaxy Motel](https://goo.gl/maps/tgZDZGHcfHz2nuTd7), with its amazing rooftop views.
 
 </br>
 <div style="text-align: center">
@@ -47,7 +47,7 @@ First stop Myawaddy, right across the border from Mae Sot. We were helped by “
   <a style="display:inline-block;text-decoration:none;color: #595959;" href="https://photos.google.com/share/AF1QipOP5QEo-49gJ3dUxXHk0tb3nusvNg2WRaq1YxMijpk76W1VNsG9jbbXJVXcqsJNCQ/photo/AF1QipMGvKXy7g1clqQfvAYYLDthlJJxM3aAKoRD90Yw?key=N0o1X0hXQktGWFZEWFRibWlBWEtjMU5udDhxTVJn" target="_blank"><img alt="Great, cheap, rice beer in Myanmar!" loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3c5ZnJWAwk0tjynbeZ_O8thtwvhHNpkfIOU1rvwdZJQ9PLaUuajLxpfWsOMZfurobF80M_TGgc11gRkTxwwx7ZmcGIJ0Iqo5nXtu06yYUdPZPYiH5QYCGzKYNoEYgVUh60zFA55lqShNIsQu0qkErWlhg=w370-no" width="370" /><div>Great, cheap, rice beer in Myanmar!</div></a> 
 </div>
 
-The next day we arranged a tuktuk tour of the <a href="https://photos.google.com/share/AF1QipOP5QEo-49gJ3dUxXHk0tb3nusvNg2WRaq1YxMijpk76W1VNsG9jbbXJVXcqsJNCQ/photo/AF1QipMHhg944FeY9COBu_QINeGxmg-rW6fo87_AlmLL?key=N0o1X0hXQktGWFZEWFRibWlBWEtjMU5udDhxTVJn">surrounding caves and temples</a> with Karen. We were joined by Verena from Germany and Clem from France. 11 hours later, we had been shaken around and were totally caved and templed out but we were all satisfied with a great experience. I was pooped on by a bird and a bat, apparently that’s lucky. Discovered tomato salad.
+The next day, we arranged a tuk-tuk tour of the <a href="https://photos.google.com/share/AF1QipOP5QEo-49gJ3dUxXHk0tb3nusvNg2WRaq1YxMijpk76W1VNsG9jbbXJVXcqsJNCQ/photo/AF1QipMHhg944FeY9COBu_QINeGxmg-rW6fo87_AlmLL?key=N0o1X0hXQktGWFZEWFRibWlBWEtjMU5udDhxTVJn">surrounding caves and temples</a> with Karen. We were joined by Verena from Germany and Clem from France. Eleven hours later, we had been shaken around and were totally caved and templed out, but we were all satisfied with a great experience. I was pooped on by a bird and a bat — apparently that’s lucky. We also discovered Myanmar tea leaf and tomato salad!
 
 </br>
 <div style="text-align: center">
@@ -87,7 +87,7 @@ The next day we arranged a tuktuk tour of the <a href="https://photos.google.com
 {{< youtube FnK5AHznOz8 >}}
 </br>
 
-Spent the next day wandering the area with Karen and Verena having a relaxing time, more tomato salad. Then off to Yangon.
+We spent the next day wandering the area with Karen and Verena, having a relaxing time and eating more tomato salad. Then off to Yangon!
 
 </br>
 <div style="text-align: center">
@@ -104,7 +104,7 @@ Spent the next day wandering the area with Karen and Verena having a relaxing ti
 
 <a href="https://photos.app.goo.gl/Nw2m7stPlpZrpMYE2" target=”_blank”><img src="/images/image-gallery.png" title="Yangon Photo Album" alt="Yangon Photo Album" height="50"></a>
 
-The bus station was utter chaos yet functioned. Took a long cab ride to our [Shwe Yo Vintage Hostel](https://goo.gl/maps/nUjPNyk5svq). Went and checked out the Canadian embassy… they weren’t going to let us up but Paul said “it’s okay we’re Canadian” and flashed his passport. It didn’t change the fact that it was closed but we got to see it from outside. We wandered around and both got pooped on. At breakfast we were talking to a couple... after some questions we discovered they were also Canadians… then more questions and we are all Calgarians. Awesome coincidence! Enter Liz and Pat. We spoke to a fellow from the French/German border who’d been travelling for 4 years all over in a massive camper truck and had amazing experiences. Enter Yann.
+The bus station was utter chaos, yet it functioned. We took a long cab ride to our hotel, the [Shwe Yo Vintage Hostel](https://goo.gl/maps/nUjPNyk5svq). We went and checked out the Canadian embassy… they weren’t going to let us up, but Paul said, “It’s okay, we’re Canadian,” and flashed his passport. It didn’t change the fact that it was closed, but we got to see it from the outside. We wandered around, and we both got pooped on. At breakfast, we started chatting with a couple. After a few questions, we discovered they were also Canadian—and a few questions later, we realized we were all Calgarians! What an awesome coincidence. Enter Liz and Pat. We also met a guy from the French-German border who had been traveling the world for four years in a massive camper truck and had some incredible stories. Enter Yann.
 
 </br>
 {{< youtube sh7ei9RlSQ4 >}}
@@ -118,12 +118,12 @@ The bus station was utter chaos yet functioned. Took a long cab ride to our [Shw
 
 </br>
 <div style="text-align: center">
-  <a style="display:inline-block;text-decoration:none;color: #595959;" href="https://photos.google.com/share/AF1QipPkqsk_nURUEDH972DDKGRMnuGYax7PKihCrDgcpGDkMULRcouefnvMr0gfs8iGDg/photo/AF1QipMeWmGGEgVIHUHqoBoO1GJ2EPiHlZfKDkFoRc1_?key=WFlidEdQNXVRdlhKVmVJc0ZRRFRSMGpwd0NEUVJR" target="_blank"><img alt="Shwe Dagon Pagoda" loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3cjVPw1XQ2HV-oC8SIQNLHsAoZNSTrMsVpB-oueVcER9DFPfQmZ3C-m-cBXytX9xKSLhlaYP37bzTvzjBvKwk834KvUuJtQJCL7rpfQxmyS5JuuT69ZNavxtW2hJpEbnCJqXkyGhdJFulb2wQPtSnYSRg=w208-no" width="208" /><div>Shwe Dagon Pagoda</div></a>
+  <a style="display:inline-block;text-decoration:none;color: #595959;" href="https://photos.google.com/share/AF1QipPkqsk_nURUEDH972DDKGRMnuGYax7PKihCrDgcpGDkMULRcouefnvMr0gfs8iGDg/photo/AF1QipMeWmGGEgVIHUHqoBoO1GJ2EPiHlZfKDkFoRc1_?key=WFlidEdQNXVRdlhKVmVJc0ZRRFRSMGpwd0NEUVJR" target="_blank"><img alt="Shwe Dagon Pagoda" loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3cjVPw1XQ2HV-oC8SIQNLHsAoZNSTrMsVpB-oueVcER9DFPfQmZ3C-m-cBXytX9xKSLhlaYP37bzTvzjBvKwk834KvUuJtQJCL7rpfQxmyS5JuuT69ZNavxtW2hJpEbnCJqXkyGhdJFulb2wQPtSnYSRg=w208-no" width="208" /><div>Shwedagon Pagoda</div></a>
   <a style="display:inline-block;text-decoration:none;color: #595959;" href="https://photos.google.com/share/AF1QipPkqsk_nURUEDH972DDKGRMnuGYax7PKihCrDgcpGDkMULRcouefnvMr0gfs8iGDg/photo/AF1QipMpK7NL4R568vrr_AtWgGkOUZ-oMG2AGN1YTply?key=WFlidEdQNXVRdlhKVmVJc0ZRRFRSMGpwd0NEUVJR" target="_blank"><img alt="Monk business" loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3ep8KqHmH3j0fx_bHZyPWaRiovwaLHQwwz4_6r5d3HRJ3lqDKhmynrRmfaLSUkJ8QLtEKH5IKWskDH3aJdkihwwe3Q0_8tVOnyAZUsCsHvDSjdnnbmkoCIVhxKEdyPqjs6SAIb-H7rBdFWbAyHvGTwdnQ=w370-no" width="370" /><div>Monk business</div></a>
   <a style="display:inline-block;text-decoration:none;color: #595959;" href="https://photos.google.com/share/AF1QipPkqsk_nURUEDH972DDKGRMnuGYax7PKihCrDgcpGDkMULRcouefnvMr0gfs8iGDg/photo/AF1QipPw7eyAdheiKbnjz066QrAfW3kYKLt7_OeXPJTv?key=WFlidEdQNXVRdlhKVmVJc0ZRRFRSMGpwd0NEUVJR" target="_blank"><img alt="Selfie time" loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3eSXah0DbTy35SuMh2oIR9ntucXd2GiX0ergxevZ3TOaQI6fcH1Z0B81NR9-3IiMINhQh1HQ8BCk82PlirBhO9YUOkPE93unaG-rX8sr3oC9QjGX5JVX7NQh8o_OLe7po73e34fn_12GejEUifEBa4PAw=w208-no" width="208" /><div>Selfie time</div></a> 
 </div>
 
-We took the [circular train](https://en.wikipedia.org/wiki/Yangon_Circular_Railway) which was 3.5hours/50km through [Yangon](https://en.wikipedia.org/wiki/Yangon) and the surrounding countryside with Yann. Went past some interesting sites, some sad, some crazy but good tour of the area. A girl on the train even [made me a bracelet](https://photos.google.com/share/AF1QipPkqsk_nURUEDH972DDKGRMnuGYax7PKihCrDgcpGDkMULRcouefnvMr0gfs8iGDg/photo/AF1QipPcsHblshWiebEDLgq4sSGo_Lv5FWEcG_0khbzE?key=WFlidEdQNXVRdlhKVmVJc0ZRRFRSMGpwd0NEUVJR). Went to the Shwe Dagon Temple for sunset… amazing, overwhelming and beautiful all at the same time. Had a few bevvies with Liz, Pat and Yann that night before heading to Bagan on the overnight [JJ Express bus](https://www.jjexpress.net/).
+We took the [circular train](https://en.wikipedia.org/wiki/Yangon_Circular_Railway), which was 3.5hours/50km through [Yangon](https://en.wikipedia.org/wiki/Yangon) and the surrounding countryside with Yann. Went past some interesting sites, some sad, some crazy, but overall a good tour of the area. A girl on the train even [made me a bracelet](https://photos.google.com/share/AF1QipPkqsk_nURUEDH972DDKGRMnuGYax7PKihCrDgcpGDkMULRcouefnvMr0gfs8iGDg/photo/AF1QipPcsHblshWiebEDLgq4sSGo_Lv5FWEcG_0khbzE?key=WFlidEdQNXVRdlhKVmVJc0ZRRFRSMGpwd0NEUVJR). Went to the Shwedagon Pagoda for sunset… amazing, overwhelming, and beautiful all at the same time. We had a few bevvies with Liz, Pat and Yann that night before before catching the overnight [JJ Express bus](https://www.jjexpress.net/) to Bagan.
 
 </br>
 <div style="text-align: center">
@@ -142,7 +142,7 @@ We took the [circular train](https://en.wikipedia.org/wiki/Yangon_Circular_Railw
 
 <a href="https://photos.app.goo.gl/2NxutKykB4TYJUBb8" target=”_blank”><img src="/images/image-gallery.png" title="Bagan Photo Album" alt="Bagan Photo Album" height="50"></a>
 
-We were dropped off at 4AM with a bunch of taxi drivers all colluding on high prices for dozy customers. Around the corner from where the bus drops people off there is a sign showing "Old Bagan: 8000K, New Bagan: 7000K and Nyaung U: 5000K". Much cheaper than what the taxi drivers were quoting. We walked away, heading off in the direction of our hotel and then one of them sheepishly dropped his price to what we knew to be the correct amount. Since we were awake we decided on a 5am sunrise temple view before going to our hotel. After that we checked into the Oasis Hotel and had a nap. Later we rented an e-bike and we were off to see more temples. Yann arrived a day later so we arranged to tour the next day. We randomly met up with Pat and Liz at the white temple. Spent the rest of the day touring together along with Jen from Hong Kong. Had more tomato and tea leaf salads and Myanmar beer, mostly at the great [Weather Spoon's Restaurant and Bar](https://goo.gl/maps/bFwHi81KhkAyTP8x8). Arranged to spend the next day travelling around and had a great time exploring the temples and spending time together.
+We were dropped off at 4:00 AM with a bunch of taxi drivers all colluding on high prices for dozy customers. Around the corner from where the bus drops people off, there is a sign showing “Old Bagan: 8,000K, New Bagan: 7,000K, and Nyaung U: 5,000K” — much cheaper than what the taxi drivers were quoting. We walked away, heading off in the direction of our hotel, and then one of them sheepishly dropped his price to what we knew to be the correct amount. Since we were awake, we decided to catch a 5:00 AM sunrise temple view before heading to our hotel. After that, we checked into the Oasis Hotel and had a nap. Later, we rented an e-bike and were off to see more temples. Yann arrived a day later, so we arranged to tour together the next day. We randomly met up with Pat and Liz at the white temple and spent the rest of the day touring together, along with Jen from Hong Kong. We had more tomato and tea leaf salads and Myanmar beer, mostly at the great [Weather Spoon's Restaurant and Bar](https://goo.gl/maps/bFwHi81KhkAyTP8x8). We arranged to spend the following day traveling around and had a great time exploring the temples together.
 
 </br>
 <div style="text-align: center">
@@ -167,7 +167,7 @@ We were dropped off at 4AM with a bunch of taxi drivers all colluding on high pr
 {{< youtube eBz6-l71SUg >}}
 </br>
 
-For our last day the 5 of us took a van to [Mount Popa](https://goo.gl/maps/5Qw8jqrcjuS2) and braved the cheeky monkeys that tried to steal our stuff.
+For our last day the 5 of us took a van to [Mount Popa](https://goo.gl/maps/5Qw8jqrcjuS2), and braved the cheeky monkeys that tried to steal our stuff.
 
 </br>
 <div style="text-align: center">
@@ -186,7 +186,7 @@ For our last day the 5 of us took a van to [Mount Popa](https://goo.gl/maps/5Qw8
 
 <a href="https://photos.app.goo.gl/RnvnHEx2w7Dcncaz8" target=”_blank”><img src="/images/image-gallery.png" title="Inle Lake Photo Album" alt="Inle Lake Photo Album" height="50"></a>
 
-Headed off to Inle Lake with Yann on the day bus. The bus rides in Myanmar are definitely something else… but good overall. Liz and Pat arrived the next day and we all went for a bike ride around the lake which included a toe injury, stop at a winery and some racing. Met Karen at the [Inlay Hut Indian Food House (313)](https://goo.gl/maps/NHha5fPYW9etxriA9) for dinner, owned by the Myanmar version of Eminem. Did the boat tour of the lake the next day. Temples, silk workshop, tobacco factory and valet parking. After that we ate so much dim sum at the [Live Dim Sum House](https://goo.gl/maps/LKsHytVx9qwpBk828) it was almost embarrassing. We ordered one of everything on the 2 page menu but a serving for 5… then we ordered more. All in preparation for our 3 day trek from Kalaw back to Inle Lake. Needless to say the food and company was amazing.
+Next, we headed off to Inle Lake with Yann on the day bus. The bus rides in Myanmar are definitely something else… but good overall. Liz and Pat arrived the next day, and we all went for a bike ride around the lake, which included a toe injury, a stop at a winery, and some racing. We met Karen at the [Inlay Hut Indian Food House (313)](https://goo.gl/maps/NHha5fPYW9etxriA9) for dinner, owned by the Myanmar version of Eminem. We did a boat tour of the lake the next day: temples, a silk workshop, a tobacco factory, and valet parking. After that, we ate so much dim sum at the [Live Dim Sum House](https://goo.gl/maps/LKsHytVx9qwpBk828) it was almost embarrassing. We ordered one of everything on the 2-page menu, but in a serving for five… and then we ordered more! It was all in preparation for our 3-day trek from Kalaw back to Inle Lake. Needless to say, the food and company were amazing.
 
 </br>
 <div style="text-align: center">
@@ -221,7 +221,7 @@ Headed off to Inle Lake with Yann on the day bus. The bus rides in Myanmar are d
 
 <a href="https://photos.app.goo.gl/RnvnHEx2w7Dcncaz8" target=”_blank”><img src="/images/image-gallery.png" title="Kalaw to Inle Lake Photo Album" alt="Kalaw to Inle Lake Photo Album" height="50"></a>
 
-Next day, started the trek from Kalaw to Inle. Turns out one of the other people joining up also stayed at the same hotel in Yangon. Connie and Mara. Trek = amazing! [Taser(face)](https://en.wikipedia.org/wiki/Taserface) our guide was awesome. Had two homestays, great meals and an awesome time. The scenery was incredible. Also attended a pre-wedding ceremony and tried on some local headgear, had fun with kids and the older people. Pat and Liz headed off right away, the rest of us spent two nights relaxing in Inle Lake at the wonderful [Motel Album](https://goo.gl/maps/4swGRN8awMz).
+The next day, we started our trek from Kalaw back to Inle. Turns out one of the other people joining us, Connie, had also stayed at the same hotel in Yangon. Mara joined up with us, too. The trek was amazing! [Taser(face)](https://en.wikipedia.org/wiki/Taserface) our guide, was awesome. We had two homestays, great meals, and a wonderful time overall. The scenery was incredible. We even attended a pre-wedding ceremony where we tried on some local headgear and hung out with the kids and elders. We said goodbye to Connie and Mara. Pat and Liz headed off right away too, while the rest of us spent two nights relaxing at Inle Lake at the wonderful [Motel Album](https://goo.gl/maps/4swGRN8awMz).
 
 </br>
 <div style="text-align: center">
@@ -254,7 +254,7 @@ Next day, started the trek from Kalaw to Inle. Turns out one of the other people
 
 <a href="https://photos.app.goo.gl/UHd5a3PIULzxmEgb2" target=”_blank”><img src="/images/image-gallery.png" title="Mandalay Photo Album" alt="Mandalay Photo Album" height="50"></a>
 
-Then we headed to Mandalay to meet Pat and Liz staying at ~~Studio~~ [Hotel 82](https://goo.gl/maps/Ay73AS29VWN2). 2 nights of beer gardens and earthquake cracked temples, then off to Hpa-An again on our way out of Myanmar, back to Thailand.
+Then we headed to Mandalay to meet Pat and Liz staying at ~~Studio~~ [Hotel 82](https://goo.gl/maps/Ay73AS29VWN2). We spent two nights enjoying beer gardens and earthquake-cracked temples. After that, we were off to Hpa-An again on our way out of Myanmar and back to Thailand.
 
 </br>
 <div style="text-align: center">
@@ -280,7 +280,7 @@ Then we headed to Mandalay to meet Pat and Liz staying at ~~Studio~~ [Hotel 82](
 
 <a href="https://photos.app.goo.gl/t9VUyjpiEQxr97st7" target=”_blank”><img src="/images/image-gallery.png" title="Hpa-An Revisited Photo Album" alt="Hpa-An Revisited Photo Album" height="50"></a>
 
-We all took the night bus together. Stayed at the [Galaxy Hotel](https://goo.gl/maps/tgZDZGHcfHz2nuTd7) again when we got to Hpa-An with it's spectacular rooftop views. Ate some more tomato salad and drank more Myanmar beer! Paul, Pat, Liz and Yann all climbed [Mt. Zwegabin](https://goo.gl/maps/UbBDHaJZza9gWASD9). Paul said it was one of the hardest things he has done. 750m of straight up stairs of random heights. I was smart and took care of my cankles, and had cold water, beer and oranges waiting for them. Next day our G5 split Yann heading to Yangon and Sri Lanka, Pat, Liz, Paul and I to Chiang Mai.
+We all took the night bus together. When we got to Hpa-An, we stayed at the [Galaxy Motel](https://goo.gl/maps/tgZDZGHcfHz2nuTd7) again, with its spectacular rooftop views. We ate some more tomato salad and drank more Myanmar beer! Paul, Pat, Liz and Yann all climbed [Mt. Zwegabin](https://goo.gl/maps/UbBDHaJZza9gWASD9). Paul said it was one of the hardest things he has ever done — 750 m of straight-up stairs with random step heights. I played it smart to take care of my cankles, and had cold water, beer, and oranges waiting for them when they got down. The next day, the "G5" officially split: Yann headed off to Yangon and Sri Lanka, while Pat, Liz, Paul, and I set course for Chiang Mai. We were incredibly lucky to meet this crew and share the journey through Myanmar together. It was absolute chef's kiss on an already unforgettable trip.
 
 </br>
 <div style="text-align: center">
