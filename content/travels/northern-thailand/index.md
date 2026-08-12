@@ -14,7 +14,7 @@ After Myanmar we spent several weeks in Northern Thailand. All the Chiang’s to
 
 ## Chiang Mai
 
-We decided to get organized in Chiang Mai. Mailed some items back that we don’t use, saw Wonder Woman and did a cooking class with Pat and Liz. I’d wanted to a do a class so this was more for me than Paul. We got to make several dishes and no injuries occurred. After wandering the night market we spent some time at the shopping malls, neither are our favorite things to do but we managed. Had a nice evening at [Small House Kafe](https://goo.gl/maps/HG6bY4qjTYiincyu8) where some advice from Dao had us heading off to Chiang Dao instead of Pai.
+We decided to get organized in Chiang Mai. We mailed some items back that we don’t use, saw Wonder Woman, and did a cooking class with Pat and Liz. I’d wanted to do a class, so this was more for me than Paul. We got to make several dishes and no injuries occurred. After wandering the night market, we spent some time at the shopping malls. Neither is our favorite thing to do, but we managed. We had a nice evening at [Small House Kafe](https://goo.gl/maps/HG6bY4qjTYiincyu8), where some advice from Dao had us heading off to Chiang Dao instead of Pai.
 
 </br>
 <div style="text-align: center">
@@ -32,7 +32,7 @@ We decided to get organized in Chiang Mai. Mailed some items back that we don’
 
 <a href="https://photos.app.goo.gl/qglYDEQDLrifYFH22" target=”_blank”><img src="/images/image-gallery.png" title="Chiang Dao Photo Album" alt="Chiang Dao Photo Album" height="50"></a>
 
-Awesome place! Our friend from Small House Kafe, Dao, recommended it to us. We spent a few nights there, ate some amazing food, had a great time with Buppa (and her homemade spiced whiskey) at [The Cave Bar](https://g.page/cavewomanthecavebar?share), walked around and went on an awesome scooter ride in the national park through the clouds.
+Loved it! Our friend from Small House Kafe, Dao, recommended it to us. We spent a few nights there, ate some amazing food, and had a great time with Buppa (and her homemade spiced whiskey) at [The Cave Bar](https://g.page/cavewomanthecavebar?share). We walked around to explore the area, and even went on an awesome scooter ride through the clouds in the national park
 
 </br>
 {{< youtube 6O15jvfc6fA >}}
@@ -66,7 +66,7 @@ Awesome place! Our friend from Small House Kafe, Dao, recommended it to us. We s
 
 <a href="https://photos.app.goo.gl/3rbPrXwsLLRY9n5V6" target=”_blank”><img src="/images/image-gallery.png" title="Chiang Rai Photo Album" alt="Chiang Rai Photo Album" height="50"></a>
 
-Took a bus from Chiang Dao to [Tha Ton](https://goo.gl/maps/jkwD2LbXtGXQxFiV8), then a cool [longtail boat ride](https://goo.gl/maps/nJuV8jYczL72) to Chiang Rai. We saw some elephants being bathed in the river. There was a stop where you can get a photo with a snake but we chose not to. Spent the next morning at the White Temple, Black House and Blue Temple before heading to see our friends God and Yves at their hostel in Chiang Khong on the Laos border.
+Next up, we took a bus from Chiang Dao to [Tha Ton](https://goo.gl/maps/jkwD2LbXtGXQxFiV8), then a cool [longtail boat ride](https://goo.gl/maps/nJuV8jYczL72) to Chiang Rai. We saw some elephants being bathed in the river. There was a stop where you could get a photo with a huge snake, but we chose not to. The owner of the guesthouse took us on a tour the next morning to  the White Temple, Black House and Blue Temple before dropping us off at the bus station. We were heading to see our friends God and Yves at their hostel in Chiang Khong on the Laos border.
 
 </br>
 {{< youtube xxSY_cyndPw >}}
@@ -74,7 +74,7 @@ Took a bus from Chiang Dao to [Tha Ton](https://goo.gl/maps/jkwD2LbXtGXQxFiV8), 
 
 </br>
 <div style="text-align: center">
-  <a style="display:inline-block;text-decoration:none;color: #595959;" href="https://photos.google.com/share/AF1QipP1eIQcHtRzhzteIs43dmv1RAtY7q83OTyEpuo6azFfEEZWGaxCAoL6ombaN4whMA/photo/AF1QipOMmvLn_48I6T3_d6BxG1836P50mcKtjJV_ntqA?key=d28xdzBHSlBpNmRHM0RYOWlCUGZUOWlmUUZnckl3" target="_blank"><img alt="Long tail from Tha Ton to Chiang Rai on the River Kok" loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3eogrY-ONEtVSI-7Ex9ql2aK0gKiWD74X0NzKbjuN-pnvwrO0lwRC_MXgJUcb82sUuurOHygtOW3za_Uf2Ma7fgFbIg68qx3KyCoIbq3yRyoFMiXrNN_QpS2ZUs3PCoMTGR8Bu2DpHGGsSVectV0lV47g=w370-no" width="370" /><div>Long tail from Tha Ton to Chiang Rai on the River Kok</div></a>
+  <a style="display:inline-block;text-decoration:none;color: #595959;" href="https://photos.google.com/share/AF1QipP1eIQcHtRzhzteIs43dmv1RAtY7q83OTyEpuo6azFfEEZWGaxCAoL6ombaN4whMA/photo/AF1QipOMmvLn_48I6T3_d6BxG1836P50mcKtjJV_ntqA?key=d28xdzBHSlBpNmRHM0RYOWlCUGZUOWlmUUZnckl3" target="_blank"><img alt="Long tail from Tha Ton to Chiang Rai on the River Kok" loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3eogrY-ONEtVSI-7Ex9ql2aK0gKiWD74X0NzKbjuN-pnvwrO0lwRC_MXgJUcb82sUuurOHygtOW3za_Uf2Ma7fgFbIg68qx3KyCoIbq3yRyoFMiXrNN_QpS2ZUs3PCoMTGR8Bu2DpHGGsSVectV0lV47g=w370-no" width="370" /><div>Longtail from Tha Ton to Chiang Rai on the River Kok</div></a>
   <a style="display:inline-block;text-decoration:none;color: #595959;" href="https://photos.google.com/share/AF1QipP1eIQcHtRzhzteIs43dmv1RAtY7q83OTyEpuo6azFfEEZWGaxCAoL6ombaN4whMA/photo/AF1QipP5FzUkmQHfYScSQi59XBeevVOk5kZSSSvvZBEP?key=d28xdzBHSlBpNmRHM0RYOWlCUGZUOWlmUUZnckl3" target="_blank"><img alt="Some of the local buses were pretty cool" loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3fviNFpih-AR9dGOft0D4iL8tuVf-z5KyoWQ1vuSN7iT1gHnG_d_oR0SXlXbQuReNiJwYcLNO6EE2vKfgj6LW8O-XAwo6B72T7wpK6PUnPpKR3maHLtn35rTqW_SPI_k8opXUJtLvgCZo787r6XSxz5Bg=w370-no" width="370" /><div>Some of the local buses were pretty cool</div></a> 
 </div>
 
@@ -102,7 +102,7 @@ Took a bus from Chiang Dao to [Tha Ton](https://goo.gl/maps/jkwD2LbXtGXQxFiV8), 
 
 <a href="https://photos.app.goo.gl/MiNuevFXuwjGYPYD2" target=”_blank”><img src="/images/image-gallery.png" title="Chiang Khong Photo Album" alt="Chiang Khong Photo Album" height="50"></a>
 
-Finally made it to see God and Yves at their most excellent Hub Pub and Funky Box hostel where we had a fantastic week. We went on a jungle hike to a beautiful waterfall, were shown the area and taken to some viewpoints, spent several days being lazy, went fishing, had some cooking lessons, ate great food and had an awesome time visiting and being spoiled rotten. Make sure to go for a coffee at [The View Coffee](https://goo.gl/maps/8JekXbuzKuY3P5vn8) and check out the views of the Mekong and Laos!  Paul said it was the best urinal view he has ever experienced.
+We finally made it to see God and Yves at their most excellent Hub Pub and Funky Box hostel, where we had a fantastic week! We went on a jungle hike to a beautiful waterfall, checked out some amazing local viewpoints, spent a few lazy days fishing, took cooking lessons, ate incredible food, and generally had a blast being spoiled rotten. If you're in the area, make sure to grab a coffee at [The View Coffee](https://goo.gl/maps/8JekXbuzKuY3P5vn8) for awesome views of the Mekong and Laos! (Paul declared it the best urinal view he’s ever experienced.)
 
 </br>
 <div style="text-align: center">
@@ -121,7 +121,7 @@ Finally made it to see God and Yves at their most excellent Hub Pub and Funky Bo
 
 </br>
 <div style="text-align: center">
-  <a style="display:inline-block;text-decoration:none;color: #595959;" href="https://photos.google.com/share/AF1QipNFqwhh6Qi6zWQ_WI97M2dt9us_8uETq51wqtXPKmFp5gzrGNRN5cNqdRN1SPLiDg/photo/AF1QipOFLdtY-undMSgUR4AWCiDiFaMv25Q8LQtc6Sat?key=bTNFWFg1U2g1VXlOeFVVOWtHcEEteUJfRkNiNGlB" target="_blank"><img alt="Chinese graveyard of soldiers" loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3cz23F51oOYMnm0WtsV2ixRHK15pthwPq8GUdKaS5hoQNM2IfZIB5emV6QoxaoC29cZ-NmbWub_jClzY_Cel2X868p3AOYDLaxoZTn2uqF_Bg4Hm9cwrpO_LKu_vhWMI8XUNBmvUS00psn4Hw1qqNgt-g=w370-no" width="370" /><div>Chinese graveyard of soldiers</div></a>
+  <a style="display:inline-block;text-decoration:none;color: #595959;" href="https://photos.google.com/share/AF1QipNFqwhh6Qi6zWQ_WI97M2dt9us_8uETq51wqtXPKmFp5gzrGNRN5cNqdRN1SPLiDg/photo/AF1QipOFLdtY-undMSgUR4AWCiDiFaMv25Q8LQtc6Sat?key=bTNFWFg1U2g1VXlOeFVVOWtHcEEteUJfRkNiNGlB" target="_blank"><img alt="Chinese graveyard of soldiers" loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3cz23F51oOYMnm0WtsV2ixRHK15pthwPq8GUdKaS5hoQNM2IfZIB5emV6QoxaoC29cZ-NmbWub_jClzY_Cel2X868p3AOYDLaxoZTn2uqF_Bg4Hm9cwrpO_LKu_vhWMI8XUNBmvUS00psn4Hw1qqNgt-g=w370-no" width="370" /><div>Graveyard of Chinese soldiers</div></a>
   <a style="display:inline-block;text-decoration:none;color: #595959;" href="https://photos.google.com/share/AF1QipNFqwhh6Qi6zWQ_WI97M2dt9us_8uETq51wqtXPKmFp5gzrGNRN5cNqdRN1SPLiDg/photo/AF1QipPLB7gszWCpquWiJ9y-2HnHsakYO0njlE6okSwj?key=bTNFWFg1U2g1VXlOeFVVOWtHcEEteUJfRkNiNGlB" target="_blank"><img alt="Great views of the Mekong" loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3c_EipgJanEqBJTKroxghWxX_kwea15SQb-jaRmfnTWa585zjIWaCMX5ev2sHnQOX88G2Ne7Up7m3JWQzEZLmfJS4kyxseYei-rbc7UFhR_vss30hcnc0rz_eRFmzb7VtjQWvaTgt3AJHiHW6mYQjVqVA=w370-no" width="370" /><div>Great views of the Mekong</div></a> 
 </div>
 
