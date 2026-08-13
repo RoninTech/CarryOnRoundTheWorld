@@ -10,9 +10,9 @@ description: "\b"
 album: "https://photos.app.goo.gl/iQFygAB8yR1kqFyH6"
 ---
 
-Hong Kong? What!?! That was unplanned… well yes, but everything has pretty much been unplanned! Let’s make a long story short… in May we looked into getting tickets to the Liverpool FC preseason game in July at Hong Kong Stadium. They sold out in less than 24 hrs… too bad, moved on. While in [Don Det, Laos](/travels/the-land-of-laos/), we discovered that one of Paul’s favorite Liverpool podcasts, [The Anfield Wrap](https://www.theanfieldwrap.com/), was going to do a live show at the Hong Kong game. So, hmmm, maybe we should look into it further especially since it was going to be someone’s birthday month. Within 3 hours we had tickets lined up for both the game and Anfield Wrap Podcast show, hotel and [flights booked](http://www.gcmap.com/mapui?P=PNH-BKK-CNX-HKG-CNX-BKK-PNH). So “Hong Kong? What!?!” became “Hong Kong? You Bet!”.
+Hong Kong? What!?! That was unplanned… well yes, but everything has pretty much been unplanned! Let’s make a long story short... in May we looked into getting tickets to the Liverpool FC preseason game in July at Hong Kong Stadium. They sold out in less than 24 hours, so we figured, "Too bad," and moved on. While in [Don Det, Laos](/travels/the-land-of-laos/), we discovered that one of Paul’s favorite Liverpool podcasts, [The Anfield Wrap](https://www.theanfieldwrap.com/), was going to do a live show at the Hong Kong game. So, hmmm, maybe we should look into it further especially since it was going to be someone’s birthday month. Within 3 hours, we had tickets lined up for both the game and the Anfield Wrap Podcast show, hotel and [flights booked](http://www.gcmap.com/mapui?P=PNH-BKK-CNX-HKG-CNX-BKK-PNH). So “Hong Kong? What!?!” became “Hong Kong? You Bet!”.
 
-After Siem Reap, we did 2 nights in Phnom Penh, then flew via BKK to Chiang Mai. We then had a quick two night stopover in Chiang Mai. Another story, a package we mailed in June from Chiang Mai to Canada had a battery in it so was sent back to the original post office in Chiang Mai. We didn’t have anyone to go get it, so had to go ourselves or lose it. It just so happened that we found a (free Aeroplan airmiles) flight that worked out. So Dunkirk movie, shopping, sushi and Small House Kafe… quick battery removal and on our way to Hong Kong on Air Asia. 🙂
+After Siem Reap, we did two nights in Phnom Penh, then flew via BKK to Chiang Mai for a quick two-night stopover. Story time: a package we mailed in June from Chiang Mai to Canada had a battery in it, so it was sent back to the original post office in Chiang Mai. We didn’t have anyone to pick it up, so we had to go ourselves or lose it. It just so happened that we found a flight (using free Aeroplan airmiles) that worked out perfectly. So: Dunkirk movie, shopping, sushi, and Small House Kafe… a quick battery removal, and we were on our way to Hong Kong on Air Asia! 🙂
 
 </br>
 <div style="text-align: center">
@@ -22,7 +22,7 @@ After Siem Reap, we did 2 nights in Phnom Penh, then flew via BKK to Chiang Mai.
 
 ## Downtown Hong Kong
 
-If our goal was to eat our weight in dim sum, we succeeded in our 3 days there, as we ate at [Dim Dim Sum](https://goo.gl/maps/z81qqPpj9WP2) at least 5 times! A lucky coincidence that our [Charterhouse Causeway Bay hotel](https://goo.gl/maps/YXJ6d5PcyqWfgEGA7) was less than 5 minutes from amazing dim sum. In between eating we took ferries and buses, took the worlds [longest moving staircase](https://goo.gl/maps/t2ACG3eZbeNaoxpWA), scaled [Victoria Peak](https://goo.gl/maps/WEJSQYx57g11n1Fo8), stayed out at the bar until 5 am, saw the game, went to Kowloon and saw the light show!
+If our goal was to eat our weight in dim sum, we succeeded in our three days there, as we ate at [Dim Dim Sum](https://goo.gl/maps/z81qqPpj9WP2) at least 5 times! It was a lucky coincidence that our [Charterhouse Causeway Bay hotel](https://goo.gl/maps/YXJ6d5PcyqWfgEGA7) was less than a 5-minute walk from amazing dim sum. In between eating, we took ferries and buses, rode the world's [longest moving staircase](https://goo.gl/maps/t2ACG3eZbeNaoxpWA), scaled [Victoria Peak](https://goo.gl/maps/WEJSQYx57g11n1Fo8), stayed out at the bar until 5 am, saw the game, went to Kowloon, and saw the light show!
 
 </br>
 <div style="text-align: center">
@@ -39,7 +39,7 @@ If our goal was to eat our weight in dim sum, we succeeded in our 3 days there, 
 
 ## The Anfield Wrap
 
-By posting on the Anfield Wrap Facebook group we managed to get tickets to the match from someone who worked at Standard Chartered in Hong Kong. The day before the game was the live show which was awesome. Hung out and went clubbing until 5AM with Gareth Roberts and John Gibbons from the show. We also met Melissa Reddy who is a Liverpool sports writer. Turns out the organizer of the Hong Kong LFC Club, Ian, went to St. Eddy’s ([St. Edwards College, Liverpool](https://goo.gl/maps/wwkfj1Ar21fZvidL6)) just a year or two behind Paul and remembered all the same teachers. Small world! 🙂
+By posting on the Anfield Wrap Facebook group, we managed to get tickets to the match from someone who worked at Standard Chartered in Hong Kong. The day before the game was the live show, which was awesome. We hung out and went clubbing until 5 AM with Gareth Roberts and John Gibbons from the show. We also met Melissa Reddy, who is a Liverpool sports writer. Turns out the organizer of the Hong Kong LFC Club, Ian, went to St. Eddy’s ([St. Edward's College, Liverpool](https://goo.gl/maps/wwkfj1Ar21fZvidL6)) just a year or two behind Paul and remembered all the same teachers. Small world! 🙂
 
 </br>
 <div style="text-align: center">
@@ -55,7 +55,7 @@ By posting on the Anfield Wrap Facebook group we managed to get tickets to the m
 
 ## Sightseeing
 
-Since we only had a really short time here, we still got up early(ish) and made it out to see the sights of Hong Kong. We started with a bus ride up to Victoria Peak which in itself was really cool. When we got up to the top we decided we could walk instead of taking the tram… maybe a mistake in the heat and the tired state we were in... especially considering we went the wrong way and had to come halfway back down before going up again to get to the right area.
+Since we only had a really short time here, we still got up early (ish) and made it out to see the sights of Hong Kong. We started with a bus ride up to Victoria Peak which in itself was really cool. When we got up to the top, we decided we could walk to the viewpoint instead of taking the tram… maybe a mistake in the heat and the tired state we were in... especially considering we went the wrong way and had to come halfway back down before going up again to get to the right area.
 
 </br>
 <div style="text-align: center">
@@ -69,7 +69,7 @@ Since we only had a really short time here, we still got up early(ish) and made 
   <a style="display:inline-block;text-decoration:none;color: #595959;" href="https://photos.google.com/share/AF1QipN-V1Bm1sw3Fa2b-ECLIa9D4gg-VP2U0pToILsKSVAl8T3qs2BLsN5NLH6KP0BsBw/photo/AF1QipPbX6hr88jfSxCVqf1pBlD9AmuMmpqMBPf8L28B?key=UEJjQzZCeWlETW4xdWFIdnlBYTVSQ2VhRl9iZXpB" target="_blank"><img alt="Out to sea view from Victoria Peak" loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3cemekMMNQFhSUXuCKhgNb-iGdBcmXsdZMwKJKzsbexmzM36mWBhPvVcYVQYDY1DpMlKqnbjyhUSYXebwkJMYPZczliAKgzUmTQvKi04tT-K7UI9acJS_pj9ctVQxxQZo_JixWysZbWDsDnuMmQfVqa-g=w1000-no" width="1000" /><div>Out to sea view from Victoria Peak</div></a> 
 </div>
 
-From there it was back down the hill, dim sum for lunch and a nap before having more dim sum and going to the game. The game was awesome! Our seats were good and we got to see some of the old guard and newest additions including a goal by Mo Salah. The atmosphere in the Hong Kong Stadium was a lot of fun and most people were cheering for LFC.
+From there, it was back down the hill, dim sum for lunch, and a nap before having more dim sum and going to the game. The game was awesome! Our seats were good and we got to see some of the old guard and newest additions, including a goal by Mo Salah. The atmosphere in Hong Kong Stadium was a lot of fun, and most people were cheering for LFC.
 
 </br>
 {{< youtube mVVgMp6fHhI >}}
@@ -85,7 +85,7 @@ From there it was back down the hill, dim sum for lunch and a nap before having 
 {{< youtube srF4Kec08iY >}}
 </br>
 
-The next day was more sightseeing taking the ferry to Kowloon and finding the [Garden of Stars](https://www.tripadvisor.ca/Attraction_Review-g294217-d9996702-Reviews-Garden_of_Stars-Hong_Kong.html) where Paul pulled off his best Bruce Lee.
+The next day was more sightseeing, taking the ferry to Kowloon and finding the [Garden of Stars](https://www.tripadvisor.ca/Attraction_Review-g294217-d9996702-Reviews-Garden_of_Stars-Hong_Kong.html), where Paul pulled off his best Bruce Lee.
 
 </br>
 <div style="text-align: center">
@@ -98,7 +98,7 @@ The next day was more sightseeing taking the ferry to Kowloon and finding the [G
   <a style="display:inline-block;text-decoration:none;color: #595959;" href="https://photos.google.com/share/AF1QipN-V1Bm1sw3Fa2b-ECLIa9D4gg-VP2U0pToILsKSVAl8T3qs2BLsN5NLH6KP0BsBw/photo/AF1QipNTdY4lRzaI9yMh7CcHuznbDZN-PBSTHpF9Fll7?key=UEJjQzZCeWlETW4xdWFIdnlBYTVSQ2VhRl9iZXpB" target="_blank"><img alt="Kowloon bay day time skyline" loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3fzoO9--S4j8OEh9notW3NJrhwTdu7mgxiw0_IkrQ_UqzcIZXWlOZh373XmXfdb3f0bFbMPsy5wiHjzLnYQK_wi0xKaPrWHFiGEroMM8yJG10u9UnUTWfmu4NtgIP01wf5vb5nIcqv48vJPXnRbbhgrEw=w1000-no" width="1000" /><div>Kowloon bay day time skyline</div></a>
 </div>
 
-Since the ferry is only 25c each, we headed back over to Kowloon at night to see the famous 8PM [Hong Kong Harbor light show](https://en.wikipedia.org/wiki/A_Symphony_of_Lights)! Dim sum may have been consumed for lunch… and supper! I really wasn’t kidding about eating our weight in dim sum.
+Since the ferry is only 25 cents each, we headed back over to Kowloon at night to see the famous 8 PM [Hong Kong Harbor light show](https://en.wikipedia.org/wiki/A_Symphony_of_Lights)! Dim sum may have been consumed for lunch… and supper! I really wasn’t kidding about eating our weight in dim sum.
 
 </br>
 <div style="text-align: center">
@@ -116,4 +116,4 @@ Since the ferry is only 25c each, we headed back over to Kowloon at night to see
 {{< youtube 4p4d74wT-pI >}}
 </br>
 
-After that, it was a ferry back to Hong Kong, a wander around the shopping area before heading to the hotel to pack for our return to Cambodia! Did we mention we may have had some more dim sum? 😃
+After that, it was a ferry back to Hong Kong, and a wander around the shopping area before heading to the hotel to pack for our return to Cambodia! Did we mention we may have had some more dim sum? 😃

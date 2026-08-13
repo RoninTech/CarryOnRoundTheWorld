@@ -10,7 +10,8 @@ description: "\b"
 album: "https://photos.app.goo.gl/D4zoZ1qY922xgdYx6"
 ---
 
-The land of OZ, the land of OZ! Okay, the land of Australia but still awesome! While spending 2 months in Kampot we were lucky enough to borrow a computer to figure out what to do next. The original plan was Vietnam, but the weather there wasn’t co-operating. So how about a complete change of scenery and we look into renting a camper van and travel Eastern Australia! Flights, check, Phnom Penh to Brisbane. Australian visas, check. Camper van rentals, checked, checked again… once more and then boom… pulled the trigger. Look out Australia, the Rimmer’s are coming… for 3 months!!! 😀
+The land of Oz, the land of Oz! Okay, Australia! How awesome! While spending two months in Kampot, we were lucky enough to borrow a computer to figure out what to do next. The original plan was Vietnam, but the weather there wasn’t cooperating. So, how about a complete change of scenery? Why not look into renting a camper van and traveling Eastern Australia?! Flights? Check (Phnom Penh to Brisbane). Australian visas? Check. Camper van rentals? Check, check again… once more, and then boom—pulled the trigger! Look out Australia, the Rimmers are coming… for three months!!! 😀
+
 </br>
 
 <div style="text-align: center">
@@ -18,7 +19,8 @@ The land of OZ, the land of OZ! Okay, the land of Australia but still awesome! W
  </div>
 
 The Van:
-Every van needs a name. Ours started off as Skippy but we felt it needed a “stronger” name so christened J.C.D.V. (Jean Claude Damn Van). We went with a company called Let’s Go Motorhomes and got an almost new Toyota HiAce. DV (short for JCDV) had a little kitchen and a comfy seating/sleeping area. No bathroom though, that would have doubled the size and the price. Any interaction we had with the company was positive and professional. We had booked our first campsite just outside Brisbane so we didn’t have to find a hotel. In hindsight, we should have given ourselves a night of rest instead of heading off into traffic… jet lagged, driving on the wrong side of the road, stick shift on the opposite side. Luckily Paul handled it like a champ. Add that to lessons learned and off we go!
+Every van needs a name. Ours started off as Skippy but we felt it needed a “stronger” name, so christened it "J.C.D.V." (Jean Claude Damn Van). We went with a company called Let’s Go Motorhomes and got an almost-new Toyota HiAce. DV (short for JCDV) had a little kitchen and a comfy seating/sleeping area. No bathroom though, that would have doubled the size and the price. Any interaction we had with the company was positive and professional. We had booked our first campsite just outside Brisbane so we didn’t have to find a hotel. In hindsight, we should have given ourselves a night of rest instead of heading off into traffic… jet-lagged, driving on the wrong (for us) side of the road, stick shift on the opposite side. Luckily, Paul handled it like a champ. Add that to lessons learned and off we go!
+
 </br>
 
 <div style="text-align: center">
@@ -28,9 +30,10 @@ Every van needs a name. Ours started off as Skippy but we felt it needed a “st
 </div>
 
 Brisbane to Daintree:
-We spent a couple of nights in our first spot at Beachmere Caravan Park getting used to the van and getting it set up. Our first grocery shop was a bit chaotic but we managed and felt the van was ready to head off North to Cape Tribulation. The area around Brisbane is one roundabout after another so it gave Paul a quick sink-or-swim masterclass in handling them. The big picture idea for Oz was to head North on the coast, head back South on more interior routes, down to the Great Ocean Road then fly out from Melbourne. Didn’t quite work out that way but when the plan is "there is no plan" what do you expect?
+We spent a couple of nights in our first spot at [Beachmere Caravan Park](https://maps.app.goo.gl/pKQZSvuDPZDKTcSL6), getting used to the van and setting it up. Our first grocery shop was a bit chaotic, but we managed and felt the van was ready to head off north to Cape Tribulation. The area around Brisbane is one roundabout after another so it gave Paul a quick sink-or-swim masterclass in handling them. The big picture idea for Oz was to head north on the coast, head back south on more interior routes, down to the Great Ocean Road then fly out from Melbourne. Didn’t quite work out that way but when the plan is "there is no plan" what do you expect?
 
-On the road up we stopped in Beachmere, Moore Park, Tin Can Bay, Hervey Bay, Townsville, Mission Beach, Cairns and finally Cape Tribulation. There were a couple of other stops but not places that really stood out. The sites varied from right on beaches, to tree lined havens, sandy spots and concrete pads or grass. Some powered, some not but all with shared showers and bathrooms. All the sites had kitchens set up for campers use with the majority being really well set up.
+On the road up we stopped in Tin Can Bay, Hervey Bay, Moore Park Beach, Townsville, Mission Beach, Cairns, and finally Cape Tribulation. There were a couple of other stops, but those were the places that truly stood out. The sites varied from beachfront plots and tree-lined havens to sandy spots, concrete pads, or grass — some powered, some unpowered, but all with shared showers and bathrooms. Every caravan park had a kitchen set up for campers’ use, with the majority being really well set up.
+
 </br>
 
 <div style="text-align: center">
@@ -39,10 +42,11 @@ On the road up we stopped in Beachmere, Moore Park, Tin Can Bay, Hervey Bay, Tow
   <a style="display:inline-block;text-decoration:none;color: #595959;" href="https://photos.google.com/share/AF1QipPBgto4ENVEK4F8CitJEov2yBZ6zn956DhglVYBOeJaN3H6FLPDRYBkuT5G2rhVeA/photo/AF1QipMXUnB0m_ZEEoUROoPntfmVovV1w42BAh1pMwb5?key=c0p3YTJOdUxieGYyU3cxcmt3ZnFYRDR1Qy1KZk9n" target="_blank"><img alt="Inskip Point by Rainbow Beach" loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3ef9K5O2sHJyiTkajhXzomPb7QvT6J5pio6RIjx6SsBjehRbbcKM_se_PORxP-2G8GcT2sfochpUFNX0W0kyvU2ND4R1JJr8tOYl6WGIfa0zhJaLAvBGTMLZ8LwFqxIzU7lw3zHTk5xIIcC4nTfsbztwQ=w315-no" width="315" /><div>Inskip Point by Rainbow Beach</div></a>
 </div>
 
-It didn’t take us long to settle into a routine with Paul driving, me getting us lost with my navigating skills, stopping along the way for picnics and generally visiting every beach available. All the while on the look out for the elusive kangaroos and koalas. Our grocery shopping trips improved and we learnt that “hey, how are ya” is hi and the response should be “hi ya” and not “I’m fine thanks and you?". The longer response will get a look and comment “you aren’t from around here are ya?”.
+It didn’t take us long to settle into a routine with Paul driving, me getting us lost with my navigating skills, stopping along the way for picnics, and generally visiting every beach available -- all the while on the look out for the elusive kangaroos and koalas. Our grocery shopping trips improved and we learnt that “hey, how are ya” is hi and the response should be “hi ya” and not “I’m fine, thanks, and you?". The longer response will get a look and comment “you aren’t from around here, are ya?”.
 
 The Goon Sack:
-We need to discuss goon and the goon sack… Goon is plonk and a goon sack is the bag that it comes in. Otherwise referred to as Cardboardaux by us. Goon is great and I have to say that we quickly learned to consume said goon. Beer in Australia is expensive… really Australia in general is expensive, groceries, gas, it adds up but beer stood out. So Goon was a great option, Goon on sale was even better. Another lesson learned… don’t buy 4 boxes at a time and then park the van for 3 days in the sun. Goon quickly turns to vinegar in the heat and we ended up having to do a “ritual dumping” which caused tears to flow. 😥
+We need to discuss goon and the goon sack. For those who don’t know, goon is cheap plonk, and a goon sack is what it comes in. It is classic [Australian slang](https://www.yha.com.au/travel-and-tours/traveller-stories/the-20-aussie-slang-words-you-need-to-know/) for what we affectionately refer to as *Cardboardaux*. Goon is great, and I have to say, we adapted quickly to consuming said goon. Beer in Australia is expensive. Really, Australia in general is pricey — groceries, gas, you name it, it adds up — but the price of beer really stood out. Goon was a great option, goon on sale was even better. Another lesson learned: don’t buy four boxes at a time and then park the van for three days in the sun. Goon quickly turns to vinegar in the heat, and we ended up having to do a “ritual dumping,” which caused tears to flow. 😥
+
 </br>
 
 <div style="text-align: center">
@@ -50,7 +54,7 @@ We need to discuss goon and the goon sack… Goon is plonk and a goon sack is th
   </div>
 
 Queensland:
-Heading up the Queensland coast was Tin Can Bay, Moore Park and Hervey Bay which were great places and we spent a couple of nights in each location. I tried my hand at driving in Tin Can Bay. No one was injured and the only damage done was to my blood pressure. The first two photos are from Hervey Bay, a walk down the 2km pier for sunset and a drive to a local park. While eating lunch we found some really neat trees at the shoreline and a friendly young osprey. We then stopped not far from Moore Park where we were tormented by the hissing bird who was using his Jedi mind powers to get us to feed it. Strangely it didn’t like my gluten free offering? The weather was starting to change on us so after Hervey Bay we ended up having to do a 7 hour drive to escape some rain. While driving we saw numerous large fruit offerings… must be an Oz thing.
+Heading up the Queensland coast was Tin Can Bay, Hervey Bay and Moore Park Beach which were great places and we spent a couple of nights in each location. I tried my hand at driving in Tin Can Bay -- no one was injured and the only damage done was to my blood pressure. The first two photos are from Hervey Bay: a walk down the 2 km pier at sunset and a drive to a local park. While eating lunch we found some really neat trees at the shoreline and a friendly young osprey. We then stopped not far from Moore Park where we were tormented by the hissing bird who was using his Jedi mind powers to get us to feed it. Strangely it didn’t like my gluten-free offering? The weather was starting to change on us so after Moore Park Beach we ended up having to do a 7 hour drive to escape some rain. While driving we saw numerous [large fruit offerings](https://en.wikipedia.org/wiki/Big_things_(Australia))… must be an Oz thing.
 
 </br>
 <div style="text-align: center">
@@ -66,9 +70,9 @@ Heading up the Queensland coast was Tin Can Bay, Moore Park and Hervey Bay which
 </div>
 
 Townsville:
-We spent 2 nights in Townsville and had some unique experiences. There is a huge beach area you can walk along with a museum, piers and all sorts of info. We learned that this area was involved in a battle in WWII, which we had no idea about. There were bunkers in town and on Magnetic Island. There was an excellent display and we enjoyed walking around. We drove up to Castle Look Out to check out the view as well.
+We spent two nights in Townsville and had some unique experiences. There is a huge park and beach area called [The Strand](https://www.townsville.qld.gov.au/facilities-and-recreation/parks-beaches-and-community-venues/the-strand-and-beaches) that you can walk along with a museum, piers and all sorts of local history. We learned that this area was involved in a WWII battle, which we had no idea about! There were bunkers right in town and over on Magnetic Island, along with some cool displays that we really enjoyed walking around. We also drove up to [Castle Hill](https://maps.app.goo.gl/aPC9EfkwA7LmjUGHA) to check out the view.
 
-Magnetic Island consisted of a ferry ride, snorkel trip, bus ride and hike. Then all reversed, except the snorkel. We spent the morning doing a basic snorkel which was okay, lots of kids on the boat so I fit right in! We also did a bit of fishing but no luck. In the afternoon we hiked up to the WWII bunkers on the island which was really neat to see. Very well maintained and lots of information all around the area. Australia deserves recognition for keeping their history alive with information on WWI, WWII and honoring the people who fought. Anzac memorials are everywhere. The best part… we saw KOALAS!!! Not just one, but three including a baby. That was a definite highlight of the day.
+Magnetic Island consisted of a ferry ride, a snorkel trip, a bus ride and a hike -- then all reversed (except the snorkel). We spent the morning doing a basic snorkel, which was okay -- lots of kids on the boat so I fit right in! We also did a bit of fishing, but had no luck. In the afternoon, we hiked up to the WWII bunkers on the island, which was really neat to see. They are very well-maintained and lots of information all around the area. Australia deserves recognition for keeping its history alive with information on WWI, WWII, and honoring the people who fought and those who died -- Anzac memorials are everywhere. The best part… we saw KOALAS!!! Not just one, but three, including a baby. That was a definite highlight of the day.
 
 </br>
 <div style="text-align: center">
@@ -84,7 +88,7 @@ Magnetic Island consisted of a ferry ride, snorkel trip, bus ride and hike. Then
 </div>
 
 Mission Beach:
-Well, more correctly Wongaling Beach, liked it here so much we actually stayed twice. On the way in we saw a (male) Cassowary with it’s 2 chicks which is apparently quite rare. Paul was too slow with the camera. There are 3 beaches in the area and we spent time at all of them. The walk from the campsite to beach was less than 5 minutes. We did a hike down the coast line at South Mission and had a nice chat with a local who told us where to go so we could see turtles. Think we saw 5 or 6 at least. The best part was the snorkel trip on the Great Barrier Reef with Reef Express. It wasn’t a big group, we loaded up on a small boat and spent hours snorkeling on the reef. It was beautiful. We all had to wear suits which Paul modeled for us…
+Well, more correctly Wongaling Beach, we liked it here so much we actually stayed twice. On the way in we saw a (male) Cassowary with its two chicks, which is apparently quite rare. Paul was too slow with the camera but considering he was driving... well. 🤷 There are three beaches in the area and we spent time at all of them. The walk from the [Bali Hai Caravan Park](https://maps.app.goo.gl/AWVZrkSxviHDgj2g8) to the beach was less than 5 minutes. We did a hike down the coast line at South Mission and had a nice chat with a local who told us where to go so we could see turtles. We think we saw five or six at least. The best part was the snorkel trip on the Great Barrier Reef with Reef Express. It wasn’t a big group, we loaded up on a small boat and spent hours snorkeling on the reef. It was beautiful. We all had to wear suits, which Paul modeled for us…
 
 </br>
 <div style="text-align: center">
@@ -93,7 +97,7 @@ Well, more correctly Wongaling Beach, liked it here so much we actually stayed t
   <a style="display:inline-block;text-decoration:none;color: #595959;" href="https://photos.google.com/share/AF1QipPBgto4ENVEK4F8CitJEov2yBZ6zn956DhglVYBOeJaN3H6FLPDRYBkuT5G2rhVeA/photo/AF1QipOCMqXhDxUVHw0S3O7sZV8aGZaGmH_mScZNc_ki?key=c0p3YTJOdUxieGYyU3cxcmt3ZnFYRDR1Qy1KZk9n" target="_blank"><img alt="Sea Snake" loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3dBQrAAWG02KFp_ZLp6Ys2nDXG_3qO9ON2JU_YRKZfREM9bux1NyF_TUXan1oXoOfnHdr5033ZrrfcvSryVZozyo0EBGMqOl52pxTJSpe0B9BJ6jq3JYyyNs9ZBISU31APALDshaBCcWZSaEJgVbg6jZA=w315-no" width="315" /><div>Sea Snake</div></a>
 </div>
 
-From here it was a quick overnight in Cairns for a sink pump repair and then on to the Daintree and Cape Tribulation. Our first ferry crossing ($25 return) was less than 10 minutes and we were on the winding roads surrounded by huge trees. After one night at Cape Tribulation camping, which is pretty rustic but has a restaurant with highly rated pizza and decent coffee, we headed south on the Cook Highway.
+From here, it was a quick overnight in Cairns for a sink pump repair, and then on to the Daintree and Cape Tribulation via the stunning Captain Cook Highway. Our first ferry crossing ($25 return) was less than 10 minutes, and soon we were on winding roads surrounded by massive trees. We stayed one night at [Cape Tribulation camping](https://maps.app.goo.gl/iNnGzG54FQfnAXRs7), which was pretty rustic but has a restaurant with highly-rated pizza and decent coffee. It really felt pretty remote, especially on the beach. After that, we started the long journey back down south!
 
 </br>
 <div style="text-align: center">
