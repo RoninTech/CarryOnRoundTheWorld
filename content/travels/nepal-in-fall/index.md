@@ -10,7 +10,7 @@ description: "\b"
 album: "https://photos.app.goo.gl/qQ4RWf1UakGEMoY59"
 ---
 
-On our way to Nepal, yes we are going back to hike the Annapurna Circuit again, we decided to take a couple of days and spoil ourselves in Bangkok. We stayed at our favorite hotel, the Vie, pigged out on breakfast buffets, sushi and curries, did some shopping and slept.
+On our way to Nepal—yes, we're going back to hike the Annapurna Circuit again!—we decided to take a couple of days and spoil ourselves in Bangkok. We stayed at our favorite hotel, the VIE, pigged out on breakfast buffets, sushi, and curries, did some shopping, and got plenty of sleep.
 <!--more-->
 </br>
 <div style="text-align: center">
