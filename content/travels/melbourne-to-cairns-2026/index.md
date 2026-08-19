@@ -9,7 +9,6 @@ draft: false
 author: "Helen"
 album: https://photos.app.goo.gl/tkkmQEoWt3mUjZ3y9
 omit_header_text: false
-description: ". "
 show_nav_menu: true
 ---
 
