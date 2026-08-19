@@ -7,7 +7,6 @@ images:
 author: "Paul"
 date: 2020-09-09T18:26:37-07:00
 omit_header_text: false
-description: "\b"
 draft: false
 show_nav_menu: false
 show_author_reading_data: false

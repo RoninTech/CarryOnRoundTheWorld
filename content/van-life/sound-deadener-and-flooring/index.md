@@ -6,7 +6,6 @@ images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3f2b9urB77hcWsDRQFK0E-hdCGFG_yB-Si9xM_agtLu8goXvm1oRaggJl-WzRSGHCvqsG9O0FCTyYWBDLjeLAkThvcE2AketbYCuhYIZQHYr9gszyf-OtrrJ82Rk8wwI1BQSDqOQr_6DUWDUUR415pAYg=w1210-h908-no"
 author: "Paul"
 omit_header_text: false
-description: "\b"
 draft: false
 ---
 

@@ -7,7 +7,6 @@ images:
   - "https://lh3.googleusercontent.com/pw/AP1GczPQWYgJJz616B8LogL_0IZTapTx8bgj4nbzIuF17YpAD53fsHblcsGjwzzBHTQJALi1KBWifgUARSfoUu-Z7ElGVUbzlY0ewIvFH8aev4bjUuYuL39CWhtREBqi6q8dZC-vqTCTHCtMzlqB_jF3rqox7A=w1127-h845-s-no"
 author: "Helen"
 omit_header_text: false
-description: "\b"
 ---
 
 Leaving the PCT was one of the hardest decisions we have made but we both believe that it was the right choice. Paul’s knee was getting worse, my feet were constantly sore and neither of us was feeling right. We called our parents from our last camp spot to discuss options. All of them were so supportive and encouraging about our decision. It helped us to feel more comfortable about the decision to return.

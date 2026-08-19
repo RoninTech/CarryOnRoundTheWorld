@@ -8,7 +8,6 @@ draft: false
 author: "Helen"
 album: https://photos.app.goo.gl/uzbLWjoVwMLP1Gpc8
 omit_header_text: false
-description: "\b"
 ---
 
 The flight from YXC - YVR was easy and arrived on time. We grabbed some lunch then went and checked into the Fairmont Vancouver Airport. We had an 11 hour layover so Paul used his Amex travel credit to get us a really good deal. We relaxed and headed over to check in just in time to catch our flights to Chiang Mai. Everything went smoothly and we enjoyed the flights. Ian and Ness picked us up from the airport so it was a great start. It turned out Matt was there as well, he was returning from Vietnam. 

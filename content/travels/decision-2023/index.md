@@ -8,7 +8,6 @@ draft: false
 author: "Helen"
 album: 
 omit_header_text: false
-description: "\b"
 ---
 Part of being in Chiang Mai was having time to decide what was next. We had extended our lease until September, but then what? We decided that we wanted to travel again — exciting — but where? Spoilt for choice, we started watching travel vlogs, reading blogs, and came to the conclusion: time for a road trip! Which then… sorry, nope, I won’t bore you with all that—fast-forward to us deciding that spending time in a van was the way to go. Considering we’d just sold ours, this made total sense… right? I’m not entirely sure what logic we were using, but once the idea took hold, we ran with it! (Or rather, drove with it ;-)) Where do you do that? G’day mate… Australia, of course! We had already been lucky enough to experience the East Coast portion back in 2017 {[1](/travels/australia-brisbane-to-daintree/),[2](/travels/australia-daintree-to-melbourne/)}, with a short 10 days in Tasmania, and we had always said we’d love to go back. The timing seemed right so we set the wheels in motion! See what I did there? 😏  
 

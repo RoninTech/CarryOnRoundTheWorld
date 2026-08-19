@@ -8,7 +8,6 @@ draft: false
 author: "Helen"
 album: https://photos.app.goo.gl/wTwCt3ugUm44ZFmN7
 omit_header_text: false
-description: "\b"
 ---
 
 ## [CNS-SIN-BKK](http://www.gcmap.com/mapui?P=CNS-SIN-BKK)

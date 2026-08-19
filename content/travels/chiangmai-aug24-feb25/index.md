@@ -8,7 +8,6 @@ draft: false
 author: "Helen"
 album: https://photos.app.goo.gl/ZYM6BYUpgXSQF1ib7
 omit_header_text: false
-description: "\b"
 ---
 Our flight was on time and we were quickly seated, jammies handed out and food choices selected. It was an easy flight to Taipei and we both got some sleep. Luckily our layover wasn't very long and we relaxed in the lounge, no ice cream dramas, before getting our flight to Chiang Mai. We were able to fly TPE-CNX so we didn't have to deal with another layover in BKK. The plane was smaller and had old style seats but was still comfortable. Another great flying experience with EVA Air in the books.
 

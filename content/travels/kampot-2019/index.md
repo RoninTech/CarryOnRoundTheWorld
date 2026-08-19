@@ -8,7 +8,6 @@ images:
   - "https://lh3.googleusercontent.com/pw/AP1GczNPGAIaRm95EFPBClXpmtArCSUJHl7FfOQwxsmmwicVWz100mUqaw4dxo5NSfIOrXCaaNwp2TUvXDcBG2FKNcH86gYHHmsGeaICcWFRB_FUWtPC56UZBzOeYwEGpNT3-6stwUoYq1ZhWHLISQQ8hqYBuQ=w1183-h887-s-no"
 author: "Helen"
 omit_header_text: false
-description: "\b"
 album: "https://photos.app.goo.gl/61V9JRqU9hrkdUPX6"
 ---
 

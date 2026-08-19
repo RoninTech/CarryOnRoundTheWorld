@@ -7,7 +7,6 @@ images:
 featured_image_class: "cover bg-center"
 author: "Helen"
 omit_header_text: false
-description: "\b"
 album: "https://photos.app.goo.gl/IrhmfIOGEZrs7Lxz1"
 ---
 

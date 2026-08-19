@@ -6,7 +6,6 @@ images:
   - "https://lh3.googleusercontent.com/pw/AP1GczPzucwx7RZhF4Tb6A_5ihcIY5fb02s0_L1Y8iO5-hzjClhQ4fN2jwHfsokesjpNxD3QmaXBAfBqxkwFly0vezN0zFMxz6iUPdGHtxqkrxsp1gbNfIAEJbrQrPxF8XIQdbBtMjcyDy-lz9AQubi-eayBHg=w1183-h887-s-no"
 author: "Helen"
 omit_header_text: false
-description: "\b"
 ---
 
 For those of you that have followed our story, you know that we came back to Canada in Spring 2020 due to the uncertainty of covid. We had purchased a van thinking it would be a great time to get started on building our van life plan. Unfortunately it wasn't, life happened, and we needed to make a change. Without having a home base, we had been dependent on family for places to stay, parking the van and storing boxes of our stuff. John, Bill and Tracy had already done so much to help us, we can never repay them other than offering our continued thanks, but this wasn’t a long term solution. We debated settling down somewhere so we would have our own place to stay when in Canada. Various locations were on the table and we even looked at some properties. The van, while awesome, added to the need to have something sorted out. 

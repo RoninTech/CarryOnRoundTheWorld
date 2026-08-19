@@ -8,7 +8,6 @@ draft: false
 author: "Helen"
 album: https://photos.app.goo.gl/XhHRbW4P3KvLub11A
 omit_header_text: false
-description: "\b"
 ---
 
 We know, we know… we said we weren’t going back. Yet here we are, doing exactly that 😁! Long story short, or the TL;DR version: we got a really good deal on a van we couldn’t pass up, used Air Canada mileage rewards for some nice “bidness class” flights which included an A-350 and booked a 3 month roadtrip. Skip the next two paragraphs if you are good with that! 

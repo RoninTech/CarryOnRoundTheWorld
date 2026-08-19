@@ -4,7 +4,6 @@ featured_image: "/images/featured/content__indexq20.webp"
 featured_image_class: "cover bg-center"
 images:
   - "https://lh3.googleusercontent.com/pw/AP1GczNK-hUAHzp7hlqLBpjBWCRRO3N4vdQTFoVJFEWKkWYoXBTGq7-f1JJANeJ-_ZabLrInWYnIHoG48XhxSJpOLzVGf-7_Bc6wRXh_lGrVJ3tU68m3192hA6v6HePnvmjlkuPb-uaBWJ328qqcuNyXf83gVQ=w1573-h887-s-no"
-description: "\b"
 ---
 
 On February 28th, 2017 we left Calgary, Canada on a one way ticket to South East Asia after selling our house and most of our possessions and retiring early. After a lot of preparation it was the start of a massive ongoing adventure. This is how long ago our adventure started:

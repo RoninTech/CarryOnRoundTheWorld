@@ -8,7 +8,6 @@ draft: false
 author: "Helen"
 album: https://photos.app.goo.gl/zUf3LxoRRBxEvUoU7
 omit_header_text: false
-description: "\b"
 ---
 ## Koh Lipe: February 8 to 27, 2025
 

@@ -8,7 +8,6 @@ draft: false
 author: "Helen"
 album: https://photos.app.goo.gl/9PSEHMbLGU8BGQXr5
 omit_header_text: false
-description: "\b"
 ---
 
 Yep, a second trip to Koh Lipe was in the cards! While we were sitting in Huonville one day Paul commented that he didn’t feel he had enough time on Lipe when we were there in February. He had gotten sick and we ended up having to cut the trip short which wasn’t great. We had just about a month between Tasmania and Canada (surprise, we are going back for the summer) and we hadn’t decided where to go yet. Despite discussing some different options we kept coming back to Lipe. 

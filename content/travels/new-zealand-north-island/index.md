@@ -7,7 +7,6 @@ images:
   - "https://lh3.googleusercontent.com/pw/AP1GczMlzc9ESR560xfca-C6p7mzZ-1WfnABcFKvGcMp_MZEM5rhBLpsdBuSvk9OZPSHHIaLJUu4urRA_CTGxofbtsk-h8LbOTaljOg-lu3d9IFj3-4Zlpbq3sgMC5hrqxI0kxtWnvzVBCNCsbAkxPYgSVV8sg=w1183-h887-s-no"
 author: "Helen"
 omit_header_text: false
-description: "\b"
 album: "https://photos.app.goo.gl/Rh6hiPjjERqqkZij2"
 ---
 ## The Ferry

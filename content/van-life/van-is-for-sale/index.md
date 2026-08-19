@@ -6,7 +6,6 @@ images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3cJSxonyTmC65j3pL_eatOCylb8hDs8eO-xYOu2Wk6OKGJAgpsq8v3bbuEbdECkQ5kTNJcxBT3KFz_0Y9pICwUPiinObhhm7uMp4JsM4-WsDLmMCdsvwsxiDby-62rkAxtQn0AkLeMgB-4qCVBuceAoPg=w1210-h908-no"
 author: "Paul"
 omit_header_text: false
-description: "\b"
 draft: false
 album: "https://photos.app.goo.gl/tMnMC9bKGSC87WpZ8"
 summary: "Van Is Sold - Went Quick, all van parts gone.

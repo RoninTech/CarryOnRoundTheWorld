@@ -7,7 +7,6 @@ images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3dSxuOs_SxgSvtYdAZQBsUkCxTTIv-Q4eOH_M9iEyKqMGh3Id_-DtvFajLS3lMosVlSTmL9EMls44acWC1VVHO16FidgbkphHwxsYDAU60tkVwlT4p1Ibw1PyXMc8NrwyCnj8o2_hMPmvd2sYxG6f9weQ=w1210-h908-no"
 author: "Helen"
 omit_header_text: false
-description: "\b"
 album: "https://photos.app.goo.gl/CjANyn2tx8zhRYoB8"
 ---
 Australia Part 2 was us heading back south from the Daintree down to Melbourne and beyond. The original plan was to head inland, but we ended up sticking to the coast. The reasons: a random message allowed us to reconnect with some great people—and why not? We really enjoyed some of the places on the way up anyway. Plus, we needed to test out the Zombie Apocalypse machine we spotted on the way north. Seriously, Zombie action? Head to Australia during sugar cane harvest.

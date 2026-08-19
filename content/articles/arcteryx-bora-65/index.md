@@ -7,7 +7,6 @@ images:
 author: "Paul"
 omit_header_text: false
 draft: false
-description: "\b"
 ---
 
 Our Arc’teryx Bora 65 Backpacks are 2 of the best things we’ve purchased. Despite the miles on them they’ve come through everything with flying colours. [Arc’teryx](https://arcteryx.com/ca/en/) has provided us with some great products. They are located in Vancouver, Canada and produce very high quality gear that they completely stand behind. Over the years we’ve had 3 backpacks (Bora 80 and 2 Bora 65’s), 4 Gore-Tex jackets (1 15-year-old and 3 newish Theta ARs) and 2 hooded Atom LT insulated jackets from them. Their stuff isn’t cheap but it performs incredibly well, making them a perfect example of the phrase “you get what you pay for”.

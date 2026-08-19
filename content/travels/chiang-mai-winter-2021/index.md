@@ -6,7 +6,6 @@ images:
   - "https://lh3.googleusercontent.com/pw/AP1GczMS9AW7Niq0TUiz9M1fgh_5YEYkn6joxS9Mt1Zt6NwHsycdJWZEopcOSySLK2bcmJMV7U3rJRxDzSIWGUQhWbh3RW3DcjA-r-qagnbFfjOcOb6UigFp0Opl5iT0WJjpqID3tJ65al9ARhA9ptxz9O2d7w=w1183-h887-s-no"
 author: "Helen"
 omit_header_text: false
-description: "\b"
 album: "https://photos.app.goo.gl/LbwvYzDjGv8FGwU78"
 ---
 

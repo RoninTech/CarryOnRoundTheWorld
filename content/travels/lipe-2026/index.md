@@ -8,7 +8,6 @@ draft: false
 author: "Helen"
 album: https://photos.app.goo.gl/Fos2D6VJW9BadMgy6
 omit_header_text: false
-description: "\b"
 ---
 
 Another trip to Lipe… same same but always a little different. 🤷 We did the usual flight to Hat Yai, taxi to Pak Bara combination with no issues. We were able to store the duffle (had to bring it for what's next) at Tik’s place on the mainland again which was really nice. After a quiet night in Pak Bara we got the early ferry to Lipe. The speed boat was fine, not too wavy and we didn't even have the extra stop along the way. We arrived with no issues, hopped a quick taxi to The Reef and we were back. 

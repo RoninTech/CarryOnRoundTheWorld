@@ -8,7 +8,6 @@ draft: false
 author: "Helen"
 album: https://photos.app.goo.gl/tV9Le43YCk84V63QA
 omit_header_text: false
-description: "\b"
 ---
 We had a good experience at Melbourne airport, we flew with Virgin Australia who have their own terminal. Check in was easy and we were back by the gate with enough time to grab a coffee. The flight to Hobart was great, short and smooth, grabbed our duffle bag from the luggage carousel and headed off to pick up the van. The dealer for Let’s Go Motorhomes in Hobart is [Tassie Motor Shacks](https://www.tassiemotorshacks.com.au/) who we had dealt with back in [2017](https://carryonrtw.com/travels/tasmania/). Pick up was great, Sarah was awesome and the van was spotless. Even better, our van was much newer with only 30,000 kms and the cushions were in great shape.<!--more-->We headed off to get lunch and some groceries before we settled down at the [Big 4 Tourist Park](https://www.big4.com.au/caravan-parks/tas/hobart-surrounds/hobart-airport-tourist-park) by the airport to unpack and get organized. This van is Skippy PD… or Skippy Part Deux. It was an easy set up since it had the same layout as SOG(Skippy Original) but had a larger fridge and everything worked perfectly.
 

@@ -8,7 +8,6 @@ draft: false
 author: "Helen"
 album: https://photos.app.goo.gl/UgNEPmqKVX6jz4CJ6
 omit_header_text: false
-description: "\b"
 ---
 
 We had an early morning drop off for SPD in Hobart, Sarah was great. Weirdly, we struggled to get an Uber. The first one showed up and drove away because we had “luggage” even though we indicated we had mentioned the luggage when we booked. Apparently a medium sized duffle and two small backpacks is too much for a regular SUV! The next Uber driver was great and we made it with time to head outside for some fresh air and coffee. We met a really nice couple sitting on one of the benches who were returning home to NZ after visiting their son in Tasmania. They gave us lots of suggestions for stops on the North Island.  We had also met another couple when returning the van, who happened to be on the same flight, also returning home to New Zealand. The flight wasn't full, so he came and sat with us for a little, giving us some ideas for stops and their contact info. We had given ourselves almost a month for the North Island portion. [Last time](https://carryonrtw.com/travels/new-zealand-north-island/) was 10 days and we didn’t feel it was enough. The flight was really good and we made it on schedule.
