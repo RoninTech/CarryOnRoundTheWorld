@@ -1,0 +1,16 @@
+{{- $manual := or .Params.summary (.RawContent | strings.Contains "<!--more-->") -}}
+{{- if $manual -}}
+{{ .Summary }}
+{{- else -}}
+{{- $n := int (.Site.Params.summaryLength | default 70) -}}
+{{- if and (gt $n 0) (gt (len .PlainWords) $n) -}}
+{{- $m := findRE (printf "\\A(?:\\S+\\s+){%d}\\S+(?:\n|[^.?!\"\n]*[.?!\"\n])" (sub $n 1)) .Plain -}}
+{{- if $m -}}
+{{ strings.TrimSpace (index $m 0) | htmlUnescape }}
+{{- else -}}
+{{ delimit (slice .PlainWords 0 $n) " " | htmlUnescape }}
+{{- end -}}
+{{- else -}}
+{{ .Plain | htmlUnescape }}
+{{- end -}}
+{{- end -}}

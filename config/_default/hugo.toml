@@ -9,6 +9,7 @@ pagination.pagerSize = 9 # this is set low for demonstrating with dummy content.
 googleAnalytics = "G-QT3G9GJDXC"
 enableRobotsTXT = true
 enableEmoji = true
+summaryLength = 50
 
 [sitemap]
   changefreq = "monthly"
@@ -18,7 +19,15 @@ enableEmoji = true
 [markup.goldmark.renderer]
   unsafe= true
 
+[params.ananke.pages]
+  show_list_images =true
+  show_date = true
+
 [params]
+  # Mirror of the top-level summaryLength above: Hugo 0.165 templates cannot read
+  # top-level config keys, and layouts/_partials/page-summary.html reads this one.
+  # Keep both in sync.
+  summaryLength = 50
   favicon = "/images/favicons.png"
   site_logo = "/images/cropped-rtw_icon-512x512.png"
   description = "Carry On luggage only travels and adventures around the world with Canadians Paul and Helen Rimmer"
