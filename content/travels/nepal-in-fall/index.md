@@ -10,7 +10,7 @@ album: "https://photos.app.goo.gl/qQ4RWf1UakGEMoY59"
 ---
 
 On our way to Nepal—yes, we're going back to hike the Annapurna Circuit again!—we decided to take a couple of days and spoil ourselves in Bangkok. We stayed at our favorite hotel, the VIE, pigged out on breakfast buffets, sushi, and curries, did some shopping, and got plenty of sleep.
-<!--more-->
+
 </br>
 <div style="text-align: center">
   <a style="display:inline-block;text-decoration:none;color: #595959;" href="https://photos.google.com/share/AF1QipPG8_YkNBpj8EC_hiflodjk7RRXpLICgTN0VBHJQ-gxdk_83Mqip9vGYHIezux9jA/photo/AF1QipPm4TEkSdjiYrrirWLd22Mtj8_sI20Ytkkl14Cv?key=amNoNU5QSmlIckU3QTVGUy1WNTBvSFlIQW93a2ZB" target="_blank"><img alt="Breakfast at The Vie" loading="lazy" src="https://lh3.googleusercontent.com/pw/ACtC-3cCyOqRemZhaWZI_C__FJ_zen01WmJzToFwI_DCqkbE7WOEtpLBxvRR3lj-PdcB_w_oxH9WiLFI8Soj50RCiJx-eCI6e7kaiASs5N7LNqRw4Q7w6ofCHOhE8vT4r9AphEFQ14tF2iepfiRMkfo_gq3NIg=w370-no" width="370" /><div>Breakfast at The Vie</div></a> 
