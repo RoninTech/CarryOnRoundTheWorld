@@ -9,7 +9,7 @@
     {{- $text_alignment = "tr-l" -}}
   {{- end -}}
 
-  <article class="cf ph3 ph5-l pv3 pv4-l {{ $text_alignment }} center mw8 lh-copy nested-links {{ $.Param "text_color" | compare.Default "mid-gray" }}">
+  <article data-pagefind-body class="cf ph3 ph5-l pv3 pv4-l {{ $text_alignment }} center mw8 lh-copy nested-links {{ $.Param "text_color" | compare.Default "mid-gray" }}">
     {{ .Content }}
   </article>
 

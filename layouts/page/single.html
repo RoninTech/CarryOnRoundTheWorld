@@ -13,7 +13,7 @@
           {{ .Title }}
         </h1>
       </header>
-      <div class="nested-copy-line-height lh-copy f5 nested-links {{ $.Param "text_color" | compare.Default "mid-gray" }}">
+      <div data-pagefind-body class="nested-copy-line-height lh-copy f5 nested-links {{ $.Param "text_color" | compare.Default "mid-gray" }}">
         {{- partials.Include "hook.html" (dict "hook" "content-before" "context" .) -}}
         {{ .Content }}
         {{- partials.Include "hook.html" (dict "hook" "content-after" "context" .) -}}
