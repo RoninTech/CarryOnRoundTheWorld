@@ -9,7 +9,7 @@ author: "Helen"
 omit_header_text: false
 album: "https://photos.app.goo.gl/WC9zkF8mjnNPtBJd8"
 ---
-John and Rita dropped us off at Cranbrook airport on December 12. It was a nice morning but there had been some snow. We'd left early so we could take our time on the drive and went for coffee together before leaving. Our flight this time was [Cranbrook-Vancouver-Tokyo-Bangkok](http://www.gcmap.com/mapui?P=YXC-YVR-HND-BKK). I had arranged to meet my sister Jayne at the airport. We were supposed to have 2 hours in Vancouver but it was pouring when we arrived and took over 30 minutes to get a gate and get off the plane. We did get to spend a quick half hour with Jayne before we headed through customs.
+John and Rita dropped us off at Cranbrook airport on December 12. It was a nice morning but there had been some snow. We'd left early so we could take our time on the drive and went for coffee together before leaving. Our flight this time was [Cranbrook-Vancouver-Tokyo-Bangkok](https://gcmap.io/?route=YXC-YVR-HND-BKK). I had arranged to meet my sister Jayne at the airport. We were supposed to have 2 hours in Vancouver but it was pouring when we arrived and took over 30 minutes to get a gate and get off the plane. We did get to spend a quick half hour with Jayne before we headed through customs.
 
 </br>
 <div style="text-align: center">
