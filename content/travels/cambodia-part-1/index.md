@@ -78,7 +78,7 @@ If you are ever in Siem Reap, the [Phare Circus](https://pharecircus.org/) is a 
 
 ## Phnom Penh
 
-<a href="https://photos.app.goo.gl/awxApQKtKVodwckW7" target=”_blank”><img src="/images/image-gallery.png" title="Phnom Penh Photo Album" alt="Phnom Penh Photo Album" height="50"></a>
+<a href="https://photos.app.goo.gl/awxApQKtKVodwckW7" target=”_blank”><img  loading="lazy" src="/images/image-gallery.png" title="Phnom Penh Photo Album" alt="Phnom Penh Photo Album" height="50"></a>
 
 Admittedly, Phnom Penh was not our favorite place. We spent two nights here on the way to Chiang Mai/Hong Kong… yep, heading to Hong Kong! More to follow on that event. Anyhoo, we bused it to Phnom Penh on the [Cambodia Post VIP passenger van](https://www.cambodiapost.post/en/) from Siem Reap (highly recommended!). No one fell asleep on this trip. We spent a full day at the [Killing Fields](https://goo.gl/maps/VdeE7igEXuwKvZdE8) and the [S-21 (Tuol Sleng) Genocide Museum](https://goo.gl/maps/tczjNu3HaDtXVkdc8). While heartbreaking, it is something that you need to do if heading to Cambodia. Listening to the tapes from survivors, seeing photos, videos, and learning about what happened was an emotional rollercoaster, and we both felt physically and emotionally exhausted afterwards. We were glad to get them both done in one day so we could start the emotional recovery. It’s horrific, heartbreaking, and devastating learning about what happened and understanding how this still affects the Cambodian people. You'll never look at an older Khmer person the same way again. Over a year later, the feelings all came back while we were at the War Remnants Museum in Saigon.
 
