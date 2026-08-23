@@ -95,7 +95,7 @@ The van has been completely insulated for sound and temperature using Noico soun
 
 The roof is setup for 400W of solar panels with 80/20 roof rails installed into the factory attachment points. Solar panels and mounting pieces are available and ready to be installed for purchaser at costs detailed below.
 
-A true 2KW diesel heater is installed beneath the passenger seat and a 5100K white Maxxfan in the rear of the van roof. These combined with the [Transit Van Cab Window Air Vent Inserts](https://vanupgrades.com/products/transit-van-cab-window-air-vent-inserts) make a great combination. An upgraded diesel heater controller ([the Afterburner](http://www.mrjones.id.au/afterburner/)) is included to make best use of the heater.
+A true 2KW diesel heater is installed beneath the passenger seat and a 5100K white Maxxfan in the rear of the van roof. These combined with the [Transit Van Cab Window Air Vent Inserts](https://vanupgrades.com/products/transit-van-cab-window-air-vent-inserts) make a great combination. An upgraded diesel heater controller ([the Afterburner](https://www.mrjones.id.au/afterburner/)) is included to make best use of the heater.
 
 Last item to be installed was a removable East West sliding bed to maximize interior space usage. If this doesn't match your desired layout then it is a simple matter to remove and start your own.
 
@@ -112,7 +112,7 @@ Last item to be installed was a removable East West sliding bed to maximize inte
 
 ### [Tons of info at Ford Website](https://www.ford.com/support/vehicle/transit/2020/) including owners manual etc.
 
-### [Excruciating details on the van in the 2020 Ford Transit BEMM Manual](t.ly/cRAy)
+### [Excruciating details on the van in the 2020 Ford Transit BEMM Manual](https://madocumentupload.marketingassociates.com/api/Document/GetFile?v1=5794218&v2=030321080653&v3=60&v4=441f003677cd0ad7abea1049b4148adf5a1db39b193f5ccb269c4b8d&v5=False)
 
 Here is a list of all of the items that have been installed so far and how much they cost:
 
