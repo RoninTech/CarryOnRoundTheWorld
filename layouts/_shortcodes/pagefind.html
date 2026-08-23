@@ -1,18 +1,10 @@
+<!-- No worker compatibility shim needed: Pagefind 1.5.x detects Web Worker
+     support itself and falls back to the main thread automatically when the
+     worker is unavailable or errors out (see initSharedWorker in
+     pagefind.js). A previous global window.Worker monkey-patch was removed
+     on 2026-08-22 because it disabled the worker for every script on the
+     page and broke Worker semantics for non-Pagefind code. -->
 <link href="/_pagefind/pagefind-modular-ui.css" rel="stylesheet">
-<script>
-  (function disablePagefindWorker() {
-    if (typeof Worker === "undefined") return;
-    const OrigWorker = window.Worker;
-    window.Worker = function (url, options) {
-      const urlStr = (url && url.toString && url.toString()) || String(url);
-      if (urlStr.indexOf("pagefind-worker") !== -1) {
-        throw new Error("Pagefind worker disabled for browser compatibility");
-      }
-      return new OrigWorker(url, options);
-    };
-    window.Worker.prototype = OrigWorker.prototype;
-  })();
-</script>
 <script src="/_pagefind/pagefind-modular-ui.js" type="text/javascript"></script>
 <div id="search">
   <div id="search-input"></div>
