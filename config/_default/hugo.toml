@@ -1,11 +1,11 @@
 baseURL = "https://carryonrtw.com"
-languageCode = "en-us"
+locale = "en-us"
 title = "Carry On Round The World"
 theme = ["github.com/gohugo-ananke/ananke/v2"]
 
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
-pagination.pagerSize = 9 # this is set low for demonstrating with dummy content. Set to a higher number
+pagination.pagerSize = 9
 googleAnalytics = "G-QT3G9GJDXC"
 enableRobotsTXT = true
 enableEmoji = true
@@ -19,6 +19,9 @@ summaryLength = 50
 [markup.goldmark.renderer]
   unsafe= true
 
+[params.ananke]
+custom_css = ["custom.css", "formatted_tables.css", "next_prev_links.css"]
+
 [params.ananke.pages]
   show_list_images =true
   show_date = true
@@ -28,7 +31,7 @@ summaryLength = 50
   # top-level config keys, and layouts/_partials/page-summary.html reads this one.
   # Keep both in sync.
   summaryLength = 50
-  favicon = "/images/favicons.png"
+  favicon = "/images/favicon.ico"
   # site_logo = "/images/cropped-rtw_icon-512x512.png"
   site_logo = "images/rtw_icon.svg"
   description = "Carry On luggage only travels and adventures around the world with Canadians Paul and Helen Rimmer"
@@ -44,7 +47,7 @@ summaryLength = 50
   show_reading_time = true
   commentoEnable = false
   mainSections = ["travels", "packs", "articles", "van-life"]
-  custom_css = ["custom.css", "formatted_tables.css", "next_prev_links.css"]
+
 
 [menu]
   [[menu.main]]
