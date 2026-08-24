@@ -17,7 +17,7 @@ Some stats during this time:
 <br />
 Here's a map showing all of the places we've stayed and travel hubs we've used in our adventures so far. They start in Calgary (1) on February 28th, 2017, and continue to wherever we are now. If you click on the icon for a location it shows when we arrived there and a link to the relevant photo album. Click the [ ] in the upper right of the map to go full screen.
 
-<a href="https://www.google.com/maps/d/u/0/embed?mid=1wlM2-pQKkpSOQFAND2thDd4ozPkyRuQ&ehbc=2E312F&z=2&ll=5"><img loading="lazy" src="/images/travel-map.webp" alt="Every place we've stayed in our travels" title="Every place we've stayed in our travels" /></a>
+<a href="https://www.google.com/maps/d/u/0/embed?mid=1wlM2-pQKkpSOQFAND2thDd4ozPkyRuQ&ehbc=2E312F&z=2&ll=5"><img loading="lazy" src="/images/travel-map.webp" width="892" height="509" alt="Every place we've stayed in our travels" title="Every place we've stayed in our travels" /></a>
 
 We started off with grand plans of blogging all about our travels. It wasn't long before we realized how much work that required, especially with just our phones. This totally went against our #1 requirement of having fun. So now we simply update our travels map to show where we are, where we have been and show links to a locations photo album (if you click the location marker). Every once in a while we add a page for somewhere we've been. You can find those under the "Travels" link above. We've also added some articles we've written on how we manage to travel long term.  
 &nbsp;

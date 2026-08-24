@@ -249,12 +249,12 @@ We keep a micro SD card loaded into the micro SD card slot of our Raspberry Pi. 
 
 ### Calibre
 
-<a href="https://calibre-ebook.com/"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Calibre_logo.png" width="64" alt="Calibre Ebook Library Manager" title="Calibre Ebook Library Manager"></a>  
+<a href="https://calibre-ebook.com/"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Calibre_logo.png" width="64" height="43" alt="Calibre Ebook Library Manager" title="Calibre Ebook Library Manager"></a>  
 E-Book library management tool. This software manages all of our e-books. Once books are added to the Calibre library we can access them over the network through the COPS server running in a docker (see below). This allows us to load books from the Pi onto our Kobo E-readers or phones. Open source.
 
 ### Cozy
 
-<a href="https://github.com/geigi/cozy"><img loading="lazy" src="/images/com.github.geigi.cozy.svg" width="64" alt="Cozy Audiobook Player for Linux" title="Cozy Audiobook Player for Linux"></a>  
+<a href="https://github.com/geigi/cozy"><img loading="lazy" src="/images/com.github.geigi.cozy.svg" width="64" height="64" alt="Cozy Audiobook Player for Linux" title="Cozy Audiobook Player for Linux"></a>  
 Cozy is a modern audiobook player for Linux. It is part of the [Gnome circle project](https://circle.gnome.org/). You point it to the folder containing your audiobook collection and it imports them for playing.  It supports DRM free mp3, m4a + m4b (aac, ALAC, …), flac, ogg, opus and wav files.  Open source.
 
 ### Hugo

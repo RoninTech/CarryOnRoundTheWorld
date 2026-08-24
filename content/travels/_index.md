@@ -16,12 +16,12 @@ Here's links to maps of all the flights we've taken. Just click the banners belo
 
 <a href='https://openflights.org/user/CarryOnRTW' target='_blank'><img loading="lazy" src='https://openflights.org/banner/CarryOnRTW.png' width=400 height=70 alt="Flights since our adventure started Feb. 2017" title="Flights since our adventure started Feb. 2017"><br />Flights since our adventure started Feb. 2017</a>
 
-<a href="https://my.flightradar24.com/CarryonRTW"><img loading="lazy" src="https://banners-my.flightradar24.com/CarryonRTW.png" alt="Flights as far back as we can remember" title="Flights as far back as we can remember" /><br />Flights as far back as we can remember</a><br />
+<a href="https://my.flightradar24.com/CarryonRTW"><img loading="lazy" src="https://banners-my.flightradar24.com/CarryonRTW.png" width="320" height="70" alt="Flights as far back as we can remember" title="Flights as far back as we can remember" /><br />Flights as far back as we can remember</a><br />
 <br />
 
 ### Random selfies from our travels:
 
 
-<a href="https://docs.google.com/presentation/d/1MPVn9F-UO9g0DVikhR8PqgxJ2SrYjjmkIOPjo7oSDFs/present?start=true&loop=true&delayms=5000"><img loading="lazy" src="/images/selfies.webp" alt="All our travel selfies" title="All our travel selfies" /></a>Click the image to play the slideshow<br />
+<a href="https://docs.google.com/presentation/d/1MPVn9F-UO9g0DVikhR8PqgxJ2SrYjjmkIOPjo7oSDFs/present?start=true&loop=true&delayms=5000"><img loading="lazy" src="/images/selfies.webp" width="1011" height="569" alt="All our travel selfies" title="All our travel selfies" /></a>Click the image to play the slideshow<br />
 
 ### Below are links to blog posts we've written about our travels:
