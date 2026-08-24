@@ -2,6 +2,8 @@
 title: "Pre PCT 2019"
 date: 2019-07-01T07:18:08-07:00
 featured_image: "content_travels_pre-pct-2019.webp"
+images:
+  - "content_travels_pre-pct-2019.webp"
 author: "Helen"
 omit_header_text: false
 album: "https://photos.app.goo.gl/WeEzbPyMq9dWHqAR9"
