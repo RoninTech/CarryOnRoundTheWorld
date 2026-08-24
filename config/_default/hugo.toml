@@ -48,6 +48,19 @@ custom_css = ["custom.css", "formatted_tables.css", "next_prev_links.css"]
   commentoEnable = false
   mainSections = ["travels", "packs", "articles", "van-life"]
 
+[params.giscus]
+  enable = true
+  repo = "RoninTech/CarryOnRoundTheWorld"
+  repoId = "R_kgDOHchbBw"
+  category = "Comment"
+  categoryId = "DIC_kwDOHchbB84CQRzz"
+  mapping = "og:title"
+  reactionsEnabled = 1
+  emitMetadata = 0
+  inputPosition = "top"
+  theme = "light"
+  lang = "en"
+  loading = "lazy"
 
 [menu]
   [[menu.main]]

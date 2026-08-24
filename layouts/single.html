@@ -82,26 +82,12 @@
         {{- partials.Include "commento.html" . -}}
       </div>
       {{ end }}
+      {{ if .Site.Params.giscus.enable }}
       <section>
         <div style="border-top: 6px solid #333333"></div>
-        <div id="comments">
-          <script src="https://giscus.app/client.js"
-            data-repo="RoninTech/CarryOnRoundTheWorld"
-            data-repo-id="R_kgDOHchbBw"
-            data-category="Comment"
-            data-category-id="DIC_kwDOHchbB84CQRzz"
-            data-mapping="og:title"
-            data-reactions-enabled="1"
-            data-emit-metadata="0"
-            data-input-position="top"
-            data-theme="light"
-            data-lang="en"
-            data-loading="lazy"
-            crossorigin="anonymous"
-            async>
-          </script>
-        </div>
+        {{- partials.Include "giscus.html" . -}}
       </section>
+      {{ end }}
     </div>
     {{- if $needs_aside -}}
     <aside class="w-30-l mt6-l">
