@@ -11,6 +11,22 @@
   <p id="search-summary"></p>
   <ul id="search-results"></ul>
 </div>
+<style>
+  .pagefind-modular-list-meta {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 0 calc(6px * var(--pagefind-ui-scale));
+    font-weight: 400;
+    font-size: calc(14px * var(--pagefind-ui-scale));
+    color: var(--pagefind-ui-fade);
+    margin: calc(4px * var(--pagefind-ui-scale)) 0 0 0;
+  }
+  .pagefind-modular-list-meta-item + .pagefind-modular-list-meta-item::before {
+    content: "\00B7";
+    opacity: 0.55;
+  }
+</style>
 <script>
   const queryString = window.location.search;
   const urlParams = new URLSearchParams(queryString);
@@ -21,7 +37,60 @@
     const instance = new Instance();
     instance.add(new Input({ containerElement: "#search-input" }));
     instance.add(new Summary({ containerElement: "#search-summary" }));
-    instance.add(new ResultList({ containerElement: "#search-results" }));
+    instance.add(new ResultList({
+      containerElement: "#search-results",
+      resultTemplate: (result, showImages) => {
+        const meta = result.meta || {};
+        const li = document.createElement("li");
+        li.className = "pagefind-modular-list-result";
+
+        if (showImages) {
+          const thumb = document.createElement("div");
+          thumb.className = "pagefind-modular-list-thumb";
+          li.appendChild(thumb);
+          if (meta.image) {
+            const img = document.createElement("img");
+            img.className = "pagefind-modular-list-image";
+            img.src = meta.image;
+            img.alt = meta.image_alt || meta.title;
+            thumb.appendChild(img);
+          }
+        }
+
+        const inner = document.createElement("div");
+        inner.className = "pagefind-modular-list-inner";
+        li.appendChild(inner);
+
+        const title = document.createElement("p");
+        title.className = "pagefind-modular-list-title";
+        const link = document.createElement("a");
+        link.className = "pagefind-modular-list-link";
+        link.textContent = meta.title;
+        link.href = meta.url || result.url;
+        title.appendChild(link);
+        inner.appendChild(title);
+
+        const items = [meta.section, meta.author, meta.date].filter(Boolean);
+        if (items.length) {
+          const metaLine = document.createElement("p");
+          metaLine.className = "pagefind-modular-list-meta";
+          for (const value of items) {
+            const span = document.createElement("span");
+            span.className = "pagefind-modular-list-meta-item";
+            span.textContent = value;
+            metaLine.appendChild(span);
+          }
+          inner.appendChild(metaLine);
+        }
+
+        const excerpt = document.createElement("p");
+        excerpt.className = "pagefind-modular-list-excerpt";
+        excerpt.innerHTML = result.excerpt;
+        inner.appendChild(excerpt);
+
+        return li;
+      }
+    }));
 
     if (searchString) {
       instance.triggerSearch(searchString);
