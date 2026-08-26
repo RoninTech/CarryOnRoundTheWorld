@@ -43,6 +43,7 @@ custom_css = ["custom.css", "formatted_tables.css", "next_prev_links.css"]
   featured_image_class = "cover bg-center"
   show_nav_menu = true
   show_author_reading_data = true
+  author = "Paul"
   recent_posts_number = 5
   show_reading_time = true
   commentoEnable = false
