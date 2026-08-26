@@ -74,9 +74,6 @@ public/
 # Pagefind search
 static/_pagefind
 
-# AI generated scripts to help with the website maintenance
-scripts/
-
 # Output of various programs
 crap/
 
@@ -85,7 +82,6 @@ _vendor/
 
 # AI stuff
 .opencode/
-AGENTS.md
 
 # venv stuff
 __pycache__/
@@ -101,3 +97,5 @@ pyvenv.cfg
 resources/_gen/
 
 todo.md
+
+.playwright-cli/
