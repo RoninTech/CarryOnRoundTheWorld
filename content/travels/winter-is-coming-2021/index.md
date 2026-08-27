@@ -2,6 +2,7 @@
 title: "Winter Is Coming 2021"
 date: 2021-09-22T16:37:33-07:00
 featured_image: "content_travels_Winter-Is-Coming_2021.webp"
+description: "Heading back to Thailand as Canadian winter approaches — sorting Non O retirement visas, Aeroplan miles, and the logistics of extended stays."
 images:
   - "https://lh3.googleusercontent.com/pw/AP1GczPRFiB9lUXFZm_C5vNqYLI4E5DjoiELf373HUBUq9moJ1zWWf2QN_9ZH22eqh8EZxWFpgc1tTUOgecuMx_NVK5BVmRkCFGnOWY7b_p-EaOugi2c_vXizMaVHWdB8T7_Lz5JfKTwLc-Swq-wGsTcXHzPBQ=w1183-h887-s-no"
 author: "Helen"

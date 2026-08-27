@@ -2,6 +2,7 @@
 title: "SOBO PCT Hike 2019"
 date: 2019-09-15T17:43:24-07:00
 featured_image: "content_travels_sobo-pct-2019.webp"
+description: "Hiking the Pacific Crest Trail southbound in 2019 — from Hart's Pass in Washington through Oregon and down to the Mexican border, and the difficult decision to turn back."
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3dxTlSXxz3Ut_rJahQrb3LiXHEDAe0V-0_kcMqy_UrGrqlfE7yHJ600s8Xuj4po7oMmwHBcrOJfVIJTwEgBEY4ksJKApEq9rO37IBguHCMiEKdY52wPKcpd3nacPUDXbRza_tbgMfsJQ12j8n4ebtmWVA=w1210-h908-no"
 author: "Paul"

@@ -2,6 +2,7 @@
 title: "The Land of Laos"
 date: 2017-07-15T17:27:38-07:00
 featured_image: "content_travels_the-land-of-laos.webp"
+description: "Exploring Laos — the slow boat on the Mekong to Luang Prabang, the karst landscapes of Vang Vieng, and the tranquility of the 4,000 Islands."
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3cJn7skmeroSoqeTMXxs-dbTmMx6EV6pIxgnyxU69V4-h-sQJfejVfmKxUVVer888IW1ii_E6H_o6BA_8n7Qbdzeuvf_aGhlEX4SRDNN1dtPK1BnJ75bnIHexqrszjg1jQH3ehwaSs74vu8wgBIkJMhnw=w1210-h908-no"
 author: "Helen"

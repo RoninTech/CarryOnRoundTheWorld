@@ -1,6 +1,7 @@
 ---
 title: "Chiang Mai 2024"
 date: 2025-02-08T10:42:08+07:00
+description: "Spending eight months in Chiang Mai from August 2024 to February 2025 — settling into a new apartment, reuniting with friends, and enjoying daily life."
 featured_image: "content_travels_ChiangMai-Aug24-Feb25.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/AP1GczNIf0JT_uic0mk6G666byHaNu8LYkaWJldOH55M_pBIG7H6NBK_Cc-ZW_GCvjuCzgEaDAAp64EJvA-Y05s7tw0_SGOXs7zik-UJS6Xbdz41XIA7wVyDnybTF4VnXXWRCB-QDq9wIO7zTLFNPclIyKP4NQ=w1247-h935-s-no"

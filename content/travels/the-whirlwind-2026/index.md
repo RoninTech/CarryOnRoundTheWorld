@@ -2,6 +2,7 @@
 title: "The Whirlwind"
 date: 2026-06-28T12:29:46+07:00
 featured_image: "content_travels_the-whirlwind-2026.webp"
+description: "A whirlwind journey from Chiang Mai back to Thailand — Singapore Airlines business class, Aerotel layover, and the start of another adventure."
 images:
   - "https://lh3.googleusercontent.com/pw/AP1GczMpqOE9tW9U-hJY3wK2pm64Bsld5l3WT4rAY62VR2BRnEtVdXlKih8eBf4zHYQ7OXdAnlo6WYOnSETdm6IKGxb8qMXHO-4mhILTHKtGqYRWyM8AWS7pnl57rqqIU7853AJ3zG1vQMbDPvGbQqdg7OIVIg=w1089-h613-s-no"
 draft: false

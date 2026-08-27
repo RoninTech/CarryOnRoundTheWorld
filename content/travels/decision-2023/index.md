@@ -1,6 +1,7 @@
 ---
 title: "Decision 2023"
 date: 2023-09-25T12:53:27+07:00
+description: "Deciding to head back to Australia for a van road trip — choosing a route, renting a Jayco Escape, and setting the wheels in motion."
 featured_image: "content_travels_Decision-2023.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/AP1GczNMEBJx5xTiuBfUyHLlEmezyznqMgt1VvZrS97gzrPoNpO5BN3maqnwTfPPWZo32hZJk8CQ4ZzrcDnQamCwC0Fb28qH68J9sVmokNFDvoxz4DmO0A0iG-cb093ojV8XDUbjxg3P1PbXPZqz3qxeKlO6SQ=w1196-h897-s-no"

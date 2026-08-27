@@ -1,6 +1,7 @@
 ---
 title: "Hua Hin Spring 2024"
 date: 2024-07-02T12:53:27+07:00
+description: "A spring visit to Hua Hin — escaping Chiang Mai's heat, exploring the coastal town, and enjoying the slower pace of life by the gulf."
 featured_image: "content_travels_Hua-Hin-April-2024.webp"
 images:
     - "https://lh3.googleusercontent.com/pw/AP1GczODkqGrviPXBKs-iDepY-QH1WH6VbgzG9Iu_orC2b0rlu0eyEYHpUBiotppDadEUy8RS2-8BCai4ecKlEaBdxBnJ9hSZjkjePU3lqSg6R1ZD0_me8nxQNqjnT3gUOL4t6_5mKbHUIpuzvMGMndtecEiSQ=w1196-h897-s-no"

@@ -2,6 +2,7 @@
 title: "Nepal in Spring"
 date: 2018-04-25T19:51:56-07:00
 featured_image: "content_travels_nepal-in-spring.webp"
+description: "First Annapurna Circuit trek in the spring — Bangkok layovers, gear shopping, and the first time hiking through Nepal's stunning mountain trails."
 featured_image_class: "cover bg-center"
 images:
   - "https://lh3.googleusercontent.com/pw/AP1GczNPq_65hVsqZi6NQTtGMgTRTLa4cKAtV7BCVNcqdj3xXELs26LakHkWT7KZSO4KeWeJrPkzvexMTAE4BCiZCN7TD4AkLotgyWguJGZqqES4f-gw3kQhA2ILsLViEF_D-S5uAcSIrrc8jAA9d6DyuV9T8g=w1183-h887-s-no"

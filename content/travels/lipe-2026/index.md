@@ -1,6 +1,7 @@
 ---
 title: "Lipe 2026"
 date: 2026-03-28T12:18:59+07:00
+description: "Back on Koh Lipe — same route to Hat Yai and Pak Bara, checking into The Reef, and enjoying the island that keeps them coming back."
 featured_image: "content_travels_lipe-2026.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/AP1GczNIcu-7JRbB0PweLpPxATo30YgTBkUr-oiYXIZ345WFRL793yvEIm1gs8Eha-zGve5XHXz-HV1NzsE1Brr3sbEV_AwUkAC5Mt_eBVmAWOM0Qe2HdsDDPN909TyMRrsiw3nX_BsBzXEiOeWJznYXLAeFHw=w1089-h613-s-no"

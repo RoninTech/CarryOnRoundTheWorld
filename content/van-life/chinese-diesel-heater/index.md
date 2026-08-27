@@ -2,6 +2,7 @@
 title: "Chinese Diesel Heater"
 date: 2020-09-06T16:51:42-07:00
 featured_image: "content_van-life_chinese-diesel-heater.webp"
+description: "Installing a budget Chinese diesel heater in the Ford Transit van build — why they chose a 2KW unit with an Afterburner controller over expensive brand-name alternatives."
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3dq5aB3HnW5bsrXIwrfPyzPQpQUm766bhsU-SWtk9HNsOwXBdxvtzsmWZWneVG4Gisxz00Dx43RixCgRU_vf_fl2XKEtU0p-8Y_eIB6T8j11AvxMjnuS80mTXaKWpx6bWaDmdMw1bVfDUsgGQ4Tr2BX0Q=w1296-h972-no"
 author: "Paul"

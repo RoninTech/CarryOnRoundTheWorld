@@ -1,7 +1,7 @@
 ---
 title: "Lipe 2019"
 date: 2019-03-30T13:52:27-06:00
-draft: false
+description: "Returning to Koh Lipe — arriving by ferry from Langkawi, checking into the Reef, and enjoying the island's renovations and great food."
 featured_image: "content_travels_lipe-2019.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/AP1GczPUo0Db6uluz9eNXXfhWNVGAKHpuwPGjottp3-LiYpjRBI4NS0ogX_hGc-5TfjFDwY1y5fZzxt-27vT7-CX7DgHEL1DYXzi1kA8BgiaxL_faV8dLZ-N6K8I_fizaYrOWvNC6EqNeGpgm-avQkceXG3hQQ=w1183-h887-s-no"

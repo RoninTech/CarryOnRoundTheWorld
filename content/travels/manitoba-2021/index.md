@@ -1,6 +1,7 @@
 ---
 title: "Manitoba 2021"
 date: 2021-06-22T16:37:33-07:00
+description: "Spending time in Manitoba — getting vaccinated, helping with the van build, finding a place to live, and dealing with the rental crunch in Creston."
 featured_image: "content_travels_Manitoba-2021.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/AM-JKLUrD0F6yKgqmvRf1lwMjhB66iqBrxmv8ixX5YFCu6XtQ_atsgyvnx9a11Uqtx3spt3gDNMtUHBTWsItJ5oqFnsv9kHskd0Qi9beAnuyQehj2QVDFxvM3HRQsRe61VxUyL3MdjGvi6NGfsTA9znKjV4JwA=w1300-h975-no"

@@ -7,6 +7,7 @@ images:
 author: "Helen"
 omit_header_text: false
 album: "https://photos.app.goo.gl/TvBnPfVnCKCH63Tj6"
+description: "A spring 2021 stay on Koh Lipe, Thailand, with old friends, a trip to Satun for a visa extension, and a sudden flight home to Canada."
 ---
 
 March 5th arrived and we headed out bright and early to get our flight to Bangkok. With Covid making another resurgence, flights were restricted and the direct flight from CNX-HDY no longer operated which resulted in a connection in BKK. We hoped to be able to make the trip in one go, so booked a taxi pick up and ferry tickets for that afternoon hoping we could make it work. The flights were on time and our taxi driver was a maniac so we arrived in time to grab some snacks before getting on the boat.

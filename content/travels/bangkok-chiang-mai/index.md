@@ -3,6 +3,7 @@ title: "Bangkok & Chiang Mai 2020"
 date: 2020-01-15T12:40:22-06:00
 draft: false
 featured_image: "content_travels_bangkok-chiang-mai.webp"
+description: "A December 2019–January 2020 trip to Bangkok and Chiang Mai — meeting family, celebrating Christmas at MellowMango, and soaking up Khao Soi and coffee culture."
 images:
   - "https://lh3.googleusercontent.com/pw/AP1GczNgUoxroZeZPxWBRvTzYySlo643Z_B73m0w3kP36S9OnUVx-yu6SdooTdoYDQ1_oiiJ1uAnmRT9sTDBa_q8dfetqrp5eqCK4MIrN7PIa2XOlP1qjpNqI46oMV-68WlOPa7WjmqHSoXwGGFQt22_16NX9A=w1183-h887-s-no"
 author: "Helen"

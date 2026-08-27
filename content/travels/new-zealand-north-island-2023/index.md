@@ -2,6 +2,7 @@
 title: "New Zealand North Island 2023"
 date: 2024-05-19T12:53:27+07:00
 featured_image: "content_travels_New-Zealand-North-Island-2023.webp"
+description: "Returning to New Zealand's North Island in 2023 with a full month — Rotorua, Waitomo Caves, Hobbiton, and the beautiful Coromandel Peninsula."
 images:
   - "https://lh3.googleusercontent.com/pw/AP1GczNQ_wgWYPRV-Mu3Zdj0CFzGLYNY5v-5DwnUjk3R_T5TlYL3kZBKLykeX4GBpiizT5D-0HBtT4VCjdkHsDMiI6vec1H2X6z4NhoFVLLwI4x7E7bsW1BERcipVKKJhSXq5i0XZx2OtgitIyhgZ3YBN6EcYw=w1196-h897-s-no"
 draft: false

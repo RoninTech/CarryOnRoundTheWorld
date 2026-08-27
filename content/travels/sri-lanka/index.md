@@ -2,6 +2,7 @@
 title: "Sri Lanka"
 date: 2018-10-05T07:18:08-07:00
 featured_image: "content_travels_sri-lanka.webp"
+description: "A spontaneous trip to Sri Lanka — inspired by friends' recommendations, exploring the island's temples, tea plantations, wildlife, and stunning coastlines."
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3fvNpFIspxeYTOhKNAsOPxJL9o1EXxXeofqbGiIKa3MyCdomBSDx08MHAfi4XpjpsR6bNl4yvl9ISEngyky2BPn4iUVINX7T9EIE0eMBbUquIPMh8FnPymKRuQaMj5gGH4QSfyM2ulNAlXKajDaJObPBQ=w1828-h979-no"
 author: "Helen"

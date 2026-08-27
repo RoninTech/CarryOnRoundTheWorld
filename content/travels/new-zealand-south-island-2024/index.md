@@ -2,6 +2,7 @@
 title: "New Zealand South Island 2024"
 date: 2024-05-20T12:53:27+07:00
 featured_image: "content_travels_New-Zealand-South-Island-2024.webp"
+description: "Exploring New Zealand's South Island in 2024 — the Marlborough Sounds, Kaikoura, Lake Tekapo, Queenstown, and the impact of widespread highway landslides."
 images:
   - "https://lh3.googleusercontent.com/pw/AP1GczMMNDSeEC8W4LXdQzNmYeEWczbVV_qjidnWQSg6vfEW6-mVNG5NpRIK66_amQzLISm4eG_CmE1S74RxIw21TNYI0lj-gov-itmw8io2mI3w3UV0ZdspqytTTaovy6Ofm44dbSWY0OIlR1FAZ1CAYQ3vtQ=w1195-h896-s-no"
 draft: false

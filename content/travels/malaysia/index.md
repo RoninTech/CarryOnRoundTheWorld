@@ -7,6 +7,7 @@ images:
 author: "Helen"
 omit_header_text: false
 album: "https://photos.app.goo.gl/VFJfvjBkZCMfAZ1f9"
+description: "A month in Malaysia in 2019, covering Kuala Lumpur, Malacca and Langkawi, and ending with the death of Helen's sister and a ferry to Koh Lipe."
 ---
 
 We had decided to head to Malaysia next, giving ourselves about a month before heading to Lipe. We went from Phnom Penh to Kuala Lumpur on Air Asia, it was a short flight. The airport in KL is massive but modern and we moved through everything quickly. We got sims and a Grab Taxi to downtown KL.

@@ -2,6 +2,7 @@
 title: "Roof Racks"
 date: 2020-09-23T18:01:05-07:00
 featured_image: "content_van-life_roof-racks.webp"
+description: "Building DIY roof racks for the Ford Transit — accounting for the 5-degree roof slope, ordering 80/20 extrusions, and planning for solar panels and a tarp awning."
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3fYB-bCIxiXD-HQQmJpT32OarnsiFSNcJadzATVNcjFWRkFOiKdw2OhkeCItUQgXpkarTO4wKEIhJPbPduLP_iiNMwsk03G9GQ4rVpB5UM2gcCtHIS3sNQCcF7skWvPn9Sxohd7wKE0dzndATAnwfKQRA=w729-h972-no"
 author: "Paul"

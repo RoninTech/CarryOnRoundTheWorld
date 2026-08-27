@@ -1,6 +1,7 @@
 ---
 title: "Hong Kong? What!?!"
 date: 2017-07-25T13:28:47-07:00
+description: "An unexpected trip to Hong Kong for the Liverpool FC preseason game and the Anfield Wrap live show — a spontaneous detour in their world trip."
 featured_image: "content_travels_hong-kong-what.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3eHEBLdrejGbJTUdkxuFbtbv3FATPbC5UlUpEwYHsIs92I51l_ut4Gy6a9Ck4KvNEGSVWb8ygZMYTJHU6cruROvYjJzOO8hnN-bOqKBMDP9vnqQlLDYIGEi7wPSBItdAfUcVSbkbrxgXpUBNZdeKPlaVw=w1210-h908-no"

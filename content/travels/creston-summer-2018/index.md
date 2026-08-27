@@ -1,6 +1,7 @@
 ---
 title: "Creston Summer 2018"
 date: 2018-09-10T12:35:55-07:00
+description: "A summer visit home to Creston — getting home from Kathmandu via Chengdu, reuniting with family, and enjoying life in the East Kootenays."
 featured_image: "content_travels_creston-summer-2018.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3doHu0v04WDO1b7soi64hl4TaKb80GhsfK4YN1ary3QmYJNJgRdOUJE3gA0a2vSptMpwWAETnxx7IbhmJuQPMARmIwh9n46ZqRgnM64Z8drUwYendUdUJlL67mL3zSwDuFIc2JKKUmx8F_uu8GzTVoPlw=w1470-h822-no"

@@ -2,6 +2,7 @@
 title: "The Gear Conundrum"
 date: 2015-11-03T18:10:35-07:00
 featured_image: "content_articles_the-gear-conundrum.webp"
+description: "Wheeled bags vs backpacks — navigating the great travel gear debate and figuring out what works best for carry-on-only travel."
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3cQCZAy6pHoL7x8LXa2FcHIrj-WU1gPxO9lWO0JcKeMqPtgN2DDoDaknFzVe9HaZWUnbfPL8TvffWCTLNeeQpmJnsFmu6g8YWHc9eyhyAkjCO8RKhuL1UPcE9OLGs-N2R5I-lZopjNqVON6LaLxpHVm_Q=w1028-h771-no"
 author: "Helen"

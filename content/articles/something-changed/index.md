@@ -2,6 +2,7 @@
 title: "Something Changed"
 date: 2015-09-14T18:56:27-07:00
 featured_image: "content_articles_something-changed.webp"
+description: "The moment their travel dreams shifted from pipe dream to potential reality — realizing they were both ready to sell everything and go."
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3fdYa_LDO8g4fakHHFPLC-9pgYDHjKZO4tWEOhJlJhN4zs0hGFsaif26iCMQGel-aJ8Z_l1Jsw1otSxOUdIb8WvSm24oltzlRghCGr7pe2GmNTGi86RKN7JzbwPAgsAF5818jd4FgdbECtvt-fGMu7lBg=w1210-h908-no"
 author: "Helen"

@@ -1,6 +1,7 @@
 ---
 title: "Darwin to Melbourne 2023"
 date: 2023-12-15T12:53:27+07:00
+description: "Driving south from Darwin through the Top End and outback Australia — Tennant Creek, the Oodnadatta Track, and the long haul to Melbourne."
 featured_image: "content_travels_Darwin-to-Melbourne-2023.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/AP1GczNGA9by4XHrFylBsYaDUsnu40EZvxZ6R64H17MZAGUx3l-T0BtJ9-5-rInMEurVb85-kYEI0NL1E8SGPNTA4B486WGb20N1AD1n5tDBjwCXJxM9053cJWUp-bV39p2w4wObLLA6Kwa3Vmwd0bV_knpxHg=w1196-h897-s-no"

@@ -1,6 +1,7 @@
 ---
 title: "Calgary Summer 2024"
 date: 2024-08-30T12:53:27+07:00
+description: "Returning to Calgary for another summer — flights from Bangkok, family time, and the ups and downs of visiting home."
 featured_image: "content_travels_Calgary-Summer-2024.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/AP1GczPAEELmGlkU9yv0e1ckFlvaUpA40TSS8wWELYQdGS6YZSvridk64Cvd13-0oSQhLNsvusicdDuyDYeb7HqAEcJ3MoIEK7K83aRCJYRJBFXwf15iv0Y7yMmnS5YACEeWf9a7D-9-T_6RDe2fJEqqvm9D6Q=w1301-h897-s-no"

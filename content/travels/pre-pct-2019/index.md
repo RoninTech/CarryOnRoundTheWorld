@@ -2,6 +2,7 @@
 title: "Pre PCT 2019"
 date: 2019-07-01T07:18:08-07:00
 featured_image: "content_travels_pre-pct-2019.webp"
+description: "Getting ready for the Pacific Crest Trail — training, gear prep, sorting permits, and the switch to a southbound start date."
 images:
   - "content_travels_pre-pct-2019.webp"
 author: "Helen"

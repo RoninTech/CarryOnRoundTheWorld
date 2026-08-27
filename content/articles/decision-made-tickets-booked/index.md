@@ -2,6 +2,7 @@
 title: "Decision Made Tickets Booked"
 date: 2016-10-31T16:31:20-07:00
 featured_image: "content_articles_decision-made-tickets-booked.webp"
+description: "The moment they finally booked their round-the-world tickets — selling the house, Paul's ruptured Achilles, and the whirlwind of preparing to leave everything behind."
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3cPyuWAi7HYW_nUFwX0POaLsOPdn_7ogBKZ9sh7Qp61AxaU9Kt7v8h8ov4PWQFHh3LfvOuPaIH1uE6wjQRX19_KjV5nUyYFfhe-YTpXNMvXNEuLQCG1hp7ZmcuUFRUMf52N0P9wfFp9kpso6HmL-wTF2Q=w1164-h873-no"
 author: "Helen"

@@ -1,6 +1,7 @@
 ---
 title: "A Year in Thailand"
 date: 2023-08-25T13:00:42+07:00
+description: "After time in Canada during the pandemic, returning to Chiang Mai for a year to regroup, reconnect with friends, and figure out what's next."
 featured_image: "content_travels_a-year-in-thailand.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/AIL4fc8Bsq9rJAi4iLJGHuH1MzA0jz29kDvtehAUqeF9DmbYtAgQeqhhSJg-YdSfiANNG5Rel4N-rrzUm7rwTrWww8iElCOS6I8bCPaKkodFO6LVsA9DzTrSIuYtDEjJkXfTanskaBYsum4HE8SQJBN34Aijnw"

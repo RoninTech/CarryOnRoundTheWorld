@@ -2,6 +2,7 @@
 title: "Philippines"
 date: 2018-02-28T17:33:59-07:00
 featured_image: "content_travels_philippines.webp"
+description: "Beach time in the Philippines — flying business class to Manila, island-hopping in Cebu, and enjoying the tropical paradise after months of driving."
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3dK2OH6gVlLAmHgc_xICicDmkAOr78FhhroJyuc7xK2SNFrNUI9Nc5-KUR-XNHs1JH-05A4kIkT679LRj6Snth_s-BYwZF_tIn17do9L_4JQ78WAcvJ2IbEeKDutNHwfYOw0loie4YupYTk_yogzEQ_eQ=w1306-h979-no"
 author: "Helen"

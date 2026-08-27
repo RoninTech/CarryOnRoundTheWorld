@@ -2,6 +2,7 @@
 title: "Nepal in Fall"
 date: 2018-11-05T17:36:59-07:00
 featured_image: "content_travels_nepal-in-fall.webp"
+description: "Returning to Nepal for a second Annapurna Circuit trek in the fall — Bangkok layovers, the trek through Pokhara, and the mountain scenery of Nepal."
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3cnCxG3GaU4YlY_sbNnQCnlsdiqdea_VXALVoIGRzUG4RHyoIJ5aVouFP7tPhQ5tdiGoK9O6hkeCzClfdYp-u2jH7WMx3PNfFQsNiuogRGVpH1ODPXzXeptlxgcv6E3f2jpYoDKzJ_LEL_ZOKxUqMNzcg=w1470-h390-no"
 author: "Helen"

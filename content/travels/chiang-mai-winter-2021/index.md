@@ -1,6 +1,7 @@
 ---
 title: "Chiang Mai January-February 2021"
 date: 2021-01-02T16:37:33-07:00
+description: "A winter return to Chiang Mai — flying in from Bangkok, settling back into the routine, and enjoying life in Northern Thailand."
 featured_image: "content_travels_Chiang-Mai-Winter-2021.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/AP1GczMS9AW7Niq0TUiz9M1fgh_5YEYkn6joxS9Mt1Zt6NwHsycdJWZEopcOSySLK2bcmJMV7U3rJRxDzSIWGUQhWbh3RW3DcjA-r-qagnbFfjOcOb6UigFp0Opl5iT0WJjpqID3tJ65al9ARhA9ptxz9O2d7w=w1183-h887-s-no"

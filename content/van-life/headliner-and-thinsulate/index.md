@@ -2,6 +2,7 @@
 title: "Headliner and Thinsulate"
 date: 2020-08-23T09:14:24-07:00
 featured_image: "content_van-life_headliner-and-thinsulate.webp"
+description: "Removing the headliner and installing Thinsulate insulation in the Ford Transit van — a quick 10-minute job with the right tools."
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3fI4MRuyAxYZYless63dfoR8_gynlkmuGgIDtr9CGTU4d30_JKEgopBOOEIkZm-bEYgWcLqeOVwKApbTlo3UcWx5ChoX_ikjONw_LkK_NYVElZA5dtWnga8zlDgMOerkHSxmvvF8qGpVdpvx-V6hbgtVg=w1210-h908-no"
 author: "Paul"

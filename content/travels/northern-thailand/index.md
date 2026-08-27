@@ -2,6 +2,7 @@
 title: "Northern Thailand"
 date: 2017-06-29T20:27:10-07:00
 featured_image: "content_travels_northern-thailand.webp"
+description: "Exploring Northern Thailand — Chiang Mai, Chiang Dao, Chiang Rai and Chiang Khong — after returning from Myanmar."
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3eHKvcdCgtWIkcqJiIteQEHQClCvrWkCoIV0yPNQkcHWvCImLp-yW0GduVwyISLyIn0ySfFYUNMlimdccOH6sgWK9ZdssCKTDckRk_GauVkZMA4FPjdfOrAVrsFXlWWwHQHttfgYPN12a8_hHCld4Wyfg=w1210-h908-no"
 author: "Helen"

@@ -2,6 +2,7 @@
 title: "East West Queen Size Sliding Bed"
 date: 2021-07-25T15:58:46-05:00
 featured_image: "content_van-life_east-west-sliding-bed.webp"
+description: "Building a queen-size east-west sliding bed for the Ford Transit van — maximizing space in a short-wheelbase van with a garage, bench seats, and a convertible sleeping area."
 images:
   - "https://lh3.googleusercontent.com/pw/AM-JKLU4gtymYtIZ6GcqqKZdW4_spKEnBCZeYNXkq8koqJsNoe6Y6hxzBqIRl599-HudzV1QXkZDqJqVr669lCLylYPL5TTwjqvEpTVvz3BpjFF2qM2GLxcVuPDx6VmiFQtXijctvZKi-fg0Jf3_FqGK8eH59A=w1224-h918-no"
 author: "Paul"

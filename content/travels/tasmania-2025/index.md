@@ -2,6 +2,7 @@
 title: "Tasmania 2025"
 date: 2025-06-15T14:26:36-06:00
 featured_image: "content_travels_Tasmania-2025.webp"
+description: "A return to Tasmania in 2025 — inspired by a YouTube video, visiting in a different season, and exploring the island again with a new campervan."
 images:
   - "https://lh3.googleusercontent.com/pw/AP1GczNHWcZPDNBusoEm3oCnMO8OgX6XH9D1CH3jFvcD0H0XUZiu1Nd_miurdWtwTcv35TGf9xazASsOjm13GmaRBDd67y_c2PAJNVMoyzVrPRKXfuUiFR6zQ4ilEjGp4jdTEHOBdZdf3DOsryfJEu0UInv3xA=w1220-h915-s-no"
 draft: false

@@ -1,7 +1,7 @@
 ---
 title: "Coles Notes"
 date: 2017-05-15T17:26:44-07:00
-draft: false
+description: "A summary of the first couple of months on the road — from Koh Lipe through Myanmar, covering the whirlwind start to their world trip."
 featured_image: "content_travels_coles-notes.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3d6cMHax2ivu98BtvuUO0ETlh7RH9NsvnMUribTAlBiNWVWg831qsIfmU2DyH3SGfXN5Ggqmd9-5wh4Lhqn51o8VXLKTd_6n5q0wM3QiSobi7ELNvO2Pts1q3s8od9LoKEPIQcJ4xRXJrriBRLCnIgsCg=w1210-h908-no"

@@ -1,6 +1,7 @@
 ---
 title: "Chiang Mai 2025"
 date: 2026-01-04T16:06:58+07:00
+description: "Returning to Chiang Mai from Canada — reuniting with friends, revisiting favorite spots, and settling back into life in Northern Thailand."
 featured_image: "content_travels_Chiang-Mai-2025.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/AP1GczOV74uClZCNTBFItw7sa59hmWiJZmz1ykYe5T-ZdFWJPRJt-_4ud8FR_pdiL_NONi8qrAm6GNTTIwUwHigQHWlP6RA5YLNjOHlN83tKuF_ysqcqRdee6NZnFZpC_AxnIvmotk5XaeOQeubaK2BUXdQ18g=w1449-h816-s-no"

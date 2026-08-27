@@ -2,6 +2,7 @@
 title: "Tasmania"
 date: 2017-12-20T12:48:33-07:00
 featured_image: "content_travels_tasmania.webp"
+description: "Ten eventful days in Tasmania — one of their favorite places, arriving in a massive rainstorm, and exploring the island's wild landscapes before their Australian visas expired."
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3cOPzkyS1wTxXIeTAyOIm6M0iUrtGoOngFnz5vbFptLdtxfHdZF__VLHeGb-OOvi1WIDDVRL182ExO6EtXfe44MjTN_aeCmAppKjQDXukTQEq6szB_EpIYXZ74NWjsSbX27YUas9xOaypR5ZklXY9SL6g=w1920-h571-no"
 author: "Helen"

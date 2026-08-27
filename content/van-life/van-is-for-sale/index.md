@@ -2,6 +2,7 @@
 title: "Van Is Sold"
 date: 2022-05-19T12:50:56-05:00
 featured_image: "content_van-life_van-is-for-sale.webp"
+description: "Selling the Ford Transit van build — why they decided to sell after two years, the surprisingly quick sale, and the van's specs."
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3cJSxonyTmC65j3pL_eatOCylb8hDs8eO-xYOu2Wk6OKGJAgpsq8v3bbuEbdECkQ5kTNJcxBT3KFz_0Y9pICwUPiinObhhm7uMp4JsM4-WsDLmMCdsvwsxiDby-62rkAxtQn0AkLeMgB-4qCVBuceAoPg=w1210-h908-no"
 author: "Paul"

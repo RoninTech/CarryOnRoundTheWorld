@@ -8,6 +8,7 @@ images:
 author: "Helen"
 omit_header_text: false
 album: "https://photos.app.goo.gl/UwnBHcenCx3DmUSTA"
+description: "A short visit to Kuala Lumpur in early 2020 for a dentist appointment, a trip to the KLCC aquarium, and cautious days as COVID-19 began to spread."
 ---
 
 This was a very short visit… less than a week in all. We decided we needed to see the dentist for a cleaning, it had been a year! That and we liked the food and comforts of Kuala Lumpur. There was a lot more caution around travel at this point, people were wearing masks and using sanitizer. We had tried to get some masks but they were sold out everywhere.

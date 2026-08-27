@@ -1,6 +1,7 @@
 ---
 title: "Canada 2025"
 date: 2025-08-27T14:26:53-06:00
+description: "Returning to Canada from Chiang Mai in 2025 — finding amazing business class flights, family visits, and taking care of home front matters."
 featured_image: "content_travels_Canada-2025.webp"
 images:
   - "https://lh3.googleusercontent.com/pw/AP1GczPDEXSUWJcB-c6hZCMvlgU6wi0E3RmbuRidGYtJtz3lCkwUpMfHb7MoPUV2_Fk-GZZgCx-57lAoblBZZ5UXYpXXaeHCWNg_CdPfB1X6zO_JHAk9CAJkc-ilDw6BFXiORyzVXDlRI79IpTPkuyo5knssrg=w1449-h816-s-no"

@@ -2,6 +2,7 @@
 title: "Parking Pad"
 date: 2020-06-15T10:22:15-07:00
 featured_image: "content_van-life_parking-pad.webp"
+description: "Building a gravel parking pad at Paul's parents' house — using plastic driveway panels to solve the spinning-wheel problem on round pebbles."
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3cxlTG5_FptmkEdNU2ojKB3aDsVHsqNQGX8rF3pU1OjaR4QVDVXcXL11maBt8wks2985GUJPWDHjZ8Y2LYvYFBOc1Y1EVToNQ1W0DevqGyN61gQNd5yfHfgzTh2GXBrQqhUcwiUFWFAv3zlAwUQ7wXRFg=w1296-h972-no"
 author: "Paul"

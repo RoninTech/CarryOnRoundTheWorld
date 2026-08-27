@@ -2,6 +2,7 @@
 title: "Tasmania 2026"
 date: 2026-05-28T12:19:31+07:00
 featured_image: "content_travels_tasmania-2026.webp"
+description: "Breaking their own rule — a third trip to Tasmania in 2026, plus 90 days on a Big Lap roadtrip across Australia in a new Jayco Tourer."
 images:
   - "https://lh3.googleusercontent.com/pw/AP1GczM3_j896C8a3KnXzLGXbg4HqKrXAu2rL42RH8vHIvRX_sHZTnuPyRxwFg9BmzYjdu8exBtMGmrD6_biXG6Fq5W7zgmyAf1LbRMAf0Paw9S-MV6tmxZJ8Icw3rgWT01TGvCIYtL27QUboq3uuL1wlbfNNw=w1089-h613-s-no"
 draft: false

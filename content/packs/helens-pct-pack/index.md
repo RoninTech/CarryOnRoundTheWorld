@@ -3,6 +3,7 @@ title: "Helen's PCT Pack"
 date: 2019-09-09T16:44:12-07:00
 draft: false
 featured_image: "content_packs_helens-pct-pack.webp"
+description: "Helen's complete packing list for the Pacific Crest Trail — organized via lighterpack.com, showing what fits in a travel pack for a multi-month thru-hike."
 images:
   - "https://lh3.googleusercontent.com/pw/ACtC-3ezcuqizOrPMG1TeeP5undJBSsnlCN0LxLRZ_GSVST3SmlY_cIQXBdpKvJoYSD-b73q9SPKXpZq38cFFngcP_aLm8UEJFf0pmfsAPJNAHV0YtFGDPk2VpZRR30tuMfT8KJXhrjDN1-I831lm9PGeQoyvw=w1210-h908-no"
 author: "Paul"
