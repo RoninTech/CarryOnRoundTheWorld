@@ -18,19 +18,11 @@
   color: #cd201f;
 }
 
-.ananke-social-link.contact:hover {
-  fill: #ffa500;
-  color: #ffa500;
-}
-
-.ananke-social-link.search:hover {
-  fill: #ffff00;
-  color: #ffff00;
-}
-
-.ananke-social-link.home:hover {
-  fill: #0000ff;
-  color: #0000ff;
+@media (min-width: 800px) {
+  .ananke-social-link.contact + .ananke-social-link {
+    border-left: 1px solid rgba(255, 255, 255, 0.35);
+    padding-left: 0.75rem;
+  }
 }
 
 .article-content p, .page-body p, .nested-links p {
