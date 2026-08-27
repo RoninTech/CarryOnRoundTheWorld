@@ -13,9 +13,16 @@
         <ul class="{{ compare.Conditional (compare.Eq $.Site.Language.Direction "rtl") "pr0 ml3" "pl0 mr3" }}">
           {{ range .Site.Menus.main }}
           <li class="list f5 f4-ns fw4 dib {{ compare.Conditional (compare.Eq $.Site.Language.Direction "rtl") "pl3" "pr3" }}">
-            <a class="hover-white white-90 no-underline" href="{{ .URL }}" title="{{ lang.Translate "pageTitle" . }}">
-              {{ .Name }}
-            </a>
+            {{ if in (slice "search" "contact") .Identifier }}
+              {{ $icon := resources.Get (printf "ananke/socials/%s.svg" .Identifier) }}
+              <a class="nav-icon-link no-underline" href="{{ .URL }}" title="{{ .Name }}" aria-label="{{ .Name }}">
+                <span class="icon">{{ $icon.Content | safe.HTML }}</span>
+              </a>
+            {{ else }}
+              <a class="hover-white white-90 no-underline" href="{{ .URL }}" title="{{ lang.Translate "pageTitle" . }}">
+                {{ .Name }}
+              </a>
+            {{ end }}
           </li>
           {{ end }}
         </ul>

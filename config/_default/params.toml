@@ -8,8 +8,6 @@ icon_path = "ananke/socials/%s.svg"
 new_window_icon = false # show a little "opens in new window" icon next to the link
 # add networks to this list in your local config to enable them, remove them to disable them.
   networks = [
-    "search",
-    "contact",
     "github",
     "youtube",
     "bluesky",
@@ -73,19 +71,7 @@ username = "CarryOnRTW"
 profile = "https://www.youtube.com/@%s"
 icon = "youtube" # font awesome brand icon name
 
-[ananke.social.networks.contact]
-slug = "contact"
-label = "Contact"
-color = "#fff"
-icon = "contact"
-profile = "/contact/"
 
-[ananke.social.networks.search]
-slug = "search"
-label = "Search"
-color = "#fff"
-icon = "search"
-profile = "/search/"
 
 
 

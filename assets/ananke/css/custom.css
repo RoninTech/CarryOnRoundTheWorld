@@ -18,11 +18,20 @@
   color: #cd201f;
 }
 
-@media (min-width: 800px) {
-  .ananke-social-link.contact + .ananke-social-link {
-    border-left: 1px solid rgba(255, 255, 255, 0.35);
-    padding-left: 0.75rem;
-  }
+.nav-icon-link {
+  display: inline-flex;
+  align-items: center;
+  color: #eaeaea;
+  fill: currentColor;
+}
+
+.nav-icon-link:hover {
+  color: #fff;
+}
+
+.nav-icon-link svg {
+  width: 22px;
+  height: 22px;
 }
 
 .article-content p, .page-body p, .nested-links p {

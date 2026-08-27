@@ -94,6 +94,18 @@ custom_css = ["custom.css", "formatted_tables.css", "next_prev_links.css"]
     pageRef= "/about"
     weight = 6
 
+  [[menu.main]]
+    name = "Search"
+    identifier = "search"
+    pageRef= "/search"
+    weight = 7
+
+  [[menu.main]]
+    name = "Contact"
+    identifier = "contact"
+    pageRef= "/contact"
+    weight = 8
+
 [module]
 [[module.imports]]
     path = 'github.com/gohugo-ananke/ananke/v2'
