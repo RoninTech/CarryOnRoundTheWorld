@@ -1,5 +1,6 @@
 ---
 title: "Carry On Round The World"
+date: 2015-08-16T17:18:02-07:00
 featured_image: "/images/featured/content__indexq20.webp"
 featured_image_class: "cover bg-center"
 images:
