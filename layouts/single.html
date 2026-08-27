@@ -82,7 +82,7 @@
         {{- partials.Include "commento.html" . -}}
       </div>
       {{ end }}
-      {{ if .Site.Params.giscus.enable }}
+      {{ if and .Site.Params.giscus.enable (ne .Params.show_comments false) }}
       <section>
         <div style="border-top: 6px solid #333333"></div>
         {{- partials.Include "giscus.html" . -}}

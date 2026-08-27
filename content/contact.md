@@ -8,6 +8,7 @@ description: We'd love to hear from you
 show_reading_time: false
 show_nav_menu: false
 show_author_reading_data: false
+show_comments: false
 ignore_search: true
 ---
 
