@@ -10,6 +10,7 @@ author: "Paul"
 show_reading_time: false
 show_nav_menu: false
 show_author_reading_data: false
+ignore_search: true
 ---
 
 <p>

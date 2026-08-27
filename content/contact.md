@@ -8,6 +8,7 @@ description: We'd love to hear from you
 show_reading_time: false
 show_nav_menu: false
 show_author_reading_data: false
+ignore_search: true
 ---
 
 If you'd like to get in touch, you can send us an email with the following form.

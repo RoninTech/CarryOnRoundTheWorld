@@ -32,6 +32,37 @@
   const urlParams = new URLSearchParams(queryString);
   const searchString = urlParams.get("q");
 
+  const normalizeMeta = (meta) => {
+    const out = {};
+    if (!meta) return out;
+    const pairs = typeof meta === "string" ? [[null, meta]] : Object.entries(meta);
+    for (const [key, value] of pairs) {
+      if (typeof value !== "string") continue;
+      for (const part of value.split(";")) {
+        const idx = part.indexOf(":");
+        if (idx > 0) {
+          const k = part.slice(0, idx).trim();
+          const v = part.slice(idx + 1).trim();
+          if (k && v && !(k in out)) out[k] = v;
+        } else if (key && !(key in out)) {
+          out[key] = part.trim();
+        }
+      }
+    }
+    return out;
+  };
+
+  const humanizeDate = (raw) => {
+    if (!raw) return "";
+    const iso = /^(\d{4})-(\d{1,2})-(\d{1,2})$/.exec(raw);
+    const d = iso
+      ? new Date(Number(iso[1]), Number(iso[2]) - 1, Number(iso[3]))
+      : new Date(raw);
+    if (Number.isNaN(d.getTime())) return raw;
+    const months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"];
+    return `${d.getDate()} ${months[d.getMonth()]} ${d.getFullYear()}`;
+  };
+
   window.addEventListener('DOMContentLoaded', () => {
     const { Instance, Input, ResultList, Summary } = window.PagefindModularUI;
     const instance = new Instance();
@@ -70,7 +101,12 @@
         title.appendChild(link);
         inner.appendChild(title);
 
-        const items = [meta.section, meta.author, meta.date].filter(Boolean);
+        const parsedMeta = normalizeMeta(meta);
+        const items = [
+          parsedMeta.section,
+          parsedMeta.author,
+          humanizeDate(parsedMeta.date),
+        ].filter(Boolean);
         if (items.length) {
           const metaLine = document.createElement("p");
           metaLine.className = "pagefind-modular-list-meta";
