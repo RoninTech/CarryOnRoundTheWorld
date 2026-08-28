@@ -145,7 +145,7 @@ Another great piece of travel tech that came out around the same time as Smartph
 
 <a href="https://ca.kobobooks.com/products/kobo-clara-hd"><img loading="lazy" src="https://ca.kobobooks.com/cdn/shop/products/Luna_Front_2_EN_1_-Recovered_640x640.jpg?v=1613667414" width="150" height="150" alt="Kobo Clara HD" title="Kobo Clara HD"></a>
 
-##### UPDATE:
+#### UPDATE:
 
 After many years of hard use, Helen's Kobo Glo finally died.  We replaced it with a new [Kobo Clara HD](https://ca.kobobooks.com/products/kobo-clara-hd).  We also replaced Paul's Glo with a [Kobo Clara BW](https://ca.kobobooks.com/products/kobo-clara-bw).  We also discovered [Nickelmenu](https://github.com/pgaskin/NickelMenu), [Koreader](https://github.com/koreader/koreader/) and it's plugins like [Bookshelf](https://github.com/AndyHazz/bookshelf.koplugin/).
 
@@ -155,7 +155,7 @@ After many years of hard use, Helen's Kobo Glo finally died.  We replaced it wit
 
 Just before we left to travel in 2017 we picked up this [AR300M travel router](https://www.gl-inet.com/products/gl-ar300m/) from Amazon. It cost $40 CAD and weighed only 40g! For network devices we have our phones, Kobos and either Chromecast, Fire stick or Raspberry Pi. We have this travel router configured to statically assign IP's and hostnames to these devices so they can always talk to each other. When we get somewhere we just have to connect the travel router to the internet and the rest just works. The router supports [captive portal](https://en.wikipedia.org/wiki/Captive_portal) so we can login to a places WiFi and share it through the travel router. In a pinch I can also use one of our phones as a USB modem and supply internet that way. It also has an Ethernet WAN port in case there is Ethernet available. It works well with Wireguard VPN's and I have used it to a home Wireguard server as well as to our more recent Mullvad Wireguard VPN account. Another cool trick is that it has a USB port and we can share media off a USB drive via DLNA from the travel router. There are regular security and feature updates and it has proven to be a very flexible and useful piece of kit. Under the hood it runs a custom flavour of OpenWRT which is an extremely well supported router distribution. Whenever I have had any questions the [community forum](https://forum.gl-inet.com/) has been a great place to get them answered.
 
-##### UPDATE:
+#### UPDATE:
 
 <a href="https://www.gl-inet.com/products/gl-mt3000/"><img loading="lazy" src="/images/glinet-beryl-ax-mt3000.jpg" width="200" height="150" alt="Gl.iNet Beryl AX MT3000" title="Gl.iNet Beryl AX MT3000"></a>
 
@@ -198,7 +198,7 @@ I picked up a nice, lightweight (only a few grams) [TerraPi Alpha 3d printed cas
 
 With the addition of the 250GB SATA SSD drive attached via the USB3 to SATA adapter, the Raspberry Pi 4 really came alive.  The performance increase was large.  Now I often forget that I'm on a Pi rather than a full blown desktop.  It's been able to handle everything we've thrown at it.  Most of which you can see listed below.  I usually boot from the much faster SSD but if we want to play [RetroPie](https://retropie.org.uk/) games then I just unplug the USB SSD drive cable and the Pi will then boot from the uSD card that has [RetroPie](https://retropie.org.uk/) installed on it, along with a bunch of old games.
 
-##### UPDATE:
+#### UPDATE:
 
 <a href="https://www.raspberrypi.com/products/raspberry-pi-5/"><img loading="lazy" src="https://cdn11.bigcommerce.com/s-am5zt8xfow/images/stencil/1280x1280/products/3556/11365/PI_5_HERO__55628.1695665352.jpg" width="150" height="150" alt="Raspberry Pi 5" title="Raspberry Pi 5"></a><a href="https://argon40.com/en-ca/products/argon-neo-5-m-2-nvme-for-raspberry-pi-5"><img loading="lazy" src="https://argon40.com/cdn/shop/files/AMZ_AR-NEO-5_NVMe_20240202_01_1680x.jpg" width="150" height="150" alt="Argon NEO 5 M.2 NVME PCIE Case for Pi 5" title="Argon NEO 5 M.2 NVME PCIE Case for Pi 5"></a>
 
@@ -332,7 +332,7 @@ The Calibre e-book library management tool mentioned above is a bit of a resourc
 <a href="https://www.tubearchivist.com/"><img loading="lazy" src="https://github.com/tubearchivist/tubearchivist/blob/master/assets/tube-archivist-logo-light.png?raw=true" width="64" height="64" alt="Tube Archivist" title="Tube Archivist"></a>  
 Automatically downloads your YouTube subscription videos for watching/listening locally without Internet.  Can download audio only.  Has a [browser extension](https://github.com/tubearchivist/browser-extension) for Chrome/Firefox to allow for easy downloading/subscribing from the browser.  Open source.
 
-##### UPDATE:
+#### UPDATE:
 
 <a href=""><img loading="lazy" src="https://raw.githubusercontent.com/yt-dlp/yt-dlp/refs/heads/master/devscripts/logo.ico" width="64" height="64" alt="yt-dlp" title="yt-dlp"></a>
 
