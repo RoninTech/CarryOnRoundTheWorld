@@ -1,33 +1,45 @@
-<nav class="pv3 ph3 ph4-ns" role="navigation">
-  <div class="flex-l center items-center justify-between">
-    <a href="{{ .Site.Home.RelPermalink }}" class="f3 fw2 hover-white white-90 dib no-underline">
-      {{ with .Site.Params.site_logo }}
-        <img src="{{ urls.RelURL . }}" class="w100 mw5-ns" alt="{{ $.Site.Title }}" fetchpriority="high" decoding="async" />
-      {{ else }}
-        {{ .Site.Title }}
-      {{ end }}
-    </a>
-    <div class="flex-l items-center">
-      {{ partials.Include "i18nlist.html" . }}
-      {{ if .Site.Menus.main }}
-        <ul class="{{ compare.Conditional (compare.Eq $.Site.Language.Direction "rtl") "pr0 ml3" "pl0 mr3" }}">
-          {{ range .Site.Menus.main }}
-          <li class="list f5 f4-ns fw4 dib {{ compare.Conditional (compare.Eq $.Site.Language.Direction "rtl") "pl3" "pr3" }}">
-            {{ if in (slice "search" "contact") .Identifier }}
-              {{ $icon := resources.Get (printf "ananke/socials/%s.svg" .Identifier) }}
-              <a class="nav-icon-link no-underline" href="{{ .URL }}" title="{{ .Name }}" aria-label="{{ .Name }}">
-                <span class="icon">{{ $icon.Content | safe.HTML }}</span>
-              </a>
-            {{ else }}
-              <a class="hover-white white-90 no-underline" href="{{ .URL }}" title="{{ lang.Translate "pageTitle" . }}">
-                {{ .Name }}
-              </a>
+<!-- Hamburger menu: CSS-only toggle via hidden checkbox (no JS).
+     See assets/ananke/css/custom.css for the styling.
+     Desktop: original layout unchanged. Mobile: logo row 1, hamburger+social row 2. -->
+<input type="checkbox" id="nav-toggle" class="dn">
+<div class="nav-wrapper">
+  <nav class="pv3 ph3 ph4-ns" role="navigation">
+    <div class="flex-l center items-center justify-between">
+      <a href="{{ .Site.Home.RelPermalink }}" class="f4 fw2 hover-white white-90 dib no-underline">
+        {{ with .Site.Params.site_logo }}
+          <img src="{{ urls.RelURL . }}" class="site-logo w100 mw5-ns" alt="{{ $.Site.Title }}" fetchpriority="high" decoding="async" />
+        {{ else }}
+          {{ .Site.Title }}
+        {{ end }}
+      </a>
+      <div class="flex-l items-center">
+        <!-- Hamburger button: visible on mobile only -->
+        <label for="nav-toggle" class="hamburger-btn" aria-label="Toggle navigation">
+          <span class="line"></span>
+          <span class="line"></span>
+          <span class="line"></span>
+        </label>
+        {{ partials.Include "i18nlist.html" . }}
+        {{ if .Site.Menus.main }}
+          <ul class="{{ compare.Conditional (compare.Eq $.Site.Language.Direction "rtl") "pr0 ml3" "pl0 mr3" }}">
+            {{ range .Site.Menus.main }}
+            <li class="list f5 f4-ns fw4 dib {{ compare.Conditional (compare.Eq $.Site.Language.Direction "rtl") "pl3" "pr3" }}">
+              {{ if in (slice "search" "contact") .Identifier }}
+                {{ $icon := resources.Get (printf "ananke/socials/%s.svg" .Identifier) }}
+                <a class="nav-icon-link no-underline" href="{{ .URL }}" title="{{ .Name }}" aria-label="{{ .Name }}">
+                  <span class="icon">{{ $icon.Content | safe.HTML }}</span>
+                </a>
+              {{ else }}
+                <a class="hover-white white-90 no-underline" href="{{ .URL }}" title="{{ lang.Translate "pageTitle" . }}">
+                  {{ .Name }}
+                </a>
+              {{ end }}
+            </li>
             {{ end }}
-          </li>
-          {{ end }}
-        </ul>
-      {{ end }}
-      {{ partials.IncludeCached "social/follow.html" . }}
+          </ul>
+        {{ end }}
+        {{ partials.IncludeCached "social/follow.html" . }}
+      </div>
     </div>
-  </div>
-</nav>
+  </nav>
+</div>

@@ -85,7 +85,7 @@ table.center td .odometer {
 }
 
 body.is-home header.cover {
-  min-height: 60vh;
+  min-height: 40vh;
 }
 
 body.is-home header.cover .flex-l.items-center {
@@ -109,4 +109,120 @@ header nav ul li a {
 article img {
   max-width: 100%;
   height: auto;
+}
+
+/* ── Hamburger menu (CSS-only, no JS) ───────────────────────────
+     Desktop: original layout unchanged. Mobile: logo row 1, hamburger+social row 2.
+     ──────────────────────────────────────────────────────────────── */
+
+/* Default (desktop): hamburger hidden */
+.hamburger-btn {
+  display: none;
+  cursor: pointer;
+  padding: 8px;
+}
+.hamburger-btn .line {
+  display: block;
+  width: 24px;
+  height: 2px;
+  background: #eaeaea;
+  margin: 5px 0;
+  transition: transform 0.2s ease, opacity 0.2s ease;
+}
+
+/* ── Mobile (< 60rem) ──────────────────────────────────────── */
+@media (max-width: 59.99rem) {
+  .hamburger-btn {
+    display: block;
+  }
+
+  /* Make nav a column: logo on top, content below */
+  .nav-wrapper nav > div {
+    display: flex !important;
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  /* Make the right-side content area a horizontal row */
+  .nav-wrapper nav > div > div {
+    display: flex !important;
+    flex-wrap: wrap;
+    width: 100%;
+    align-items: center;
+    margin-top: 8px;
+  }
+
+  /* Hide menu on mobile (shows as overlay when hamburger checked) */
+  .nav-wrapper nav > div > div > ul {
+    display: none !important;
+  }
+
+  /* Push social icons to the right */
+  .nav-wrapper nav > div > div > :last-child {
+    margin-left: auto;
+  }
+
+  /* Position parent as reference for absolute menu */
+  .nav-wrapper nav > div > div {
+    position: relative;
+  }
+
+  /* Show menu as narrow overlay when hamburger checked */
+  #nav-toggle:checked ~ .nav-wrapper nav > div > div > ul {
+    display: block !important;
+    position: absolute !important;
+    top: 100% !important;
+    left: 0 !important;
+    width: 140px !important;
+    background: rgba(0, 0, 0, 0.85);
+    padding: 0.5rem 0;
+    z-index: 100;
+  }
+  #nav-toggle:checked ~ .nav-wrapper nav > div > div > ul > li {
+    display: block !important;
+  }
+  #nav-toggle:checked ~ .nav-wrapper nav > div > div > ul > li > a {
+    display: block;
+    padding: 12px 16px;
+    color: #eaeaea;
+    text-align: left;
+  }
+  #nav-toggle:checked ~ .nav-wrapper nav > div > div > ul > li > a:hover {
+    color: #fff;
+  }
+
+  /* Hamburger → X animation */
+  #nav-toggle:checked ~ .nav-wrapper .hamburger-btn .line:nth-child(1) {
+    transform: translateY(7px) rotate(45deg);
+  }
+  #nav-toggle:checked ~ .nav-wrapper .hamburger-btn .line:nth-child(2) {
+    opacity: 0;
+  }
+  #nav-toggle:checked ~ .nav-wrapper .hamburger-btn .line:nth-child(3) {
+    transform: translateY(-7px) rotate(-45deg);
+  }
+}
+
+/* ── Logo image sizing ───────────────────────────────────── */
+.site-logo {
+  max-width: 6rem !important;
+  height: auto !important;
+}
+
+/* ── Nav min-height to maintain header size with smaller logo (desktop only) ── */
+@media (min-width: 60rem) {
+  nav.pv3 {
+    min-height: 280px !important;
+  }
+}
+
+/* ── Overlay fills header on all viewports ── */
+header.cover {
+  position: relative !important;
+  display: flex !important;
+  flex-direction: column !important;
+}
+header.cover > div[class*="bg-black"] {
+  flex: 1 !important;
+  width: 100% !important;
 }
