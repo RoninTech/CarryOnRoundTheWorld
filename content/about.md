@@ -10,6 +10,7 @@ omit_header_text: false
 draft: false
 show_nav_menu: false
 show_author_reading_data: false
+show_comments: false
 ---
 
 So who are these people anyway? We were a couple of desk jockeys in our forties that decided to take the leap, re-prioritize everything and do some long-term travelling. There are many ramifications to that last sentence. How do you go from owning everything you’ve accumulated over a lifetime and having good careers to pulling up and travelling around the world? Well, we don’t completely know yet but we are doing our best to pull it off. :smile:
