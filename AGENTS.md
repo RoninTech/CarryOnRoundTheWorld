@@ -14,6 +14,7 @@
 
 - Requires **Hugo** (≥ 0.164.0) and **Firebase CLI**.
 - playwright-cli is a browser automation framework.
+- `firebase deploy` is not to be used without user permission.
 - Lighthouse is an open-source auditing tool for web page quality.  Use the following pages to run a lighthouse audit against:
   /
   /travels
