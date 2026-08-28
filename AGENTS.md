@@ -13,8 +13,13 @@
 | playwright-cli commands | `playwright-cli --help` |
 
 - Requires **Hugo** (≥ 0.164.0) and **Firebase CLI**.
-- Lighthouse is an open-source auditing tool for web page quality.
 - playwright-cli is a browser automation framework.
+- Lighthouse is an open-source auditing tool for web page quality.  Use the following pages to run a lighthouse audit against:
+  /
+  /travels
+  /about/
+  /travels/coles-notes/
+  /articles/travel-tech/
 
 ## Architecture
 
@@ -71,4 +76,3 @@
 - **`public/` is generated at build time, not committed and gitignored** — it exists for local dev but is never deployed from git. Firebase deploys from the checked-out `public/` directory.
 - **Giscus origins:** `carryonrtw.com` and `192.168.77.7:1313` are in `giscus.json`. Local dev requires the latter origin.
 - **Images:** External Google Photos URLs — Except for featured_image banners which live in `static/images/featured` directory.
-- **--FIXED-- (2026-08-23) Deploy risk: the dev server no longer rewrites `public/`.** `starthugod` now runs `hugo server --renderToMemory`, which serves everything from memory and never writes `public/`, and runs `buildhugo` on exit. `public/` therefore always holds the last production build, and `firebase deploy` is safe at any time. Verified: `public/` mtime unchanged while the dev server ran; stopping the server fired the trailing `buildhugo`. (History: before 2026-08-23, `hugo server` rewrote `public/` with `baseURL 192.168.77.7:1313` baked into canonicals/`og:url`/hero URLs — see the 2026-08-22 audit and git history.)
