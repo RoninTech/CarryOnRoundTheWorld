@@ -270,7 +270,7 @@ Hugo has been great to work with. We chose the popular Ananke theme and didn't h
 
 [Pagefind](https://pagefind.app/) is a fully static search library that runs after Hugo or any other SSG (static site generator). It aims to perform well on large sites, while using as little of your users’ bandwidth as possible, and without hosting any infrastructure. It’s a fantastic alternative to a paid search solution, and its bandwidth requirements are nothing short of incredible.
 
-I used to use Google for site searches on our website.  With pagefind, I build a search index every time Hugo generates the website.  After indexing, Pagefind adds a static search bundle to the built files which get uploaded as part of the website.  It exposes a JavaScript search API that can be used anywhere on our site. Pagefind also provides a prebuilt UI that can be used with no configuration.  See it in action [here](/search/).  It even supports [predefined search links](/search/?q=pagefind).
+I used to use Google for site searches on our website.  With pagefind, I build a search index every time Hugo generates the website.  After indexing, Pagefind adds a static search bundle to the built files which get uploaded as part of the website.  It exposes a JavaScript search API that can be used anywhere on our site. Pagefind also provides a prebuilt UI that can be used with no configuration.  See it in action [search page](/search/).  It even supports [predefined search links](/search/?q=pagefind).
 
 ### VSCodium
 
@@ -310,7 +310,7 @@ This docker gives us the full Pi Hole ad blocker running on our Local Area Netwo
 #### Unbound Docker
 
 <a href="https://www.nlnetlabs.nl/projects/unbound/about/"><img loading="lazy" src="/images/unbound.svg" width="64" height="64" alt="Recursive DNS server" title="Recursive DNS server"></a>  
-This docker works in tandem with PiHole to provide an ad-blocking recursive DNS server. Rather than PiHole querying one of the standard DNS servers out there like quad9, cloudflare or openDNS, it can talk to the local unbound docker which will find the authoritative DNS server for the domain being queried and keep your internet travels out of the hands of the big organizations providing the other servers. These other servers go down from time to time, so this also avoids that. Good writeup on this topic [here](https://docs.pi-hole.net/guides/dns/unbound/https://docs.pi-hole.net/guides/dns/unbound/).  Open source.
+This docker works in tandem with PiHole to provide an ad-blocking recursive DNS server. Rather than PiHole querying one of the standard DNS servers out there like quad9, cloudflare or openDNS, it can talk to the local unbound docker which will find the authoritative DNS server for the domain being queried and keep your internet travels out of the hands of the big organizations providing the other servers. These other servers go down from time to time, so this also avoids that. Here is a good writeup on the [unbound](https://docs.pi-hole.net/guides/dns/unbound/) topic.  Open source.
 
 #### InfluxDB Docker
 
