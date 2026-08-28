@@ -79,6 +79,22 @@
   margin-left: 0.6em;
 }
 
+/* Responsive travel-time: smaller font + centered on mobile to prevent wrapping */
+@media (max-width: 59.99rem) {
+  .travel-time {
+    text-align: center;
+  }
+  .travel-time .tt-years strong,
+  .travel-time .tt-days strong,
+  .travel-time .tt-hours strong,
+  .travel-time .tt-minutes strong {
+    font-size: 1.4em;
+  }
+  .travel-time span + span {
+    margin-left: 0.3em;
+  }
+}
+
 table.center td .odometer {
   font-size: 50px;
   font-weight: bold;
