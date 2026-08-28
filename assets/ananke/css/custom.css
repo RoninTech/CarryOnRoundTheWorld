@@ -104,3 +104,9 @@ header nav ul li a {
   padding: 8px 10px;
   display: inline-block;
 }
+
+/* Keep images responsive — scale down on narrow viewports while preserving aspect ratio */
+article img {
+  max-width: 100%;
+  height: auto;
+}
