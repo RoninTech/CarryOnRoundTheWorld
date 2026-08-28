@@ -136,6 +136,9 @@ article img {
   display: none;
   cursor: pointer;
   padding: 8px;
+  background: none;
+  border: none;
+  outline: none;
 }
 .hamburger-btn .line {
   display: block;

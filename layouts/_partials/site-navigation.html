@@ -14,11 +14,11 @@
       </a>
       <div class="flex-l items-center">
         <!-- Hamburger button: visible on mobile only -->
-        <label for="nav-toggle" class="hamburger-btn" aria-label="Toggle navigation">
+        <button type="button" class="hamburger-btn" aria-label="Toggle navigation" onclick="document.getElementById('nav-toggle').click()">
           <span class="line"></span>
           <span class="line"></span>
           <span class="line"></span>
-        </label>
+        </button>
         {{ partials.Include "i18nlist.html" . }}
         {{ if .Site.Menus.main }}
           <ul class="{{ compare.Conditional (compare.Eq $.Site.Language.Direction "rtl") "pr0 ml3" "pl0 mr3" }}">
