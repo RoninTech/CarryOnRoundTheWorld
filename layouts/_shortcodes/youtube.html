@@ -2,7 +2,7 @@
 {{- $title := .Get "title" | default "YouTube Video" -}}
 {{- $poster := printf "https://img.youtube.com/vi/%s/hqdefault.jpg" $id -}}
 <div class="youtube-lazy" data-video-id="{{ $id }}" data-title="{{ $title }}">
-  <img src="{{ $poster }}" alt="{{ $title }}" loading="lazy" />
+  <img src="{{ $poster }}" alt="{{ $title }}" loading="lazy" width="480" height="360" />
   <div class="youtube-lazy-play">
     <svg viewBox="0 0 24 24" fill="currentColor"><path d="M8 5v14l11-7z"/></svg>
   </div>
