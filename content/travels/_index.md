@@ -10,7 +10,7 @@ images:
 description: "Round the world travels with carry on luggage"
 ---
 
-### Flights we've taken since we started traveling:
+### Flights taken since start of travels:
 
 Here's links to maps of all the flights we've taken. Just click the banners below to see the flights.
 
