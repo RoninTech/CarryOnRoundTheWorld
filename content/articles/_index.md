@@ -8,4 +8,4 @@ images:
 omit_header_text: false
 ---
 
-### Some articles we have written while preparing for and during our travels.
+# Some articles we wrote.
