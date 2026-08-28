@@ -7,7 +7,7 @@
     <div class="flex-l center items-center justify-between">
       <a href="{{ .Site.Home.RelPermalink }}" class="f4 fw2 hover-white white-90 dib no-underline">
         {{ with .Site.Params.site_logo }}
-          <img src="{{ urls.RelURL . }}" class="site-logo w100 mw5-ns" alt="{{ $.Site.Title }}" fetchpriority="high" decoding="async" />
+          <img src="{{ urls.RelURL . }}" class="site-logo w100 mw5-ns" alt="{{ $.Site.Title }}" fetchpriority="high" decoding="async" width="512" height="512" />
         {{ else }}
           {{ .Site.Title }}
         {{ end }}
