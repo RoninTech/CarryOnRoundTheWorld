@@ -14,27 +14,27 @@ My first travel tech was a pen flashlight and a Walkman. That allowed me to read
 
 ## PDAs
 
-<a href="https://en.wikipedia.org/wiki/Palm_III"><img loading="lazy" src="https://m.media-amazon.com/images/I/41QV9ZPF7ZL.jpg" height="150" alt="Palm Pilot III PDA" title="Palm Pilot III PDA"></a>
+<a href="https://en.wikipedia.org/wiki/Palm_III"><img loading="lazy" src="https://m.media-amazon.com/images/I/41QV9ZPF7ZL.jpg" width="241" height="150" alt="Palm Pilot III PDA" title="Palm Pilot III PDA"></a>
 
 Fast forward a few years to our honeymoon trip to Thailand in Y2K and my first "real" travel tech was a Palm Pilot 3. I used it to read e-books and play games (Freecell, sudoku, chess etc.). Just having a way to bring a ton of books to read without having to carry them anymore was a massive improvement. I even had a folding keyboard for it as shown above. The PDA would last 2 months on 2 x AAA batteries. I also had a nice Sony Diskman so we could listen to CDs. This wasn't ideal as a couple since we only had 1 Palm Pilot and Discman.
 
-<a href="https://en.wikipedia.org/wiki/Sony_CLI%C3%89_NX_Series"><img loading="lazy" src="https://m.media-amazon.com/images/I/51TK2A0XW1L._AC_SY355_.jpg" height="150" alt="Sony Clie NX70V" title="Sony Clie NX70V"> <img loading="lazy" src="https://www.palminfocenter.com/images/ind_img_ti.jpg" height="150" alt="Sony Clie NX70V" title="Sony Clie NX70V"></a>
+<a href="https://en.wikipedia.org/wiki/Sony_CLI%C3%89_NX_Series"><img loading="lazy" src="https://m.media-amazon.com/images/I/51TK2A0XW1L._AC_SY355_.jpg" width="148" height="150" alt="Sony Clie NX70V" title="Sony Clie NX70V"> <img loading="lazy" src="https://www.palminfocenter.com/images/ind_img_ti.jpg" width="148" height="150" alt="Sony Clie NX70V" title="Sony Clie NX70V"></a>
 
 The next travel tech change for us was when Sony Cliés came out. They could do everything the Palm Pilot could do but they also could play music and they had a colour display! So books, games, music and we could dump the Diskman and CD's, replacing them with some Sony memory sticks. We both had one which removed any issues with sharing. :smile: The Cliés did have a camera but they were much inferior to our Canon point and shoot.
 
 ## Smartphones
 
-<a href="https://en.wikipedia.org/wiki/Nexus_4"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nexus_4.png/800px-Nexus_4.png" height="150" alt="Google Nexus 4" title="Google Nexus 4"></a>
+<a href="https://en.wikipedia.org/wiki/Nexus_4"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Nexus_4.png/800px-Nexus_4.png" width="200" height="150" alt="Google Nexus 4" title="Google Nexus 4"></a>
 
 The advent of smartphones brought us our next travel tech change and it was a huge one. Phone, music player, games, GPS, camera, etc. We both initially had iPhone 3GS's. These had a camera which in theory could help us eliminate our small Canon point and shoot camera we traveled with. Unfortunately early smartphone cameras weren't very good so we still brought along the Canon (along with it's waterproof case for snorkeling). I also jailbroke the iPhones which greatly expanded their abilities. Unfortunately, jailbreaking became harder and harder so for our next phones we picked up a couple of Google Nexus 4 phones.
 
-<a href="https://en.wikipedia.org/wiki/Google_Pixel#Pixel_&_Pixel_XL"><img loading="lazy" src="https://www.notebookcheck.net/uploads/tx_nbc2/GooglePixel__1_.JPG"  height="150" alt="Google Pixel" title="Google Pixel"></a>
+<a href="https://en.wikipedia.org/wiki/Google_Pixel#Pixel_&_Pixel_XL"><img loading="lazy" src="https://www.notebookcheck.net/uploads/tx_nbc2/GooglePixel__1_.JPG"  width="200" height="150" alt="Google Pixel" title="Google Pixel"></a>
 
 It wasn't until we purchased our Google Pixel 1 phones in October 2016 that Smartphone cameras became good enough to the point we could leave our camera at home. At that time we had a nice little Sony RX100III which took great photos, but maybe not great enough to justify the extra weight. :smile: I have to give credit where credit is due for our Pixels. They have been running strong for 8 years now requiring only 2 battery swaps. It seems that the batteries last for about 3 years before they need changing. We had it done both times at a local [uBreakiFix in Calgary](https://g.page/ubreakifix-lincoln-park?share). No issues either time. Other than the battery, the phones are still awesome so a $90 CAD battery replacement was way better than buying new, thousand dollar phones. These Smartphones are probably our most flexible and most valuable pieces of kit when we travel. Unfortunately they don't support voice over LTE (VoLTE). So we will be forced to replace them when networks require VoLTE. Then again, if data works fine we can use VOIP apps to talk to people.
 
 ### UPDATE:
 
-<a href="https://www.samsung.com/ca/smartphones/galaxy-s24-ultra/buy/"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Samsung_Galaxy_S24_Ultra_and_Pen_with_grey_Background.jpg/330px-Samsung_Galaxy_S24_Ultra_and_Pen_with_grey_Background.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" height="150" alt="Samsung Galaxy S24 Ultra" title="Samsung Galaxy S24 Ultra"></a>
+<a href="https://www.samsung.com/ca/smartphones/galaxy-s24-ultra/buy/"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Samsung_Galaxy_S24_Ultra_and_Pen_with_grey_Background.jpg/330px-Samsung_Galaxy_S24_Ultra_and_Pen_with_grey_Background.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="188" height="150" alt="Samsung Galaxy S24 Ultra" title="Samsung Galaxy S24 Ultra"></a>
 
 Over 8 years after purchasing it, Helen's original Pixel died while we were on [New Zealand's south island](/travels/new-zealand-south-island-2024/).  She went to bed and it was working fine, woke up and it was completely dead.  I spent a day trying to resurrect it but to no avail.  Due to crazy prices in NZ we waited until we were back in Oz before buying her a new Samsung Galaxy S24 Ultra.  It is supposed to get OS updates for several years so hopefully it lasts as long as our old Pixels.  After playing with Helen's new phone, Paul decided he wanted to upgrade as well, so now we both have S24 Ultras.  Paul's 8 year old Pixel is still working fine so we use it to upload our pics to Google Photos with unlimited original quality.  These new phones can be plugged directly into a TV/monitor and used as basic computers using Samsung Dex.
 
@@ -56,7 +56,7 @@ We use this to do currency conversions at the most up to date exchange rates. We
 
 ### Wise
 
-<a href="https://www.wise.com/"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Wise_Logo_512x124.svg/330px-Wise_Logo_512x124.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" height="64" alt="Wise Cheaper, Faster Money Transfers" title="Wise Cheaper, Faster Money Transfers"></a>  
+<a href="https://www.wise.com/"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Wise_Logo_512x124.svg/330px-Wise_Logo_512x124.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="153" height="64" alt="Wise Cheaper, Faster Money Transfers" title="Wise Cheaper, Faster Money Transfers"></a>  
 We use Wise to transfer money between foreign currencies, typically Canadian to something else. The transfer fees are usually better than any other method and quite fast. Liked them so much we even signed up for a Wise Prepaid Multi-Currency VISA card.
 
 ### Google Translate
@@ -66,7 +66,7 @@ This app has been so useful over the years. There's also a great browser extensi
 
 ### Grab
 
-<a href="https://www.grab.com/"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Grab_Logo.svg/330px-Grab_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" height="64" alt="Grab Rides and Food Deliveries" title="Grab Rides and Food Deliveries"></a>  
+<a href="https://www.grab.com/"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Grab_Logo.svg/330px-Grab_Logo.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="179" height="64" alt="Grab Rides and Food Deliveries" title="Grab Rides and Food Deliveries"></a>  
 This app is addictive to use when in one of the countries where it is active. That includes Singapore, Malaysia, Cambodia, Indonesia, Myanmar, the Philippines, Thailand and Vietnam. First of all we never use taxis anymore except if they are Grab taxis. By using the Grab app, you know exactly what you are going to pay which makes it much more difficult to be scammed. Also, many restaurants in SE Asia will deliver food to your location using the app. Highly recommended!
 
 ### Google Maps
@@ -101,31 +101,31 @@ Just before we left Canada in 2017 we ported our Canadian cell phone numbers fro
 
 ### Wireguard
 
-<a href="https://www.fongo.com/services/fongo-mobile/"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Cib-wireguard_%28CoreUI_Icons_v1.0.0%29.svg/250px-Cib-wireguard_%28CoreUI_Icons_v1.0.0%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" height="64" alt="Wireguard VPN App" title="Wireguard VPN App"></a>  
+<a href="https://www.fongo.com/services/fongo-mobile/"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Cib-wireguard_%28CoreUI_Icons_v1.0.0%29.svg/250px-Cib-wireguard_%28CoreUI_Icons_v1.0.0%29.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="64" height="64" alt="Wireguard VPN App" title="Wireguard VPN App"></a>  
 We kept a server running in Canada in my parent's basement. It ran a VPN server, initially we used OpenVPN, so we could access banking from anywhere in the world as though we were in Canada. Unfortunately the Overhead of OpenVPN meant that the speeds weren't that great. Eventually Wireguard was released which is a much leaner VPN implementation and the speeds improved quite a bit. This Wireguard client for Android allowed us to access Canadian websites and other services as though we were still in Canada. For example we couldn't download our Canadian Covid shot certificates from the Alberta Health website if we were not in Canada.
 
 ### Mullvad VPN
 
-<a href="https://mullvad.net/en/"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Mullvad_logo.svg" height="64" alt="Mullvad VPN App" title="Mullvad VPN App"></a>  
+<a href="https://mullvad.net/en/"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/Mullvad_logo.svg" width="321" height="64" alt="Mullvad VPN App" title="Mullvad VPN App"></a>  
 After we lost our Linux server that was running in my parents basement, we still needed a VPN solution. After doing some research I chose Mullvad. It has servers around the world, including Canada, so we can use them to access our Canadian stuff from anywhere.
 
 ## Hardware
 
 ### 8BitDo Zero2 Bluetooth Joysticks
 
-<a href="https://www.8bitdo.com/zero2/"><img loading="lazy" src="https://www.8bitdo.com/images/products/zero2.gif" height="150" alt="8BitDo Zero2 Bluetooth Joystick" title="8BitDo Zero2 Bluetooth Joystick"></a>
+<a href="https://www.8bitdo.com/zero2/"><img loading="lazy" src="https://www.8bitdo.com/images/products/zero2.gif" width="200" height="150" alt="8BitDo Zero2 Bluetooth Joystick" title="8BitDo Zero2 Bluetooth Joystick"></a>
 
 Another luxury item we take is a couple of 8BitDo Zero2 BlueTooth Joysticks to use with the RetroPie MAME Emulator on the Raspberry Pi. This lets us play tons of old school arcade games. Each joystick is only 21g in weight and has an internal battery that allows for hours of play. Charging is done via a micro USB port.
 
 ### Bluetooth Mouse
 
-<a href="https://www.amazon.ca/Dell-F300K-5-Button-Bluetooth-Notebook/dp/B004OFSYM8"><img loading="lazy" src="/images/dell_bt_travel_mouse_f300k.jpg" height="150" alt="Dell BT Travel Mouse" title="Dell BT Travel Mouse"></a>
+<a href="https://www.amazon.ca/Dell-F300K-5-Button-Bluetooth-Notebook/dp/B004OFSYM8"><img loading="lazy" src="/images/dell_bt_travel_mouse_f300k.jpg" width="200" height="150" alt="Dell BT Travel Mouse" title="Dell BT Travel Mouse"></a>
 
 One "luxury" tech item we've been taking lately is an old Dell bluetooth travel mouse that runs of 2 x AA batteries. We use it with the Raspberry Pi. It is pretty lightweight at only 56g (without batteries). We also have the Valence app on our phones that we can use as a mouse/keyboard for long sessions on the Pi the mouse is much better.
 
 ### Bluetooth Keyboard
 
-<a href="https://www.amazon.com/dp/B00X5P8BJO"><img loading="lazy" src="/images/GOOJODOQ-BT-Backlit-keyboard.webp" height="150" alt="Backlit Bluetooth Keyboard" title="Backlit Bluetooth Keyboard"></a>
+<a href="https://www.amazon.com/dp/B00X5P8BJO"><img loading="lazy" src="/images/GOOJODOQ-BT-Backlit-keyboard.webp" width="200" height="150" alt="Backlit Bluetooth Keyboard" title="Backlit Bluetooth Keyboard"></a>
 
 Since we have decided to hunker down in Chiang Mai for an extended period, I decided to buy a cheap BT keyboard.  When we stay somewhere for a while I usually get back into programming and using the Valence keyboard for that gets old fast.  After scouring the internet I finally found a great solution.  It is a 170g BT 3 keyboard with a built in 400 mAh battery that lasts weeks and is rechargeable via USB.  You can use the keyboard while it is being charged so no down time.  The keyboard is rigid enough to use sitting in my lap.  It also has 7 backlight colours or you can disable the backlight.  I've been using it for a few months now and haven't had any issues with dropped keystrokes.  Very happy with this and it only cost 283THB ($10 CAD) shipped from China to Thailand in a week.  I've provided the link to a re-branded version of the keyboard on Amazon for more detail.  I have the generic unbranded one but there are many out there that are identical except for another re-selling companies logo.
 
@@ -133,17 +133,17 @@ NOTE: When I first purchased the keyboard I had issues with range.  I had to be 
 
 ### Extension Cord with USB Power
 
-<a href="https://www.amazon.com/Portable-Charger-Universal-Charging-100v-240v/dp/B00VWUMLVI"><img loading="lazy" src="https://i.imgur.com/oguWBCol.jpg" height="150" alt="AGPTek Power Strip" title="AGPtek Power Strip"></a> <a href="https://www.anker.com/products/a9122"><img loading="lazy" src="https://cdn.shopify.com/s/files/1/0493/9834/9974/products/A9122123.jpg?v=1634114095_3840x" height="150" alt="Anker PowerPort Strip PD 2 mini" title="Anker PowerPort Strip PD 2 mini"></a>
+<a href="https://www.amazon.com/Portable-Charger-Universal-Charging-100v-240v/dp/B00VWUMLVI"><img loading="lazy" src="https://i.imgur.com/oguWBCol.jpg" width="150" height="150" alt="AGPTek Power Strip" title="AGPtek Power Strip"></a> <a href="https://www.anker.com/products/a9122"><img loading="lazy" src="https://cdn.shopify.com/s/files/1/0493/9834/9974/products/A9122123.jpg?v=1634114095_3840x" width="147" height="150" alt="Anker PowerPort Strip PD 2 mini" title="Anker PowerPort Strip PD 2 mini"></a>
 
 The power outlets are rarely where you need them to be so we always travel with an extension cord that also has USB power. It's come in really handy many times over the years. The first one we started traveling with was light at 200g but only had one AC outlet and 4 USB outlets. We replaced it with a newer one that had 2 AC outlets and 3 USB, including 1 USB C PD outlet at 18W. It's really well made but it's a bit heavy at 308g. Something to look into replacing with a lighter unit in the future. Both units have a 5' cord although the Anker cord is much beefier and has a grounded plug.
 
 ### Kobo Glo E-Readers
 
-<a href="https://help.kobo.com/hc/en-us/articles/360019127233-Kobo-Glo"><img loading="lazy" src="https://m.media-amazon.com/images/I/61QzbS3DQiL._AC_SX425_.jpg" height="150" alt="Kobo Glo" title="Kobo Glo"></a>
+<a href="https://help.kobo.com/hc/en-us/articles/360019127233-Kobo-Glo"><img loading="lazy" src="https://m.media-amazon.com/images/I/61QzbS3DQiL._AC_SX425_.jpg" width="159" height="150" alt="Kobo Glo" title="Kobo Glo"></a>
 
 Another great piece of travel tech that came out around the same time as Smartphones was E-ink based E-readers. We both read voraciously. Back in the day we were always on the lookout for used books to read. However, when traveling, they are just too heavy to bring more than one with you. Another big pro for E-readers was that their backlight doesn't put out a ton of light. We both read when we go to bed and if one of us read later then the light needed to read the book would be distracting and interfere with the other person's sleep. With these new E-readers, one person could be reading in bed with the backlight and the other would sleep no problem. Helen originally had a Kobo Touch and then we both ended up with Kobo Glo's. The amazing, open source [Calibre software](https://calibre-ebook.com/) was used to manage our e-book library and to load books onto our Kobos.
 
-<a href="https://ca.kobobooks.com/products/kobo-clara-hd"><img loading="lazy" src="https://ca.kobobooks.com/cdn/shop/products/Luna_Front_2_EN_1_-Recovered_640x640.jpg?v=1613667414" height="150" alt="Kobo Clara HD" title="Kobo Clara HD"></a>
+<a href="https://ca.kobobooks.com/products/kobo-clara-hd"><img loading="lazy" src="https://ca.kobobooks.com/cdn/shop/products/Luna_Front_2_EN_1_-Recovered_640x640.jpg?v=1613667414" width="150" height="150" alt="Kobo Clara HD" title="Kobo Clara HD"></a>
 
 ##### UPDATE:
 
@@ -151,19 +151,19 @@ After many years of hard use, Helen's Kobo Glo finally died.  We replaced it wit
 
 ### GL.iNet Shadow Travel Router (AR300M)
 
-<a href="https://www.gl-inet.com/products/gl-ar300m/"><img loading="lazy" src="https://m.media-amazon.com/images/I/41gQQAA8ozL._AC_UF894,1000_QL80_.jpg"  height="150" alt="Gl.iNet Shadow AR300M" title="Gl.iNet Shadow AR300M"></a>
+<a href="https://www.gl-inet.com/products/gl-ar300m/"><img loading="lazy" src="https://m.media-amazon.com/images/I/41gQQAA8ozL._AC_UF894,1000_QL80_.jpg"  width="142" height="150" alt="Gl.iNet Shadow AR300M" title="Gl.iNet Shadow AR300M"></a>
 
 Just before we left to travel in 2017 we picked up this [AR300M travel router](https://www.gl-inet.com/products/gl-ar300m/) from Amazon. It cost $40 CAD and weighed only 40g! For network devices we have our phones, Kobos and either Chromecast, Fire stick or Raspberry Pi. We have this travel router configured to statically assign IP's and hostnames to these devices so they can always talk to each other. When we get somewhere we just have to connect the travel router to the internet and the rest just works. The router supports [captive portal](https://en.wikipedia.org/wiki/Captive_portal) so we can login to a places WiFi and share it through the travel router. In a pinch I can also use one of our phones as a USB modem and supply internet that way. It also has an Ethernet WAN port in case there is Ethernet available. It works well with Wireguard VPN's and I have used it to a home Wireguard server as well as to our more recent Mullvad Wireguard VPN account. Another cool trick is that it has a USB port and we can share media off a USB drive via DLNA from the travel router. There are regular security and feature updates and it has proven to be a very flexible and useful piece of kit. Under the hood it runs a custom flavour of OpenWRT which is an extremely well supported router distribution. Whenever I have had any questions the [community forum](https://forum.gl-inet.com/) has been a great place to get them answered.
 
 ##### UPDATE:
 
-<a href="https://www.gl-inet.com/products/gl-mt3000/"><img loading="lazy" src="/images/glinet-beryl-ax-mt3000.jpg" height="150" alt="Gl.iNet Beryl AX MT3000" title="Gl.iNet Beryl AX MT3000"></a>
+<a href="https://www.gl-inet.com/products/gl-mt3000/"><img loading="lazy" src="/images/glinet-beryl-ax-mt3000.jpg" width="200" height="150" alt="Gl.iNet Beryl AX MT3000" title="Gl.iNet Beryl AX MT3000"></a>
 
 To add to the horror of Helen's phone dying while were on New Zealand's south island in 2024, she also crushed our old Shadow router by closing the van's sliding door on it.  We had a decision on whether to buy another identical 8 year old, 40g travel router or upgrade to the latest and greatest 200g beast.  We went with the new [Beryl AX model](https://www.gl-inet.com/products/gl-mt3000/) which has WiFi 6, USB C and built-in WiFi antennas.  It is much better in every way than our old one, except for the weight.
 
 ### Chromecast
 
-<a href="https://en.wikipedia.org/wiki/Chromecast#Second_generation"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Chromecast-2015.jpg/330px-Chromecast-2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" height="150" alt="Chromecast Gen. 2" title="Chromecast Gen. 2"></a>
+<a href="https://en.wikipedia.org/wiki/Chromecast#Second_generation"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Chromecast-2015.jpg/330px-Chromecast-2015.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="191" height="150" alt="Chromecast Gen. 2" title="Chromecast Gen. 2"></a>
 
 The Chromecast was so we could view phone content on a TV. Good in theory but it didn't work well in practice. Google was limiting what the Chromecast could do. Since it was a WiFi connection from Phone to the Chromecast, it didn't work well for playing HD content. Too much stuttering. It was good for Netflix but that was about it. We needed something that could play any downloaded media file on a TV via HDMI.
 
@@ -184,13 +184,13 @@ We had planned on doing a lot of travel blogging and the keyboard was to make ty
 
 ### Amazon Fire TV Stick 4K
 
-<a href="https://en.wikipedia.org/wiki/Amazon_Fire_TV#Fire_TV_Stick_4K"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Fire-TV_Stick_and_Remote.jpg/250px-Fire-TV_Stick_and_Remote.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" height="150" alt="Fire TV Stick 4K" title="Fire TV Stick 4K"></a>
+<a href="https://en.wikipedia.org/wiki/Amazon_Fire_TV#Fire_TV_Stick_4K"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Fire-TV_Stick_and_Remote.jpg/250px-Fire-TV_Stick_and_Remote.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="200" height="150" alt="Fire TV Stick 4K" title="Fire TV Stick 4K"></a>
 
 In late 2019, after we finished our [Pacific Crest Trail adventure](https://carryonrtw.com/travels/sobo-pct-2019/), we picked up an Amazon Fire TV Stick 4K. I found that I could mount a large micro SD card using an OTG cable and use VLC or Kodi to play the downloaded media. Not too shabby and this setup worked for a year or so. The downside was that the stick only had a few gigs of onboard memory and the external OTG memory card had to be formatted in Fat32 which meant that files had to be smaller than 4GB, which isn't always the case for movies. It was better than the Chromecast but still not ideal.
 
 ### Raspberry Pi 4B, 8GB - Game Changer
 
-<a href="https://en.wikipedia.org/wiki/Raspberry_Pi"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Raspberry_Pi_4_B.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" height="150" alt="Raspberry Pi 4B 8GB" title="Raspberry Pi 4B 8GB"><img loading="lazy" src="https://shop.inux3d.com/235-medium_default/the-terrapi-alpha.jpg" height="150" alt="Terrapi Alpha SSD Case" title="Terrapi Alpha SSD Case"></a>
+<a href="https://en.wikipedia.org/wiki/Raspberry_Pi"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/2/2a/Raspberry_Pi_4_B.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original" width="200" height="150" alt="Raspberry Pi 4B 8GB" title="Raspberry Pi 4B 8GB"><img loading="lazy" src="https://shop.inux3d.com/235-medium_default/the-terrapi-alpha.jpg" width="150" height="150" alt="Terrapi Alpha SSD Case" title="Terrapi Alpha SSD Case"></a>
 
 In the summer of 2020, while [hiding from Covid in Creston, BC](/travels/should-we-stay-or-should-we-go/), I picked up an [8GB Raspberry Pi 4 kit](https://en.wikipedia.org/wiki/Raspberry_Pi#Raspberry_Pi). This has been a game changer for traveling. It is still super light but it is so much more functional than the Chromecast and Fire TV Stick. Price was $130 CAD for the kit including power supply and uSD card. It has proven to be an extremely capable, portable travel computer running a 64bit Linux distro, specifically Debian ~~Buster~~ Bullseye. It is an Arm computer so some apps aren't available but most are and more are becoming available every day. One major requirement is that it relies on us having a TV with an HDMI input. Same as the Chromecast and Fire TV Stick. We've stayed in a lot of places since we started full-time travel in 2017 and if I had to guess I would bet that over 90% of the places had an HDMI capable TV. It's really only been when we were trekking in Nepal and Myanmar that we didn't have access to modern TV's in our rooms.
 
@@ -200,7 +200,7 @@ With the addition of the 250GB SATA SSD drive attached via the USB3 to SATA adap
 
 ##### UPDATE:
 
-<a href="https://www.raspberrypi.com/products/raspberry-pi-5/"><img loading="lazy" src="https://cdn11.bigcommerce.com/s-am5zt8xfow/images/stencil/1280x1280/products/3556/11365/PI_5_HERO__55628.1695665352.jpg" height="150" alt="Raspberry Pi 5" title="Raspberry Pi 5"></a><a href="https://argon40.com/en-ca/products/argon-neo-5-m-2-nvme-for-raspberry-pi-5"><img loading="lazy" src="https://argon40.com/cdn/shop/files/AMZ_AR-NEO-5_NVMe_20240202_01_1680x.jpg" height="150" alt="Argon NEO 5 M.2 NVME PCIE Case for Pi 5" title="Argon NEO 5 M.2 NVME PCIE Case for Pi 5"></a>
+<a href="https://www.raspberrypi.com/products/raspberry-pi-5/"><img loading="lazy" src="https://cdn11.bigcommerce.com/s-am5zt8xfow/images/stencil/1280x1280/products/3556/11365/PI_5_HERO__55628.1695665352.jpg" width="150" height="150" alt="Raspberry Pi 5" title="Raspberry Pi 5"></a><a href="https://argon40.com/en-ca/products/argon-neo-5-m-2-nvme-for-raspberry-pi-5"><img loading="lazy" src="https://argon40.com/cdn/shop/files/AMZ_AR-NEO-5_NVMe_20240202_01_1680x.jpg" width="150" height="150" alt="Argon NEO 5 M.2 NVME PCIE Case for Pi 5" title="Argon NEO 5 M.2 NVME PCIE Case for Pi 5"></a>
 
 In late 2023, the Raspberry Pi 5 was announced.  Since Paul was so satisfied with his Pi4 as his main computer, we decided to upgrade him to the Pi5 and give Helen the Pi4.  We also picked up an [Argon40 NVMe case](https://argon40.com/en-ca/products/argon-neo-5-m-2-nvme-for-raspberry-pi-5) for the Pi5 that has an integrated fan and NVMe slot.  The Pi5 is faster than the Pi4 and switching from a SATA SSD to a lighter, faster 4TB NVMe SSD is a win win win.  The new case is slightly bulkier and heavier but it provides much better protection and cooling to the Pi.  Finally all the apps we used on the Pi4 still work great on the Pi5.  :smile:
 
@@ -214,7 +214,7 @@ Probably the most used software. Spend most of our time using this for general b
 
 #### UPDATE:
 
-<a href=""><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/250px-Firefox_logo%2C_2019.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" height="64" alt="Mozilla Firefox browser" title="Mozilla Firefox browser"></a>
+<a href=""><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Firefox_logo%2C_2019.svg/250px-Firefox_logo%2C_2019.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail" width="64" height="64" alt="Mozilla Firefox browser" title="Mozilla Firefox browser"></a>
 
 In 2024 Google Chrome stopped supporting ad-blockers.  Fortunately, the folks at Mozilla still try to not do evil and continue to support ad-blockers.  So after many years using Chrome we have both switched back to Mozilla Firefox as our main browsers.  Honestly it's as good or better than Chrome and with ad-blocking via the uBlock Origin extension, it's a no-brainer.  We will never use a browser that does not support ad-blocking.
 
@@ -245,7 +245,7 @@ If we just want to watch something quickly then this is what we use. No fuss or 
 
 ### RetroPie
 
-<a href="https://retropie.org.uk/"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/RetroPie-Icon.svg" height="64" alt="RetroPie Retro Gaming" title="RetroPie Retro Gaming"></a>  
+<a href="https://retropie.org.uk/"><img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/0/0f/RetroPie-Icon.svg" width="64" height="64" alt="RetroPie Retro Gaming" title="RetroPie Retro Gaming"></a>  
 We keep a micro SD card loaded into the micro SD card slot of our Raspberry Pi. It contains a [RetroPie image](https://retropie.org.uk/download/) along with a bunch of old arcade games. If we unplug the SSD drive connector then the Pi will now boot the RetroPie image and we can play games. Plug the SSD drive back in and the Pi boots normally again. [Bubble Bobble](https://en.wikipedia.org/wiki/Bubble_Bobble) is by far our favourite 2 player game.
 
 ### Calibre
@@ -260,13 +260,13 @@ Cozy is a modern audiobook player for Linux. It is part of the [Gnome circle pro
 
 ### Hugo
 
-<a href="https://gohugo.io/"><img loading="lazy" src="https://dashboard.snapcraft.io/site_media/appmedia/2016/10/hugo-logo-256x256_1.png" height="64" alt="Hugo Static Website Generator" title="Hugo Static Website Generator"></a>  
+<a href="https://gohugo.io/"><img loading="lazy" src="https://dashboard.snapcraft.io/site_media/appmedia/2016/10/hugo-logo-256x256_1.png" width="64" height="64" alt="Hugo Static Website Generator" title="Hugo Static Website Generator"></a>  
 Static website generator. Our blog has evolved over the years. Originally it was hosted from our Linux server running in our basement using [Dragonfly CMS](https://dragonflycms.org/) when we had a home. After we sold our home, we transitioned the website to Wordpress and hosted it on Siteground. After Siteground jacked up their rates to unreasonable levels I switched the site to Google Sites. After I realized I couldn't use our own domain with Google Sites I switched to using Hugo to generate the site and Google Firebase to host it for free.
 Hugo has been great to work with. We chose the popular Ananke theme and didn't have too much difficulty setting it all up. The community forums are quite active and a great place to get help from. Open source.
 
 ### Pagefind
 
-<a href="https://pagefind.app/"><img loading="lazy" src="/images/pagefind.svg" height="64" alt="Pagefind static website search" title="Pagefind static website search"></a>
+<a href="https://pagefind.app/"><img loading="lazy" src="/images/pagefind.svg" width="338" height="64" alt="Pagefind static website search" title="Pagefind static website search"></a>
 
 [Pagefind](https://pagefind.app/) is a fully static search library that runs after Hugo or any other SSG (static site generator). It aims to perform well on large sites, while using as little of your users’ bandwidth as possible, and without hosting any infrastructure. It’s a fantastic alternative to a paid search solution, and its bandwidth requirements are nothing short of incredible.
 
@@ -279,7 +279,7 @@ Forked version of Microsoft's VS Code with all of their tracking code removed. G
 
 ### Git
 
-<a href="https://git-scm.com/"><img loading="lazy" src="https://git-scm.com/images/logo@2x.png" height="64" alt="Git Version Control" title="Git Version Control"></a>  
+<a href="https://git-scm.com/"><img loading="lazy" src="https://git-scm.com/images/logo@2x.png" width="153" height="64" alt="Git Version Control" title="Git Version Control"></a>  
 Version control software we use for our website and all of my coding, scripting and notes with neovim, VSCodium and Obsidian. We keep most of our stuff in [Github repositories](https://github.com/RoninTech). Open source.
 
 ### Obsidian
@@ -334,6 +334,6 @@ Automatically downloads your YouTube subscription videos for watching/listening 
 
 ##### UPDATE:
 
-<a href=""><img loading="lazy" src="https://raw.githubusercontent.com/yt-dlp/yt-dlp/refs/heads/master/devscripts/logo.ico" height="64" alt="yt-dlp" title="yt-dlp"></a>
+<a href=""><img loading="lazy" src="https://raw.githubusercontent.com/yt-dlp/yt-dlp/refs/heads/master/devscripts/logo.ico" width="64" height="64" alt="yt-dlp" title="yt-dlp"></a>
 
 After using TA for a bit and [writing a wrapper script](https://github.com/RoninTech/ta-helper) to have it meet my requirements (readable video names) I decided that it was too much overhead (requires 2 dockers) for my needs.  After looking around I decided to switch to the good old [yt-dlp](https://github.com/yt-dlp/yt-dlp) command line program with sponsorblock plugin and a few bash aliases.  When I see a youtube video I'd like to watch I right click on it and select "copy URL".  I then open a terminal in my Videos/YouTube folder and invoke a yt-dlp alias such as "yt10" to grab the video in 1080P or yt7l for 720P with low quality audio etc.  I have multiple aliases for different resolutions and audio qualities.  You can see my [.bash_aliases](/downloads/bash_aliases) here.  The wl-paste at the end of each alias simply grabs the YT video URL from the Wayland clipboard for yt-dlp to use.  I periodically update yt-dlp with the "yt-dlp -U" command.

@@ -10,7 +10,7 @@ images:
 description: "Round the world travels with carry on luggage"
 ---
 
-### Flights taken since start of travels:
+# Flights taken since start of travels:
 
 Here's links to maps of all the flights we've taken. Just click the banners below to see the flights.
 
@@ -19,9 +19,8 @@ Here's links to maps of all the flights we've taken. Just click the banners belo
 <a href="https://my.flightradar24.com/CarryonRTW"><img loading="lazy" src="https://banners-my.flightradar24.com/CarryonRTW.png" width="320" height="70" alt="Flights as far back as we can remember" title="Flights as far back as we can remember" /><br />Flights as far back as we can remember</a><br />
 <br />
 
-### Random selfies from our travels:
-
+# Random selfies from our travels:
 
 <a href="https://docs.google.com/presentation/d/1MPVn9F-UO9g0DVikhR8PqgxJ2SrYjjmkIOPjo7oSDFs/present?start=true&loop=true&delayms=5000"><img loading="lazy" src="/images/selfies.webp" width="1011" height="569" alt="All our travel selfies" title="All our travel selfies" /></a>Click the image to play the slideshow<br />
 
-### Below are links to blog posts we've written about our travels:
+# Below are links to blog posts we've written about our travels:
