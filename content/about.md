@@ -13,7 +13,11 @@ show_author_reading_data: false
 show_comments: false
 ---
 
-Update: We did it! We left Calgary on February 28, 2017, and, as you can see from our travel section, we’ve been on the go since. It took us about two years to get organized, sell everything and retire. When we left, our plan was “there is no plan” and we’ve embraced that to this day. If you’ve followed along, you can see we’ve had some incredible experiences, met wonderful people and just enjoyed taking life as it comes.   
+---
+
+**Update September, 2026:** We did it! We left Calgary on February 28, 2017, and, as you can see from our [travel section](/travels/), we’ve been on the go since. It took us about two years to get organized, sell everything and retire. When we left, our plan was “there is no plan” and we’ve embraced that to this day. If you’ve followed along, you can see we’ve had some incredible experiences, met wonderful people and just enjoyed taking life as it comes.   
+
+---
 
 So who are these people anyway? We were a couple of desk jockeys in our forties that decided to take the leap, re-prioritize everything and do some long-term travelling. There are many ramifications to that last sentence. How do you go from owning everything you’ve accumulated over a lifetime and having good careers to pulling up and travelling around the world? Well, we don’t completely know yet but we are doing our best to pull it off. :smile:
 
